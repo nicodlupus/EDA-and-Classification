@@ -1,0 +1,2001 @@
+product_category,collection_family,sex,color,season,size,price,discount,sell_through,quantity,quantities_sold,expected_tier,test_set
+T-Shirt,Morgex,Men,Stone Grey,SS25,XL,38.77,0.0,0.156,664,123,dead_stock,A_obvious_dead_stock
+Swimwear,Geographic,Women,Burgundy,SS25,XXL,70.44,0.0,0.144,507,85,dead_stock,A_obvious_dead_stock
+Sweatshirt,Geographic,Men,Caviar,SS25,L,112.18,0.0,0.15,756,133,dead_stock,A_obvious_dead_stock
+Shoes,Patch,Women,Burgundy,SS25,37,105.1,0.0,0.151,366,65,dead_stock,A_obvious_dead_stock
+T-Shirt,Rainforest,Men,Stone Grey,SS25,S,47.85,0.0,0.142,782,129,dead_stock,A_obvious_dead_stock
+T-Shirt,Tribe,Men,Burgundy,SS25,M,33.08,0.0,0.126,753,109,dead_stock,A_obvious_dead_stock
+Swimwear,Patch,Men,Burgundy,SS25,XS,58.77,0.0,0.042,422,19,dead_stock,A_obvious_dead_stock
+Pants,Patch,Men,Burgundy,SS25,XL,126.88,0.0,0.084,296,27,dead_stock,A_obvious_dead_stock
+Polo,Trail,Women,Pale Mint,SS25,M,84.13,0.0,0.076,699,57,dead_stock,A_obvious_dead_stock
+Sweatshirt,Slate,Men,Yellow Sunshine,SS25,XXL,89.99,0.0,0.011,678,8,dead_stock,A_obvious_dead_stock
+Pants,Trail,Men,Grey Melange,SS25,XS,112.11,0.0,0.107,668,80,dead_stock,A_obvious_dead_stock
+Polo,Slate,Women,Bright Red,SS25,XL,74.12,0.0,0.106,247,29,dead_stock,A_obvious_dead_stock
+T-Shirt,Tribe,Men,Forest Green,SS25,L,36.07,0.0,0.015,535,8,dead_stock,A_obvious_dead_stock
+Shirt,Trail,Women,Forest Green,SS25,XXL,122.66,0.0,0.05,693,36,dead_stock,A_obvious_dead_stock
+Shirt,Rainforest,Men,Grey Melange,SS25,XL,107.84,0.0,0.143,597,100,dead_stock,A_obvious_dead_stock
+Accessories,Patch,Women,Stone Grey,SS25,XXL,28.34,0.0,0.014,263,4,dead_stock,A_obvious_dead_stock
+Polo,Geographic,Men,Navy,SS25,XL,75.02,0.0,0.036,296,11,dead_stock,A_obvious_dead_stock
+Shirt,Box Logo,Men,Caviar,SS25,One Size,95.07,0.0,0.117,564,75,dead_stock,A_obvious_dead_stock
+Shirt,Patch,Women,Forest Green,SS25,S,125.42,0.0,0.129,777,115,dead_stock,A_obvious_dead_stock
+Accessories,Box Logo,Men,Snow White,SS25,XS,55.83,0.0,0.086,642,60,dead_stock,A_obvious_dead_stock
+Sweatshirt,Geographic,Men,Stone Grey,SS25,XL,90.11,0.0,0.062,473,31,dead_stock,A_obvious_dead_stock
+Accessories,Slate,Men,Bright Red,SS25,M,57.92,0.0,0.132,597,91,dead_stock,A_obvious_dead_stock
+T-Shirt,Morgex,Men,Navy,SS25,XS,31.68,0.0,0.081,589,52,dead_stock,A_obvious_dead_stock
+Pants,Morgex,Men,White Whisper,SS25,XXL,90.11,0.0,0.028,305,9,dead_stock,A_obvious_dead_stock
+Swimwear,Morgex,Women,Grey Melange,SS25,XS,53.86,0.0,0.11,548,68,dead_stock,A_obvious_dead_stock
+Shoes,Geographic,Men,White Whisper,SS25,43,162.61,0.0,0.024,365,9,dead_stock,A_obvious_dead_stock
+Sweatshirt,Geographic,Women,Snow White,SS25,M,103.66,0.0,0.055,543,32,dead_stock,A_obvious_dead_stock
+Shirt,Morgex,Men,Bright Red,SS25,L,81.07,0.0,0.15,205,36,dead_stock,A_obvious_dead_stock
+Pants,Patch,Women,White Whisper,SS25,XL,127.05,0.0,0.058,265,16,dead_stock,A_obvious_dead_stock
+Polo,Box Logo,Men,Bright Red,SS25,S,63.22,0.0,0.166,785,156,dead_stock,A_obvious_dead_stock
+Shoes,Morgex,Women,Pale Mint,SS25,39,166.37,0.0,0.147,422,73,dead_stock,A_obvious_dead_stock
+Pants,Morgex,Women,Bright White,SS25,S,116.04,0.0,0.054,794,45,dead_stock,A_obvious_dead_stock
+Pants,Circular,Women,Navy,SS25,XXL,149.46,0.0,0.162,461,89,dead_stock,A_obvious_dead_stock
+Swimwear,Slate,Men,Burgundy,SS25,M,60.74,0.0,0.064,213,15,dead_stock,A_obvious_dead_stock
+Accessories,Tribe,Men,Bright White,SS25,One Size,57.33,0.0,0.055,256,15,dead_stock,A_obvious_dead_stock
+Sweatshirt,Slate,Women,Snow White,SS25,M,121.55,0.0,0.036,648,24,dead_stock,A_obvious_dead_stock
+T-Shirt,Geographic,Women,Grey Melange,SS25,One Size,36.2,0.0,0.142,317,52,dead_stock,A_obvious_dead_stock
+Sweatshirt,Patch,Women,Caviar,SS25,XS,80.69,0.0,0.049,367,19,dead_stock,A_obvious_dead_stock
+Pants,Circular,Women,Bright White,SS25,S,128.59,0.0,0.109,503,62,dead_stock,A_obvious_dead_stock
+Polo,Tribe,Men,Grey Melange,SS25,L,82.16,0.0,0.032,460,15,dead_stock,A_obvious_dead_stock
+Swimwear,Geographic,Men,White Whisper,SS25,One Size,59.53,0.0,0.123,380,53,dead_stock,A_obvious_dead_stock
+Swimwear,Box Logo,Women,Caviar,SS25,XXL,40.98,0.0,0.104,288,33,dead_stock,A_obvious_dead_stock
+Polo,Patch,Women,Grey Melange,SS25,One Size,88.98,0.0,0.111,451,56,dead_stock,A_obvious_dead_stock
+Shoes,Circular,Men,Khaki,SS25,39,162.77,0.0,0.013,598,8,dead_stock,A_obvious_dead_stock
+Shoes,Patch,Women,Forest Green,SS25,45,142.45,0.0,0.113,339,43,dead_stock,A_obvious_dead_stock
+Shirt,Circular,Men,Grey Melange,SS25,One Size,98.7,0.0,0.082,268,24,dead_stock,A_obvious_dead_stock
+Shoes,Tribe,Men,Snow White,SS25,44,118.92,0.0,0.137,348,55,dead_stock,A_obvious_dead_stock
+T-Shirt,Trail,Women,Caviar,SS25,M,41.88,0.0,0.035,315,11,dead_stock,A_obvious_dead_stock
+Swimwear,Geographic,Men,Bright Red,SS25,S,46.61,0.0,0.058,752,46,dead_stock,A_obvious_dead_stock
+T-Shirt,Slate,Women,Pale Mint,SS25,L,31.1,0.0,0.04,698,29,dead_stock,A_obvious_dead_stock
+Accessories,Circular,Women,Stone Grey,SS25,One Size,35.89,0.0,0.096,436,46,dead_stock,A_obvious_dead_stock
+T-Shirt,Slate,Women,Grey Melange,SS25,XL,33.62,0.0,0.05,336,18,dead_stock,A_obvious_dead_stock
+Pants,Box Logo,Women,Caviar,SS25,XS,106.14,0.0,0.099,229,25,dead_stock,A_obvious_dead_stock
+T-Shirt,Tribe,Men,White Whisper,SS25,XXL,48.49,0.0,0.027,702,19,dead_stock,A_obvious_dead_stock
+Pants,Patch,Men,Khaki,SS25,XXL,134.55,0.0,0.119,681,92,dead_stock,A_obvious_dead_stock
+Shoes,Rainforest,Women,Pale Mint,SS25,44,141.13,0.0,0.156,700,129,dead_stock,A_obvious_dead_stock
+Pants,Slate,Men,Burgundy,SS25,M,89.77,0.0,0.091,359,36,dead_stock,A_obvious_dead_stock
+Shirt,Patch,Men,Forest Green,SS25,S,98.31,0.0,0.066,460,33,dead_stock,A_obvious_dead_stock
+Accessories,Geographic,Women,White Whisper,SS25,M,65.81,0.0,0.092,769,78,dead_stock,A_obvious_dead_stock
+Accessories,Slate,Men,Forest Green,SS25,XXL,52.62,0.0,0.147,531,92,dead_stock,A_obvious_dead_stock
+Sweatshirt,Tribe,Men,White Whisper,SS25,One Size,90.11,0.0,0.128,640,94,dead_stock,A_obvious_dead_stock
+Shorts,Tribe,Women,Caviar,SS25,L,53.79,0.0,0.133,548,84,dead_stock,A_obvious_dead_stock
+Swimwear,Tribe,Women,White Whisper,SS25,XXL,72.03,0.0,0.111,775,97,dead_stock,A_obvious_dead_stock
+Swimwear,Slate,Men,Navy,SS25,L,50.13,0.0,0.11,230,28,dead_stock,A_obvious_dead_stock
+Sweatshirt,Patch,Women,Snow White,SS25,L,108.61,0.0,0.089,538,53,dead_stock,A_obvious_dead_stock
+Accessories,Morgex,Women,Caviar,SS25,XXL,44.6,0.0,0.112,283,36,dead_stock,A_obvious_dead_stock
+Polo,Morgex,Women,Yellow Sunshine,SS25,XXL,79.73,0.0,0.081,252,22,dead_stock,A_obvious_dead_stock
+Shirt,Rainforest,Women,Burgundy,SS25,XXL,124.91,0.0,0.14,580,94,dead_stock,A_obvious_dead_stock
+Pants,Patch,Men,Caviar,SS25,L,90.33,0.0,0.169,294,60,dead_stock,A_obvious_dead_stock
+Polo,Geographic,Men,Burgundy,SS25,XL,76.58,0.0,0.169,416,85,dead_stock,A_obvious_dead_stock
+Shorts,Trail,Women,Snow White,SS25,XS,78.7,0.0,0.172,791,164,dead_stock,A_obvious_dead_stock
+Shorts,Box Logo,Men,Grey Melange,SS25,L,54.87,0.0,0.11,219,27,dead_stock,A_obvious_dead_stock
+Polo,Box Logo,Men,Stone Grey,SS25,L,68.85,0.0,0.088,695,67,dead_stock,A_obvious_dead_stock
+Swimwear,Circular,Women,Forest Green,SS25,XS,71.24,0.0,0.029,434,13,dead_stock,A_obvious_dead_stock
+Accessories,Morgex,Women,Pale Mint,SS25,XL,25.31,0.0,0.18,702,154,dead_stock,A_obvious_dead_stock
+T-Shirt,Morgex,Women,Khaki,SS25,L,47.93,0.0,0.015,347,5,dead_stock,A_obvious_dead_stock
+Accessories,Box Logo,Men,Navy,SS25,XS,65.52,0.0,0.122,318,44,dead_stock,A_obvious_dead_stock
+T-Shirt,Circular,Men,Bright White,SS25,M,42.11,0.0,0.146,777,133,dead_stock,A_obvious_dead_stock
+Polo,Circular,Women,Grey Melange,SS25,XL,87.82,0.0,0.141,680,112,dead_stock,A_obvious_dead_stock
+T-Shirt,Patch,Women,Pale Mint,SS25,L,34.03,0.0,0.031,618,20,dead_stock,A_obvious_dead_stock
+T-Shirt,Box Logo,Men,Caviar,SS25,S,33.09,0.0,0.135,710,111,dead_stock,A_obvious_dead_stock
+Polo,Slate,Men,Bright White,SS25,XS,89.4,0.0,0.114,505,65,dead_stock,A_obvious_dead_stock
+Sweatshirt,Patch,Men,Burgundy,SS25,XS,115.47,0.0,0.039,730,30,dead_stock,A_obvious_dead_stock
+Swimwear,Slate,Men,Caviar,SS25,One Size,58.33,0.0,0.143,352,59,dead_stock,A_obvious_dead_stock
+Pants,Trail,Women,Grey Melange,SS25,XL,101.08,0.0,0.108,767,93,dead_stock,A_obvious_dead_stock
+Swimwear,Geographic,Men,Caviar,SS25,One Size,45.93,0.0,0.096,614,65,dead_stock,A_obvious_dead_stock
+Swimwear,Circular,Women,Grey Melange,SS25,M,51.11,0.0,0.062,280,19,dead_stock,A_obvious_dead_stock
+Shorts,Slate,Women,Burgundy,SS25,One Size,66.46,0.0,0.079,704,60,dead_stock,A_obvious_dead_stock
+Swimwear,Box Logo,Women,Burgundy,SS25,S,56.73,0.0,0.091,221,22,dead_stock,A_obvious_dead_stock
+Shorts,Trail,Men,Khaki,SS25,XL,78.07,0.0,0.12,552,75,dead_stock,A_obvious_dead_stock
+Shirt,Tribe,Women,Khaki,SS25,M,101.56,0.0,0.116,529,69,dead_stock,A_obvious_dead_stock
+Polo,Geographic,Men,Khaki,SS25,XXL,86.58,0.0,0.167,710,142,dead_stock,A_obvious_dead_stock
+Pants,Box Logo,Men,Snow White,SS25,XS,138.61,0.0,0.094,388,40,dead_stock,A_obvious_dead_stock
+Accessories,Morgex,Women,Burgundy,SS25,L,22.77,0.0,0.058,539,33,dead_stock,A_obvious_dead_stock
+T-Shirt,Rainforest,Men,Yellow Sunshine,SS25,XXL,30.28,0.0,0.151,645,115,dead_stock,A_obvious_dead_stock
+Sweatshirt,Tribe,Men,White Whisper,SS25,L,110.03,0.0,0.03,504,16,dead_stock,A_obvious_dead_stock
+Shoes,Patch,Men,White Whisper,SS25,43,124.87,0.0,0.127,663,96,dead_stock,A_obvious_dead_stock
+Shorts,Morgex,Women,Navy,SS25,L,50.42,0.0,0.046,653,31,dead_stock,A_obvious_dead_stock
+Shirt,Circular,Women,Pale Mint,SS25,XXL,129.45,0.0,0.105,701,82,dead_stock,A_obvious_dead_stock
+Sweatshirt,Patch,Men,Grey Melange,SS25,XXL,102.4,0.0,0.077,397,33,dead_stock,A_obvious_dead_stock
+Shoes,Tribe,Men,Pale Mint,SS25,45,112.04,0.0,0.041,481,21,dead_stock,A_obvious_dead_stock
+Pants,Geographic,Men,Caviar,SS25,XXL,100.43,0.0,0.093,797,82,dead_stock,A_obvious_dead_stock
+Pants,Rainforest,Women,Khaki,SS25,XL,139.04,0.0,0.118,346,46,dead_stock,A_obvious_dead_stock
+Polo,Rainforest,Women,Khaki,SS25,One Size,61.73,0.0,0.072,646,50,dead_stock,A_obvious_dead_stock
+Pants,Rainforest,Women,Forest Green,SS25,L,133.79,0.0,0.155,489,90,dead_stock,A_obvious_dead_stock
+Shorts,Geographic,Women,Caviar,SS25,XXL,84.0,0.0,0.068,549,40,dead_stock,A_obvious_dead_stock
+T-Shirt,Box Logo,Men,Burgundy,SS25,S,48.34,0.0,0.117,439,58,dead_stock,A_obvious_dead_stock
+Sweatshirt,Trail,Men,Bright Red,SS25,M,81.23,0.0,0.168,614,124,dead_stock,A_obvious_dead_stock
+Shorts,Patch,Women,Khaki,SS25,XL,61.11,0.0,0.13,204,30,dead_stock,A_obvious_dead_stock
+Shorts,Patch,Men,White Whisper,SS25,L,69.09,0.0,0.139,590,95,dead_stock,A_obvious_dead_stock
+Shorts,Circular,Men,Pale Mint,SS25,XXL,84.66,0.0,0.029,669,20,dead_stock,A_obvious_dead_stock
+Shoes,Trail,Women,Yellow Sunshine,SS25,37,152.32,0.0,0.175,264,56,dead_stock,A_obvious_dead_stock
+Swimwear,Geographic,Women,White Whisper,SS25,XS,53.85,0.0,0.031,649,21,dead_stock,A_obvious_dead_stock
+Shoes,Rainforest,Men,Khaki,SS25,38,178.83,0.0,0.089,395,39,dead_stock,A_obvious_dead_stock
+Shorts,Geographic,Women,Forest Green,SS25,One Size,72.21,0.0,0.146,250,43,dead_stock,A_obvious_dead_stock
+T-Shirt,Patch,Women,Yellow Sunshine,SS25,One Size,37.44,0.0,0.018,421,8,dead_stock,A_obvious_dead_stock
+Shorts,Rainforest,Men,Snow White,SS25,XXL,84.61,0.0,0.136,664,105,dead_stock,A_obvious_dead_stock
+Pants,Geographic,Men,Pale Mint,SS25,One Size,123.52,0.0,0.156,466,86,dead_stock,A_obvious_dead_stock
+Shoes,Trail,Men,Grey Melange,SS25,43,132.1,0.0,0.162,217,42,dead_stock,A_obvious_dead_stock
+Accessories,Slate,Men,Grey Melange,SS25,XL,37.39,0.0,0.155,741,136,dead_stock,A_obvious_dead_stock
+Sweatshirt,Patch,Men,Grey Melange,SS25,XS,124.32,0.0,0.042,364,16,dead_stock,A_obvious_dead_stock
+Polo,Rainforest,Women,Caviar,SS25,XXL,84.21,0.0,0.18,582,128,dead_stock,A_obvious_dead_stock
+Sweatshirt,Box Logo,Men,Stone Grey,SS25,XL,129.87,0.0,0.129,544,81,dead_stock,A_obvious_dead_stock
+Swimwear,Box Logo,Men,Navy,SS25,XS,59.87,0.0,0.033,261,9,dead_stock,A_obvious_dead_stock
+Shoes,Geographic,Men,Snow White,SS25,39,136.25,0.0,0.118,210,28,dead_stock,A_obvious_dead_stock
+Swimwear,Tribe,Men,Forest Green,SS25,M,70.07,0.0,0.102,788,90,dead_stock,A_obvious_dead_stock
+Shorts,Morgex,Women,Pale Mint,SS25,XXL,86.35,0.0,0.1,395,44,dead_stock,A_obvious_dead_stock
+Shorts,Morgex,Men,Snow White,SS25,S,61.97,0.0,0.051,379,20,dead_stock,A_obvious_dead_stock
+T-Shirt,Slate,Men,Snow White,SS25,XXL,41.22,0.0,0.145,369,63,dead_stock,A_obvious_dead_stock
+Shoes,Tribe,Men,Khaki,SS25,43,179.57,0.0,0.125,353,50,dead_stock,A_obvious_dead_stock
+Shoes,Trail,Women,Khaki,SS25,43,144.96,0.0,0.027,311,9,dead_stock,A_obvious_dead_stock
+Shoes,Box Logo,Men,Bright White,SS25,44,134.63,0.0,0.016,762,12,dead_stock,A_obvious_dead_stock
+T-Shirt,Circular,Men,Bright White,SS25,L,31.3,0.0,0.087,347,33,dead_stock,A_obvious_dead_stock
+T-Shirt,Patch,Men,Navy,SS25,One Size,32.22,0.0,0.075,666,54,dead_stock,A_obvious_dead_stock
+Swimwear,Trail,Men,Grey Melange,SS25,XS,55.76,0.0,0.081,381,34,dead_stock,A_obvious_dead_stock
+Accessories,Trail,Men,Grey Melange,SS25,XS,20.05,0.0,0.096,364,39,dead_stock,A_obvious_dead_stock
+Shoes,Slate,Men,Snow White,SS25,39,167.29,0.0,0.054,668,38,dead_stock,A_obvious_dead_stock
+Shoes,Tribe,Men,Bright White,SS25,38,154.65,0.0,0.049,646,33,dead_stock,A_obvious_dead_stock
+Shoes,Trail,Men,Bright White,SS25,36,156.91,0.0,0.036,476,18,dead_stock,A_obvious_dead_stock
+Swimwear,Box Logo,Women,Pale Mint,SS25,S,40.36,0.0,0.042,689,30,dead_stock,A_obvious_dead_stock
+Shoes,Geographic,Men,Forest Green,SS25,45,145.53,0.0,0.11,344,43,dead_stock,A_obvious_dead_stock
+Accessories,Circular,Men,Forest Green,SS25,One Size,50.95,0.0,0.038,738,29,dead_stock,A_obvious_dead_stock
+Pants,Box Logo,Men,Yellow Sunshine,SS25,One Size,111.8,0.0,0.113,751,96,dead_stock,A_obvious_dead_stock
+Accessories,Morgex,Women,Grey Melange,SS25,M,35.91,0.0,0.146,267,46,dead_stock,A_obvious_dead_stock
+Shorts,Rainforest,Men,Yellow Sunshine,SS25,M,53.11,0.0,0.015,390,6,dead_stock,A_obvious_dead_stock
+Sweatshirt,Trail,Men,Snow White,SS25,XXL,116.25,0.0,0.13,380,57,dead_stock,A_obvious_dead_stock
+Sweatshirt,Box Logo,Men,Khaki,SS25,XL,86.29,0.0,0.034,556,20,dead_stock,A_obvious_dead_stock
+Shoes,Tribe,Women,Bright Red,SS25,42,179.33,0.0,0.011,754,8,dead_stock,A_obvious_dead_stock
+Shirt,Morgex,Women,Navy,SS25,L,124.86,0.0,0.16,276,53,dead_stock,A_obvious_dead_stock
+Pants,Slate,Women,Khaki,SS25,M,83.53,0.0,0.111,279,35,dead_stock,A_obvious_dead_stock
+Sweatshirt,Circular,Men,Pale Mint,SS25,One Size,109.78,0.0,0.049,210,11,dead_stock,A_obvious_dead_stock
+Shorts,Patch,Women,Bright Red,SS25,L,72.13,0.0,0.077,650,54,dead_stock,A_obvious_dead_stock
+Pants,Tribe,Men,Bright White,SS25,L,148.83,0.0,0.081,655,58,dead_stock,A_obvious_dead_stock
+Accessories,Tribe,Women,Grey Melange,SS25,XXL,46.0,0.0,0.079,763,65,dead_stock,A_obvious_dead_stock
+Sweatshirt,Patch,Men,Snow White,SS25,S,87.46,0.0,0.173,609,127,dead_stock,A_obvious_dead_stock
+Accessories,Patch,Women,Snow White,SS25,One Size,65.62,0.0,0.046,405,20,dead_stock,A_obvious_dead_stock
+Shorts,Geographic,Women,White Whisper,SS25,XXL,70.67,0.0,0.136,427,67,dead_stock,A_obvious_dead_stock
+Shorts,Circular,Women,Caviar,SS25,One Size,54.17,0.0,0.164,619,121,dead_stock,A_obvious_dead_stock
+T-Shirt,Tribe,Men,Khaki,SS25,One Size,44.86,0.0,0.014,322,5,dead_stock,A_obvious_dead_stock
+Polo,Slate,Women,Bright Red,SS25,M,86.62,0.0,0.077,575,48,dead_stock,A_obvious_dead_stock
+Shirt,Box Logo,Men,Burgundy,SS25,L,110.08,0.0,0.169,445,90,dead_stock,A_obvious_dead_stock
+Shirt,Patch,Men,Burgundy,SS25,M,99.7,0.0,0.032,399,13,dead_stock,A_obvious_dead_stock
+T-Shirt,Slate,Women,Burgundy,SS25,XXL,34.86,0.0,0.027,772,21,dead_stock,A_obvious_dead_stock
+Pants,Geographic,Men,Forest Green,SS25,XS,94.14,0.0,0.042,487,21,dead_stock,A_obvious_dead_stock
+Sweatshirt,Patch,Men,Snow White,SS25,XL,104.06,0.0,0.173,227,47,dead_stock,A_obvious_dead_stock
+T-Shirt,Circular,Women,Snow White,SS25,M,35.04,0.0,0.06,387,25,dead_stock,A_obvious_dead_stock
+T-Shirt,Rainforest,Men,White Whisper,SS25,XS,49.64,0.0,0.172,790,164,dead_stock,A_obvious_dead_stock
+Pants,Slate,Men,Bright Red,SS25,XXL,118.69,0.0,0.026,689,18,dead_stock,A_obvious_dead_stock
+Shoes,Rainforest,Women,Stone Grey,SS25,45,120.25,0.0,0.037,299,11,dead_stock,A_obvious_dead_stock
+Polo,Patch,Men,Khaki,SS25,XS,68.87,0.0,0.073,701,55,dead_stock,A_obvious_dead_stock
+T-Shirt,Patch,Men,Grey Melange,SS25,One Size,48.82,0.0,0.031,324,10,dead_stock,A_obvious_dead_stock
+Pants,Geographic,Men,Forest Green,SS25,XS,139.24,0.0,0.041,590,25,dead_stock,A_obvious_dead_stock
+Accessories,Geographic,Women,Yellow Sunshine,SS25,M,62.56,0.0,0.159,626,118,dead_stock,A_obvious_dead_stock
+Pants,Circular,Men,Khaki,SS25,XS,97.13,0.0,0.037,221,8,dead_stock,A_obvious_dead_stock
+Pants,Circular,Men,Burgundy,SS25,L,114.33,0.0,0.1,510,57,dead_stock,A_obvious_dead_stock
+Sweatshirt,Tribe,Men,Navy,SS25,XXL,86.27,0.0,0.172,253,53,dead_stock,A_obvious_dead_stock
+Shirt,Rainforest,Men,Navy,SS25,XS,90.38,0.0,0.053,532,30,dead_stock,A_obvious_dead_stock
+Swimwear,Rainforest,Women,Stone Grey,SS25,One Size,52.85,0.0,0.113,243,31,dead_stock,A_obvious_dead_stock
+Shorts,Rainforest,Men,Khaki,SS25,XXL,89.53,0.0,0.149,312,55,dead_stock,A_obvious_dead_stock
+Sweatshirt,Rainforest,Men,Khaki,SS25,One Size,126.02,0.0,0.068,535,39,dead_stock,A_obvious_dead_stock
+Shorts,Morgex,Women,Stone Grey,SS25,S,80.02,0.0,0.145,573,97,dead_stock,A_obvious_dead_stock
+Shirt,Trail,Women,Bright White,SS25,S,111.94,0.0,0.01,531,5,dead_stock,A_obvious_dead_stock
+Shirt,Geographic,Men,Caviar,SS25,XL,86.44,0.0,0.036,474,18,dead_stock,A_obvious_dead_stock
+Swimwear,Slate,Women,Bright Red,SS25,M,52.76,0.0,0.133,631,97,dead_stock,A_obvious_dead_stock
+T-Shirt,Box Logo,Women,White Whisper,SS25,S,48.99,0.0,0.068,483,35,dead_stock,A_obvious_dead_stock
+Accessories,Patch,Men,White Whisper,SS25,XXL,22.0,0.0,0.086,373,35,dead_stock,A_obvious_dead_stock
+Shoes,Patch,Men,Yellow Sunshine,SS25,46,152.79,0.0,0.061,518,34,dead_stock,A_obvious_dead_stock
+Polo,Geographic,Women,Snow White,SS25,XL,72.08,0.0,0.106,289,34,dead_stock,A_obvious_dead_stock
+Pants,Geographic,Men,Forest Green,SS25,M,125.29,0.0,0.068,451,33,dead_stock,A_obvious_dead_stock
+Sweatshirt,Slate,Men,Bright White,SS25,XXL,84.58,0.0,0.123,278,39,dead_stock,A_obvious_dead_stock
+Accessories,Patch,Men,Snow White,SS25,One Size,29.88,0.0,0.142,395,65,dead_stock,A_obvious_dead_stock
+Polo,Trail,Men,Pale Mint,SS25,S,63.87,0.0,0.057,659,40,dead_stock,A_obvious_dead_stock
+Swimwear,Patch,Women,Bright Red,SS25,XL,48.09,0.0,0.102,746,85,dead_stock,A_obvious_dead_stock
+Shorts,Tribe,Women,Grey Melange,SS25,XXL,60.19,0.0,0.116,238,31,dead_stock,A_obvious_dead_stock
+Shirt,Tribe,Women,Burgundy,SS25,One Size,81.15,0.0,0.078,611,52,dead_stock,A_obvious_dead_stock
+Shirt,Geographic,Women,Stone Grey,SS25,XXL,126.79,0.0,0.155,396,73,dead_stock,A_obvious_dead_stock
+Shirt,Tribe,Women,Burgundy,SS25,One Size,96.7,0.0,0.052,579,32,dead_stock,A_obvious_dead_stock
+Accessories,Patch,Men,Stone Grey,SS25,S,68.9,0.0,0.137,798,127,dead_stock,A_obvious_dead_stock
+Shorts,Trail,Men,Stone Grey,SS25,M,59.6,0.0,0.12,473,64,dead_stock,A_obvious_dead_stock
+Shorts,Circular,Women,Navy,SS25,M,66.39,0.0,0.047,594,29,dead_stock,A_obvious_dead_stock
+Shirt,Trail,Men,Yellow Sunshine,SS25,XXL,96.8,0.0,0.146,204,35,dead_stock,A_obvious_dead_stock
+Polo,Morgex,Women,Navy,SS25,M,63.46,0.0,0.076,470,39,dead_stock,A_obvious_dead_stock
+T-Shirt,Slate,Men,White Whisper,SS25,One Size,42.38,0.0,0.169,453,92,dead_stock,A_obvious_dead_stock
+Sweatshirt,Slate,Men,Caviar,SS25,S,119.53,0.0,0.056,485,29,dead_stock,A_obvious_dead_stock
+Polo,Trail,Women,Forest Green,SS25,L,65.28,0.0,0.082,699,62,dead_stock,A_obvious_dead_stock
+Polo,Geographic,Men,Caviar,SS25,XS,79.57,0.0,0.179,214,47,dead_stock,A_obvious_dead_stock
+Polo,Morgex,Men,Navy,SS25,L,89.29,0.0,0.064,636,43,dead_stock,A_obvious_dead_stock
+T-Shirt,Circular,Women,Khaki,SS25,XL,43.44,0.0,0.07,394,30,dead_stock,A_obvious_dead_stock
+Swimwear,Morgex,Men,Navy,SS25,XXL,52.85,0.0,0.137,449,71,dead_stock,A_obvious_dead_stock
+Swimwear,Morgex,Men,Stone Grey,SS25,M,45.75,0.0,0.159,749,142,dead_stock,A_obvious_dead_stock
+Pants,Circular,Women,Caviar,SS25,L,83.69,0.0,0.01,240,2,dead_stock,A_obvious_dead_stock
+T-Shirt,Morgex,Men,Snow White,SS25,XS,43.04,0.0,0.15,405,71,dead_stock,A_obvious_dead_stock
+Pants,Rainforest,Men,Bright Red,SS25,XS,117.72,0.0,0.149,693,121,dead_stock,A_obvious_dead_stock
+Polo,Patch,Women,Stone Grey,SS25,L,67.71,0.0,0.138,320,51,dead_stock,A_obvious_dead_stock
+Pants,Tribe,Men,Yellow Sunshine,SS25,XXL,95.33,0.0,0.045,420,20,dead_stock,A_obvious_dead_stock
+T-Shirt,Rainforest,Women,White Whisper,SS25,XS,33.52,0.0,0.04,226,9,dead_stock,A_obvious_dead_stock
+Accessories,Morgex,Women,White Whisper,SS25,M,52.67,0.0,0.086,282,27,dead_stock,A_obvious_dead_stock
+Swimwear,Slate,Women,Forest Green,SS25,L,74.9,0.0,0.043,570,26,dead_stock,A_obvious_dead_stock
+Pants,Rainforest,Women,Stone Grey,SS25,XXL,119.64,0.0,0.104,640,74,dead_stock,A_obvious_dead_stock
+T-Shirt,Trail,Men,Grey Melange,SS25,XL,30.98,0.0,0.112,423,53,dead_stock,A_obvious_dead_stock
+Pants,Patch,Men,Caviar,SS25,M,137.85,0.0,0.105,654,77,dead_stock,A_obvious_dead_stock
+Shoes,Box Logo,Men,Bright White,SS25,45,125.17,0.0,0.106,583,69,dead_stock,A_obvious_dead_stock
+T-Shirt,Circular,Women,Caviar,SS25,S,47.88,0.0,0.12,327,45,dead_stock,A_obvious_dead_stock
+Shoes,Morgex,Men,Bright Red,SS25,39,138.08,0.0,0.169,484,98,dead_stock,A_obvious_dead_stock
+Shoes,Rainforest,Men,Caviar,SS25,37,154.35,0.0,0.046,317,15,dead_stock,A_obvious_dead_stock
+Shirt,Trail,Men,Burgundy,SS25,S,88.8,0.0,0.033,590,20,dead_stock,A_obvious_dead_stock
+Pants,Rainforest,Men,Khaki,SS25,XL,105.01,0.0,0.055,233,14,dead_stock,A_obvious_dead_stock
+Accessories,Morgex,Men,Pale Mint,SS25,XS,66.47,0.0,0.027,651,18,dead_stock,A_obvious_dead_stock
+Shirt,Patch,Women,Caviar,SS25,XXL,122.61,0.0,0.138,273,44,dead_stock,A_obvious_dead_stock
+Swimwear,Tribe,Men,Bright Red,SS25,L,41.76,0.0,0.078,237,20,dead_stock,A_obvious_dead_stock
+Swimwear,Geographic,Men,Forest Green,SS25,L,46.8,0.0,0.176,683,146,dead_stock,A_obvious_dead_stock
+Swimwear,Morgex,Women,Burgundy,SS25,L,55.22,0.0,0.078,676,57,dead_stock,A_obvious_dead_stock
+Sweatshirt,Slate,Men,Pale Mint,SS25,XL,85.15,0.0,0.157,315,59,dead_stock,A_obvious_dead_stock
+Shirt,Tribe,Women,Grey Melange,SS25,XXL,101.57,0.0,0.118,427,57,dead_stock,A_obvious_dead_stock
+Polo,Trail,Women,Burgundy,SS25,L,73.52,0.0,0.107,397,48,dead_stock,A_obvious_dead_stock
+Shoes,Box Logo,Men,Navy,SS25,41,125.65,0.0,0.069,242,18,dead_stock,A_obvious_dead_stock
+Shoes,Patch,Women,Stone Grey,SS25,42,131.12,0.0,0.046,633,31,dead_stock,A_obvious_dead_stock
+Pants,Patch,Women,Bright White,SS25,XS,137.87,0.0,0.168,308,62,dead_stock,A_obvious_dead_stock
+Shorts,Tribe,Men,Pale Mint,SS25,XL,65.69,0.0,0.167,767,154,dead_stock,A_obvious_dead_stock
+T-Shirt,Patch,Men,Snow White,SS25,M,43.6,0.0,0.106,249,30,dead_stock,A_obvious_dead_stock
+Pants,Tribe,Men,Snow White,SS25,XXL,112.59,0.0,0.011,497,6,dead_stock,A_obvious_dead_stock
+Accessories,Morgex,Men,Khaki,SS25,XL,38.64,0.0,0.106,234,28,dead_stock,A_obvious_dead_stock
+Sweatshirt,Circular,Women,Snow White,SS25,One Size,106.81,0.0,0.174,497,105,dead_stock,A_obvious_dead_stock
+Sweatshirt,Box Logo,Men,Khaki,SS25,XS,109.7,0.0,0.159,547,103,dead_stock,A_obvious_dead_stock
+Shoes,Tribe,Men,White Whisper,SS25,42,145.14,0.0,0.177,489,105,dead_stock,A_obvious_dead_stock
+Shirt,Circular,Men,Forest Green,SS25,S,100.87,0.0,0.03,728,23,dead_stock,A_obvious_dead_stock
+Polo,Geographic,Men,Grey Melange,SS25,L,86.22,0.0,0.014,382,5,dead_stock,A_obvious_dead_stock
+Polo,Slate,Men,Bright White,SS25,XXL,64.89,0.0,0.124,268,38,dead_stock,A_obvious_dead_stock
+Shorts,Slate,Men,Stone Grey,SS25,XS,70.88,0.0,0.046,477,23,dead_stock,A_obvious_dead_stock
+Shirt,Circular,Men,White Whisper,SS25,S,84.83,0.0,0.171,319,66,dead_stock,A_obvious_dead_stock
+Pants,Rainforest,Men,Caviar,SS25,XL,125.61,0.0,0.158,248,47,dead_stock,A_obvious_dead_stock
+Shirt,Tribe,Women,Bright White,SS25,L,81.78,0.0,0.101,421,47,dead_stock,A_obvious_dead_stock
+Sweatshirt,Trail,Women,Yellow Sunshine,SS25,XS,95.08,0.0,0.164,623,122,dead_stock,A_obvious_dead_stock
+Accessories,Morgex,Women,Stone Grey,SS25,One Size,25.87,0.0,0.02,202,4,dead_stock,A_obvious_dead_stock
+T-Shirt,Tribe,Men,Navy,SS25,L,41.34,0.0,0.078,749,63,dead_stock,A_obvious_dead_stock
+Swimwear,Tribe,Men,Caviar,SS25,S,52.42,0.0,0.042,508,22,dead_stock,A_obvious_dead_stock
+Polo,Slate,Women,Burgundy,SS25,One Size,81.23,0.0,0.151,720,128,dead_stock,A_obvious_dead_stock
+Swimwear,Geographic,Women,Snow White,SS25,M,45.07,0.0,0.145,380,64,dead_stock,A_obvious_dead_stock
+Sweatshirt,Circular,Men,Forest Green,SS25,L,115.23,0.0,0.092,783,79,dead_stock,A_obvious_dead_stock
+Shirt,Circular,Women,Grey Melange,SS25,L,99.57,0.0,0.025,634,16,dead_stock,A_obvious_dead_stock
+Sweatshirt,Circular,Men,Forest Green,SS25,S,110.6,0.0,0.016,758,12,dead_stock,A_obvious_dead_stock
+Swimwear,Tribe,Men,Forest Green,SS25,One Size,48.74,0.0,0.098,598,65,dead_stock,A_obvious_dead_stock
+Shorts,Morgex,Women,Burgundy,SS25,S,56.13,0.0,0.021,229,5,dead_stock,A_obvious_dead_stock
+Swimwear,Circular,Women,Pale Mint,SS25,L,61.48,0.0,0.116,677,89,dead_stock,A_obvious_dead_stock
+Shorts,Geographic,Men,Grey Melange,SS25,XS,87.94,0.0,0.069,718,53,dead_stock,A_obvious_dead_stock
+Shirt,Geographic,Men,Navy,SS25,XS,127.27,0.0,0.074,395,32,dead_stock,A_obvious_dead_stock
+Shorts,Circular,Men,Yellow Sunshine,SS25,L,76.12,0.0,0.124,392,55,dead_stock,A_obvious_dead_stock
+Polo,Box Logo,Women,Stone Grey,SS25,XXL,65.06,0.0,0.169,657,134,dead_stock,A_obvious_dead_stock
+Shoes,Box Logo,Men,Stone Grey,SS25,46,140.65,0.0,0.084,511,47,dead_stock,A_obvious_dead_stock
+Shoes,Trail,Women,Pale Mint,SS25,38,133.73,0.0,0.021,640,14,dead_stock,A_obvious_dead_stock
+Shorts,Trail,Men,Yellow Sunshine,SS25,One Size,89.25,0.0,0.09,230,23,dead_stock,A_obvious_dead_stock
+T-Shirt,Rainforest,Men,Pale Mint,SS25,One Size,46.43,0.0,0.12,648,88,dead_stock,A_obvious_dead_stock
+Sweatshirt,Circular,Women,White Whisper,SS25,XL,111.54,0.0,0.069,713,53,dead_stock,A_obvious_dead_stock
+Swimwear,Geographic,Men,Yellow Sunshine,SS25,M,54.83,0.0,0.082,577,52,dead_stock,A_obvious_dead_stock
+Shoes,Rainforest,Men,Burgundy,SS25,37,117.23,0.0,0.137,475,75,dead_stock,A_obvious_dead_stock
+Shorts,Box Logo,Men,White Whisper,SS25,L,79.88,0.0,0.162,639,124,dead_stock,A_obvious_dead_stock
+Accessories,Morgex,Women,Yellow Sunshine,SS25,L,29.87,0.0,0.06,292,19,dead_stock,A_obvious_dead_stock
+Polo,Geographic,Women,Caviar,SS25,XXL,81.23,0.0,0.04,650,27,dead_stock,A_obvious_dead_stock
+Shirt,Circular,Women,Caviar,SS25,L,95.41,0.0,0.032,364,12,dead_stock,A_obvious_dead_stock
+T-Shirt,Circular,Men,Grey Melange,SS25,XS,39.61,0.0,0.143,548,91,dead_stock,A_obvious_dead_stock
+Shirt,Trail,Men,Burgundy,SS25,S,92.03,0.0,0.071,692,53,dead_stock,A_obvious_dead_stock
+Shirt,Trail,Men,Caviar,SS25,S,92.04,0.0,0.138,304,49,dead_stock,A_obvious_dead_stock
+T-Shirt,Geographic,Women,Bright White,SS25,S,36.05,0.0,0.073,463,36,dead_stock,A_obvious_dead_stock
+Swimwear,Tribe,Men,Bright Red,SS25,XL,59.91,0.0,0.119,214,29,dead_stock,A_obvious_dead_stock
+Shirt,Patch,Men,Yellow Sunshine,SS25,L,125.42,0.0,0.145,733,124,dead_stock,A_obvious_dead_stock
+T-Shirt,Slate,Women,Bright Red,SS25,L,39.53,0.0,0.094,495,51,dead_stock,A_obvious_dead_stock
+Shorts,Box Logo,Women,Khaki,SS25,XXL,54.34,0.0,0.048,701,35,dead_stock,A_obvious_dead_stock
+Swimwear,Rainforest,Women,Forest Green,SS25,XS,74.91,0.0,0.161,296,57,dead_stock,A_obvious_dead_stock
+Accessories,Slate,Men,Navy,SS25,L,66.93,0.0,0.069,563,42,dead_stock,A_obvious_dead_stock
+Sweatshirt,Rainforest,Men,Khaki,SS25,XXL,89.75,0.0,0.02,577,12,dead_stock,A_obvious_dead_stock
+T-Shirt,Tribe,Men,Snow White,SS25,XXL,33.83,0.0,0.04,608,25,dead_stock,A_obvious_dead_stock
+Swimwear,Trail,Women,Forest Green,SS25,M,45.59,0.0,0.125,799,114,dead_stock,A_obvious_dead_stock
+Shirt,Patch,Men,Khaki,SS25,L,93.22,0.0,0.083,778,70,dead_stock,A_obvious_dead_stock
+Polo,Morgex,Women,Bright White,SS25,XXL,83.15,0.0,0.074,642,51,dead_stock,A_obvious_dead_stock
+Shorts,Tribe,Women,Yellow Sunshine,SS25,S,89.75,0.0,0.017,542,9,dead_stock,A_obvious_dead_stock
+Accessories,Rainforest,Men,Navy,SS25,S,24.44,0.0,0.077,403,34,dead_stock,A_obvious_dead_stock
+Sweatshirt,Geographic,Women,Yellow Sunshine,SS25,One Size,100.49,0.0,0.092,317,32,dead_stock,A_obvious_dead_stock
+Polo,Tribe,Men,Forest Green,SS25,S,89.48,0.0,0.08,591,51,dead_stock,A_obvious_dead_stock
+Swimwear,Morgex,Men,Navy,SS25,L,70.17,0.0,0.027,637,18,dead_stock,A_obvious_dead_stock
+Sweatshirt,Tribe,Women,Khaki,SS25,S,103.18,0.0,0.059,315,20,dead_stock,A_obvious_dead_stock
+Shorts,Box Logo,Women,Stone Grey,SS25,XS,60.96,0.0,0.053,359,20,dead_stock,A_obvious_dead_stock
+Shirt,Box Logo,Men,Navy,SS25,S,91.22,0.0,0.154,579,105,dead_stock,A_obvious_dead_stock
+Accessories,Slate,Women,Forest Green,SS25,One Size,59.14,0.0,0.046,583,28,dead_stock,A_obvious_dead_stock
+Accessories,Trail,Men,Pale Mint,SS25,L,31.37,0.0,0.019,714,14,dead_stock,A_obvious_dead_stock
+Shoes,Box Logo,Women,White Whisper,SS25,46,110.25,0.0,0.143,655,109,dead_stock,A_obvious_dead_stock
+Shirt,Circular,Men,Yellow Sunshine,SS25,XS,123.82,0.0,0.1,790,88,dead_stock,A_obvious_dead_stock
+Shorts,Patch,Women,Stone Grey,SS25,L,54.7,0.0,0.051,372,20,dead_stock,A_obvious_dead_stock
+Shorts,Trail,Women,Yellow Sunshine,SS25,XXL,65.79,0.0,0.144,776,131,dead_stock,A_obvious_dead_stock
+Pants,Geographic,Women,Bright White,SS25,XXL,116.61,0.0,0.042,606,27,dead_stock,A_obvious_dead_stock
+Polo,Slate,Women,Stone Grey,SS25,M,87.53,0.0,0.177,435,94,dead_stock,A_obvious_dead_stock
+T-Shirt,Box Logo,Men,Stone Grey,SS25,One Size,31.87,0.0,0.08,791,69,dead_stock,A_obvious_dead_stock
+Accessories,Trail,Men,Khaki,SS25,XXL,39.13,0.0,0.177,488,105,dead_stock,A_obvious_dead_stock
+Sweatshirt,Tribe,Men,Grey Melange,SS25,XXL,110.31,0.0,0.122,402,56,dead_stock,A_obvious_dead_stock
+Sweatshirt,Box Logo,Men,Burgundy,SS25,L,115.59,0.0,0.106,563,67,dead_stock,A_obvious_dead_stock
+Accessories,Circular,Men,Burgundy,SS25,One Size,21.53,0.0,0.077,719,60,dead_stock,A_obvious_dead_stock
+Polo,Circular,Men,Navy,SS25,XXL,67.72,0.0,0.157,333,62,dead_stock,A_obvious_dead_stock
+Shoes,Rainforest,Men,Burgundy,SS25,38,162.33,0.0,0.052,518,28,dead_stock,A_obvious_dead_stock
+Swimwear,Geographic,Men,Stone Grey,SS25,One Size,68.39,0.0,0.118,422,56,dead_stock,A_obvious_dead_stock
+Sweatshirt,Circular,Women,Bright White,SS25,One Size,112.01,0.0,0.044,469,22,dead_stock,A_obvious_dead_stock
+Shirt,Tribe,Women,Snow White,SS25,S,108.92,0.0,0.034,357,13,dead_stock,A_obvious_dead_stock
+Accessories,Morgex,Men,Burgundy,SS25,XS,28.45,0.0,0.046,399,19,dead_stock,A_obvious_dead_stock
+T-Shirt,Circular,Women,Bright Red,SS25,L,49.79,0.0,0.023,218,5,dead_stock,A_obvious_dead_stock
+T-Shirt,Rainforest,Women,White Whisper,SS25,XL,42.61,0.0,0.16,664,126,dead_stock,A_obvious_dead_stock
+Polo,Morgex,Men,Khaki,SS25,XS,73.41,0.0,0.069,300,22,dead_stock,A_obvious_dead_stock
+Accessories,Patch,Men,White Whisper,SS25,XXL,27.67,0.0,0.052,356,20,dead_stock,A_obvious_dead_stock
+Polo,Trail,Women,Navy,SS25,S,85.68,0.0,0.023,728,17,dead_stock,A_obvious_dead_stock
+Shoes,Trail,Men,Burgundy,SS25,42,172.77,0.0,0.06,613,39,dead_stock,A_obvious_dead_stock
+Shoes,Morgex,Men,Yellow Sunshine,SS25,46,149.74,0.0,0.114,293,38,dead_stock,A_obvious_dead_stock
+Shorts,Box Logo,Men,Grey Melange,SS25,L,77.29,0.0,0.023,604,14,dead_stock,A_obvious_dead_stock
+T-Shirt,Trail,Women,Khaki,SS25,XXL,34.44,0.0,0.085,699,65,dead_stock,A_obvious_dead_stock
+Shoes,Box Logo,Women,Yellow Sunshine,SS25,41,160.82,0.0,0.09,527,52,dead_stock,A_obvious_dead_stock
+Swimwear,Patch,Men,Bright White,SS25,One Size,59.66,0.0,0.1,585,65,dead_stock,A_obvious_dead_stock
+Shirt,Slate,Men,White Whisper,SS25,L,104.07,0.0,0.167,509,102,dead_stock,A_obvious_dead_stock
+Swimwear,Box Logo,Women,Bright White,SS25,S,58.01,0.0,0.041,455,19,dead_stock,A_obvious_dead_stock
+Shorts,Morgex,Women,White Whisper,SS25,XS,80.76,0.0,0.135,459,72,dead_stock,A_obvious_dead_stock
+Sweatshirt,Trail,Men,Pale Mint,SS25,S,127.04,0.0,0.038,441,17,dead_stock,A_obvious_dead_stock
+Pants,Tribe,Women,Navy,SS25,One Size,133.17,0.0,0.049,447,23,dead_stock,A_obvious_dead_stock
+Polo,Trail,Men,Forest Green,SS25,XXL,85.48,0.0,0.18,684,150,dead_stock,A_obvious_dead_stock
+Polo,Box Logo,Women,Burgundy,SS25,One Size,77.46,0.0,0.179,357,78,dead_stock,A_obvious_dead_stock
+Shorts,Geographic,Women,Khaki,SS25,M,84.39,0.0,0.169,393,80,dead_stock,A_obvious_dead_stock
+Pants,Tribe,Women,Bright Red,SS25,One Size,110.78,0.0,0.178,381,83,dead_stock,A_obvious_dead_stock
+Accessories,Slate,Men,Stone Grey,SS25,XS,33.45,0.0,0.065,582,40,dead_stock,A_obvious_dead_stock
+Shorts,Rainforest,Men,Stone Grey,SS25,M,66.32,0.0,0.137,582,92,dead_stock,A_obvious_dead_stock
+Sweatshirt,Trail,Men,Yellow Sunshine,SS25,XS,89.43,0.0,0.155,791,145,dead_stock,A_obvious_dead_stock
+Swimwear,Trail,Women,Snow White,SS25,S,40.84,0.0,0.064,532,36,dead_stock,A_obvious_dead_stock
+Pants,Box Logo,Men,Snow White,SS25,XXL,84.54,0.0,0.019,753,15,dead_stock,A_obvious_dead_stock
+T-Shirt,Rainforest,Men,Grey Melange,SS25,L,42.12,0.0,0.086,293,28,dead_stock,A_obvious_dead_stock
+Accessories,Tribe,Men,Bright Red,SS25,XL,64.64,0.0,0.012,528,6,dead_stock,A_obvious_dead_stock
+Polo,Morgex,Women,White Whisper,SS25,XXL,66.07,0.0,0.122,290,40,dead_stock,A_obvious_dead_stock
+Swimwear,Rainforest,Women,Navy,SS25,XXL,59.75,0.0,0.061,752,49,dead_stock,A_obvious_dead_stock
+Polo,Trail,Men,Bright Red,SS25,XS,70.56,0.0,0.131,227,34,dead_stock,A_obvious_dead_stock
+Shorts,Patch,Men,Caviar,SS25,S,74.41,0.0,0.142,513,85,dead_stock,A_obvious_dead_stock
+Accessories,Circular,Men,Bright Red,SS25,XS,50.16,0.0,0.052,485,27,dead_stock,A_obvious_dead_stock
+Shoes,Tribe,Men,Navy,SS25,42,133.1,0.0,0.04,283,12,dead_stock,A_obvious_dead_stock
+Shorts,Geographic,Men,Snow White,SS25,One Size,50.7,0.0,0.167,757,152,dead_stock,A_obvious_dead_stock
+Polo,Geographic,Women,Caviar,SS25,S,89.1,0.0,0.164,339,67,dead_stock,A_obvious_dead_stock
+T-Shirt,Slate,Women,Stone Grey,SS25,M,42.27,0.0,0.115,709,92,dead_stock,A_obvious_dead_stock
+Sweatshirt,Circular,Women,Stone Grey,SS25,S,116.98,0.0,0.023,621,15,dead_stock,A_obvious_dead_stock
+Polo,Box Logo,Men,White Whisper,SS25,XXL,69.36,0.0,0.175,505,107,dead_stock,A_obvious_dead_stock
+Sweatshirt,Patch,Men,Navy,SS25,L,90.97,0.0,0.089,555,54,dead_stock,A_obvious_dead_stock
+Swimwear,Slate,Women,Stone Grey,SS25,S,55.12,0.0,0.155,715,131,dead_stock,A_obvious_dead_stock
+Swimwear,Morgex,Men,Caviar,SS25,L,50.31,0.0,0.128,586,86,dead_stock,A_obvious_dead_stock
+Polo,Patch,Women,Caviar,SS25,L,70.18,0.0,0.022,604,14,dead_stock,A_obvious_dead_stock
+Pants,Circular,Men,Grey Melange,SS25,M,103.44,0.0,0.154,638,116,dead_stock,A_obvious_dead_stock
+Accessories,Patch,Men,Forest Green,SS25,One Size,52.53,0.0,0.03,771,24,dead_stock,A_obvious_dead_stock
+Sweatshirt,Trail,Men,Caviar,SS25,L,87.62,0.0,0.127,279,41,dead_stock,A_obvious_dead_stock
+Sweatshirt,Rainforest,Men,Pale Mint,SS25,S,100.71,0.0,0.099,464,51,dead_stock,A_obvious_dead_stock
+Shorts,Box Logo,Men,Forest Green,SS25,M,64.94,0.0,0.121,655,90,dead_stock,A_obvious_dead_stock
+Shirt,Circular,Women,Navy,SS25,M,99.69,0.0,0.148,473,82,dead_stock,A_obvious_dead_stock
+Shorts,Rainforest,Women,Caviar,SS25,XXL,50.86,0.0,0.098,653,71,dead_stock,A_obvious_dead_stock
+T-Shirt,Trail,Women,Snow White,SS25,XL,48.84,0.0,0.014,669,9,dead_stock,A_obvious_dead_stock
+Pants,Tribe,Women,Bright White,SS25,One Size,135.12,0.0,0.118,361,48,dead_stock,A_obvious_dead_stock
+Shirt,Box Logo,Women,Navy,SS25,M,107.34,0.0,0.035,466,17,dead_stock,A_obvious_dead_stock
+T-Shirt,Geographic,Men,White Whisper,SS25,XS,39.04,0.0,0.153,507,92,dead_stock,A_obvious_dead_stock
+Pants,Tribe,Men,Khaki,SS25,One Size,89.15,0.0,0.019,484,9,dead_stock,A_obvious_dead_stock
+Shoes,Geographic,Women,White Whisper,SS25,44,107.25,0.0,0.082,205,18,dead_stock,A_obvious_dead_stock
+Swimwear,Morgex,Men,Grey Melange,SS25,L,60.17,0.0,0.156,355,66,dead_stock,A_obvious_dead_stock
+Accessories,Morgex,Women,Forest Green,SS25,S,39.48,0.0,0.1,747,83,dead_stock,A_obvious_dead_stock
+Sweatshirt,Geographic,Men,Stone Grey,SS25,XL,99.58,0.0,0.044,218,10,dead_stock,A_obvious_dead_stock
+Polo,Patch,Men,Stone Grey,SS25,M,67.89,0.0,0.07,440,33,dead_stock,A_obvious_dead_stock
+Shorts,Box Logo,Women,Grey Melange,SS25,S,84.09,0.0,0.107,416,50,dead_stock,A_obvious_dead_stock
+Shirt,Trail,Women,Yellow Sunshine,SS25,One Size,81.94,0.0,0.094,532,55,dead_stock,A_obvious_dead_stock
+Shirt,Morgex,Women,Grey Melange,SS25,XL,120.34,0.0,0.169,278,57,dead_stock,A_obvious_dead_stock
+Polo,Geographic,Women,Stone Grey,SS25,XS,89.77,0.0,0.068,516,38,dead_stock,A_obvious_dead_stock
+Accessories,Slate,Men,Forest Green,SS25,One Size,50.65,0.0,0.012,306,4,dead_stock,A_obvious_dead_stock
+T-Shirt,Box Logo,Men,Forest Green,SS25,XXL,32.15,0.0,0.051,401,22,dead_stock,A_obvious_dead_stock
+Pants,Rainforest,Men,Burgundy,SS25,M,106.49,0.0,0.075,315,26,dead_stock,A_obvious_dead_stock
+T-Shirt,Tribe,Men,White Whisper,SS25,XL,30.49,0.0,0.044,374,17,dead_stock,A_obvious_dead_stock
+T-Shirt,Box Logo,Women,Yellow Sunshine,SS25,XXL,40.63,0.0,0.063,502,34,dead_stock,A_obvious_dead_stock
+Accessories,Circular,Women,Burgundy,SS25,XL,64.77,0.0,0.084,273,25,dead_stock,A_obvious_dead_stock
+T-Shirt,Box Logo,Men,Forest Green,SS25,XXL,31.88,0.0,0.179,757,165,dead_stock,A_obvious_dead_stock
+Shorts,Slate,Women,Snow White,SS25,XXL,51.36,0.0,0.141,643,106,dead_stock,A_obvious_dead_stock
+Shirt,Slate,Men,Stone Grey,SS25,XS,93.79,0.0,0.08,258,22,dead_stock,A_obvious_dead_stock
+Pants,Trail,Women,Snow White,SS25,S,107.48,0.0,0.082,228,20,dead_stock,A_obvious_dead_stock
+Swimwear,Geographic,Men,Burgundy,SS25,M,53.1,0.0,0.095,455,48,dead_stock,A_obvious_dead_stock
+Shoes,Rainforest,Men,Khaki,SS25,42,112.13,0.0,0.07,565,43,dead_stock,A_obvious_dead_stock
+Swimwear,Slate,Women,Navy,SS25,One Size,78.78,0.0,0.143,354,59,dead_stock,A_obvious_dead_stock
+Sweatshirt,Slate,Men,Forest Green,SS25,M,106.31,0.0,0.039,336,14,dead_stock,A_obvious_dead_stock
+Sweatshirt,Trail,Men,Burgundy,SS25,XXL,85.75,0.0,0.106,757,90,dead_stock,A_obvious_dead_stock
+Shorts,Trail,Men,Pale Mint,SS25,M,82.63,0.0,0.021,505,11,dead_stock,A_obvious_dead_stock
+Shirt,Trail,Men,Caviar,SS25,S,126.84,0.0,0.162,271,52,dead_stock,A_obvious_dead_stock
+Shorts,Box Logo,Women,White Whisper,SS25,XL,78.71,0.0,0.085,482,45,dead_stock,A_obvious_dead_stock
+Polo,Tribe,Men,Snow White,SS25,One Size,86.17,0.0,0.092,473,48,dead_stock,A_obvious_dead_stock
+Sweatshirt,Rainforest,Women,Grey Melange,SS25,M,126.47,0.0,0.171,406,84,dead_stock,A_obvious_dead_stock
+Polo,Geographic,Women,Bright Red,SS25,S,65.69,0.0,0.163,449,87,dead_stock,A_obvious_dead_stock
+T-Shirt,Slate,Men,Caviar,SS25,XL,30.77,0.0,0.121,261,36,dead_stock,A_obvious_dead_stock
+Accessories,Circular,Men,White Whisper,SS25,XS,57.42,0.0,0.159,769,145,dead_stock,A_obvious_dead_stock
+Shirt,Rainforest,Women,Forest Green,SS25,L,106.85,0.0,0.06,701,45,dead_stock,A_obvious_dead_stock
+Shorts,Trail,Men,Forest Green,SS25,XL,57.87,0.0,0.055,431,25,dead_stock,A_obvious_dead_stock
+Shirt,Slate,Men,White Whisper,SS25,M,106.69,0.0,0.141,210,34,dead_stock,A_obvious_dead_stock
+Pants,Patch,Men,White Whisper,SS25,XS,143.68,0.0,0.145,513,87,dead_stock,A_obvious_dead_stock
+Polo,Slate,Men,Caviar,SS25,L,89.59,0.0,0.088,211,20,dead_stock,A_obvious_dead_stock
+Polo,Slate,Women,White Whisper,SS25,One Size,75.22,0.0,0.133,650,100,dead_stock,A_obvious_dead_stock
+Shorts,Box Logo,Men,Bright Red,SS25,XS,80.17,0.0,0.153,514,93,dead_stock,A_obvious_dead_stock
+Polo,Box Logo,Men,Snow White,SS25,M,85.8,0.0,0.12,329,45,dead_stock,A_obvious_dead_stock
+Shirt,Circular,Women,Yellow Sunshine,SS25,L,115.18,0.0,0.045,615,29,dead_stock,A_obvious_dead_stock
+T-Shirt,Slate,Women,Navy,SS25,XL,35.84,0.0,0.175,319,68,dead_stock,A_obvious_dead_stock
+Pants,Box Logo,Women,Bright White,SS25,XL,100.93,0.0,0.017,243,4,dead_stock,A_obvious_dead_stock
+Swimwear,Trail,Men,Snow White,SS25,L,77.94,0.0,0.139,637,103,dead_stock,A_obvious_dead_stock
+Shirt,Slate,Women,Snow White,SS25,M,96.22,0.0,0.099,536,59,dead_stock,A_obvious_dead_stock
+Shorts,Patch,Men,Caviar,SS25,S,53.14,0.0,0.075,797,65,dead_stock,A_obvious_dead_stock
+Pants,Tribe,Women,Bright White,SS25,XL,92.21,0.0,0.14,694,113,dead_stock,A_obvious_dead_stock
+Swimwear,Rainforest,Women,Burgundy,SS25,S,56.12,0.0,0.024,240,6,dead_stock,A_obvious_dead_stock
+Sweatshirt,Slate,Men,Burgundy,SS25,XXL,89.9,0.0,0.108,452,55,dead_stock,A_obvious_dead_stock
+Pants,Morgex,Women,Khaki,SS25,XL,89.69,0.0,0.083,696,63,dead_stock,A_obvious_dead_stock
+Shirt,Box Logo,Women,Yellow Sunshine,SS25,XL,108.38,0.0,0.022,394,9,dead_stock,A_obvious_dead_stock
+Swimwear,Patch,Women,Bright White,SS25,One Size,68.94,0.0,0.021,372,8,dead_stock,A_obvious_dead_stock
+T-Shirt,Trail,Men,Bright Red,SS25,XXL,30.47,0.0,0.02,526,11,dead_stock,A_obvious_dead_stock
+Polo,Tribe,Women,Grey Melange,SS25,L,83.86,0.0,0.093,455,47,dead_stock,A_obvious_dead_stock
+Sweatshirt,Circular,Men,Pale Mint,SS25,XS,121.53,0.0,0.019,374,7,dead_stock,A_obvious_dead_stock
+Swimwear,Rainforest,Women,Forest Green,SS25,M,50.52,0.0,0.081,611,54,dead_stock,A_obvious_dead_stock
+Shoes,Rainforest,Men,Caviar,SS25,45,126.14,0.0,0.062,659,44,dead_stock,A_obvious_dead_stock
+Accessories,Tribe,Women,Caviar,SS25,XL,50.1,0.0,0.033,723,25,dead_stock,A_obvious_dead_stock
+Pants,Patch,Men,White Whisper,SS25,M,90.53,0.0,0.011,268,3,dead_stock,A_obvious_dead_stock
+Pants,Rainforest,Women,Khaki,SS25,XL,132.35,0.0,0.022,226,5,dead_stock,A_obvious_dead_stock
+Shirt,Trail,Men,Navy,SS25,One Size,80.54,0.0,0.111,318,40,dead_stock,A_obvious_dead_stock
+Shoes,Patch,Women,Stone Grey,SS25,44,144.41,0.0,0.111,274,34,dead_stock,A_obvious_dead_stock
+Swimwear,Trail,Women,Burgundy,SS25,XXL,72.22,0.0,0.052,516,28,dead_stock,A_obvious_dead_stock
+Shoes,Morgex,Women,Snow White,SS25,40,154.54,0.0,0.176,759,162,dead_stock,A_obvious_dead_stock
+Shoes,Box Logo,Women,White Whisper,SS25,37,108.57,0.0,0.05,786,41,dead_stock,A_obvious_dead_stock
+Polo,Morgex,Women,White Whisper,SS25,XS,65.93,0.0,0.14,274,45,dead_stock,A_obvious_dead_stock
+Polo,Patch,Men,Khaki,SS25,S,62.05,0.0,0.128,707,104,dead_stock,A_obvious_dead_stock
+Swimwear,Morgex,Women,Bright White,SS25,XL,63.44,0.0,0.065,631,44,dead_stock,A_obvious_dead_stock
+Shorts,Tribe,Men,Navy,SS25,M,76.56,0.0,0.084,602,55,dead_stock,A_obvious_dead_stock
+T-Shirt,Box Logo,Men,Stone Grey,SS25,XL,40.78,0.0,0.092,321,33,dead_stock,A_obvious_dead_stock
+Shirt,Patch,Men,Pale Mint,SS25,XL,109.14,0.0,0.109,407,50,dead_stock,A_obvious_dead_stock
+Pants,Patch,Men,Caviar,SS25,XL,123.72,0.0,0.101,674,76,dead_stock,A_obvious_dead_stock
+Pants,Box Logo,Men,Bright Red,SS25,M,116.91,0.0,0.158,532,100,dead_stock,A_obvious_dead_stock
+Sweatshirt,Tribe,Women,Forest Green,SS25,XL,116.69,0.0,0.151,333,59,dead_stock,A_obvious_dead_stock
+Shirt,Geographic,Men,Burgundy,SS25,M,102.3,0.0,0.157,221,41,dead_stock,A_obvious_dead_stock
+Pants,Tribe,Women,Burgundy,SS25,M,90.0,0.0,0.043,230,10,dead_stock,A_obvious_dead_stock
+Shoes,Circular,Women,Burgundy,SS25,36,118.78,0.0,0.028,335,10,dead_stock,A_obvious_dead_stock
+Accessories,Tribe,Women,Navy,SS25,XL,60.13,0.0,0.029,663,20,dead_stock,A_obvious_dead_stock
+Shirt,Geographic,Women,Bright Red,SS25,XL,82.54,0.0,0.167,759,152,dead_stock,A_obvious_dead_stock
+Shorts,Slate,Women,Khaki,SS25,XS,82.77,0.0,0.095,327,34,dead_stock,A_obvious_dead_stock
+Swimwear,Tribe,Women,White Whisper,SS25,XL,73.16,0.0,0.057,707,43,dead_stock,A_obvious_dead_stock
+T-Shirt,Circular,Men,Forest Green,SS25,M,42.84,0.0,0.089,519,51,dead_stock,A_obvious_dead_stock
+T-Shirt,Trail,Women,Bright Red,SS25,XS,34.64,0.0,0.152,416,75,dead_stock,A_obvious_dead_stock
+Swimwear,Patch,Women,Forest Green,SS25,M,46.52,0.0,0.106,329,39,dead_stock,A_obvious_dead_stock
+Swimwear,Circular,Men,Pale Mint,SS25,One Size,46.03,0.0,0.165,229,45,dead_stock,A_obvious_dead_stock
+Shoes,Box Logo,Women,Snow White,SS25,36,151.13,0.0,0.127,572,83,dead_stock,A_obvious_dead_stock
+Shorts,Geographic,Men,Stone Grey,SS25,XXL,81.25,0.0,0.074,397,32,dead_stock,A_obvious_dead_stock
+T-Shirt,Circular,Men,Bright White,SS25,L,36.78,0.0,0.052,462,25,dead_stock,A_obvious_dead_stock
+Swimwear,Geographic,Men,Stone Grey,SS25,L,46.91,0.0,0.064,762,52,dead_stock,A_obvious_dead_stock
+T-Shirt,Tribe,Men,Forest Green,SS25,XL,48.99,0.0,0.058,586,36,dead_stock,A_obvious_dead_stock
+Pants,Patch,Men,Yellow Sunshine,SS25,XL,112.45,0.0,0.015,689,10,dead_stock,A_obvious_dead_stock
+Pants,Patch,Men,Grey Melange,SS25,XS,122.27,0.0,0.077,509,42,dead_stock,A_obvious_dead_stock
+Shorts,Patch,Men,Khaki,SS25,XL,89.81,0.0,0.013,595,8,dead_stock,A_obvious_dead_stock
+Shirt,Tribe,Men,Caviar,SS25,One Size,110.99,0.0,0.128,527,77,dead_stock,A_obvious_dead_stock
+Swimwear,Morgex,Men,Bright White,SS25,XXL,41.03,0.0,0.152,412,74,dead_stock,A_obvious_dead_stock
+Shorts,Box Logo,Men,Snow White,SS25,L,63.36,0.0,0.038,467,18,dead_stock,A_obvious_dead_stock
+Polo,Trail,Women,Snow White,SS25,XXL,86.78,0.0,0.121,717,99,dead_stock,A_obvious_dead_stock
+Shoes,Rainforest,Men,Khaki,SS25,46,132.54,0.0,0.17,253,52,dead_stock,A_obvious_dead_stock
+Polo,Morgex,Men,Bright Red,SS25,XS,73.69,0.0,0.138,494,79,dead_stock,A_obvious_dead_stock
+Accessories,Tribe,Women,Stone Grey,SS25,One Size,53.29,0.0,0.07,339,26,dead_stock,A_obvious_dead_stock
+Shoes,Morgex,Men,Snow White,SS25,39,161.82,0.0,0.056,281,17,dead_stock,A_obvious_dead_stock
+Shorts,Rainforest,Men,Bright Red,SS25,One Size,86.08,0.0,0.159,693,131,dead_stock,A_obvious_dead_stock
+Swimwear,Rainforest,Men,Forest Green,SS25,M,62.84,0.0,0.082,628,56,dead_stock,A_obvious_dead_stock
+Polo,Geographic,Women,Yellow Sunshine,SS25,One Size,62.46,0.0,0.094,344,36,dead_stock,A_obvious_dead_stock
+Shoes,Circular,Men,Navy,SS25,38,134.28,0.0,0.089,569,56,dead_stock,A_obvious_dead_stock
+Polo,Trail,Men,Khaki,SS25,One Size,82.79,0.0,0.108,629,76,dead_stock,A_obvious_dead_stock
+Accessories,Circular,Men,White Whisper,SS25,S,56.46,0.0,0.146,202,35,dead_stock,A_obvious_dead_stock
+Sweatshirt,Tribe,Women,Navy,SS25,L,120.69,0.0,0.137,452,72,dead_stock,A_obvious_dead_stock
+Shirt,Circular,Women,Grey Melange,SS25,M,108.26,0.0,0.028,657,19,dead_stock,A_obvious_dead_stock
+Swimwear,Rainforest,Women,Bright Red,SS25,XXL,49.83,0.0,0.094,436,45,dead_stock,A_obvious_dead_stock
+T-Shirt,Geographic,Men,Grey Melange,SS25,L,41.49,0.0,0.089,381,37,dead_stock,A_obvious_dead_stock
+Shoes,Circular,Women,Yellow Sunshine,SS25,41,146.55,0.0,0.095,483,51,dead_stock,A_obvious_dead_stock
+Polo,Morgex,Men,Bright Red,SS25,S,70.23,0.0,0.146,549,94,dead_stock,A_obvious_dead_stock
+Shorts,Morgex,Men,Stone Grey,SS25,XL,79.56,0.0,0.051,371,20,dead_stock,A_obvious_dead_stock
+Shoes,Tribe,Men,Snow White,SS25,38,175.88,0.0,0.075,236,19,dead_stock,A_obvious_dead_stock
+Sweatshirt,Tribe,Women,Snow White,SS25,M,120.97,0.0,0.015,299,5,dead_stock,A_obvious_dead_stock
+Polo,Patch,Men,Stone Grey,SS25,L,75.97,0.0,0.076,638,52,dead_stock,A_obvious_dead_stock
+Shoes,Circular,Women,Bright White,SS25,43,118.39,0.0,0.039,735,30,dead_stock,A_obvious_dead_stock
+Pants,Trail,Men,Stone Grey,SS25,One Size,97.47,0.0,0.034,217,8,dead_stock,A_obvious_dead_stock
+Shoes,Tribe,Women,Forest Green,SS25,41,100.96,0.0,0.105,794,93,dead_stock,A_obvious_dead_stock
+Shirt,Circular,Men,Caviar,SS25,XXL,100.51,0.0,0.039,352,14,dead_stock,A_obvious_dead_stock
+Sweatshirt,Morgex,Women,Bright White,SS25,M,124.64,0.0,0.01,436,4,dead_stock,A_obvious_dead_stock
+Shirt,Geographic,Men,Yellow Sunshine,SS25,XS,93.59,0.0,0.088,679,66,dead_stock,A_obvious_dead_stock
+T-Shirt,Morgex,Women,Snow White,SS25,S,31.85,0.0,0.154,545,99,dead_stock,A_obvious_dead_stock
+Shirt,Geographic,Women,Bright White,SS25,XXL,119.13,0.0,0.045,664,31,dead_stock,A_obvious_dead_stock
+Swimwear,Slate,Women,Grey Melange,FS24,XS,68.95,0.0,0.959,12,281,fast_mover,B_obvious_fast_mover
+Accessories,Geographic,Men,Pale Mint,FS24,L,63.47,0.0,0.933,26,362,fast_mover,B_obvious_fast_mover
+Polo,Slate,Women,Stone Grey,FS24,XS,63.01,0.0,0.86,46,283,fast_mover,B_obvious_fast_mover
+Shoes,Morgex,Men,Khaki,FS24,39,154.02,0.0,0.96,41,984,fast_mover,B_obvious_fast_mover
+Sweatshirt,Slate,Women,Bright Red,FS24,M,82.43,0.0,0.943,44,728,fast_mover,B_obvious_fast_mover
+Shoes,Box Logo,Men,Pale Mint,FS24,44,120.77,0.0,0.826,24,114,fast_mover,B_obvious_fast_mover
+Sweatshirt,Patch,Women,Bright Red,FS24,XL,90.82,0.0,0.931,18,243,fast_mover,B_obvious_fast_mover
+Swimwear,Patch,Men,White Whisper,FS24,L,55.41,0.0,0.959,35,819,fast_mover,B_obvious_fast_mover
+Accessories,Geographic,Women,Yellow Sunshine,FS24,M,48.97,0.0,0.919,42,477,fast_mover,B_obvious_fast_mover
+Polo,Slate,Women,Caviar,FS24,L,89.94,0.0,0.894,30,253,fast_mover,B_obvious_fast_mover
+Pants,Tribe,Men,Bright White,FS24,S,103.0,0.0,0.939,12,185,fast_mover,B_obvious_fast_mover
+T-Shirt,Box Logo,Men,Bright Red,FS24,L,47.45,0.0,0.932,21,288,fast_mover,B_obvious_fast_mover
+Shoes,Patch,Men,Pale Mint,FS24,46,147.73,0.0,0.883,14,106,fast_mover,B_obvious_fast_mover
+Polo,Patch,Men,Stone Grey,FS24,One Size,61.61,0.0,0.982,48,2619,fast_mover,B_obvious_fast_mover
+Pants,Circular,Men,Bright Red,FS24,S,136.87,0.0,0.94,11,172,fast_mover,B_obvious_fast_mover
+Shoes,Slate,Men,Forest Green,FS24,46,166.1,0.0,0.93,18,239,fast_mover,B_obvious_fast_mover
+Shoes,Geographic,Men,Yellow Sunshine,FS24,40,103.64,0.0,0.95,19,361,fast_mover,B_obvious_fast_mover
+Pants,Box Logo,Men,Yellow Sunshine,FS24,XL,94.65,0.0,0.912,44,456,fast_mover,B_obvious_fast_mover
+Polo,Rainforest,Men,Stone Grey,FS24,XXL,71.4,0.0,0.882,19,142,fast_mover,B_obvious_fast_mover
+Polo,Patch,Men,Grey Melange,FS24,S,88.18,0.0,0.926,47,588,fast_mover,B_obvious_fast_mover
+Swimwear,Rainforest,Men,Khaki,FS24,XS,61.0,0.0,0.86,21,129,fast_mover,B_obvious_fast_mover
+Sweatshirt,Box Logo,Women,Pale Mint,FS24,S,100.51,0.0,0.906,15,145,fast_mover,B_obvious_fast_mover
+Swimwear,Circular,Men,Caviar,FS24,XS,40.8,0.0,0.847,23,127,fast_mover,B_obvious_fast_mover
+Pants,Morgex,Men,Caviar,FS24,XS,108.08,0.0,0.901,27,246,fast_mover,B_obvious_fast_mover
+Pants,Rainforest,Men,Stone Grey,FS24,S,103.03,0.0,0.904,27,254,fast_mover,B_obvious_fast_mover
+Swimwear,Tribe,Women,Pale Mint,FS24,One Size,44.32,0.0,0.824,10,47,fast_mover,B_obvious_fast_mover
+Shorts,Rainforest,Men,Snow White,FS24,One Size,89.46,0.0,0.817,30,134,fast_mover,B_obvious_fast_mover
+Shorts,Morgex,Men,White Whisper,FS24,M,66.79,0.0,0.873,22,151,fast_mover,B_obvious_fast_mover
+Shoes,Rainforest,Women,Grey Melange,FS24,36,151.89,0.0,0.984,19,1168,fast_mover,B_obvious_fast_mover
+Shorts,Patch,Men,Grey Melange,FS24,S,78.17,0.0,0.828,26,125,fast_mover,B_obvious_fast_mover
+Pants,Trail,Women,Khaki,FS24,XS,97.08,0.0,0.962,8,203,fast_mover,B_obvious_fast_mover
+Swimwear,Box Logo,Men,Bright Red,FS24,XL,40.29,0.0,0.831,6,30,fast_mover,B_obvious_fast_mover
+Pants,Geographic,Women,Bright Red,FS24,XL,121.16,0.0,0.869,34,226,fast_mover,B_obvious_fast_mover
+Sweatshirt,Geographic,Women,Burgundy,FS24,XXL,108.15,0.0,0.968,46,1391,fast_mover,B_obvious_fast_mover
+Polo,Circular,Men,Caviar,FS24,One Size,67.33,0.0,0.802,5,20,fast_mover,B_obvious_fast_mover
+Accessories,Trail,Women,Khaki,FS24,XS,28.42,0.0,0.854,37,216,fast_mover,B_obvious_fast_mover
+T-Shirt,Morgex,Men,Stone Grey,FS24,XXL,47.5,0.0,0.829,47,228,fast_mover,B_obvious_fast_mover
+Swimwear,Box Logo,Men,Forest Green,FS24,L,60.71,0.0,0.864,34,216,fast_mover,B_obvious_fast_mover
+Polo,Patch,Women,Caviar,FS24,XS,83.91,0.0,0.984,45,2767,fast_mover,B_obvious_fast_mover
+Pants,Slate,Women,Navy,FS24,S,118.0,0.0,0.861,42,260,fast_mover,B_obvious_fast_mover
+Pants,Tribe,Women,Grey Melange,FS24,One Size,125.55,0.0,0.824,23,108,fast_mover,B_obvious_fast_mover
+Accessories,Circular,Men,Bright Red,FS24,XL,52.69,0.0,0.935,11,158,fast_mover,B_obvious_fast_mover
+Accessories,Patch,Men,Stone Grey,FS24,XS,24.97,0.0,0.915,14,151,fast_mover,B_obvious_fast_mover
+T-Shirt,Circular,Women,Khaki,FS24,XL,40.97,0.0,0.83,11,54,fast_mover,B_obvious_fast_mover
+Sweatshirt,Circular,Women,Caviar,FS24,L,107.44,0.0,0.907,16,156,fast_mover,B_obvious_fast_mover
+Sweatshirt,Slate,Men,Forest Green,FS24,XL,128.95,0.0,0.819,31,140,fast_mover,B_obvious_fast_mover
+Pants,Geographic,Men,Burgundy,FS24,XL,85.9,0.0,0.947,37,661,fast_mover,B_obvious_fast_mover
+T-Shirt,Patch,Men,Yellow Sunshine,FS24,L,45.01,0.0,0.856,16,95,fast_mover,B_obvious_fast_mover
+Shoes,Slate,Men,Grey Melange,FS24,37,156.71,0.0,0.98,14,686,fast_mover,B_obvious_fast_mover
+Pants,Slate,Men,Burgundy,FS24,XS,107.52,0.0,0.941,30,478,fast_mover,B_obvious_fast_mover
+Shirt,Slate,Men,Stone Grey,FS24,XL,93.34,0.0,0.963,7,182,fast_mover,B_obvious_fast_mover
+Accessories,Tribe,Men,Yellow Sunshine,FS24,S,23.21,0.0,0.848,19,106,fast_mover,B_obvious_fast_mover
+Polo,Tribe,Men,Forest Green,FS24,XL,60.14,0.0,0.835,31,157,fast_mover,B_obvious_fast_mover
+Swimwear,Tribe,Men,Grey Melange,FS24,S,70.58,0.0,0.885,20,154,fast_mover,B_obvious_fast_mover
+Pants,Geographic,Men,Khaki,FS24,One Size,144.3,0.0,0.847,32,177,fast_mover,B_obvious_fast_mover
+Shorts,Slate,Men,Caviar,FS24,L,81.3,0.0,0.917,43,475,fast_mover,B_obvious_fast_mover
+Accessories,Morgex,Men,Navy,FS24,L,33.48,0.0,0.914,11,117,fast_mover,B_obvious_fast_mover
+Accessories,Morgex,Men,Yellow Sunshine,FS24,XL,38.69,0.0,0.885,45,346,fast_mover,B_obvious_fast_mover
+T-Shirt,Geographic,Women,Caviar,FS24,XXL,30.32,0.0,0.983,22,1272,fast_mover,B_obvious_fast_mover
+Accessories,Slate,Women,Forest Green,FS24,XS,65.33,0.0,0.864,1,6,fast_mover,B_obvious_fast_mover
+Pants,Circular,Women,Bright Red,FS24,XXL,87.96,0.0,0.925,11,136,fast_mover,B_obvious_fast_mover
+Pants,Tribe,Men,Snow White,FS24,XXL,94.36,0.0,0.886,37,288,fast_mover,B_obvious_fast_mover
+Sweatshirt,Tribe,Men,Forest Green,FS24,L,122.5,0.0,0.983,45,2602,fast_mover,B_obvious_fast_mover
+T-Shirt,Tribe,Men,Navy,FS24,One Size,37.8,0.0,0.849,8,45,fast_mover,B_obvious_fast_mover
+T-Shirt,Slate,Men,Yellow Sunshine,FS24,XL,45.21,0.0,0.922,48,567,fast_mover,B_obvious_fast_mover
+Shorts,Trail,Men,Yellow Sunshine,FS24,XL,57.46,0.0,0.978,14,622,fast_mover,B_obvious_fast_mover
+Shorts,Patch,Women,Khaki,FS24,S,68.04,0.0,0.92,33,380,fast_mover,B_obvious_fast_mover
+Pants,Trail,Women,Grey Melange,FS24,XXL,99.09,0.0,0.831,46,226,fast_mover,B_obvious_fast_mover
+T-Shirt,Slate,Women,Yellow Sunshine,FS24,XS,33.85,0.0,0.903,10,93,fast_mover,B_obvious_fast_mover
+Swimwear,Box Logo,Men,Yellow Sunshine,FS24,XL,57.06,0.0,0.971,27,904,fast_mover,B_obvious_fast_mover
+Shoes,Box Logo,Men,Bright White,FS24,44,167.43,0.0,0.811,38,163,fast_mover,B_obvious_fast_mover
+Pants,Circular,Men,Pale Mint,FS24,S,92.1,0.0,0.989,4,360,fast_mover,B_obvious_fast_mover
+T-Shirt,Rainforest,Men,Navy,FS24,S,44.22,0.0,0.963,37,963,fast_mover,B_obvious_fast_mover
+Shorts,Trail,Men,Bright White,FS24,L,64.14,0.0,0.824,20,94,fast_mover,B_obvious_fast_mover
+Accessories,Morgex,Women,White Whisper,FS24,One Size,65.79,0.0,0.859,3,18,fast_mover,B_obvious_fast_mover
+Sweatshirt,Box Logo,Men,Navy,FS24,S,115.74,0.0,0.914,4,43,fast_mover,B_obvious_fast_mover
+Shoes,Morgex,Women,Bright Red,FS24,43,148.32,0.0,0.987,4,304,fast_mover,B_obvious_fast_mover
+Swimwear,Rainforest,Women,Bright White,FS24,XXL,67.11,0.0,0.808,7,29,fast_mover,B_obvious_fast_mover
+T-Shirt,Circular,Men,Bright White,FS24,L,48.73,0.0,0.849,25,141,fast_mover,B_obvious_fast_mover
+T-Shirt,Morgex,Women,Forest Green,FS24,S,31.6,0.0,0.938,8,121,fast_mover,B_obvious_fast_mover
+Pants,Morgex,Women,Yellow Sunshine,FS24,XL,81.87,0.0,0.905,10,95,fast_mover,B_obvious_fast_mover
+Shirt,Tribe,Women,Yellow Sunshine,FS24,L,107.74,0.0,0.818,28,126,fast_mover,B_obvious_fast_mover
+Pants,Circular,Men,Caviar,FS24,One Size,144.16,0.0,0.923,46,551,fast_mover,B_obvious_fast_mover
+T-Shirt,Rainforest,Men,Yellow Sunshine,FS24,XL,31.24,0.0,0.821,49,225,fast_mover,B_obvious_fast_mover
+Swimwear,Trail,Men,Bright Red,FS24,XXL,63.6,0.0,0.828,39,188,fast_mover,B_obvious_fast_mover
+T-Shirt,Circular,Men,Yellow Sunshine,FS24,L,35.6,0.0,0.863,41,258,fast_mover,B_obvious_fast_mover
+Pants,Geographic,Men,Forest Green,FS24,XL,89.72,0.0,0.953,35,710,fast_mover,B_obvious_fast_mover
+Shorts,Geographic,Men,Caviar,FS24,XS,69.33,0.0,0.883,12,91,fast_mover,B_obvious_fast_mover
+Shoes,Trail,Men,Yellow Sunshine,FS24,39,110.59,0.0,0.981,9,465,fast_mover,B_obvious_fast_mover
+Pants,Trail,Men,Caviar,FS24,XXL,142.87,0.0,0.907,35,341,fast_mover,B_obvious_fast_mover
+Accessories,Trail,Men,Caviar,FS24,One Size,37.27,0.0,0.952,28,555,fast_mover,B_obvious_fast_mover
+Swimwear,Box Logo,Men,Khaki,FS24,XL,62.11,0.0,0.851,47,268,fast_mover,B_obvious_fast_mover
+T-Shirt,Box Logo,Men,Navy,FS24,XS,36.16,0.0,0.907,5,49,fast_mover,B_obvious_fast_mover
+Polo,Trail,Men,Navy,FS24,XS,62.14,0.0,0.891,42,343,fast_mover,B_obvious_fast_mover
+Swimwear,Trail,Women,Navy,FS24,One Size,78.05,0.0,0.827,38,182,fast_mover,B_obvious_fast_mover
+Shorts,Geographic,Men,Stone Grey,FS24,S,78.39,0.0,0.934,28,396,fast_mover,B_obvious_fast_mover
+Sweatshirt,Box Logo,Men,Caviar,FS24,XS,85.25,0.0,0.926,16,200,fast_mover,B_obvious_fast_mover
+T-Shirt,Rainforest,Men,Caviar,FS24,XS,33.8,0.0,0.921,2,23,fast_mover,B_obvious_fast_mover
+Sweatshirt,Geographic,Men,Forest Green,FS24,XL,97.63,0.0,0.937,22,327,fast_mover,B_obvious_fast_mover
+Shoes,Geographic,Men,Bright White,FS24,45,177.29,0.0,0.944,47,792,fast_mover,B_obvious_fast_mover
+Sweatshirt,Box Logo,Women,Burgundy,FS24,One Size,95.95,0.0,0.849,47,264,fast_mover,B_obvious_fast_mover
+T-Shirt,Box Logo,Men,White Whisper,FS24,M,31.23,0.0,0.805,24,99,fast_mover,B_obvious_fast_mover
+Accessories,Geographic,Men,Navy,FS24,M,47.29,0.0,0.917,46,508,fast_mover,B_obvious_fast_mover
+Polo,Box Logo,Women,Grey Melange,FS24,M,63.04,0.0,0.816,39,173,fast_mover,B_obvious_fast_mover
+Accessories,Tribe,Men,Caviar,FS24,XXL,60.06,0.0,0.915,35,377,fast_mover,B_obvious_fast_mover
+Accessories,Trail,Women,Bright White,FS24,L,45.31,0.0,0.842,4,21,fast_mover,B_obvious_fast_mover
+T-Shirt,Slate,Women,Khaki,FS24,L,37.32,0.0,0.867,12,78,fast_mover,B_obvious_fast_mover
+Pants,Morgex,Men,Caviar,FS24,M,116.44,0.0,0.865,37,237,fast_mover,B_obvious_fast_mover
+Polo,Circular,Women,Burgundy,FS24,XL,80.15,0.0,0.951,25,485,fast_mover,B_obvious_fast_mover
+Shirt,Trail,Men,Stone Grey,FS24,XS,81.63,0.0,0.822,44,203,fast_mover,B_obvious_fast_mover
+Pants,Morgex,Women,Snow White,FS24,XL,119.23,0.0,0.891,18,147,fast_mover,B_obvious_fast_mover
+Pants,Trail,Women,Burgundy,FS24,XS,104.23,0.0,0.911,43,440,fast_mover,B_obvious_fast_mover
+Shorts,Box Logo,Women,Stone Grey,FS24,L,75.89,0.0,0.826,35,166,fast_mover,B_obvious_fast_mover
+T-Shirt,Rainforest,Women,Bright White,FS24,XXL,47.09,0.0,0.831,18,89,fast_mover,B_obvious_fast_mover
+Shorts,Morgex,Women,Stone Grey,FS24,M,68.19,0.0,0.981,45,2323,fast_mover,B_obvious_fast_mover
+Swimwear,Geographic,Women,White Whisper,FS24,One Size,62.26,0.0,0.839,28,146,fast_mover,B_obvious_fast_mover
+Shoes,Trail,Women,Pale Mint,FS24,43,121.47,0.0,0.826,22,104,fast_mover,B_obvious_fast_mover
+T-Shirt,Box Logo,Men,Pale Mint,FS24,XXL,44.8,0.0,0.976,42,1708,fast_mover,B_obvious_fast_mover
+Shoes,Geographic,Women,Bright White,FS24,41,105.5,0.0,0.959,32,748,fast_mover,B_obvious_fast_mover
+Accessories,Geographic,Women,Caviar,FS24,One Size,60.62,0.0,0.898,19,167,fast_mover,B_obvious_fast_mover
+Accessories,Geographic,Men,Pale Mint,FS24,XS,26.69,0.0,0.897,33,287,fast_mover,B_obvious_fast_mover
+Pants,Circular,Men,Snow White,FS24,XS,123.39,0.0,0.949,36,670,fast_mover,B_obvious_fast_mover
+Shoes,Rainforest,Women,Pale Mint,FS24,37,152.71,0.0,0.876,17,120,fast_mover,B_obvious_fast_mover
+T-Shirt,Slate,Men,Bright Red,FS24,XXL,47.56,0.0,0.976,21,854,fast_mover,B_obvious_fast_mover
+Swimwear,Tribe,Men,Grey Melange,FS24,L,49.91,0.0,0.814,49,214,fast_mover,B_obvious_fast_mover
+Pants,Morgex,Men,Bright White,FS24,XXL,80.49,0.0,0.913,16,168,fast_mover,B_obvious_fast_mover
+Accessories,Patch,Women,Forest Green,FS24,XL,63.94,0.0,0.864,18,114,fast_mover,B_obvious_fast_mover
+Pants,Box Logo,Men,Bright White,FS24,XL,137.5,0.0,0.931,40,540,fast_mover,B_obvious_fast_mover
+Sweatshirt,Box Logo,Men,Caviar,FS24,One Size,119.1,0.0,0.978,49,2178,fast_mover,B_obvious_fast_mover
+Accessories,Trail,Women,Yellow Sunshine,FS24,M,42.55,0.0,0.95,18,342,fast_mover,B_obvious_fast_mover
+T-Shirt,Circular,Women,Khaki,FS24,M,42.38,0.0,0.857,39,234,fast_mover,B_obvious_fast_mover
+Shirt,Geographic,Women,Grey Melange,FS24,M,102.35,0.0,0.905,23,219,fast_mover,B_obvious_fast_mover
+Accessories,Trail,Men,Burgundy,FS24,L,65.44,0.0,0.977,41,1742,fast_mover,B_obvious_fast_mover
+Polo,Patch,Men,Pale Mint,FS24,S,85.14,0.0,0.907,27,263,fast_mover,B_obvious_fast_mover
+Pants,Tribe,Men,White Whisper,FS24,XL,94.6,0.0,0.895,37,315,fast_mover,B_obvious_fast_mover
+Accessories,Patch,Women,Yellow Sunshine,FS24,S,50.49,0.0,0.825,29,137,fast_mover,B_obvious_fast_mover
+Shirt,Rainforest,Men,Bright Red,FS24,L,122.7,0.0,0.879,20,145,fast_mover,B_obvious_fast_mover
+Shorts,Circular,Women,Pale Mint,FS24,L,78.72,0.0,0.908,37,365,fast_mover,B_obvious_fast_mover
+Shoes,Trail,Women,Grey Melange,FS24,46,176.72,0.0,0.934,14,198,fast_mover,B_obvious_fast_mover
+Swimwear,Geographic,Women,Yellow Sunshine,FS24,XS,70.2,0.0,0.916,42,458,fast_mover,B_obvious_fast_mover
+Shoes,Circular,Women,White Whisper,FS24,40,169.45,0.0,0.821,26,119,fast_mover,B_obvious_fast_mover
+Shirt,Geographic,Men,Bright White,FS24,One Size,85.42,0.0,0.829,19,92,fast_mover,B_obvious_fast_mover
+Swimwear,Trail,Women,Bright Red,FS24,XL,58.93,0.0,0.831,1,5,fast_mover,B_obvious_fast_mover
+Pants,Circular,Women,Bright Red,FS24,M,121.44,0.0,0.829,12,58,fast_mover,B_obvious_fast_mover
+Shoes,Rainforest,Men,White Whisper,FS24,41,118.01,0.0,0.863,44,277,fast_mover,B_obvious_fast_mover
+Swimwear,Geographic,Men,Burgundy,FS24,XL,44.57,0.0,0.962,23,582,fast_mover,B_obvious_fast_mover
+Sweatshirt,Geographic,Women,Stone Grey,FS24,L,94.61,0.0,0.952,26,516,fast_mover,B_obvious_fast_mover
+Shorts,Tribe,Women,Navy,FS24,XS,70.56,0.0,0.935,30,432,fast_mover,B_obvious_fast_mover
+Pants,Slate,Women,Navy,FS24,L,136.84,0.0,0.964,48,1285,fast_mover,B_obvious_fast_mover
+Pants,Geographic,Men,Burgundy,FS24,One Size,133.33,0.0,0.827,12,57,fast_mover,B_obvious_fast_mover
+Shorts,Morgex,Men,Bright White,FS24,XXL,82.79,0.0,0.849,19,107,fast_mover,B_obvious_fast_mover
+Polo,Tribe,Women,Khaki,FS24,M,83.75,0.0,0.876,29,205,fast_mover,B_obvious_fast_mover
+Swimwear,Geographic,Women,Bright White,FS24,M,59.36,0.0,0.948,20,365,fast_mover,B_obvious_fast_mover
+Pants,Tribe,Women,Snow White,FS24,L,136.41,0.0,0.816,13,58,fast_mover,B_obvious_fast_mover
+Polo,Trail,Men,Bright White,FS24,M,88.53,0.0,0.883,44,332,fast_mover,B_obvious_fast_mover
+Shoes,Morgex,Men,Forest Green,FS24,41,117.59,0.0,0.978,38,1689,fast_mover,B_obvious_fast_mover
+Shorts,Geographic,Women,Bright White,FS24,M,59.02,0.0,0.925,10,123,fast_mover,B_obvious_fast_mover
+Swimwear,Morgex,Women,Burgundy,FS24,M,64.09,0.0,0.932,22,302,fast_mover,B_obvious_fast_mover
+Pants,Morgex,Women,Grey Melange,FS24,L,123.52,0.0,0.853,48,279,fast_mover,B_obvious_fast_mover
+Polo,Slate,Men,Navy,FS24,One Size,76.81,0.0,0.968,11,333,fast_mover,B_obvious_fast_mover
+Sweatshirt,Geographic,Women,Forest Green,FS24,M,128.25,0.0,0.914,6,64,fast_mover,B_obvious_fast_mover
+T-Shirt,Geographic,Women,Forest Green,FS24,L,46.43,0.0,0.841,13,69,fast_mover,B_obvious_fast_mover
+Polo,Patch,Women,Forest Green,FS24,XS,84.47,0.0,0.834,2,10,fast_mover,B_obvious_fast_mover
+Shirt,Trail,Women,Navy,FS24,XXL,99.46,0.0,0.847,22,122,fast_mover,B_obvious_fast_mover
+Swimwear,Geographic,Men,Snow White,FS24,XS,48.12,0.0,0.86,16,98,fast_mover,B_obvious_fast_mover
+Shirt,Tribe,Men,Snow White,FS24,One Size,123.96,0.0,0.811,11,47,fast_mover,B_obvious_fast_mover
+Pants,Rainforest,Men,White Whisper,FS24,S,96.82,0.0,0.88,34,249,fast_mover,B_obvious_fast_mover
+Shirt,Trail,Men,Burgundy,FS24,XXL,108.78,0.0,0.868,42,276,fast_mover,B_obvious_fast_mover
+Swimwear,Trail,Men,Snow White,FS24,XL,75.12,0.0,0.861,39,242,fast_mover,B_obvious_fast_mover
+T-Shirt,Geographic,Men,Navy,FS24,XXL,44.75,0.0,0.832,49,243,fast_mover,B_obvious_fast_mover
+Polo,Rainforest,Men,Pale Mint,FS24,XL,70.43,0.0,0.981,5,258,fast_mover,B_obvious_fast_mover
+T-Shirt,Patch,Women,Grey Melange,FS24,S,42.0,0.0,0.818,39,175,fast_mover,B_obvious_fast_mover
+Pants,Patch,Women,Caviar,FS24,L,83.31,0.0,0.805,15,62,fast_mover,B_obvious_fast_mover
+Pants,Morgex,Women,Burgundy,FS24,XS,120.17,0.0,0.93,27,359,fast_mover,B_obvious_fast_mover
+Pants,Morgex,Women,White Whisper,FS24,One Size,110.72,0.0,0.939,33,508,fast_mover,B_obvious_fast_mover
+Swimwear,Patch,Men,Khaki,FS24,M,70.16,0.0,0.962,44,1114,fast_mover,B_obvious_fast_mover
+Accessories,Patch,Women,Caviar,FS24,L,43.75,0.0,0.921,46,536,fast_mover,B_obvious_fast_mover
+Shirt,Trail,Women,Yellow Sunshine,FS24,XL,120.98,0.0,0.952,42,833,fast_mover,B_obvious_fast_mover
+T-Shirt,Slate,Women,Snow White,FS24,XL,48.72,0.0,0.972,38,1319,fast_mover,B_obvious_fast_mover
+Sweatshirt,Circular,Women,Grey Melange,FS24,One Size,128.74,0.0,0.848,24,134,fast_mover,B_obvious_fast_mover
+Shorts,Box Logo,Men,Caviar,FS24,L,57.55,0.0,0.963,11,286,fast_mover,B_obvious_fast_mover
+Polo,Morgex,Women,Caviar,FS24,XL,67.5,0.0,0.967,38,1114,fast_mover,B_obvious_fast_mover
+Polo,Rainforest,Men,Stone Grey,FS24,L,73.51,0.0,0.943,26,430,fast_mover,B_obvious_fast_mover
+Pants,Tribe,Men,Burgundy,FS24,S,99.46,0.0,0.976,12,488,fast_mover,B_obvious_fast_mover
+Shirt,Circular,Women,Navy,FS24,XXL,92.42,0.0,0.811,5,21,fast_mover,B_obvious_fast_mover
+Shirt,Tribe,Men,Pale Mint,FS24,M,113.09,0.0,0.92,33,380,fast_mover,B_obvious_fast_mover
+Shorts,Slate,Men,Khaki,FS24,XL,81.69,0.0,0.893,41,342,fast_mover,B_obvious_fast_mover
+Polo,Tribe,Men,Navy,FS24,S,88.84,0.0,0.816,25,111,fast_mover,B_obvious_fast_mover
+Shirt,Tribe,Men,Pale Mint,FS24,XS,126.38,0.0,0.982,26,1418,fast_mover,B_obvious_fast_mover
+Polo,Morgex,Men,Bright Red,FS24,XXL,66.64,0.0,0.862,1,6,fast_mover,B_obvious_fast_mover
+Sweatshirt,Box Logo,Men,Caviar,FS24,M,112.44,0.0,0.948,33,602,fast_mover,B_obvious_fast_mover
+T-Shirt,Box Logo,Men,Navy,FS24,S,34.12,0.0,0.859,25,152,fast_mover,B_obvious_fast_mover
+Shoes,Tribe,Women,Khaki,FS24,44,150.36,0.0,0.978,33,1467,fast_mover,B_obvious_fast_mover
+Sweatshirt,Rainforest,Women,Grey Melange,FS24,M,108.19,0.0,0.812,36,155,fast_mover,B_obvious_fast_mover
+T-Shirt,Rainforest,Women,Caviar,FS24,XXL,43.71,0.0,0.96,14,336,fast_mover,B_obvious_fast_mover
+Shoes,Trail,Men,Burgundy,FS24,39,102.48,0.0,0.937,19,283,fast_mover,B_obvious_fast_mover
+Accessories,Circular,Men,Bright Red,FS24,XL,51.21,0.0,0.89,46,372,fast_mover,B_obvious_fast_mover
+Shoes,Box Logo,Women,Khaki,FS24,46,123.21,0.0,0.884,35,267,fast_mover,B_obvious_fast_mover
+Shirt,Box Logo,Women,Bright White,FS24,XL,114.12,0.0,0.922,14,165,fast_mover,B_obvious_fast_mover
+Swimwear,Trail,Men,Forest Green,FS24,L,60.32,0.0,0.939,32,493,fast_mover,B_obvious_fast_mover
+Shoes,Rainforest,Women,Forest Green,FS24,40,122.21,0.0,0.87,21,141,fast_mover,B_obvious_fast_mover
+Sweatshirt,Box Logo,Men,Stone Grey,FS24,L,120.2,0.0,0.883,33,249,fast_mover,B_obvious_fast_mover
+Accessories,Geographic,Men,Forest Green,FS24,One Size,53.79,0.0,0.865,2,13,fast_mover,B_obvious_fast_mover
+Shorts,Rainforest,Women,Navy,FS24,XS,60.29,0.0,0.918,33,369,fast_mover,B_obvious_fast_mover
+Sweatshirt,Morgex,Men,Navy,FS24,M,85.98,0.0,0.99,6,594,fast_mover,B_obvious_fast_mover
+Swimwear,Tribe,Men,Yellow Sunshine,FS24,L,40.79,0.0,0.88,18,132,fast_mover,B_obvious_fast_mover
+Accessories,Box Logo,Women,Khaki,FS24,One Size,68.71,0.0,0.807,23,96,fast_mover,B_obvious_fast_mover
+Swimwear,Geographic,Women,Stone Grey,FS24,L,50.18,0.0,0.827,42,201,fast_mover,B_obvious_fast_mover
+Accessories,Circular,Men,Bright Red,FS24,M,50.99,0.0,0.859,46,280,fast_mover,B_obvious_fast_mover
+Sweatshirt,Geographic,Men,Burgundy,FS24,S,87.16,0.0,0.954,38,788,fast_mover,B_obvious_fast_mover
+Shoes,Patch,Women,Navy,FS24,42,165.02,0.0,0.967,33,967,fast_mover,B_obvious_fast_mover
+Shoes,Rainforest,Men,Forest Green,FS24,42,137.95,0.0,0.964,14,375,fast_mover,B_obvious_fast_mover
+Shirt,Geographic,Men,Snow White,FS24,L,107.23,0.0,0.925,26,321,fast_mover,B_obvious_fast_mover
+Accessories,Slate,Men,Stone Grey,FS24,M,37.29,0.0,0.975,4,156,fast_mover,B_obvious_fast_mover
+Polo,Circular,Women,Forest Green,FS24,L,64.16,0.0,0.973,41,1478,fast_mover,B_obvious_fast_mover
+Shoes,Rainforest,Men,Pale Mint,FS24,40,102.87,0.0,0.894,4,34,fast_mover,B_obvious_fast_mover
+Shirt,Circular,Men,Burgundy,FS24,S,84.65,0.0,0.814,25,109,fast_mover,B_obvious_fast_mover
+Shorts,Box Logo,Women,Snow White,FS24,XXL,57.1,0.0,0.968,16,484,fast_mover,B_obvious_fast_mover
+Accessories,Patch,Women,Caviar,FS24,One Size,41.26,0.0,0.982,15,818,fast_mover,B_obvious_fast_mover
+T-Shirt,Box Logo,Men,Grey Melange,FS24,XL,41.86,0.0,0.988,7,576,fast_mover,B_obvious_fast_mover
+Shirt,Tribe,Men,Burgundy,FS24,S,86.48,0.0,0.932,16,219,fast_mover,B_obvious_fast_mover
+T-Shirt,Morgex,Women,White Whisper,FS24,XS,39.95,0.0,0.83,10,49,fast_mover,B_obvious_fast_mover
+Shorts,Slate,Men,Snow White,FS24,XS,70.87,0.0,0.837,8,41,fast_mover,B_obvious_fast_mover
+T-Shirt,Box Logo,Women,Grey Melange,FS24,M,32.78,0.0,0.894,48,405,fast_mover,B_obvious_fast_mover
+T-Shirt,Rainforest,Men,Caviar,FS24,XS,34.67,0.0,0.871,29,196,fast_mover,B_obvious_fast_mover
+Shoes,Rainforest,Women,Caviar,FS24,41,179.23,0.0,0.989,44,3956,fast_mover,B_obvious_fast_mover
+Accessories,Circular,Men,Yellow Sunshine,FS24,XS,31.88,0.0,0.803,16,65,fast_mover,B_obvious_fast_mover
+Shirt,Circular,Men,Forest Green,FS24,One Size,89.01,0.0,0.936,14,205,fast_mover,B_obvious_fast_mover
+Pants,Rainforest,Men,Forest Green,FS24,S,92.88,0.0,0.894,27,228,fast_mover,B_obvious_fast_mover
+Shorts,Box Logo,Men,Bright Red,FS24,L,60.54,0.0,0.833,10,50,fast_mover,B_obvious_fast_mover
+Pants,Trail,Women,Snow White,FS24,XS,97.53,0.0,0.886,27,210,fast_mover,B_obvious_fast_mover
+Sweatshirt,Circular,Men,White Whisper,FS24,XXL,89.66,0.0,0.86,21,129,fast_mover,B_obvious_fast_mover
+Shirt,Rainforest,Women,Navy,FS24,One Size,113.14,0.0,0.891,32,262,fast_mover,B_obvious_fast_mover
+Shirt,Rainforest,Women,Burgundy,FS24,XS,112.01,0.0,0.904,40,377,fast_mover,B_obvious_fast_mover
+Accessories,Geographic,Women,Yellow Sunshine,FS24,L,38.93,0.0,0.956,42,913,fast_mover,B_obvious_fast_mover
+Sweatshirt,Trail,Men,Forest Green,FS24,XL,126.22,0.0,0.891,26,213,fast_mover,B_obvious_fast_mover
+Shirt,Morgex,Women,Stone Grey,FS24,XL,115.87,0.0,0.98,18,882,fast_mover,B_obvious_fast_mover
+Shoes,Tribe,Men,Grey Melange,FS24,39,166.25,0.0,0.961,10,246,fast_mover,B_obvious_fast_mover
+Shirt,Geographic,Women,Navy,FS24,S,128.33,0.0,0.934,40,566,fast_mover,B_obvious_fast_mover
+Sweatshirt,Tribe,Women,Navy,FS24,XXL,119.45,0.0,0.853,37,215,fast_mover,B_obvious_fast_mover
+Polo,Box Logo,Men,Khaki,FS24,S,79.4,0.0,0.88,20,147,fast_mover,B_obvious_fast_mover
+Shirt,Geographic,Men,Burgundy,FS24,One Size,112.45,0.0,0.909,3,30,fast_mover,B_obvious_fast_mover
+Shirt,Circular,Women,Forest Green,FS24,L,116.45,0.0,0.859,14,85,fast_mover,B_obvious_fast_mover
+Shoes,Box Logo,Women,Yellow Sunshine,FS24,41,149.35,0.0,0.814,33,144,fast_mover,B_obvious_fast_mover
+Shorts,Morgex,Women,Caviar,FS24,M,57.45,0.0,0.842,41,218,fast_mover,B_obvious_fast_mover
+Shorts,Slate,Men,Bright Red,FS24,XL,77.46,0.0,0.972,22,764,fast_mover,B_obvious_fast_mover
+Shoes,Box Logo,Women,Bright Red,FS24,43,172.58,0.0,0.818,15,67,fast_mover,B_obvious_fast_mover
+Swimwear,Patch,Women,Stone Grey,FS24,One Size,60.73,0.0,0.861,31,192,fast_mover,B_obvious_fast_mover
+Shirt,Tribe,Men,Stone Grey,FS24,One Size,93.38,0.0,0.912,38,394,fast_mover,B_obvious_fast_mover
+Shoes,Rainforest,Men,White Whisper,FS24,40,176.07,0.0,0.952,30,595,fast_mover,B_obvious_fast_mover
+Shorts,Geographic,Women,Pale Mint,FS24,XXL,70.74,0.0,0.891,8,65,fast_mover,B_obvious_fast_mover
+Polo,Geographic,Men,Bright White,FS24,S,78.79,0.0,0.881,7,52,fast_mover,B_obvious_fast_mover
+Sweatshirt,Slate,Men,Bright White,FS24,XXL,122.79,0.0,0.935,25,360,fast_mover,B_obvious_fast_mover
+Shoes,Trail,Men,Bright White,FS24,40,102.67,0.0,0.873,26,179,fast_mover,B_obvious_fast_mover
+T-Shirt,Geographic,Women,Burgundy,FS24,S,38.69,0.0,0.879,34,247,fast_mover,B_obvious_fast_mover
+Shirt,Tribe,Men,Bright White,FS24,M,103.69,0.0,0.91,3,30,fast_mover,B_obvious_fast_mover
+Polo,Geographic,Women,Burgundy,FS24,S,66.21,0.0,0.9,23,207,fast_mover,B_obvious_fast_mover
+Shirt,Rainforest,Men,Stone Grey,FS24,One Size,111.93,0.0,0.847,35,194,fast_mover,B_obvious_fast_mover
+Shorts,Trail,Men,Yellow Sunshine,FS24,One Size,88.47,0.0,0.934,23,325,fast_mover,B_obvious_fast_mover
+Accessories,Slate,Women,Snow White,FS24,One Size,47.77,0.0,0.916,28,305,fast_mover,B_obvious_fast_mover
+Sweatshirt,Geographic,Women,White Whisper,FS24,L,86.36,0.0,0.933,36,501,fast_mover,B_obvious_fast_mover
+Accessories,Geographic,Men,Caviar,FS24,One Size,25.2,0.0,0.825,9,42,fast_mover,B_obvious_fast_mover
+Shirt,Tribe,Women,White Whisper,FS24,S,107.61,0.0,0.959,36,842,fast_mover,B_obvious_fast_mover
+Sweatshirt,Morgex,Men,Khaki,FS24,XL,124.22,0.0,0.833,44,219,fast_mover,B_obvious_fast_mover
+Accessories,Trail,Men,Pale Mint,FS24,XXL,50.71,0.0,0.942,6,97,fast_mover,B_obvious_fast_mover
+T-Shirt,Rainforest,Men,Grey Melange,FS24,S,38.97,0.0,0.838,38,197,fast_mover,B_obvious_fast_mover
+Pants,Rainforest,Men,Navy,FS24,XL,119.72,0.0,0.835,6,30,fast_mover,B_obvious_fast_mover
+Swimwear,Rainforest,Men,Caviar,FS24,XXL,67.37,0.0,0.835,16,81,fast_mover,B_obvious_fast_mover
+Accessories,Tribe,Women,Grey Melange,FS24,S,63.63,0.0,0.915,11,118,fast_mover,B_obvious_fast_mover
+Pants,Patch,Women,Bright White,FS24,M,148.32,0.0,0.806,23,96,fast_mover,B_obvious_fast_mover
+Shorts,Slate,Women,Pale Mint,FS24,L,65.36,0.0,0.965,9,248,fast_mover,B_obvious_fast_mover
+Accessories,Patch,Men,Forest Green,FS24,L,61.4,0.0,0.89,23,186,fast_mover,B_obvious_fast_mover
+Shoes,Trail,Men,Forest Green,FS24,44,101.65,0.0,0.837,42,216,fast_mover,B_obvious_fast_mover
+Sweatshirt,Box Logo,Women,Bright White,FS24,XL,89.33,0.0,0.901,1,9,fast_mover,B_obvious_fast_mover
+Shorts,Patch,Women,Grey Melange,FS24,One Size,88.24,0.0,0.853,23,133,fast_mover,B_obvious_fast_mover
+Pants,Rainforest,Men,Khaki,FS24,M,137.18,0.0,0.93,35,465,fast_mover,B_obvious_fast_mover
+Shoes,Morgex,Women,Yellow Sunshine,FS24,41,160.54,0.0,0.99,39,3861,fast_mover,B_obvious_fast_mover
+Accessories,Circular,Women,Forest Green,FS24,One Size,30.57,0.0,0.808,25,105,fast_mover,B_obvious_fast_mover
+Shorts,Circular,Men,Bright White,FS24,XL,50.28,0.0,0.868,35,230,fast_mover,B_obvious_fast_mover
+Swimwear,Tribe,Women,Bright Red,FS24,XL,46.24,0.0,0.973,49,1766,fast_mover,B_obvious_fast_mover
+Sweatshirt,Geographic,Women,Grey Melange,FS24,XL,83.25,0.0,0.814,5,22,fast_mover,B_obvious_fast_mover
+Shirt,Patch,Women,Stone Grey,FS24,M,102.23,0.0,0.912,49,508,fast_mover,B_obvious_fast_mover
+Pants,Morgex,Men,Grey Melange,FS24,XS,149.8,0.0,0.867,35,228,fast_mover,B_obvious_fast_mover
+Shoes,Geographic,Women,Khaki,FS24,36,127.53,0.0,0.979,1,47,fast_mover,B_obvious_fast_mover
+Pants,Rainforest,Women,Khaki,FS24,XL,137.37,0.0,0.801,13,52,fast_mover,B_obvious_fast_mover
+Accessories,Geographic,Men,Pale Mint,FS24,One Size,62.67,0.0,0.875,29,203,fast_mover,B_obvious_fast_mover
+Polo,Box Logo,Women,Burgundy,FS24,XS,66.04,0.0,0.905,3,29,fast_mover,B_obvious_fast_mover
+Accessories,Box Logo,Women,Stone Grey,FS24,M,66.01,0.0,0.819,32,145,fast_mover,B_obvious_fast_mover
+T-Shirt,Circular,Women,Bright Red,FS24,XS,31.4,0.0,0.803,42,171,fast_mover,B_obvious_fast_mover
+Accessories,Trail,Women,Yellow Sunshine,FS24,XS,26.36,0.0,0.824,34,159,fast_mover,B_obvious_fast_mover
+Shirt,Rainforest,Women,Bright Red,FS24,L,118.29,0.0,0.967,47,1377,fast_mover,B_obvious_fast_mover
+Sweatshirt,Tribe,Men,Pale Mint,FS24,L,83.41,0.0,0.925,29,358,fast_mover,B_obvious_fast_mover
+Accessories,Patch,Men,Yellow Sunshine,FS24,XXL,35.68,0.0,0.892,47,388,fast_mover,B_obvious_fast_mover
+Shoes,Morgex,Men,Stone Grey,FS24,42,152.75,0.0,0.986,49,3451,fast_mover,B_obvious_fast_mover
+Accessories,Circular,Men,Grey Melange,FS24,S,27.32,0.0,0.882,29,217,fast_mover,B_obvious_fast_mover
+Shoes,Patch,Women,Navy,FS24,40,113.24,0.0,0.912,11,114,fast_mover,B_obvious_fast_mover
+Polo,Trail,Men,Navy,FS24,M,60.78,0.0,0.899,44,392,fast_mover,B_obvious_fast_mover
+Shoes,Morgex,Women,Yellow Sunshine,FS24,41,167.35,0.0,0.974,25,937,fast_mover,B_obvious_fast_mover
+Sweatshirt,Trail,Women,Bright White,FS24,L,90.04,0.0,0.944,29,489,fast_mover,B_obvious_fast_mover
+Shirt,Morgex,Women,Khaki,FS24,M,101.94,0.0,0.834,22,111,fast_mover,B_obvious_fast_mover
+Polo,Patch,Men,Snow White,FS24,S,82.39,0.0,0.804,40,164,fast_mover,B_obvious_fast_mover
+Shorts,Morgex,Men,Burgundy,FS24,XXL,86.76,0.0,0.871,19,128,fast_mover,B_obvious_fast_mover
+Shorts,Tribe,Women,White Whisper,FS24,S,79.69,0.0,0.829,3,15,fast_mover,B_obvious_fast_mover
+Shoes,Trail,Women,Navy,FS24,39,101.11,0.0,0.8,34,136,fast_mover,B_obvious_fast_mover
+Shoes,Geographic,Men,Bright Red,FS24,40,118.26,0.0,0.913,31,325,fast_mover,B_obvious_fast_mover
+Sweatshirt,Tribe,Women,Khaki,FS24,XXL,91.83,0.0,0.806,48,199,fast_mover,B_obvious_fast_mover
+T-Shirt,Rainforest,Men,Burgundy,FS24,XXL,41.51,0.0,0.908,19,188,fast_mover,B_obvious_fast_mover
+Pants,Circular,Women,Snow White,FS24,S,101.11,0.0,0.808,14,59,fast_mover,B_obvious_fast_mover
+Shorts,Trail,Women,Yellow Sunshine,FS24,L,68.31,0.0,0.872,6,41,fast_mover,B_obvious_fast_mover
+T-Shirt,Slate,Men,Stone Grey,FS24,One Size,46.83,0.0,0.985,30,1970,fast_mover,B_obvious_fast_mover
+Pants,Patch,Women,Yellow Sunshine,FS24,XS,90.42,0.0,0.911,17,174,fast_mover,B_obvious_fast_mover
+Shirt,Morgex,Women,Caviar,FS24,XL,100.73,0.0,0.862,11,69,fast_mover,B_obvious_fast_mover
+Shorts,Box Logo,Women,White Whisper,FS24,S,76.33,0.0,0.988,9,741,fast_mover,B_obvious_fast_mover
+Pants,Slate,Men,Stone Grey,FS24,XS,125.34,0.0,0.808,46,194,fast_mover,B_obvious_fast_mover
+Swimwear,Circular,Women,Snow White,FS24,L,73.13,0.0,0.984,12,738,fast_mover,B_obvious_fast_mover
+Accessories,Patch,Men,Caviar,FS24,M,32.06,0.0,0.964,31,830,fast_mover,B_obvious_fast_mover
+Polo,Morgex,Women,Yellow Sunshine,FS24,XXL,76.0,0.0,0.9,15,135,fast_mover,B_obvious_fast_mover
+T-Shirt,Geographic,Men,Snow White,FS24,XS,35.42,0.0,0.868,49,322,fast_mover,B_obvious_fast_mover
+T-Shirt,Circular,Men,Bright White,FS24,XL,30.37,0.0,0.886,38,295,fast_mover,B_obvious_fast_mover
+Sweatshirt,Patch,Men,Burgundy,FS24,M,99.86,0.0,0.878,43,309,fast_mover,B_obvious_fast_mover
+Polo,Slate,Men,Navy,FS24,XS,75.46,0.0,0.967,29,850,fast_mover,B_obvious_fast_mover
+Pants,Trail,Women,Caviar,FS24,One Size,110.18,0.0,0.857,31,186,fast_mover,B_obvious_fast_mover
+Shoes,Box Logo,Women,Bright White,FS24,44,161.86,0.0,0.962,21,532,fast_mover,B_obvious_fast_mover
+Polo,Patch,Women,Burgundy,FS24,XL,80.43,0.0,0.845,49,267,fast_mover,B_obvious_fast_mover
+Shorts,Box Logo,Women,Grey Melange,FS24,XS,69.25,0.0,0.896,33,284,fast_mover,B_obvious_fast_mover
+Accessories,Box Logo,Men,White Whisper,FS24,S,27.06,0.0,0.87,46,308,fast_mover,B_obvious_fast_mover
+Polo,Morgex,Men,Caviar,FS24,One Size,70.66,0.0,0.852,25,144,fast_mover,B_obvious_fast_mover
+Polo,Box Logo,Men,Pale Mint,FS24,S,68.5,0.0,0.813,24,104,fast_mover,B_obvious_fast_mover
+Shirt,Rainforest,Men,Burgundy,FS24,XXL,117.3,0.0,0.946,13,228,fast_mover,B_obvious_fast_mover
+Polo,Circular,Men,Navy,FS24,One Size,89.69,0.0,0.846,1,5,fast_mover,B_obvious_fast_mover
+Shorts,Tribe,Women,Stone Grey,FS24,L,80.19,0.0,0.807,33,138,fast_mover,B_obvious_fast_mover
+Pants,Circular,Women,Navy,FS24,L,141.33,0.0,0.831,35,172,fast_mover,B_obvious_fast_mover
+Pants,Patch,Women,Pale Mint,FS24,XS,85.52,0.0,0.893,41,342,fast_mover,B_obvious_fast_mover
+Accessories,Patch,Men,Stone Grey,FS24,L,62.48,0.0,0.986,34,2395,fast_mover,B_obvious_fast_mover
+Shirt,Circular,Men,White Whisper,FS24,S,112.18,0.0,0.968,45,1361,fast_mover,B_obvious_fast_mover
+Polo,Rainforest,Men,Navy,FS24,One Size,66.07,0.0,0.84,7,37,fast_mover,B_obvious_fast_mover
+Swimwear,Slate,Women,Burgundy,FS24,One Size,55.89,0.0,0.918,17,190,fast_mover,B_obvious_fast_mover
+Shorts,Morgex,Women,Caviar,FS24,One Size,77.99,0.0,0.861,46,285,fast_mover,B_obvious_fast_mover
+T-Shirt,Patch,Men,Khaki,FS24,XL,47.27,0.0,0.858,48,290,fast_mover,B_obvious_fast_mover
+Pants,Geographic,Women,Stone Grey,FS24,L,100.06,0.0,0.826,24,114,fast_mover,B_obvious_fast_mover
+Pants,Geographic,Men,Pale Mint,FS24,One Size,145.69,0.0,0.921,11,128,fast_mover,B_obvious_fast_mover
+Shorts,Trail,Men,Forest Green,FS24,S,83.97,0.0,0.863,24,151,fast_mover,B_obvious_fast_mover
+Sweatshirt,Tribe,Men,Snow White,FS24,XL,96.29,0.0,0.852,22,127,fast_mover,B_obvious_fast_mover
+Shirt,Morgex,Men,Bright White,FS24,L,114.48,0.0,0.833,49,244,fast_mover,B_obvious_fast_mover
+T-Shirt,Patch,Women,Navy,FS24,One Size,30.77,0.0,0.852,24,138,fast_mover,B_obvious_fast_mover
+Sweatshirt,Circular,Men,Caviar,FS24,L,95.49,0.0,0.888,10,79,fast_mover,B_obvious_fast_mover
+Polo,Box Logo,Men,White Whisper,FS24,One Size,72.49,0.0,0.965,7,193,fast_mover,B_obvious_fast_mover
+Shorts,Geographic,Men,Caviar,FS24,M,56.22,0.0,0.93,41,545,fast_mover,B_obvious_fast_mover
+Shirt,Rainforest,Women,Yellow Sunshine,FS24,M,100.42,0.0,0.954,29,601,fast_mover,B_obvious_fast_mover
+Pants,Trail,Men,Pale Mint,FS24,XXL,91.02,0.0,0.858,49,296,fast_mover,B_obvious_fast_mover
+Polo,Circular,Women,Yellow Sunshine,FS24,XS,63.33,0.0,0.825,7,33,fast_mover,B_obvious_fast_mover
+Swimwear,Tribe,Men,Burgundy,FS24,XXL,41.85,0.0,0.944,17,287,fast_mover,B_obvious_fast_mover
+T-Shirt,Box Logo,Men,Yellow Sunshine,FS24,XXL,39.05,0.0,0.963,14,364,fast_mover,B_obvious_fast_mover
+Pants,Patch,Men,Grey Melange,FS24,M,130.88,0.0,0.962,22,557,fast_mover,B_obvious_fast_mover
+Sweatshirt,Tribe,Men,Yellow Sunshine,FS24,One Size,106.24,0.0,0.947,24,429,fast_mover,B_obvious_fast_mover
+Shirt,Box Logo,Women,Grey Melange,FS24,XXL,98.67,0.0,0.825,42,198,fast_mover,B_obvious_fast_mover
+Shirt,Trail,Women,Grey Melange,FS24,S,97.31,0.0,0.951,9,175,fast_mover,B_obvious_fast_mover
+Swimwear,Slate,Men,Stone Grey,FS24,M,62.67,0.0,0.837,42,216,fast_mover,B_obvious_fast_mover
+Shirt,Tribe,Women,Khaki,FS24,S,102.33,0.0,0.903,8,74,fast_mover,B_obvious_fast_mover
+T-Shirt,Slate,Women,Grey Melange,FS24,XS,36.72,0.0,0.953,13,264,fast_mover,B_obvious_fast_mover
+Sweatshirt,Circular,Women,Burgundy,FS24,S,125.8,0.0,0.865,16,103,fast_mover,B_obvious_fast_mover
+Polo,Slate,Women,Navy,FS24,M,80.44,0.0,0.809,18,76,fast_mover,B_obvious_fast_mover
+T-Shirt,Trail,Men,Stone Grey,FS24,XS,45.57,0.0,0.854,12,70,fast_mover,B_obvious_fast_mover
+Shirt,Morgex,Men,Stone Grey,FS24,One Size,110.85,0.0,0.965,45,1241,fast_mover,B_obvious_fast_mover
+T-Shirt,Geographic,Men,Pale Mint,FS24,L,39.64,0.0,0.976,18,732,fast_mover,B_obvious_fast_mover
+Swimwear,Geographic,Men,Snow White,FS24,One Size,42.6,0.0,0.977,16,680,fast_mover,B_obvious_fast_mover
+Accessories,Box Logo,Women,Yellow Sunshine,FS24,XL,41.91,0.0,0.852,25,144,fast_mover,B_obvious_fast_mover
+Sweatshirt,Box Logo,Men,Grey Melange,FS24,XL,115.46,0.0,0.922,13,154,fast_mover,B_obvious_fast_mover
+Swimwear,Patch,Men,Khaki,FS24,XS,42.99,0.0,0.882,1,7,fast_mover,B_obvious_fast_mover
+Shorts,Slate,Men,White Whisper,FS24,S,62.33,0.0,0.99,46,4554,fast_mover,B_obvious_fast_mover
+Swimwear,Morgex,Women,Grey Melange,FS24,XS,52.75,0.0,0.942,43,698,fast_mover,B_obvious_fast_mover
+Shoes,Trail,Men,Navy,FS24,41,101.34,0.0,0.852,46,265,fast_mover,B_obvious_fast_mover
+Swimwear,Slate,Men,Navy,FS24,XXL,59.16,0.0,0.96,10,240,fast_mover,B_obvious_fast_mover
+Sweatshirt,Patch,Men,Grey Melange,FS24,One Size,82.29,0.0,0.888,24,190,fast_mover,B_obvious_fast_mover
+Polo,Morgex,Women,Snow White,FS24,L,73.08,0.0,0.91,30,303,fast_mover,B_obvious_fast_mover
+Shoes,Trail,Women,Stone Grey,FS24,38,175.24,0.0,0.881,2,15,fast_mover,B_obvious_fast_mover
+Swimwear,Geographic,Women,Burgundy,FS24,S,62.09,0.0,0.936,27,395,fast_mover,B_obvious_fast_mover
+Polo,Rainforest,Women,Khaki,FS24,One Size,72.33,0.0,0.876,42,297,fast_mover,B_obvious_fast_mover
+Accessories,Slate,Women,Navy,FS24,XL,49.67,0.0,0.857,45,270,fast_mover,B_obvious_fast_mover
+Pants,Morgex,Women,Navy,FS24,XXL,137.85,0.0,0.814,20,88,fast_mover,B_obvious_fast_mover
+T-Shirt,Trail,Men,Bright White,FS24,L,38.49,0.0,0.852,44,253,fast_mover,B_obvious_fast_mover
+Pants,Patch,Men,Navy,FS24,XXL,89.64,0.0,0.925,21,259,fast_mover,B_obvious_fast_mover
+Shirt,Morgex,Women,Stone Grey,FS24,XS,120.27,0.0,0.824,36,169,fast_mover,B_obvious_fast_mover
+Shoes,Geographic,Men,Snow White,FS24,44,150.41,0.0,0.804,28,115,fast_mover,B_obvious_fast_mover
+Pants,Slate,Men,Grey Melange,FS24,XS,134.25,0.0,0.926,14,175,fast_mover,B_obvious_fast_mover
+Pants,Trail,Women,Yellow Sunshine,FS24,L,110.97,0.0,0.921,18,210,fast_mover,B_obvious_fast_mover
+Pants,Slate,Women,Burgundy,FS24,S,116.34,0.0,0.905,29,276,fast_mover,B_obvious_fast_mover
+Shirt,Slate,Men,Burgundy,FS24,XXL,98.16,0.0,0.828,46,221,fast_mover,B_obvious_fast_mover
+Polo,Circular,Men,Pale Mint,FS24,XL,85.35,0.0,0.821,43,197,fast_mover,B_obvious_fast_mover
+Swimwear,Trail,Women,Pale Mint,FS24,L,48.99,0.0,0.853,24,139,fast_mover,B_obvious_fast_mover
+Sweatshirt,Patch,Women,Yellow Sunshine,FS24,One Size,91.03,0.0,0.896,24,207,fast_mover,B_obvious_fast_mover
+Shoes,Patch,Women,Bright Red,FS24,37,123.07,0.0,0.834,44,221,fast_mover,B_obvious_fast_mover
+Shirt,Circular,Men,Navy,FS24,S,86.07,0.0,0.93,44,585,fast_mover,B_obvious_fast_mover
+Shoes,Circular,Men,Yellow Sunshine,FS24,36,130.98,0.0,0.979,43,2005,fast_mover,B_obvious_fast_mover
+Sweatshirt,Slate,Men,Yellow Sunshine,FS24,M,126.01,0.0,0.878,33,237,fast_mover,B_obvious_fast_mover
+Pants,Morgex,Women,Stone Grey,FS24,XXL,141.57,0.0,0.89,10,81,fast_mover,B_obvious_fast_mover
+Pants,Slate,Women,Forest Green,FS24,XL,100.06,0.0,0.944,36,607,fast_mover,B_obvious_fast_mover
+Pants,Patch,Women,Pale Mint,FS24,One Size,124.16,0.0,0.829,39,189,fast_mover,B_obvious_fast_mover
+Shoes,Slate,Women,White Whisper,FS24,42,168.66,0.0,0.81,10,43,fast_mover,B_obvious_fast_mover
+Shoes,Slate,Women,Pale Mint,FS24,44,164.04,0.0,0.913,24,252,fast_mover,B_obvious_fast_mover
+Shorts,Slate,Men,White Whisper,FS24,One Size,79.66,0.0,0.845,12,65,fast_mover,B_obvious_fast_mover
+Pants,Patch,Men,Navy,FS24,XL,140.1,0.0,0.846,4,22,fast_mover,B_obvious_fast_mover
+Polo,Rainforest,Men,Bright White,FS24,S,74.58,0.0,0.846,8,44,fast_mover,B_obvious_fast_mover
+Shirt,Slate,Women,Bright White,FS24,XL,95.9,0.0,0.806,31,129,fast_mover,B_obvious_fast_mover
+Sweatshirt,Box Logo,Men,Stone Grey,FS24,M,123.63,0.0,0.911,16,164,fast_mover,B_obvious_fast_mover
+Sweatshirt,Trail,Women,Burgundy,FS24,XXL,120.58,0.0,0.974,6,225,fast_mover,B_obvious_fast_mover
+Accessories,Geographic,Men,Navy,FS24,XL,35.35,0.0,0.863,8,50,fast_mover,B_obvious_fast_mover
+Swimwear,Patch,Men,Burgundy,FS24,S,44.11,0.0,0.801,17,68,fast_mover,B_obvious_fast_mover
+Shorts,Tribe,Men,Bright Red,FS24,L,58.93,0.0,0.832,30,149,fast_mover,B_obvious_fast_mover
+Shorts,Morgex,Women,Bright White,FS24,XL,58.72,0.0,0.926,13,163,fast_mover,B_obvious_fast_mover
+Shorts,Circular,Men,Navy,FS24,XL,80.95,0.0,0.924,22,267,fast_mover,B_obvious_fast_mover
+Pants,Morgex,Men,Forest Green,FS24,XXL,117.21,0.0,0.839,48,250,fast_mover,B_obvious_fast_mover
+Accessories,Slate,Women,Burgundy,FS24,L,44.33,0.0,0.914,25,266,fast_mover,B_obvious_fast_mover
+Accessories,Slate,Women,Grey Melange,FS24,M,63.95,0.0,0.92,16,184,fast_mover,B_obvious_fast_mover
+Shirt,Circular,Women,Bright White,FS24,XS,109.59,0.0,0.805,16,66,fast_mover,B_obvious_fast_mover
+T-Shirt,Tribe,Women,Navy,FS24,M,40.49,0.0,0.917,12,133,fast_mover,B_obvious_fast_mover
+Shorts,Morgex,Men,Bright Red,FS24,S,80.51,0.0,0.846,44,242,fast_mover,B_obvious_fast_mover
+Shirt,Circular,Women,Navy,FS24,XXL,92.28,0.0,0.99,30,2970,fast_mover,B_obvious_fast_mover
+Shorts,Patch,Men,Bright Red,FS24,L,59.01,0.0,0.88,49,359,fast_mover,B_obvious_fast_mover
+Accessories,Slate,Women,Bright White,FS24,One Size,33.72,0.0,0.904,35,330,fast_mover,B_obvious_fast_mover
+Shorts,Morgex,Women,Forest Green,FS24,S,56.44,0.0,0.857,9,54,fast_mover,B_obvious_fast_mover
+Shoes,Geographic,Men,Forest Green,FS24,38,149.88,0.0,0.868,19,125,fast_mover,B_obvious_fast_mover
+Shirt,Slate,Men,Grey Melange,FS24,One Size,102.63,0.0,0.896,17,146,fast_mover,B_obvious_fast_mover
+Shoes,Morgex,Men,Bright Red,FS24,45,111.95,0.0,0.866,45,291,fast_mover,B_obvious_fast_mover
+Shirt,Geographic,Women,White Whisper,FS24,M,82.57,0.0,0.977,21,892,fast_mover,B_obvious_fast_mover
+Shirt,Patch,Women,Burgundy,FS24,XS,126.86,0.0,0.855,41,242,fast_mover,B_obvious_fast_mover
+Shoes,Tribe,Women,Bright Red,FS24,43,179.58,0.0,0.906,18,173,fast_mover,B_obvious_fast_mover
+Accessories,Box Logo,Women,Bright Red,FS24,XL,63.08,0.0,0.907,41,400,fast_mover,B_obvious_fast_mover
+Polo,Slate,Women,Pale Mint,FS24,M,73.51,0.0,0.831,41,202,fast_mover,B_obvious_fast_mover
+Accessories,Tribe,Men,Caviar,FS24,M,28.58,0.0,0.916,37,403,fast_mover,B_obvious_fast_mover
+T-Shirt,Rainforest,Women,Yellow Sunshine,FS24,XS,42.02,0.0,0.946,46,806,fast_mover,B_obvious_fast_mover
+Shorts,Geographic,Women,Bright White,FS24,XXL,62.26,0.0,0.882,13,97,fast_mover,B_obvious_fast_mover
+Shorts,Morgex,Men,White Whisper,FS24,One Size,58.54,0.0,0.974,22,824,fast_mover,B_obvious_fast_mover
+Sweatshirt,Geographic,Women,Bright White,FS24,One Size,90.97,0.0,0.891,18,147,fast_mover,B_obvious_fast_mover
+Pants,Box Logo,Women,Bright Red,FS24,XL,95.91,0.0,0.96,2,48,fast_mover,B_obvious_fast_mover
+Pants,Tribe,Women,Stone Grey,FS24,XS,145.05,0.0,0.863,16,101,fast_mover,B_obvious_fast_mover
+Shorts,Tribe,Men,Pale Mint,FS24,XS,61.06,0.0,0.925,44,543,fast_mover,B_obvious_fast_mover
+Sweatshirt,Slate,Men,Grey Melange,FS24,L,83.13,0.0,0.801,21,85,fast_mover,B_obvious_fast_mover
+T-Shirt,Circular,Men,Bright Red,FS24,XS,49.81,0.0,0.979,15,699,fast_mover,B_obvious_fast_mover
+Shorts,Morgex,Women,Burgundy,FS24,S,79.33,0.0,0.87,15,100,fast_mover,B_obvious_fast_mover
+Shorts,Patch,Men,Snow White,FS24,XS,75.02,0.0,0.959,36,842,fast_mover,B_obvious_fast_mover
+T-Shirt,Geographic,Men,Pale Mint,FS24,One Size,33.83,0.0,0.801,1,4,fast_mover,B_obvious_fast_mover
+Shoes,Morgex,Women,Burgundy,FS24,36,100.25,0.0,0.928,19,245,fast_mover,B_obvious_fast_mover
+T-Shirt,Slate,Men,Pale Mint,FS24,XXL,40.6,0.0,0.97,16,517,fast_mover,B_obvious_fast_mover
+Polo,Patch,Men,Forest Green,FS24,One Size,80.24,0.0,0.967,6,176,fast_mover,B_obvious_fast_mover
+Shirt,Morgex,Women,Navy,FS24,XL,117.66,0.0,0.903,49,456,fast_mover,B_obvious_fast_mover
+Pants,Rainforest,Women,Navy,FS24,XS,91.9,0.0,0.804,23,94,fast_mover,B_obvious_fast_mover
+T-Shirt,Tribe,Women,Snow White,FS24,XS,31.45,0.0,0.886,43,334,fast_mover,B_obvious_fast_mover
+Pants,Rainforest,Men,Bright White,FS24,XS,111.4,0.0,0.871,20,135,fast_mover,B_obvious_fast_mover
+Sweatshirt,Box Logo,Men,Stone Grey,FS24,L,85.11,0.0,0.907,43,419,fast_mover,B_obvious_fast_mover
+Accessories,Box Logo,Men,White Whisper,FS24,S,26.87,0.0,0.801,22,89,fast_mover,B_obvious_fast_mover
+Accessories,Patch,Women,Pale Mint,FS24,XXL,65.76,0.0,0.877,17,121,fast_mover,B_obvious_fast_mover
+Polo,Trail,Men,White Whisper,FS24,L,63.22,0.0,0.883,10,75,fast_mover,B_obvious_fast_mover
+Pants,Slate,Men,Stone Grey,FS24,One Size,101.41,0.0,0.85,49,278,fast_mover,B_obvious_fast_mover
+Shirt,Slate,Men,Grey Melange,FS24,L,85.14,0.0,0.956,10,217,fast_mover,B_obvious_fast_mover
+Pants,Slate,Men,Grey Melange,FS24,One Size,136.27,0.0,0.943,29,480,fast_mover,B_obvious_fast_mover
+Accessories,Rainforest,Men,Snow White,FS24,XL,29.69,0.0,0.924,21,255,fast_mover,B_obvious_fast_mover
+Accessories,Circular,Men,Snow White,FS24,One Size,38.41,0.0,0.809,36,152,fast_mover,B_obvious_fast_mover
+Sweatshirt,Circular,Women,Grey Melange,FS24,XXL,127.81,0.0,0.966,25,710,fast_mover,B_obvious_fast_mover
+Shirt,Morgex,Women,Yellow Sunshine,FS24,XXL,117.81,0.0,0.91,46,465,fast_mover,B_obvious_fast_mover
+Polo,Tribe,Men,Khaki,FS24,M,69.07,0.0,0.987,47,3568,fast_mover,B_obvious_fast_mover
+Sweatshirt,Slate,Women,Burgundy,FS24,L,119.24,0.0,0.905,42,400,fast_mover,B_obvious_fast_mover
+Shorts,Tribe,Women,Forest Green,FS24,XXL,84.5,0.0,0.927,22,279,fast_mover,B_obvious_fast_mover
+Swimwear,Geographic,Men,Bright Red,FS24,XXL,49.65,0.0,0.85,41,232,fast_mover,B_obvious_fast_mover
+Polo,Box Logo,Women,Bright Red,FS24,XL,70.05,0.0,0.802,36,146,fast_mover,B_obvious_fast_mover
+Pants,Trail,Women,Burgundy,FS24,One Size,92.87,0.0,0.854,19,111,fast_mover,B_obvious_fast_mover
+Pants,Box Logo,Women,Bright White,FS24,XS,104.14,0.0,0.875,32,224,fast_mover,B_obvious_fast_mover
+Shirt,Circular,Men,Bright White,FS24,XXL,96.4,0.0,0.816,39,173,fast_mover,B_obvious_fast_mover
+Shirt,Patch,Men,Caviar,FS24,One Size,87.31,0.0,0.914,8,85,fast_mover,B_obvious_fast_mover
+Shirt,Morgex,Men,Burgundy,FS24,L,118.28,0.0,0.941,14,223,fast_mover,B_obvious_fast_mover
+Pants,Trail,Men,Snow White,FS24,XXL,128.64,0.0,0.927,39,495,fast_mover,B_obvious_fast_mover
+Shirt,Trail,Men,Bright White,FS24,XXL,82.11,0.0,0.965,35,965,fast_mover,B_obvious_fast_mover
+Polo,Geographic,Women,Grey Melange,FS24,S,82.45,0.0,0.927,36,457,fast_mover,B_obvious_fast_mover
+Polo,Tribe,Women,Bright Red,FS24,M,79.72,0.0,0.924,39,474,fast_mover,B_obvious_fast_mover
+Pants,Box Logo,Men,Snow White,FS24,XL,105.45,0.0,0.956,21,456,fast_mover,B_obvious_fast_mover
+Sweatshirt,Rainforest,Men,Khaki,FS24,S,125.0,0.0,0.968,21,635,fast_mover,B_obvious_fast_mover
+T-Shirt,Circular,Men,Bright Red,FS24,One Size,36.3,0.0,0.828,41,197,fast_mover,B_obvious_fast_mover
+Shorts,Patch,Men,Navy,FS24,XXL,76.0,0.0,0.93,15,199,fast_mover,B_obvious_fast_mover
+Shorts,Tribe,Men,Forest Green,FS24,XXL,58.75,0.0,0.932,41,562,fast_mover,B_obvious_fast_mover
+Pants,Geographic,Men,White Whisper,FS24,M,134.53,0.0,0.816,10,44,fast_mover,B_obvious_fast_mover
+Sweatshirt,Morgex,Men,Pale Mint,FS24,L,99.37,0.0,0.986,28,1972,fast_mover,B_obvious_fast_mover
+Shirt,Box Logo,Women,Pale Mint,FS24,XS,95.6,0.0,0.862,19,119,fast_mover,B_obvious_fast_mover
+Pants,Rainforest,Women,Stone Grey,FS24,L,106.88,0.0,0.828,10,48,fast_mover,B_obvious_fast_mover
+Shirt,Trail,Men,Khaki,FS24,One Size,88.16,0.0,0.843,25,134,fast_mover,B_obvious_fast_mover
+Polo,Rainforest,Men,Caviar,FS24,L,65.65,0.0,0.938,17,257,fast_mover,B_obvious_fast_mover
+Swimwear,Geographic,Women,Khaki,FS24,One Size,45.9,0.0,0.867,49,319,fast_mover,B_obvious_fast_mover
+T-Shirt,Trail,Women,Pale Mint,FS24,One Size,48.64,0.0,0.923,1,12,fast_mover,B_obvious_fast_mover
+Swimwear,Slate,Men,Grey Melange,FS24,XXL,64.03,0.0,0.868,1,7,fast_mover,B_obvious_fast_mover
+Shirt,Box Logo,Women,Yellow Sunshine,FS24,S,84.58,0.0,0.958,36,821,fast_mover,B_obvious_fast_mover
+Sweatshirt,Patch,Men,White Whisper,FS24,XS,86.45,0.0,0.954,8,166,fast_mover,B_obvious_fast_mover
+Shoes,Slate,Men,Bright White,FS24,41,166.12,0.0,0.867,14,91,fast_mover,B_obvious_fast_mover
+T-Shirt,Tribe,Women,Stone Grey,FS24,One Size,41.48,0.0,0.942,44,715,fast_mover,B_obvious_fast_mover
+Sweatshirt,Slate,Women,Pale Mint,FS24,XS,112.29,0.0,0.836,9,46,fast_mover,B_obvious_fast_mover
+T-Shirt,Circular,Men,Khaki,FS24,M,32.11,0.0,0.941,15,239,fast_mover,B_obvious_fast_mover
+Shoes,Slate,Men,Bright Red,FS24,42,141.46,0.0,0.818,7,31,fast_mover,B_obvious_fast_mover
+Swimwear,Morgex,Men,Grey Melange,FS24,One Size,48.3,0.0,0.93,3,40,fast_mover,B_obvious_fast_mover
+Shoes,Rainforest,Men,White Whisper,FS24,36,179.9,0.0,0.805,29,120,fast_mover,B_obvious_fast_mover
+Shirt,Morgex,Women,Grey Melange,FS24,XXL,124.18,0.0,0.973,38,1369,fast_mover,B_obvious_fast_mover
+Shorts,Circular,Men,Grey Melange,FS24,S,62.49,0.0,0.926,37,463,fast_mover,B_obvious_fast_mover
+Accessories,Box Logo,Women,Forest Green,FS24,S,32.52,0.0,0.983,16,925,fast_mover,B_obvious_fast_mover
+Accessories,Circular,Women,Burgundy,SS25,M,45.33,10.0,0.177,109,23,dead_stock,C_boundary_020
+T-Shirt,Box Logo,Women,Stone Grey,SS25,L,37.99,0.0,0.217,108,30,average,C_boundary_020
+T-Shirt,Morgex,Men,Navy,SS25,XL,36.53,0.0,0.177,213,46,dead_stock,C_boundary_020
+Shirt,Rainforest,Men,Pale Mint,SS25,S,108.5,10.0,0.197,100,25,dead_stock,C_boundary_020
+T-Shirt,Tribe,Women,Khaki,SS25,XS,48.29,0.0,0.188,148,34,dead_stock,C_boundary_020
+Polo,Circular,Men,Yellow Sunshine,SS25,M,85.23,25.0,0.201,170,43,average,C_boundary_020
+Shoes,Tribe,Women,Bright Red,SS25,37,148.52,20.0,0.192,154,37,dead_stock,C_boundary_020
+T-Shirt,Tribe,Women,Pale Mint,SS25,XS,41.99,20.0,0.203,259,66,average,C_boundary_020
+Polo,Rainforest,Women,Navy,SS25,M,73.63,25.0,0.187,284,65,dead_stock,C_boundary_020
+Pants,Patch,Men,Caviar,SS25,M,141.52,20.0,0.188,281,65,dead_stock,C_boundary_020
+Pants,Tribe,Women,Forest Green,SS25,One Size,105.46,10.0,0.176,375,80,dead_stock,C_boundary_020
+Shorts,Morgex,Women,Bright White,SS25,XS,56.24,20.0,0.182,281,63,dead_stock,C_boundary_020
+Polo,Tribe,Women,Pale Mint,SS25,XS,85.87,0.0,0.19,225,53,dead_stock,C_boundary_020
+Pants,Trail,Women,Yellow Sunshine,SS25,XL,132.64,20.0,0.212,347,93,average,C_boundary_020
+Polo,Geographic,Women,Bright Red,SS25,XL,88.51,0.0,0.204,300,77,average,C_boundary_020
+Shirt,Slate,Men,Pale Mint,SS25,One Size,119.55,20.0,0.205,199,51,average,C_boundary_020
+Polo,Geographic,Men,Bright White,SS25,One Size,72.4,20.0,0.204,370,95,average,C_boundary_020
+Pants,Box Logo,Men,Bright Red,SS25,XS,143.72,10.0,0.203,364,93,average,C_boundary_020
+Shoes,Trail,Women,Pale Mint,SS25,44,156.71,10.0,0.173,200,42,dead_stock,C_boundary_020
+Shirt,Slate,Women,Bright White,SS25,One Size,91.33,0.0,0.196,269,66,dead_stock,C_boundary_020
+Shorts,Box Logo,Women,Bright Red,SS25,One Size,62.46,0.0,0.208,205,54,average,C_boundary_020
+Shirt,Rainforest,Women,Navy,SS25,S,118.43,20.0,0.174,307,65,dead_stock,C_boundary_020
+Swimwear,Trail,Men,Yellow Sunshine,SS25,L,42.84,10.0,0.177,197,42,dead_stock,C_boundary_020
+Shoes,Circular,Men,Burgundy,SS25,42,145.01,0.0,0.193,66,16,dead_stock,C_boundary_020
+Pants,Rainforest,Men,Navy,SS25,One Size,95.92,25.0,0.205,267,69,average,C_boundary_020
+Swimwear,Trail,Women,Navy,SS25,M,57.79,0.0,0.205,359,93,average,C_boundary_020
+Polo,Rainforest,Women,Bright White,SS25,XXL,83.97,25.0,0.178,369,80,dead_stock,C_boundary_020
+Pants,Trail,Women,Snow White,SS25,One Size,89.09,25.0,0.183,234,52,dead_stock,C_boundary_020
+Shirt,Rainforest,Women,Bright Red,SS25,XL,121.6,20.0,0.207,280,73,average,C_boundary_020
+Pants,Patch,Men,Burgundy,SS25,M,143.26,25.0,0.18,230,50,dead_stock,C_boundary_020
+Accessories,Rainforest,Women,Bright White,SS25,XXL,38.64,20.0,0.18,353,77,dead_stock,C_boundary_020
+Polo,Geographic,Men,Caviar,SS25,S,65.85,0.0,0.216,74,20,average,C_boundary_020
+Pants,Morgex,Women,Snow White,SS25,S,139.88,0.0,0.215,237,65,average,C_boundary_020
+Polo,Box Logo,Women,Yellow Sunshine,SS25,XXL,61.6,0.0,0.219,348,98,average,C_boundary_020
+Shorts,Box Logo,Women,Pale Mint,SS25,XXL,66.57,10.0,0.224,237,68,average,C_boundary_020
+Shoes,Box Logo,Men,Navy,SS25,43,144.03,25.0,0.229,320,95,average,C_boundary_020
+Shoes,Patch,Men,Bright White,SS25,44,179.73,25.0,0.176,339,72,dead_stock,C_boundary_020
+Pants,Slate,Women,Burgundy,SS25,XXL,142.21,25.0,0.218,73,20,average,C_boundary_020
+Shirt,Patch,Women,Snow White,SS25,XS,94.93,20.0,0.187,367,84,dead_stock,C_boundary_020
+Polo,Tribe,Men,Burgundy,SS25,XS,88.56,25.0,0.207,104,27,average,C_boundary_020
+Pants,Patch,Women,Bright White,SS25,M,124.81,10.0,0.217,301,83,average,C_boundary_020
+T-Shirt,Box Logo,Women,Burgundy,SS25,S,49.07,0.0,0.228,114,34,average,C_boundary_020
+Pants,Morgex,Women,Stone Grey,SS25,S,132.69,10.0,0.175,315,67,dead_stock,C_boundary_020
+Shirt,Patch,Men,White Whisper,SS25,M,82.65,0.0,0.175,133,28,dead_stock,C_boundary_020
+Accessories,Rainforest,Women,Yellow Sunshine,SS25,XL,40.65,25.0,0.192,214,51,dead_stock,C_boundary_020
+Accessories,Trail,Men,Bright White,SS25,M,63.78,25.0,0.185,330,75,dead_stock,C_boundary_020
+Polo,Tribe,Women,White Whisper,SS25,M,76.46,25.0,0.213,297,80,average,C_boundary_020
+Sweatshirt,Circular,Women,Khaki,SS25,XXL,123.29,0.0,0.185,212,48,dead_stock,C_boundary_020
+Accessories,Morgex,Men,Caviar,SS25,M,43.14,0.0,0.219,334,94,average,C_boundary_020
+Swimwear,Slate,Women,Grey Melange,SS25,L,65.01,20.0,0.201,320,81,average,C_boundary_020
+Swimwear,Geographic,Men,Yellow Sunshine,SS25,XL,64.2,20.0,0.216,194,53,average,C_boundary_020
+Accessories,Geographic,Women,Bright White,SS25,XXL,61.51,10.0,0.174,296,62,dead_stock,C_boundary_020
+Shorts,Trail,Men,Navy,SS25,S,78.65,20.0,0.201,287,72,average,C_boundary_020
+Shirt,Patch,Men,Navy,SS25,L,100.49,10.0,0.212,172,46,average,C_boundary_020
+Shoes,Geographic,Women,Khaki,SS25,39,112.66,20.0,0.211,178,48,average,C_boundary_020
+Shirt,Geographic,Men,Caviar,SS25,XL,94.91,10.0,0.19,284,67,dead_stock,C_boundary_020
+Swimwear,Rainforest,Women,Burgundy,SS25,S,60.49,0.0,0.198,355,88,dead_stock,C_boundary_020
+Shorts,Tribe,Women,Navy,SS25,XL,72.69,0.0,0.198,144,36,dead_stock,C_boundary_020
+Polo,Box Logo,Women,Forest Green,SS25,XS,83.55,25.0,0.23,85,25,average,C_boundary_020
+Shirt,Geographic,Women,Forest Green,SS25,L,121.03,20.0,0.205,65,17,average,C_boundary_020
+Shoes,Patch,Women,Burgundy,SS25,46,102.44,20.0,0.209,260,69,average,C_boundary_020
+Shirt,Slate,Women,Forest Green,SS25,XL,115.77,0.0,0.178,339,73,dead_stock,C_boundary_020
+Shorts,Slate,Men,Navy,SS25,L,56.19,0.0,0.18,91,20,dead_stock,C_boundary_020
+T-Shirt,Circular,Women,White Whisper,SS25,L,35.61,0.0,0.189,299,70,dead_stock,C_boundary_020
+Shirt,Circular,Women,Caviar,SS25,XXL,82.09,10.0,0.186,222,51,dead_stock,C_boundary_020
+Sweatshirt,Box Logo,Women,Khaki,SS25,L,109.42,20.0,0.201,388,98,average,C_boundary_020
+Pants,Circular,Women,Bright White,SS25,S,138.84,25.0,0.202,90,23,average,C_boundary_020
+Polo,Slate,Men,Pale Mint,SS25,L,83.92,10.0,0.198,98,24,dead_stock,C_boundary_020
+Shorts,Geographic,Women,Forest Green,SS25,L,55.34,20.0,0.228,152,45,average,C_boundary_020
+Shorts,Circular,Men,Forest Green,SS25,XXL,73.77,25.0,0.218,142,40,average,C_boundary_020
+Shoes,Slate,Men,Navy,SS25,39,100.74,25.0,0.215,213,58,average,C_boundary_020
+Shoes,Tribe,Women,Forest Green,SS25,37,165.37,0.0,0.223,336,96,average,C_boundary_020
+Accessories,Trail,Women,Grey Melange,SS25,XS,32.46,0.0,0.186,158,36,dead_stock,C_boundary_020
+Shorts,Morgex,Men,Khaki,SS25,XXL,83.43,20.0,0.212,279,75,average,C_boundary_020
+Swimwear,Rainforest,Women,Pale Mint,SS25,L,50.56,20.0,0.173,63,13,dead_stock,C_boundary_020
+Swimwear,Rainforest,Men,Pale Mint,SS25,L,58.22,25.0,0.197,171,42,dead_stock,C_boundary_020
+Accessories,Box Logo,Men,Navy,SS25,One Size,23.75,10.0,0.21,241,64,average,C_boundary_020
+Swimwear,Patch,Men,Forest Green,SS25,XS,52.41,0.0,0.212,224,60,average,C_boundary_020
+Shirt,Geographic,Men,White Whisper,SS25,XXL,119.95,10.0,0.193,267,64,dead_stock,C_boundary_020
+Sweatshirt,Morgex,Men,Pale Mint,SS25,XXL,91.04,10.0,0.215,389,107,average,C_boundary_020
+Swimwear,Patch,Women,Burgundy,SS25,XL,61.56,20.0,0.22,225,63,average,C_boundary_020
+Shorts,Box Logo,Men,Pale Mint,SS25,XL,65.11,25.0,0.227,64,19,average,C_boundary_020
+Polo,Slate,Women,Khaki,SS25,XXL,87.23,0.0,0.204,387,99,average,C_boundary_020
+T-Shirt,Slate,Women,Navy,SS25,XL,46.37,0.0,0.197,351,86,dead_stock,C_boundary_020
+Shoes,Circular,Men,Snow White,SS25,40,139.88,25.0,0.209,71,19,average,C_boundary_020
+Shirt,Morgex,Women,Bright White,SS25,L,115.15,0.0,0.171,316,65,dead_stock,C_boundary_020
+Swimwear,Tribe,Women,Snow White,SS25,L,72.92,20.0,0.215,104,28,average,C_boundary_020
+Polo,Morgex,Women,Caviar,SS25,XXL,86.34,0.0,0.22,96,27,average,C_boundary_020
+Shorts,Morgex,Men,Bright White,SS25,S,56.94,0.0,0.192,373,89,dead_stock,C_boundary_020
+Swimwear,Morgex,Women,Grey Melange,SS25,XXL,75.06,0.0,0.225,397,115,average,C_boundary_020
+Shirt,Geographic,Men,Grey Melange,SS25,XXL,80.27,25.0,0.217,208,58,average,C_boundary_020
+Accessories,Rainforest,Men,Bright Red,SS25,XXL,24.79,10.0,0.186,187,43,dead_stock,C_boundary_020
+T-Shirt,Morgex,Women,Bright Red,SS25,One Size,34.49,10.0,0.172,347,72,dead_stock,C_boundary_020
+Pants,Morgex,Women,Grey Melange,SS25,S,142.07,25.0,0.208,332,87,average,C_boundary_020
+Accessories,Trail,Women,Caviar,SS25,XS,63.49,25.0,0.199,166,41,dead_stock,C_boundary_020
+Shirt,Circular,Men,Stone Grey,SS25,XS,82.51,0.0,0.171,371,77,dead_stock,C_boundary_020
+Polo,Morgex,Men,Bright White,SS25,XS,70.72,0.0,0.174,269,57,dead_stock,C_boundary_020
+Sweatshirt,Geographic,Men,Forest Green,SS25,L,84.15,20.0,0.176,250,53,dead_stock,C_boundary_020
+Accessories,Slate,Men,Bright Red,SS25,XS,56.45,0.0,0.174,172,36,dead_stock,C_boundary_020
+Sweatshirt,Slate,Men,Caviar,SS25,XS,98.72,0.0,0.174,390,82,dead_stock,C_boundary_020
+Shoes,Rainforest,Women,White Whisper,SS25,43,115.81,10.0,0.221,243,69,average,C_boundary_020
+Pants,Box Logo,Women,Burgundy,SS25,XL,89.04,25.0,0.192,392,93,dead_stock,C_boundary_020
+Shoes,Rainforest,Women,Caviar,SS25,41,176.15,0.0,0.195,141,34,dead_stock,C_boundary_020
+Shoes,Patch,Men,Burgundy,SS25,37,100.02,20.0,0.173,352,74,dead_stock,C_boundary_020
+Swimwear,Geographic,Men,Caviar,SS25,One Size,52.7,25.0,0.185,73,17,dead_stock,C_boundary_020
+T-Shirt,Trail,Women,Forest Green,SS25,S,42.81,10.0,0.214,150,41,average,C_boundary_020
+Pants,Morgex,Women,Navy,SS25,XL,93.33,0.0,0.181,384,85,dead_stock,C_boundary_020
+Accessories,Patch,Women,Burgundy,SS25,M,52.0,20.0,0.207,83,22,average,C_boundary_020
+Polo,Rainforest,Women,Forest Green,SS25,S,81.99,10.0,0.218,371,103,average,C_boundary_020
+Accessories,Box Logo,Men,White Whisper,SS25,S,24.84,20.0,0.197,197,48,dead_stock,C_boundary_020
+Sweatshirt,Tribe,Women,Pale Mint,SS25,S,108.08,0.0,0.19,291,68,dead_stock,C_boundary_020
+Shorts,Tribe,Men,Grey Melange,SS25,XL,68.4,0.0,0.191,260,61,dead_stock,C_boundary_020
+Shorts,Patch,Women,Burgundy,SS25,L,67.11,0.0,0.196,187,46,dead_stock,C_boundary_020
+Swimwear,Circular,Women,Pale Mint,SS25,M,57.22,25.0,0.172,180,37,dead_stock,C_boundary_020
+Polo,Slate,Women,Bright Red,SS25,XL,81.83,0.0,0.213,119,32,average,C_boundary_020
+T-Shirt,Box Logo,Men,Grey Melange,SS25,XXL,32.71,20.0,0.182,343,76,dead_stock,C_boundary_020
+Shoes,Geographic,Men,Stone Grey,SS25,36,111.89,25.0,0.198,325,80,dead_stock,C_boundary_020
+Pants,Rainforest,Men,Forest Green,SS25,M,93.01,25.0,0.179,245,53,dead_stock,C_boundary_020
+Swimwear,Rainforest,Women,Bright Red,SS25,M,73.83,10.0,0.172,60,12,dead_stock,C_boundary_020
+Swimwear,Morgex,Women,Grey Melange,SS25,M,46.21,10.0,0.202,136,34,average,C_boundary_020
+Shirt,Geographic,Women,Caviar,SS25,L,90.79,0.0,0.204,205,53,average,C_boundary_020
+Accessories,Tribe,Women,Stone Grey,SS25,L,35.57,10.0,0.197,219,54,dead_stock,C_boundary_020
+Swimwear,Rainforest,Women,Pale Mint,SS25,XL,49.02,0.0,0.191,336,79,dead_stock,C_boundary_020
+T-Shirt,Box Logo,Men,Khaki,SS25,M,41.31,0.0,0.208,343,90,average,C_boundary_020
+Sweatshirt,Slate,Men,Burgundy,SS25,M,84.55,20.0,0.226,108,32,average,C_boundary_020
+Sweatshirt,Tribe,Women,Snow White,SS25,M,90.23,10.0,0.196,341,83,dead_stock,C_boundary_020
+Swimwear,Circular,Men,Caviar,SS25,XS,44.42,20.0,0.199,277,69,dead_stock,C_boundary_020
+Shorts,Box Logo,Men,Khaki,SS25,S,78.17,10.0,0.197,69,17,dead_stock,C_boundary_020
+Shoes,Slate,Women,Bright White,SS25,42,102.24,0.0,0.198,63,16,dead_stock,C_boundary_020
+T-Shirt,Patch,Men,Bright White,SS25,S,44.53,20.0,0.183,62,14,dead_stock,C_boundary_020
+Shirt,Circular,Men,Bright Red,SS25,One Size,93.41,10.0,0.193,319,76,dead_stock,C_boundary_020
+Accessories,Patch,Women,White Whisper,SS25,L,68.42,10.0,0.19,226,53,dead_stock,C_boundary_020
+Accessories,Circular,Women,Pale Mint,SS25,M,69.54,0.0,0.178,367,79,dead_stock,C_boundary_020
+Polo,Geographic,Women,Navy,SS25,XXL,88.94,25.0,0.182,147,33,dead_stock,C_boundary_020
+Shirt,Rainforest,Men,Yellow Sunshine,SS25,XS,84.43,10.0,0.212,302,81,average,C_boundary_020
+Accessories,Patch,Men,Stone Grey,SS25,XS,62.29,25.0,0.227,104,31,average,C_boundary_020
+T-Shirt,Trail,Men,Burgundy,SS25,One Size,44.12,20.0,0.199,236,59,dead_stock,C_boundary_020
+Polo,Circular,Women,Bright Red,SS25,XXL,63.29,10.0,0.206,352,91,average,C_boundary_020
+Pants,Geographic,Men,Stone Grey,SS25,S,97.48,0.0,0.196,191,47,dead_stock,C_boundary_020
+Accessories,Morgex,Women,Yellow Sunshine,SS25,L,38.94,20.0,0.196,311,76,dead_stock,C_boundary_020
+Shoes,Trail,Women,Pale Mint,SS25,40,172.44,10.0,0.223,355,102,average,C_boundary_020
+Swimwear,Patch,Women,Snow White,SS25,One Size,69.07,20.0,0.2,384,96,average,C_boundary_020
+T-Shirt,Trail,Men,White Whisper,SS25,M,38.65,25.0,0.186,317,72,dead_stock,C_boundary_020
+T-Shirt,Geographic,Men,Caviar,SS25,One Size,39.43,0.0,0.191,227,54,dead_stock,C_boundary_020
+Swimwear,Geographic,Men,Yellow Sunshine,SS25,M,54.35,0.0,0.196,354,86,dead_stock,C_boundary_020
+Shoes,Trail,Women,Navy,SS25,45,104.12,10.0,0.228,358,106,average,C_boundary_020
+Shirt,Patch,Men,Snow White,SS25,L,123.78,25.0,0.187,153,35,dead_stock,C_boundary_020
+Shirt,Trail,Men,Caviar,SS25,L,117.65,0.0,0.18,280,61,dead_stock,C_boundary_020
+Swimwear,Trail,Men,Caviar,SS25,One Size,48.06,20.0,0.178,391,85,dead_stock,C_boundary_020
+Shirt,Slate,Women,Khaki,SS25,XS,117.94,10.0,0.218,260,72,average,C_boundary_020
+Accessories,Morgex,Men,Yellow Sunshine,SS25,S,30.37,0.0,0.17,106,22,dead_stock,C_boundary_020
+Shorts,Box Logo,Men,Yellow Sunshine,SS25,M,58.34,0.0,0.209,386,102,average,C_boundary_020
+Shoes,Geographic,Men,Navy,SS25,37,175.73,25.0,0.202,201,51,average,C_boundary_020
+Sweatshirt,Patch,Men,Khaki,SS25,XL,114.54,20.0,0.19,357,84,dead_stock,C_boundary_020
+Pants,Geographic,Women,Caviar,SS25,XS,81.57,0.0,0.177,78,17,dead_stock,C_boundary_020
+Swimwear,Slate,Women,Grey Melange,SS25,L,57.65,20.0,0.177,193,42,dead_stock,C_boundary_020
+Sweatshirt,Geographic,Women,Snow White,SS25,XXL,95.7,0.0,0.221,227,64,average,C_boundary_020
+Shorts,Patch,Women,Stone Grey,SS25,S,82.5,0.0,0.184,343,77,dead_stock,C_boundary_020
+T-Shirt,Geographic,Men,Forest Green,SS25,One Size,45.2,0.0,0.188,289,67,dead_stock,C_boundary_020
+Pants,Geographic,Men,Yellow Sunshine,SS25,XXL,132.26,0.0,0.198,283,70,dead_stock,C_boundary_020
+Swimwear,Slate,Men,Snow White,SS25,XS,69.54,20.0,0.213,128,35,average,C_boundary_020
+Shirt,Rainforest,Men,Bright Red,SS25,XXL,116.79,25.0,0.227,137,40,average,C_boundary_020
+Polo,Circular,Men,Grey Melange,SS25,One Size,77.04,0.0,0.177,397,85,dead_stock,C_boundary_020
+Shoes,Circular,Women,Yellow Sunshine,SS25,46,127.8,0.0,0.215,136,37,average,C_boundary_020
+T-Shirt,Box Logo,Men,White Whisper,SS25,L,47.76,0.0,0.185,390,89,dead_stock,C_boundary_020
+Shirt,Circular,Men,Bright White,SS25,M,113.23,20.0,0.221,141,40,average,C_boundary_020
+Shorts,Tribe,Men,Burgundy,SS25,XL,68.87,0.0,0.192,204,48,dead_stock,C_boundary_020
+Pants,Tribe,Men,Bright White,SS25,One Size,141.41,0.0,0.216,252,69,average,C_boundary_020
+Polo,Morgex,Men,Yellow Sunshine,SS25,XXL,77.25,0.0,0.217,256,71,average,C_boundary_020
+Sweatshirt,Morgex,Men,Forest Green,SS25,XXL,103.46,25.0,0.214,102,28,average,C_boundary_020
+T-Shirt,Rainforest,Men,White Whisper,SS25,XS,38.96,25.0,0.173,389,81,dead_stock,C_boundary_020
+Sweatshirt,Trail,Men,White Whisper,SS25,M,81.31,0.0,0.201,155,39,average,C_boundary_020
+Pants,Morgex,Women,Bright Red,SS25,L,83.54,20.0,0.197,296,73,dead_stock,C_boundary_020
+T-Shirt,Tribe,Women,Stone Grey,SS25,S,44.85,0.0,0.224,226,65,average,C_boundary_020
+Polo,Patch,Women,Forest Green,SS25,XS,85.36,0.0,0.172,140,29,dead_stock,C_boundary_020
+Pants,Morgex,Men,Burgundy,SS25,XXL,96.81,25.0,0.22,352,99,average,C_boundary_020
+Shirt,Geographic,Men,Burgundy,SS25,XS,87.22,20.0,0.223,348,100,average,C_boundary_020
+T-Shirt,Slate,Women,Stone Grey,SS25,XXL,48.88,25.0,0.196,91,22,dead_stock,C_boundary_020
+Shorts,Slate,Men,Bright Red,SS25,One Size,85.92,0.0,0.212,265,71,average,C_boundary_020
+Shirt,Tribe,Men,White Whisper,SS25,M,111.23,25.0,0.197,201,49,dead_stock,C_boundary_020
+Shirt,Geographic,Women,Forest Green,SS25,M,110.08,0.0,0.215,337,92,average,C_boundary_020
+Shorts,Trail,Women,Yellow Sunshine,SS25,XL,88.66,10.0,0.222,51,15,average,C_boundary_020
+Shirt,Trail,Women,Forest Green,SS25,XXL,120.16,25.0,0.23,202,60,average,C_boundary_020
+Shirt,Trail,Men,Navy,SS25,One Size,99.69,25.0,0.171,82,17,dead_stock,C_boundary_020
+Accessories,Box Logo,Men,Bright White,SS25,L,25.27,0.0,0.222,306,87,average,C_boundary_020
+Shoes,Tribe,Women,Caviar,SS25,37,120.52,0.0,0.201,300,75,average,C_boundary_020
+Pants,Circular,Men,Forest Green,SS25,XL,139.61,0.0,0.185,194,44,dead_stock,C_boundary_020
+Pants,Slate,Women,Bright Red,SS25,One Size,109.94,0.0,0.171,51,11,dead_stock,C_boundary_020
+Shirt,Circular,Women,Bright Red,SS25,XL,114.99,20.0,0.211,120,32,average,C_boundary_020
+Pants,Circular,Men,Grey Melange,SS25,M,98.39,25.0,0.177,327,70,dead_stock,C_boundary_020
+Shorts,Slate,Men,Caviar,SS25,XXL,82.72,20.0,0.182,58,13,dead_stock,C_boundary_020
+T-Shirt,Slate,Women,White Whisper,SS25,XXL,30.5,0.0,0.225,75,22,average,C_boundary_020
+Shorts,Slate,Women,White Whisper,SS25,XS,70.99,25.0,0.201,284,71,average,C_boundary_020
+Shoes,Morgex,Women,Snow White,SS25,39,133.93,20.0,0.19,325,76,dead_stock,C_boundary_020
+Swimwear,Morgex,Women,Khaki,SS25,XS,68.62,25.0,0.218,139,39,average,C_boundary_020
+T-Shirt,Patch,Men,Caviar,SS25,XL,36.4,10.0,0.201,178,45,average,C_boundary_020
+Shirt,Slate,Men,Snow White,SS25,XL,124.58,0.0,0.172,202,42,dead_stock,C_boundary_020
+Shoes,Tribe,Women,Snow White,SS25,36,165.95,10.0,0.183,257,58,dead_stock,C_boundary_020
+Shirt,Tribe,Women,Khaki,SS25,S,103.76,25.0,0.197,245,60,dead_stock,C_boundary_020
+Shirt,Patch,Women,Bright Red,SS25,L,93.96,10.0,0.191,209,49,dead_stock,C_boundary_020
+Swimwear,Geographic,Women,Stone Grey,SS25,M,64.91,0.0,0.229,131,39,average,C_boundary_020
+Shirt,Morgex,Women,Snow White,SS25,S,106.57,10.0,0.206,108,28,average,C_boundary_020
+Accessories,Patch,Men,Khaki,SS25,XL,51.51,10.0,0.208,158,41,average,C_boundary_020
+Shoes,Rainforest,Men,Caviar,SS25,40,135.95,0.0,0.194,268,65,dead_stock,C_boundary_020
+Pants,Patch,Men,Bright Red,SS25,S,107.25,10.0,0.172,198,41,dead_stock,C_boundary_020
+Shorts,Box Logo,Women,White Whisper,SS25,L,71.7,0.0,0.221,332,94,average,C_boundary_020
+Sweatshirt,Slate,Men,Burgundy,SS25,M,109.83,10.0,0.218,55,15,average,C_boundary_020
+Pants,Slate,Men,Stone Grey,SS25,M,80.58,10.0,0.176,71,15,dead_stock,C_boundary_020
+Polo,Patch,Women,Snow White,SS25,XS,80.75,10.0,0.171,209,43,dead_stock,C_boundary_020
+Shoes,Rainforest,Women,Forest Green,SS25,39,106.51,10.0,0.218,203,57,average,C_boundary_020
+Swimwear,Trail,Women,Pale Mint,SS25,XL,63.63,25.0,0.225,65,19,average,C_boundary_020
+T-Shirt,Rainforest,Men,Bright Red,SS25,XS,39.51,10.0,0.219,341,96,average,C_boundary_020
+Swimwear,Rainforest,Men,Bright Red,SS25,XXL,79.07,20.0,0.201,212,53,average,C_boundary_020
+Sweatshirt,Slate,Men,Bright White,SS25,XL,116.14,0.0,0.193,174,42,dead_stock,C_boundary_020
+Shorts,Patch,Men,Snow White,SS25,XL,70.19,20.0,0.197,279,68,dead_stock,C_boundary_020
+Shirt,Slate,Men,Bright Red,SS25,S,96.34,20.0,0.213,181,49,average,C_boundary_020
+Shoes,Rainforest,Men,Pale Mint,SS25,41,115.19,25.0,0.203,320,82,average,C_boundary_020
+Pants,Geographic,Men,White Whisper,SS25,XXL,106.56,10.0,0.223,222,64,average,C_boundary_020
+Polo,Rainforest,Men,Caviar,SS25,XS,83.63,20.0,0.18,198,43,dead_stock,C_boundary_020
+Polo,Morgex,Men,White Whisper,SS25,XS,65.76,20.0,0.208,225,59,average,C_boundary_020
+Shirt,Slate,Men,Bright Red,SS25,XXL,126.81,10.0,0.199,280,70,dead_stock,C_boundary_020
+Polo,Geographic,Women,Pale Mint,SS25,XXL,85.83,0.0,0.207,55,14,average,C_boundary_020
+Sweatshirt,Box Logo,Men,Pale Mint,SS25,S,128.68,25.0,0.194,140,34,dead_stock,C_boundary_020
+Shirt,Patch,Men,Burgundy,SS25,XS,124.78,20.0,0.212,394,106,average,C_boundary_020
+Pants,Morgex,Men,White Whisper,SS25,XL,85.57,0.0,0.183,260,58,dead_stock,C_boundary_020
+Shirt,Morgex,Men,Burgundy,SS25,M,98.54,10.0,0.213,398,108,average,C_boundary_020
+Accessories,Morgex,Women,Snow White,SS25,M,36.39,0.0,0.183,131,29,dead_stock,C_boundary_020
+Shirt,Geographic,Women,Bright White,SS25,S,96.23,10.0,0.202,79,20,average,C_boundary_020
+Shoes,Rainforest,Men,Burgundy,SS25,39,145.07,10.0,0.211,276,74,average,C_boundary_020
+Sweatshirt,Patch,Women,Caviar,SS25,XXL,104.99,25.0,0.172,129,27,dead_stock,C_boundary_020
+Swimwear,Tribe,Women,White Whisper,SS25,XXL,66.08,0.0,0.194,72,17,dead_stock,C_boundary_020
+Accessories,Slate,Men,Burgundy,SS25,S,33.21,10.0,0.207,198,52,average,C_boundary_020
+Swimwear,Tribe,Women,Bright White,SS25,XXL,48.39,0.0,0.179,72,16,dead_stock,C_boundary_020
+Accessories,Patch,Women,Burgundy,SS25,XXL,67.36,25.0,0.192,260,62,dead_stock,C_boundary_020
+T-Shirt,Tribe,Women,Burgundy,SS25,XXL,46.33,25.0,0.215,217,59,average,C_boundary_020
+Shirt,Patch,Women,Snow White,SS25,XS,110.13,10.0,0.21,311,83,average,C_boundary_020
+Swimwear,Patch,Men,Khaki,SS25,XL,66.13,20.0,0.187,172,40,dead_stock,C_boundary_020
+Shorts,Trail,Women,Snow White,SS25,M,70.34,0.0,0.19,197,46,dead_stock,C_boundary_020
+T-Shirt,Slate,Men,Yellow Sunshine,SS25,One Size,49.49,10.0,0.184,158,36,dead_stock,C_boundary_020
+Polo,Box Logo,Women,Forest Green,SS25,XL,81.19,25.0,0.224,275,79,average,C_boundary_020
+Pants,Rainforest,Women,Khaki,SS25,One Size,114.58,10.0,0.203,297,76,average,C_boundary_020
+Accessories,Slate,Women,White Whisper,SS25,One Size,55.7,25.0,0.213,303,82,average,C_boundary_020
+Shirt,Trail,Women,Bright Red,SS25,S,111.59,0.0,0.213,91,25,average,C_boundary_020
+Sweatshirt,Slate,Men,Grey Melange,SS25,XXL,125.45,10.0,0.191,177,42,dead_stock,C_boundary_020
+Polo,Slate,Women,Bright Red,SS25,L,76.94,25.0,0.202,83,21,average,C_boundary_020
+Polo,Slate,Women,Bright White,SS25,M,70.84,25.0,0.185,320,73,dead_stock,C_boundary_020
+Polo,Tribe,Men,White Whisper,SS25,XL,65.89,0.0,0.217,337,93,average,C_boundary_020
+Shorts,Slate,Women,Bright White,SS25,S,80.65,25.0,0.189,146,34,dead_stock,C_boundary_020
+T-Shirt,Tribe,Men,Stone Grey,SS25,XXL,31.15,0.0,0.178,51,11,dead_stock,C_boundary_020
+Polo,Circular,Women,Yellow Sunshine,SS25,One Size,85.14,20.0,0.214,328,89,average,C_boundary_020
+Shirt,Tribe,Women,Grey Melange,FS24,XS,125.07,0.0,0.606,228,351,fast_mover,C_boundary_060
+Accessories,Box Logo,Women,White Whisper,FS24,L,22.68,20.0,0.57,247,327,average,C_boundary_060
+Shorts,Rainforest,Women,Bright White,FS24,L,78.72,25.0,0.585,21,30,average,C_boundary_060
+Shoes,Rainforest,Women,Stone Grey,FS24,44,144.26,20.0,0.629,27,46,fast_mover,C_boundary_060
+Shorts,Slate,Women,Snow White,FS24,XL,70.88,0.0,0.606,48,74,fast_mover,C_boundary_060
+Accessories,Morgex,Women,Pale Mint,FS24,L,31.44,10.0,0.583,20,28,average,C_boundary_060
+Sweatshirt,Slate,Men,Navy,FS24,XS,116.92,0.0,0.623,48,79,fast_mover,C_boundary_060
+Shirt,Rainforest,Men,Burgundy,FS24,S,91.59,25.0,0.628,43,73,fast_mover,C_boundary_060
+Shirt,Rainforest,Women,Grey Melange,FS24,L,94.57,10.0,0.629,162,275,fast_mover,C_boundary_060
+T-Shirt,Slate,Men,Grey Melange,FS24,One Size,37.65,25.0,0.621,55,90,fast_mover,C_boundary_060
+Shirt,Rainforest,Men,Khaki,FS24,M,80.61,0.0,0.586,67,95,average,C_boundary_060
+Accessories,Slate,Women,Navy,FS24,XS,67.36,0.0,0.596,221,326,average,C_boundary_060
+Shorts,Trail,Men,White Whisper,FS24,XXL,71.18,10.0,0.618,105,170,fast_mover,C_boundary_060
+Shirt,Circular,Women,Navy,FS24,M,127.78,10.0,0.619,52,84,fast_mover,C_boundary_060
+Swimwear,Morgex,Women,Burgundy,FS24,XS,70.26,0.0,0.615,197,315,fast_mover,C_boundary_060
+Shirt,Patch,Men,Forest Green,FS24,One Size,108.68,10.0,0.62,154,251,fast_mover,C_boundary_060
+Shorts,Rainforest,Women,Forest Green,FS24,XXL,63.41,25.0,0.584,154,216,average,C_boundary_060
+Accessories,Slate,Women,Bright Red,FS24,One Size,23.11,10.0,0.586,180,255,average,C_boundary_060
+Sweatshirt,Patch,Men,Stone Grey,FS24,XL,87.36,20.0,0.627,114,192,fast_mover,C_boundary_060
+Polo,Trail,Men,Pale Mint,FS24,One Size,86.88,10.0,0.593,245,357,average,C_boundary_060
+Polo,Trail,Women,White Whisper,FS24,S,60.19,20.0,0.627,131,220,fast_mover,C_boundary_060
+Accessories,Geographic,Men,Pale Mint,FS24,One Size,42.93,10.0,0.621,108,177,fast_mover,C_boundary_060
+Swimwear,Morgex,Men,Forest Green,FS24,L,56.88,10.0,0.589,56,80,average,C_boundary_060
+Pants,Patch,Men,Caviar,FS24,S,90.93,10.0,0.595,219,322,average,C_boundary_060
+Accessories,Patch,Men,Bright Red,FS24,M,56.19,10.0,0.59,258,371,average,C_boundary_060
+Sweatshirt,Circular,Men,Yellow Sunshine,FS24,One Size,116.73,25.0,0.63,176,300,fast_mover,C_boundary_060
+Shirt,Slate,Men,Grey Melange,FS24,One Size,127.72,0.0,0.582,259,361,average,C_boundary_060
+Sweatshirt,Patch,Women,Navy,FS24,M,119.89,0.0,0.626,179,300,fast_mover,C_boundary_060
+Shoes,Patch,Men,Pale Mint,FS24,37,101.73,10.0,0.6,169,253,fast_mover,C_boundary_060
+Accessories,Tribe,Women,Burgundy,FS24,One Size,20.28,25.0,0.577,120,164,average,C_boundary_060
+Shoes,Box Logo,Men,Grey Melange,FS24,38,134.9,10.0,0.611,92,145,fast_mover,C_boundary_060
+Swimwear,Geographic,Men,Forest Green,FS24,M,52.99,20.0,0.58,92,127,average,C_boundary_060
+Polo,Morgex,Men,Snow White,FS24,XL,74.77,10.0,0.618,175,283,fast_mover,C_boundary_060
+Pants,Box Logo,Women,White Whisper,FS24,One Size,128.47,10.0,0.592,217,315,average,C_boundary_060
+Accessories,Morgex,Men,Pale Mint,FS24,One Size,40.11,0.0,0.603,189,287,fast_mover,C_boundary_060
+Shorts,Circular,Women,Bright White,FS24,L,81.47,25.0,0.61,163,255,fast_mover,C_boundary_060
+Swimwear,Morgex,Men,Navy,FS24,S,68.61,0.0,0.587,213,303,average,C_boundary_060
+Sweatshirt,Box Logo,Men,Burgundy,FS24,XXL,86.77,20.0,0.61,166,260,fast_mover,C_boundary_060
+Accessories,Morgex,Women,Burgundy,FS24,XXL,69.42,0.0,0.588,73,104,average,C_boundary_060
+Polo,Geographic,Men,Snow White,FS24,XXL,83.45,20.0,0.592,189,274,average,C_boundary_060
+Swimwear,Geographic,Women,White Whisper,FS24,XS,51.59,20.0,0.612,179,282,fast_mover,C_boundary_060
+Sweatshirt,Geographic,Women,Stone Grey,FS24,XL,89.84,25.0,0.617,266,429,fast_mover,C_boundary_060
+Pants,Geographic,Men,Snow White,FS24,M,122.75,20.0,0.602,258,390,fast_mover,C_boundary_060
+Swimwear,Geographic,Men,Bright White,FS24,One Size,42.03,10.0,0.623,219,362,fast_mover,C_boundary_060
+Polo,Tribe,Women,Burgundy,FS24,M,61.63,10.0,0.589,177,254,average,C_boundary_060
+Pants,Patch,Men,Yellow Sunshine,FS24,XXL,144.28,25.0,0.571,260,346,average,C_boundary_060
+T-Shirt,Patch,Men,Caviar,FS24,S,43.13,10.0,0.607,129,199,fast_mover,C_boundary_060
+Polo,Circular,Women,Caviar,FS24,M,63.97,0.0,0.626,64,107,fast_mover,C_boundary_060
+Pants,Circular,Women,Caviar,FS24,XS,93.1,0.0,0.592,180,261,average,C_boundary_060
+Shoes,Tribe,Men,Pale Mint,FS24,42,178.7,0.0,0.611,200,314,fast_mover,C_boundary_060
+Sweatshirt,Geographic,Women,Grey Melange,FS24,M,112.97,25.0,0.623,147,243,fast_mover,C_boundary_060
+T-Shirt,Rainforest,Women,Forest Green,FS24,S,45.73,0.0,0.578,40,55,average,C_boundary_060
+Sweatshirt,Circular,Men,White Whisper,FS24,XXL,110.89,20.0,0.589,132,189,average,C_boundary_060
+T-Shirt,Rainforest,Women,White Whisper,FS24,L,36.53,20.0,0.573,148,199,average,C_boundary_060
+Accessories,Trail,Women,Grey Melange,FS24,XS,37.45,10.0,0.628,224,378,fast_mover,C_boundary_060
+Shorts,Rainforest,Women,Snow White,FS24,L,85.42,10.0,0.592,79,115,average,C_boundary_060
+Sweatshirt,Geographic,Men,Forest Green,FS24,XS,104.4,20.0,0.578,199,273,average,C_boundary_060
+Shorts,Rainforest,Women,Stone Grey,FS24,XS,52.17,20.0,0.589,265,380,average,C_boundary_060
+Shorts,Tribe,Women,Bright Red,FS24,XL,55.19,20.0,0.572,94,126,average,C_boundary_060
+Sweatshirt,Trail,Men,Pale Mint,FS24,XS,99.21,10.0,0.613,156,247,fast_mover,C_boundary_060
+Shorts,Morgex,Men,Caviar,FS24,M,80.79,10.0,0.624,154,256,fast_mover,C_boundary_060
+Swimwear,Trail,Men,Khaki,FS24,L,71.33,25.0,0.625,67,112,fast_mover,C_boundary_060
+Accessories,Box Logo,Women,White Whisper,FS24,XS,61.13,20.0,0.603,170,258,fast_mover,C_boundary_060
+Shirt,Tribe,Men,Bright White,FS24,XL,97.52,20.0,0.591,139,201,average,C_boundary_060
+Shoes,Box Logo,Men,Navy,FS24,41,163.16,25.0,0.603,53,81,fast_mover,C_boundary_060
+Swimwear,Circular,Women,Snow White,FS24,One Size,40.56,0.0,0.583,93,130,average,C_boundary_060
+Shoes,Geographic,Men,Forest Green,FS24,46,125.54,0.0,0.63,129,220,fast_mover,C_boundary_060
+Sweatshirt,Tribe,Women,Bright Red,FS24,XS,105.76,25.0,0.603,109,166,fast_mover,C_boundary_060
+Swimwear,Box Logo,Men,Bright Red,FS24,XXL,48.45,10.0,0.616,184,295,fast_mover,C_boundary_060
+Shorts,Geographic,Men,Caviar,FS24,XL,83.41,0.0,0.582,204,284,average,C_boundary_060
+Sweatshirt,Patch,Men,Navy,FS24,S,89.88,20.0,0.587,49,70,average,C_boundary_060
+Polo,Circular,Women,Pale Mint,FS24,One Size,64.84,25.0,0.606,297,457,fast_mover,C_boundary_060
+Polo,Box Logo,Men,Burgundy,FS24,One Size,64.02,10.0,0.571,220,293,average,C_boundary_060
+T-Shirt,Patch,Women,Navy,FS24,XXL,48.32,20.0,0.623,82,136,fast_mover,C_boundary_060
+Polo,Geographic,Men,Stone Grey,FS24,XL,79.61,10.0,0.609,33,51,fast_mover,C_boundary_060
+Shoes,Tribe,Men,Bright Red,FS24,44,125.12,0.0,0.595,87,128,average,C_boundary_060
+Shoes,Geographic,Men,Bright Red,FS24,41,164.55,10.0,0.577,224,306,average,C_boundary_060
+Polo,Morgex,Men,Navy,FS24,XL,87.18,10.0,0.627,30,50,fast_mover,C_boundary_060
+Swimwear,Rainforest,Women,Grey Melange,FS24,M,63.91,25.0,0.581,238,330,average,C_boundary_060
+Shirt,Rainforest,Men,Snow White,FS24,M,106.06,10.0,0.599,128,191,average,C_boundary_060
+Shoes,Trail,Men,Khaki,FS24,40,173.3,0.0,0.603,160,243,fast_mover,C_boundary_060
+Shirt,Tribe,Men,White Whisper,FS24,S,80.97,0.0,0.58,94,130,average,C_boundary_060
+Pants,Trail,Women,Stone Grey,FS24,One Size,87.56,20.0,0.624,233,387,fast_mover,C_boundary_060
+Shoes,Morgex,Men,Grey Melange,FS24,42,101.91,20.0,0.6,205,308,fast_mover,C_boundary_060
+Swimwear,Slate,Men,Bright Red,FS24,XXL,69.41,20.0,0.628,169,285,fast_mover,C_boundary_060
+Sweatshirt,Patch,Women,Stone Grey,FS24,L,107.25,20.0,0.574,188,253,average,C_boundary_060
+T-Shirt,Box Logo,Women,Burgundy,FS24,One Size,43.44,20.0,0.592,263,382,average,C_boundary_060
+T-Shirt,Circular,Women,Khaki,FS24,XL,33.33,0.0,0.581,149,207,average,C_boundary_060
+Polo,Rainforest,Women,Bright White,FS24,S,65.16,25.0,0.577,127,173,average,C_boundary_060
+Pants,Morgex,Men,Forest Green,FS24,XS,147.3,10.0,0.6,113,169,fast_mover,C_boundary_060
+Shoes,Geographic,Women,Forest Green,FS24,41,130.67,10.0,0.609,285,444,fast_mover,C_boundary_060
+Shoes,Circular,Women,Pale Mint,FS24,39,104.36,20.0,0.577,168,229,average,C_boundary_060
+Polo,Trail,Women,Burgundy,FS24,XS,66.62,25.0,0.611,103,162,fast_mover,C_boundary_060
+Shorts,Morgex,Men,Grey Melange,FS24,XS,85.73,0.0,0.625,259,432,fast_mover,C_boundary_060
+T-Shirt,Tribe,Men,White Whisper,FS24,XS,47.67,20.0,0.572,102,136,average,C_boundary_060
+Sweatshirt,Box Logo,Women,White Whisper,FS24,XS,127.49,0.0,0.575,202,273,average,C_boundary_060
+Shoes,Trail,Women,Snow White,FS24,37,102.23,25.0,0.571,272,362,average,C_boundary_060
+Shorts,Morgex,Women,White Whisper,FS24,XS,81.62,25.0,0.603,64,97,fast_mover,C_boundary_060
+Polo,Circular,Men,Khaki,FS24,One Size,73.17,20.0,0.592,193,280,average,C_boundary_060
+Sweatshirt,Rainforest,Men,Bright Red,FS24,L,124.39,20.0,0.588,192,274,average,C_boundary_060
+T-Shirt,Tribe,Men,White Whisper,FS24,L,49.68,10.0,0.601,299,450,fast_mover,C_boundary_060
+Polo,Patch,Men,Yellow Sunshine,FS24,M,61.95,25.0,0.589,238,341,average,C_boundary_060
+T-Shirt,Trail,Women,Pale Mint,FS24,M,38.3,25.0,0.594,207,303,average,C_boundary_060
+Sweatshirt,Box Logo,Women,Caviar,FS24,L,122.22,10.0,0.589,223,320,average,C_boundary_060
+Swimwear,Box Logo,Men,Khaki,FS24,One Size,42.2,20.0,0.627,136,229,fast_mover,C_boundary_060
+Shoes,Morgex,Women,Bright White,FS24,39,156.15,20.0,0.623,162,268,fast_mover,C_boundary_060
+Polo,Box Logo,Women,Snow White,FS24,XS,88.47,10.0,0.604,159,243,fast_mover,C_boundary_060
+T-Shirt,Box Logo,Men,Grey Melange,FS24,L,44.09,0.0,0.612,111,175,fast_mover,C_boundary_060
+Swimwear,Geographic,Women,Bright White,FS24,M,68.0,25.0,0.619,108,175,fast_mover,C_boundary_060
+Shoes,Morgex,Men,Bright Red,FS24,37,160.93,25.0,0.618,79,128,fast_mover,C_boundary_060
+Accessories,Morgex,Women,Grey Melange,FS24,L,69.56,20.0,0.609,138,215,fast_mover,C_boundary_060
+Accessories,Tribe,Men,Navy,FS24,L,38.38,20.0,0.608,236,366,fast_mover,C_boundary_060
+Accessories,Trail,Women,White Whisper,FS24,S,40.07,0.0,0.598,281,418,average,C_boundary_060
+Sweatshirt,Geographic,Women,Snow White,FS24,L,128.64,20.0,0.63,275,468,fast_mover,C_boundary_060
+Accessories,Rainforest,Men,Burgundy,FS24,XL,61.71,10.0,0.6,26,39,fast_mover,C_boundary_060
+T-Shirt,Trail,Men,Bright Red,FS24,M,38.47,25.0,0.595,28,41,average,C_boundary_060
+Pants,Morgex,Men,Stone Grey,FS24,One Size,138.11,0.0,0.577,108,147,average,C_boundary_060
+Swimwear,Morgex,Women,Stone Grey,FS24,S,65.68,25.0,0.596,174,257,average,C_boundary_060
+Shorts,Rainforest,Men,Forest Green,FS24,XXL,76.64,10.0,0.596,124,183,average,C_boundary_060
+Sweatshirt,Patch,Men,Grey Melange,FS24,XXL,82.25,0.0,0.602,96,145,fast_mover,C_boundary_060
+Shirt,Circular,Women,Grey Melange,FS24,XXL,123.16,20.0,0.573,74,99,average,C_boundary_060
+Swimwear,Slate,Women,Grey Melange,FS24,XXL,50.63,10.0,0.606,53,82,fast_mover,C_boundary_060
+Sweatshirt,Patch,Men,Grey Melange,FS24,L,92.04,20.0,0.619,113,184,fast_mover,C_boundary_060
+Pants,Circular,Women,Snow White,FS24,XL,110.83,25.0,0.6,45,68,fast_mover,C_boundary_060
+Sweatshirt,Trail,Women,Khaki,FS24,XS,109.13,25.0,0.602,240,363,fast_mover,C_boundary_060
+Shoes,Rainforest,Men,Snow White,FS24,46,121.37,20.0,0.624,259,430,fast_mover,C_boundary_060
+Shorts,Rainforest,Women,White Whisper,FS24,XXL,51.11,10.0,0.591,53,77,average,C_boundary_060
+Polo,Patch,Men,Burgundy,FS24,XXL,68.43,10.0,0.608,91,141,fast_mover,C_boundary_060
+Pants,Box Logo,Women,White Whisper,FS24,XXL,128.39,0.0,0.573,293,393,average,C_boundary_060
+Pants,Morgex,Women,Yellow Sunshine,FS24,XL,109.92,10.0,0.582,211,294,average,C_boundary_060
+T-Shirt,Rainforest,Women,White Whisper,FS24,S,35.88,25.0,0.6,233,349,fast_mover,C_boundary_060
+Shoes,Patch,Men,Stone Grey,FS24,39,167.72,25.0,0.602,214,324,fast_mover,C_boundary_060
+Accessories,Trail,Women,Snow White,FS24,XS,40.61,0.0,0.608,69,107,fast_mover,C_boundary_060
+T-Shirt,Rainforest,Women,Stone Grey,FS24,One Size,35.41,20.0,0.582,126,175,average,C_boundary_060
+T-Shirt,Tribe,Women,Bright White,FS24,M,43.71,20.0,0.617,82,132,fast_mover,C_boundary_060
+Accessories,Geographic,Women,Burgundy,FS24,XXL,49.43,20.0,0.612,57,90,fast_mover,C_boundary_060
+T-Shirt,Slate,Women,Bright Red,FS24,XL,43.18,20.0,0.628,175,295,fast_mover,C_boundary_060
+Swimwear,Circular,Men,Caviar,FS24,One Size,50.11,20.0,0.629,108,183,fast_mover,C_boundary_060
+Shirt,Box Logo,Men,Yellow Sunshine,FS24,M,89.28,10.0,0.628,245,414,fast_mover,C_boundary_060
+Shirt,Patch,Men,Burgundy,FS24,M,96.87,10.0,0.586,189,268,average,C_boundary_060
+Swimwear,Box Logo,Men,Forest Green,FS24,XL,50.74,10.0,0.574,265,357,average,C_boundary_060
+Sweatshirt,Geographic,Women,Khaki,FS24,S,94.31,0.0,0.583,162,226,average,C_boundary_060
+Sweatshirt,Morgex,Men,Forest Green,FS24,M,104.16,25.0,0.586,182,258,average,C_boundary_060
+Polo,Morgex,Women,Stone Grey,FS24,XL,82.23,25.0,0.607,255,394,fast_mover,C_boundary_060
+T-Shirt,Slate,Women,Yellow Sunshine,FS24,XXL,39.27,25.0,0.571,228,303,average,C_boundary_060
+Accessories,Geographic,Women,Caviar,FS24,L,22.16,25.0,0.586,29,41,average,C_boundary_060
+T-Shirt,Trail,Men,Bright White,FS24,XS,45.53,20.0,0.628,201,339,fast_mover,C_boundary_060
+T-Shirt,Trail,Men,Navy,FS24,XXL,44.16,20.0,0.574,112,151,average,C_boundary_060
+Pants,Box Logo,Women,Caviar,FS24,M,126.13,10.0,0.602,217,328,fast_mover,C_boundary_060
+Swimwear,Tribe,Women,Forest Green,FS24,XXL,66.23,0.0,0.605,127,195,fast_mover,C_boundary_060
+Shirt,Tribe,Men,Navy,FS24,L,111.17,10.0,0.627,120,202,fast_mover,C_boundary_060
+Shirt,Tribe,Men,Caviar,FS24,One Size,121.43,0.0,0.601,193,291,fast_mover,C_boundary_060
+Polo,Circular,Women,Bright White,FS24,XXL,86.19,25.0,0.624,135,224,fast_mover,C_boundary_060
+Accessories,Circular,Women,Bright Red,FS24,XXL,41.4,20.0,0.609,280,436,fast_mover,C_boundary_060
+T-Shirt,Box Logo,Men,Yellow Sunshine,FS24,S,33.87,20.0,0.581,256,355,average,C_boundary_060
+Accessories,Slate,Men,Forest Green,FS24,S,47.85,25.0,0.574,102,137,average,C_boundary_060
+Sweatshirt,Morgex,Women,Burgundy,FS24,One Size,91.43,0.0,0.583,80,112,average,C_boundary_060
+T-Shirt,Tribe,Men,Grey Melange,FS24,XXL,40.26,0.0,0.606,212,326,fast_mover,C_boundary_060
+Accessories,Circular,Men,Bright White,FS24,S,65.21,20.0,0.609,100,156,fast_mover,C_boundary_060
+Shorts,Box Logo,Men,White Whisper,FS24,M,77.1,10.0,0.592,254,369,average,C_boundary_060
+Polo,Morgex,Men,Khaki,FS24,L,67.77,25.0,0.611,59,93,fast_mover,C_boundary_060
+Polo,Slate,Men,Caviar,FS24,M,85.44,10.0,0.575,162,219,average,C_boundary_060
+Shoes,Circular,Women,White Whisper,FS24,44,101.12,20.0,0.617,166,267,fast_mover,C_boundary_060
+Shirt,Tribe,Men,White Whisper,FS24,L,102.19,0.0,0.594,272,398,average,C_boundary_060
+Shorts,Slate,Men,Snow White,FS24,XXL,58.07,20.0,0.627,235,395,fast_mover,C_boundary_060
+Sweatshirt,Box Logo,Men,Burgundy,FS24,L,127.2,10.0,0.576,177,240,average,C_boundary_060
+Shirt,Slate,Men,Snow White,FS24,One Size,103.95,20.0,0.584,57,80,average,C_boundary_060
+Swimwear,Geographic,Men,Khaki,FS24,M,41.03,0.0,0.617,97,156,fast_mover,C_boundary_060
+Shirt,Patch,Men,Burgundy,FS24,XS,109.39,20.0,0.628,255,430,fast_mover,C_boundary_060
+Pants,Trail,Women,Pale Mint,FS24,M,96.86,0.0,0.616,20,32,fast_mover,C_boundary_060
+Shorts,Trail,Women,Stone Grey,FS24,L,60.54,0.0,0.627,74,124,fast_mover,C_boundary_060
+Polo,Slate,Women,Burgundy,FS24,XS,81.88,25.0,0.628,128,216,fast_mover,C_boundary_060
+Sweatshirt,Rainforest,Men,Stone Grey,FS24,XXL,95.96,20.0,0.57,178,236,average,C_boundary_060
+Swimwear,Circular,Women,Grey Melange,FS24,XL,73.47,0.0,0.58,43,59,average,C_boundary_060
+Shirt,Geographic,Men,Pale Mint,FS24,M,90.46,0.0,0.613,280,444,fast_mover,C_boundary_060
+Swimwear,Tribe,Men,Bright Red,FS24,XXL,70.04,25.0,0.625,130,217,fast_mover,C_boundary_060
+T-Shirt,Slate,Men,Forest Green,FS24,XS,36.08,20.0,0.613,181,287,fast_mover,C_boundary_060
+Sweatshirt,Morgex,Men,Grey Melange,FS24,XS,117.79,10.0,0.626,172,288,fast_mover,C_boundary_060
+Accessories,Trail,Men,Grey Melange,FS24,One Size,69.01,0.0,0.595,55,81,average,C_boundary_060
+Accessories,Tribe,Women,White Whisper,FS24,L,44.42,25.0,0.571,295,393,average,C_boundary_060
+Shorts,Morgex,Women,Khaki,FS24,XXL,74.6,20.0,0.575,78,106,average,C_boundary_060
+Swimwear,Rainforest,Women,Bright White,FS24,S,46.91,0.0,0.598,283,421,average,C_boundary_060
+T-Shirt,Box Logo,Women,Stone Grey,FS24,L,49.79,0.0,0.573,94,126,average,C_boundary_060
+Shirt,Patch,Men,Yellow Sunshine,FS24,L,126.57,20.0,0.582,146,203,average,C_boundary_060
+Pants,Slate,Men,Bright Red,FS24,S,81.82,25.0,0.586,215,304,average,C_boundary_060
+Shorts,Morgex,Women,White Whisper,FS24,One Size,60.4,0.0,0.627,102,171,fast_mover,C_boundary_060
+Pants,Rainforest,Women,Bright Red,FS24,M,103.33,10.0,0.594,183,268,average,C_boundary_060
+Swimwear,Rainforest,Women,Yellow Sunshine,FS24,M,47.8,0.0,0.627,218,366,fast_mover,C_boundary_060
+Sweatshirt,Circular,Men,Khaki,FS24,XS,102.0,25.0,0.609,190,296,fast_mover,C_boundary_060
+Accessories,Patch,Men,Burgundy,FS24,L,40.96,0.0,0.603,92,140,fast_mover,C_boundary_060
+Sweatshirt,Slate,Women,Bright Red,FS24,XXL,92.95,20.0,0.587,99,141,average,C_boundary_060
+Swimwear,Geographic,Men,Stone Grey,FS24,XL,48.25,25.0,0.62,91,148,fast_mover,C_boundary_060
+Polo,Circular,Women,Navy,FS24,S,86.56,10.0,0.607,180,278,fast_mover,C_boundary_060
+Polo,Trail,Men,Navy,FS24,S,70.33,20.0,0.593,87,127,average,C_boundary_060
+Swimwear,Morgex,Men,Grey Melange,FS24,One Size,66.87,20.0,0.611,126,198,fast_mover,C_boundary_060
+Accessories,Box Logo,Women,Snow White,FS24,S,54.49,0.0,0.606,290,446,fast_mover,C_boundary_060
+Polo,Trail,Women,Yellow Sunshine,FS24,XXL,77.14,10.0,0.602,195,295,fast_mover,C_boundary_060
+Swimwear,Rainforest,Women,Grey Melange,FS24,One Size,41.35,0.0,0.594,162,237,average,C_boundary_060
+Shoes,Morgex,Women,White Whisper,FS24,36,164.12,25.0,0.61,194,303,fast_mover,C_boundary_060
+Accessories,Geographic,Women,Navy,FS24,L,45.95,25.0,0.607,273,422,fast_mover,C_boundary_060
+Pants,Trail,Women,Burgundy,FS24,One Size,148.65,20.0,0.586,26,37,average,C_boundary_060
+Polo,Rainforest,Men,White Whisper,FS24,XL,70.04,10.0,0.608,131,203,fast_mover,C_boundary_060
+Polo,Circular,Men,Bright Red,FS24,XXL,78.2,0.0,0.584,206,289,average,C_boundary_060
+Sweatshirt,Trail,Men,Snow White,FS24,M,120.59,25.0,0.589,136,195,average,C_boundary_060
+Sweatshirt,Tribe,Men,Pale Mint,FS24,XS,86.87,0.0,0.612,95,150,fast_mover,C_boundary_060
+Sweatshirt,Tribe,Men,Caviar,FS24,One Size,90.43,10.0,0.625,84,140,fast_mover,C_boundary_060
+Swimwear,Box Logo,Men,White Whisper,FS24,One Size,60.79,25.0,0.61,279,436,fast_mover,C_boundary_060
+Sweatshirt,Morgex,Women,Bright White,FS24,L,98.22,10.0,0.627,298,501,fast_mover,C_boundary_060
+Shoes,Patch,Women,Khaki,FS24,44,104.17,0.0,0.594,129,189,average,C_boundary_060
+T-Shirt,Patch,Men,Bright Red,FS24,XL,34.0,20.0,0.616,212,340,fast_mover,C_boundary_060
+Shoes,Slate,Women,White Whisper,FS24,46,106.67,10.0,0.62,122,199,fast_mover,C_boundary_060
+Shorts,Geographic,Men,Navy,FS24,One Size,57.77,25.0,0.614,281,447,fast_mover,C_boundary_060
+Pants,Rainforest,Women,Yellow Sunshine,FS24,XXL,130.82,20.0,0.586,292,413,average,C_boundary_060
+Polo,Rainforest,Men,Stone Grey,FS24,L,69.63,0.0,0.598,279,415,average,C_boundary_060
+Shorts,Rainforest,Women,Forest Green,FS24,XS,56.7,10.0,0.594,49,72,average,C_boundary_060
+Swimwear,Patch,Women,Grey Melange,FS24,L,77.96,20.0,0.598,228,339,average,C_boundary_060
+Accessories,Patch,Men,Grey Melange,FS24,One Size,33.88,0.0,0.57,208,276,average,C_boundary_060
+Swimwear,Patch,Men,Pale Mint,FS24,L,58.55,25.0,0.615,81,129,fast_mover,C_boundary_060
+Shorts,Box Logo,Men,Burgundy,FS24,M,88.8,10.0,0.624,123,204,fast_mover,C_boundary_060
+Swimwear,Trail,Women,Grey Melange,FS24,XXL,61.88,0.0,0.625,77,128,fast_mover,C_boundary_060
+Swimwear,Circular,Women,Navy,FS24,L,61.76,25.0,0.574,30,40,average,C_boundary_060
+Accessories,Morgex,Men,Pale Mint,FS24,M,48.39,25.0,0.618,215,348,fast_mover,C_boundary_060
+Swimwear,Circular,Men,Caviar,FS24,M,63.37,10.0,0.583,42,59,average,C_boundary_060
+T-Shirt,Patch,Women,Burgundy,FS24,M,44.66,0.0,0.58,132,182,average,C_boundary_060
+Shoes,Box Logo,Men,Bright White,FS24,38,140.84,20.0,0.608,252,391,fast_mover,C_boundary_060
+Polo,Geographic,Women,Khaki,FS24,L,86.47,20.0,0.618,273,442,fast_mover,C_boundary_060
+Sweatshirt,Morgex,Women,Snow White,FS24,XXL,85.77,0.0,0.624,208,345,fast_mover,C_boundary_060
+Shoes,Morgex,Men,Yellow Sunshine,FS24,45,129.82,25.0,0.603,155,235,fast_mover,C_boundary_060
+Shoes,Morgex,Women,Grey Melange,FS24,39,109.35,10.0,0.595,113,166,average,C_boundary_060
+Pants,Rainforest,Men,Grey Melange,FS24,M,120.34,0.0,0.613,197,312,fast_mover,C_boundary_060
+Shorts,Morgex,Men,Grey Melange,FS24,XL,72.64,25.0,0.576,159,216,average,C_boundary_060
+Sweatshirt,Patch,Men,Grey Melange,FS24,XS,109.13,20.0,0.596,292,431,average,C_boundary_060
+Shirt,Geographic,Women,Yellow Sunshine,FS24,XL,115.06,0.0,0.574,145,195,average,C_boundary_060
+Accessories,Slate,Women,Khaki,FS24,XL,59.78,20.0,0.6,295,442,fast_mover,C_boundary_060
+Polo,Circular,Women,Pale Mint,FS24,One Size,84.75,10.0,0.581,281,390,average,C_boundary_060
+Swimwear,Box Logo,Men,Khaki,FS24,M,60.0,20.0,0.608,212,329,fast_mover,C_boundary_060
+Shorts,Trail,Men,Khaki,FS24,S,84.26,0.0,0.59,284,409,average,C_boundary_060
+Shoes,Circular,Women,Forest Green,FS24,41,177.33,10.0,0.591,203,293,average,C_boundary_060
+Shorts,Circular,Men,Pale Mint,FS24,L,73.69,0.0,0.57,289,383,average,C_boundary_060
+Accessories,Tribe,Men,Navy,FS24,M,59.19,10.0,0.595,233,342,average,C_boundary_060
+Polo,Circular,Women,Bright White,FS24,One Size,69.22,10.0,0.589,233,334,average,C_boundary_060
+Sweatshirt,Tribe,Women,Caviar,FS24,One Size,113.99,10.0,0.577,141,192,average,C_boundary_060
+Swimwear,Tribe,Men,Snow White,FS24,M,78.95,20.0,0.582,62,86,average,C_boundary_060
+Shoes,Slate,Men,Khaki,FS24,42,144.1,10.0,0.625,203,338,fast_mover,C_boundary_060
+Pants,Geographic,Women,Burgundy,FS24,XL,115.25,0.0,0.593,202,294,average,C_boundary_060
+Pants,Trail,Men,Forest Green,FS24,S,136.12,25.0,0.595,145,213,average,C_boundary_060
+Shoes,Box Logo,Women,Navy,FS24,37,135.93,25.0,0.587,242,344,average,C_boundary_060
+Shorts,Tribe,Women,Bright White,FS24,L,72.02,20.0,0.616,251,403,fast_mover,C_boundary_060
+Pants,Rainforest,Men,Snow White,FS24,One Size,129.6,20.0,0.582,243,338,average,C_boundary_060
+Swimwear,Slate,Men,Bright White,FS24,XS,61.06,0.0,0.58,189,261,average,C_boundary_060
+Swimwear,Patch,Men,Forest Green,SS25,M,71.1,30.0,0.162,19,4,,D_random_noise
+Pants,Trail,Men,Stone Grey,SS25,M,96.81,20.0,0.946,569,9968,,D_random_noise
+Accessories,Tribe,Men,Navy,SS25,XL,67.99,0.0,0.394,501,326,,D_random_noise
+Swimwear,Tribe,Men,Grey Melange,FS24,XXL,44.22,10.0,0.617,550,886,,D_random_noise
+Shirt,Patch,Women,Forest Green,SS25,One Size,121.69,10.0,0.821,137,628,,D_random_noise
+Shorts,Patch,Women,Navy,SS25,XS,51.51,30.0,0.197,642,158,,D_random_noise
+Accessories,Morgex,Women,Bright White,FS24,XS,67.44,0.0,0.112,112,14,,D_random_noise
+Pants,Patch,Women,Bright Red,SS25,One Size,148.18,20.0,0.342,314,163,,D_random_noise
+Swimwear,Circular,Women,Yellow Sunshine,SS25,S,66.46,10.0,0.609,743,1157,,D_random_noise
+Sweatshirt,Trail,Women,Snow White,SS25,L,87.27,30.0,0.678,791,1666,,D_random_noise
+Swimwear,Rainforest,Men,Burgundy,FS24,L,49.74,0.0,0.867,305,1988,,D_random_noise
+Polo,Slate,Women,White Whisper,SS25,M,73.65,0.0,0.694,898,2037,,D_random_noise
+Swimwear,Box Logo,Women,Forest Green,SS25,XL,56.0,10.0,0.951,802,15565,,D_random_noise
+Pants,Geographic,Men,Bright White,FS24,M,90.97,0.0,0.584,622,873,,D_random_noise
+Shoes,Geographic,Women,Pale Mint,FS24,42,128.94,10.0,0.14,848,138,,D_random_noise
+T-Shirt,Box Logo,Men,Khaki,FS24,S,30.86,10.0,0.872,525,3577,,D_random_noise
+Swimwear,Geographic,Women,Bright White,FS24,One Size,65.97,0.0,0.427,660,492,,D_random_noise
+Sweatshirt,Trail,Men,Yellow Sunshine,FS24,One Size,129.38,25.0,0.662,299,586,,D_random_noise
+Shorts,Slate,Women,Bright White,SS25,XL,56.48,0.0,0.155,261,48,,D_random_noise
+Shorts,Morgex,Women,Yellow Sunshine,SS25,XXL,75.34,10.0,0.571,115,153,,D_random_noise
+T-Shirt,Rainforest,Women,Bright White,SS25,XL,42.01,25.0,0.196,936,228,,D_random_noise
+Accessories,Geographic,Men,Stone Grey,SS25,S,65.27,30.0,0.411,303,211,,D_random_noise
+Shirt,Trail,Women,Grey Melange,FS24,XL,111.85,0.0,0.108,6,1,,D_random_noise
+T-Shirt,Box Logo,Men,Burgundy,SS25,S,30.28,20.0,0.285,537,214,,D_random_noise
+Sweatshirt,Geographic,Men,Pale Mint,FS24,M,98.96,0.0,0.685,322,700,,D_random_noise
+Pants,Rainforest,Men,Navy,FS24,S,146.4,20.0,0.98,322,15778,,D_random_noise
+Sweatshirt,Trail,Men,Forest Green,FS24,M,104.54,30.0,0.564,187,242,,D_random_noise
+Swimwear,Geographic,Men,Pale Mint,SS25,M,76.94,20.0,0.076,992,82,,D_random_noise
+Pants,Tribe,Men,Navy,FS24,XL,142.24,0.0,0.067,597,43,,D_random_noise
+Shirt,Patch,Women,Yellow Sunshine,SS25,XXL,116.44,10.0,0.777,128,446,,D_random_noise
+Sweatshirt,Trail,Women,Caviar,SS25,L,110.4,10.0,0.777,136,474,,D_random_noise
+Shirt,Geographic,Women,Burgundy,SS25,XXL,92.82,0.0,0.032,781,26,,D_random_noise
+Sweatshirt,Morgex,Men,Burgundy,FS24,S,81.76,20.0,0.793,12,46,,D_random_noise
+Shoes,Morgex,Women,Burgundy,SS25,41,109.02,10.0,0.276,166,63,,D_random_noise
+Shirt,Box Logo,Men,Burgundy,FS24,XL,100.99,20.0,0.129,478,71,,D_random_noise
+Shorts,Box Logo,Women,Bright White,SS25,M,55.24,0.0,0.787,719,2657,,D_random_noise
+Shirt,Circular,Men,Stone Grey,FS24,L,82.8,30.0,0.531,195,221,,D_random_noise
+Accessories,Tribe,Women,Burgundy,SS25,One Size,57.53,20.0,0.507,728,749,,D_random_noise
+T-Shirt,Rainforest,Women,Stone Grey,SS25,XL,37.25,0.0,0.223,126,36,,D_random_noise
+Swimwear,Circular,Women,Pale Mint,FS24,XS,50.95,25.0,0.537,763,885,,D_random_noise
+Shirt,Slate,Women,Grey Melange,SS25,One Size,112.99,25.0,0.17,9,2,,D_random_noise
+Polo,Patch,Men,Grey Melange,SS25,L,85.69,25.0,0.779,694,2446,,D_random_noise
+Accessories,Trail,Men,Navy,FS24,S,61.44,30.0,0.137,789,125,,D_random_noise
+Sweatshirt,Trail,Men,Pale Mint,FS24,XXL,89.64,0.0,0.596,393,580,,D_random_noise
+Accessories,Slate,Women,Caviar,SS25,XS,41.06,30.0,0.798,399,1576,,D_random_noise
+Swimwear,Patch,Men,Navy,SS25,XS,78.73,20.0,0.679,103,218,,D_random_noise
+Shoes,Slate,Men,Navy,FS24,39,163.84,0.0,0.866,448,2895,,D_random_noise
+Shorts,Slate,Men,Pale Mint,FS24,S,60.08,0.0,0.727,958,2551,,D_random_noise
+Shirt,Trail,Women,Yellow Sunshine,SS25,S,120.93,10.0,0.885,329,2532,,D_random_noise
+Shorts,Morgex,Men,Grey Melange,SS25,M,73.7,20.0,0.477,559,510,,D_random_noise
+Sweatshirt,Circular,Men,Bright Red,FS24,M,94.0,30.0,0.128,178,26,,D_random_noise
+Accessories,Circular,Men,White Whisper,SS25,One Size,59.42,30.0,0.909,24,240,,D_random_noise
+Shirt,Circular,Women,Khaki,FS24,L,128.12,10.0,0.949,586,10904,,D_random_noise
+Sweatshirt,Slate,Women,Yellow Sunshine,FS24,XXL,124.8,0.0,0.384,776,484,,D_random_noise
+Swimwear,Morgex,Women,White Whisper,SS25,L,75.02,20.0,0.721,879,2272,,D_random_noise
+T-Shirt,Rainforest,Men,Caviar,SS25,XXL,41.1,20.0,0.09,65,6,,D_random_noise
+Shorts,Morgex,Men,Caviar,SS25,XS,79.24,20.0,0.174,648,137,,D_random_noise
+Shirt,Circular,Men,Bright Red,SS25,XL,109.94,0.0,0.779,148,522,,D_random_noise
+Polo,Morgex,Women,Bright Red,FS24,S,89.29,0.0,0.391,797,512,,D_random_noise
+Shirt,Trail,Men,Navy,SS25,One Size,89.2,0.0,0.882,547,4089,,D_random_noise
+Shorts,Box Logo,Women,Stone Grey,SS25,XS,65.49,20.0,0.853,214,1242,,D_random_noise
+Shirt,Geographic,Men,Snow White,SS25,XXL,100.3,20.0,0.404,91,62,,D_random_noise
+Pants,Circular,Men,Pale Mint,FS24,One Size,134.17,30.0,0.023,17,0,,D_random_noise
+Shorts,Slate,Men,Bright White,SS25,XXL,69.62,10.0,0.722,172,447,,D_random_noise
+Sweatshirt,Patch,Women,Bright White,SS25,XXL,87.64,10.0,0.048,500,25,,D_random_noise
+Pants,Rainforest,Women,Caviar,FS24,S,129.44,10.0,0.752,783,2374,,D_random_noise
+Shorts,Morgex,Men,Snow White,FS24,XS,62.1,30.0,0.319,239,112,,D_random_noise
+Sweatshirt,Rainforest,Men,Khaki,FS24,One Size,97.21,25.0,0.948,784,14293,,D_random_noise
+Accessories,Slate,Women,Grey Melange,SS25,S,31.72,10.0,0.369,443,259,,D_random_noise
+Accessories,Circular,Women,Yellow Sunshine,FS24,S,33.19,30.0,0.535,431,496,,D_random_noise
+Shoes,Rainforest,Women,Stone Grey,FS24,43,159.77,0.0,0.007,410,3,,D_random_noise
+Pants,Slate,Women,Forest Green,FS24,One Size,147.39,25.0,0.38,748,458,,D_random_noise
+T-Shirt,Morgex,Women,Bright White,SS25,One Size,49.22,20.0,0.81,142,605,,D_random_noise
+Shorts,Box Logo,Men,Yellow Sunshine,FS24,M,87.33,0.0,0.138,437,70,,D_random_noise
+Accessories,Geographic,Men,Navy,SS25,M,54.76,30.0,0.053,786,44,,D_random_noise
+Pants,Geographic,Women,Burgundy,SS25,XL,115.07,0.0,0.33,295,145,,D_random_noise
+Sweatshirt,Trail,Women,Burgundy,SS25,M,112.52,25.0,0.002,673,1,,D_random_noise
+Pants,Geographic,Men,Burgundy,FS24,One Size,119.01,0.0,0.369,706,413,,D_random_noise
+Polo,Circular,Women,Bright White,FS24,One Size,76.02,30.0,0.866,913,5900,,D_random_noise
+Sweatshirt,Patch,Men,Pale Mint,SS25,XXL,83.9,0.0,0.032,298,10,,D_random_noise
+Accessories,Slate,Women,Yellow Sunshine,SS25,L,48.47,30.0,0.639,532,942,,D_random_noise
+Shoes,Circular,Women,Navy,FS24,37,178.13,0.0,0.032,281,9,,D_random_noise
+Accessories,Circular,Men,Stone Grey,SS25,XS,38.26,30.0,0.428,142,106,,D_random_noise
+T-Shirt,Geographic,Men,Bright White,FS24,XS,42.84,0.0,0.874,973,6749,,D_random_noise
+Shorts,Patch,Women,Bright White,SS25,One Size,78.21,30.0,0.118,9,1,,D_random_noise
+Polo,Tribe,Men,Khaki,FS24,S,80.51,0.0,0.89,449,3633,,D_random_noise
+Sweatshirt,Trail,Men,White Whisper,SS25,L,99.59,30.0,0.711,650,1599,,D_random_noise
+Shorts,Patch,Men,Khaki,SS25,S,69.41,10.0,0.723,908,2370,,D_random_noise
+Swimwear,Rainforest,Men,Snow White,SS25,L,43.16,20.0,0.336,24,12,,D_random_noise
+Pants,Rainforest,Men,Bright White,SS25,One Size,100.21,10.0,0.901,462,4205,,D_random_noise
+Swimwear,Trail,Men,Bright White,SS25,XS,45.56,25.0,0.365,111,64,,D_random_noise
+Shoes,Box Logo,Men,Bright Red,FS24,41,132.68,25.0,0.992,265,32860,,D_random_noise
+T-Shirt,Slate,Men,White Whisper,SS25,L,45.72,10.0,0.836,919,4685,,D_random_noise
+Sweatshirt,Geographic,Men,Khaki,SS25,L,121.73,20.0,0.857,34,204,,D_random_noise
+Pants,Patch,Men,Burgundy,SS25,XL,122.21,10.0,0.359,195,109,,D_random_noise
+Shorts,Patch,Women,Caviar,SS25,S,62.86,0.0,0.664,217,429,,D_random_noise
+Shirt,Geographic,Women,Burgundy,FS24,XXL,114.4,30.0,0.031,818,26,,D_random_noise
+Accessories,Trail,Women,Khaki,FS24,L,30.36,0.0,0.025,118,3,,D_random_noise
+T-Shirt,Morgex,Women,Navy,SS25,M,38.48,0.0,0.662,527,1032,,D_random_noise
+T-Shirt,Slate,Men,White Whisper,FS24,S,41.99,0.0,0.462,223,191,,D_random_noise
+Shirt,Patch,Women,Yellow Sunshine,SS25,XL,106.0,10.0,0.48,314,290,,D_random_noise
+Shirt,Tribe,Men,Burgundy,FS24,XL,102.44,30.0,0.811,202,867,,D_random_noise
+Polo,Morgex,Men,Bright Red,SS25,S,74.23,20.0,0.434,498,382,,D_random_noise
+Swimwear,Circular,Women,Burgundy,SS25,XXL,74.04,10.0,0.609,618,963,,D_random_noise
+Sweatshirt,Trail,Men,Pale Mint,SS25,M,127.91,10.0,0.257,860,297,,D_random_noise
+T-Shirt,Box Logo,Men,Yellow Sunshine,SS25,XS,44.67,0.0,0.42,94,68,,D_random_noise
+T-Shirt,Rainforest,Men,White Whisper,FS24,XL,42.5,30.0,0.316,496,229,,D_random_noise
+Polo,Trail,Men,Grey Melange,SS25,L,80.27,30.0,0.05,228,12,,D_random_noise
+T-Shirt,Geographic,Men,White Whisper,FS24,XL,32.25,10.0,0.346,368,195,,D_random_noise
+Polo,Trail,Men,Grey Melange,FS24,M,87.42,0.0,0.462,470,404,,D_random_noise
+T-Shirt,Geographic,Men,Grey Melange,SS25,M,47.31,30.0,0.679,326,690,,D_random_noise
+Swimwear,Morgex,Men,Pale Mint,FS24,S,44.97,25.0,0.163,612,119,,D_random_noise
+Shirt,Geographic,Men,Stone Grey,SS25,XS,88.0,30.0,0.903,25,233,,D_random_noise
+Shorts,Rainforest,Women,White Whisper,FS24,XL,51.44,25.0,0.427,773,576,,D_random_noise
+Pants,Patch,Men,Pale Mint,SS25,M,148.94,25.0,0.746,753,2212,,D_random_noise
+Shorts,Geographic,Men,Caviar,FS24,XL,61.69,25.0,0.52,464,503,,D_random_noise
+Shirt,Morgex,Women,White Whisper,FS24,L,92.25,25.0,0.294,565,235,,D_random_noise
+Polo,Slate,Women,Grey Melange,SS25,One Size,70.56,25.0,0.029,447,13,,D_random_noise
+Pants,Morgex,Men,Caviar,FS24,XL,132.15,25.0,0.945,246,4227,,D_random_noise
+Sweatshirt,Circular,Women,Navy,SS25,XS,117.19,30.0,0.981,7,361,,D_random_noise
+Sweatshirt,Box Logo,Women,Khaki,SS25,M,96.38,0.0,0.334,977,490,,D_random_noise
+Swimwear,Box Logo,Women,Khaki,FS24,One Size,70.99,10.0,0.782,997,3576,,D_random_noise
+Accessories,Rainforest,Men,Pale Mint,FS24,M,65.46,10.0,0.116,597,78,,D_random_noise
+T-Shirt,Box Logo,Women,Forest Green,FS24,L,49.21,30.0,0.295,787,329,,D_random_noise
+Swimwear,Slate,Men,Khaki,FS24,M,63.74,30.0,0.471,374,333,,D_random_noise
+Pants,Circular,Men,Navy,SS25,M,103.99,30.0,0.705,242,578,,D_random_noise
+Shirt,Tribe,Men,Caviar,FS24,M,124.99,25.0,0.392,539,348,,D_random_noise
+Polo,Geographic,Women,Snow White,SS25,S,85.5,0.0,0.151,705,125,,D_random_noise
+Shoes,Tribe,Men,Pale Mint,SS25,46,169.79,25.0,0.064,907,62,,D_random_noise
+Polo,Trail,Women,White Whisper,FS24,M,61.34,0.0,0.856,601,3573,,D_random_noise
+Shorts,Geographic,Men,Caviar,FS24,S,89.67,0.0,0.476,949,862,,D_random_noise
+Shorts,Rainforest,Men,Snow White,FS24,One Size,72.41,0.0,0.405,872,594,,D_random_noise
+Accessories,Box Logo,Women,White Whisper,FS24,XXL,24.11,20.0,0.16,703,134,,D_random_noise
+Sweatshirt,Trail,Women,Bright Red,FS24,XS,84.73,30.0,0.788,652,2423,,D_random_noise
+Shirt,Rainforest,Women,Pale Mint,SS25,L,103.26,20.0,0.844,14,76,,D_random_noise
+Polo,Morgex,Men,White Whisper,SS25,XXL,76.8,30.0,0.254,227,77,,D_random_noise
+Shirt,Patch,Men,Forest Green,FS24,XS,96.84,0.0,0.777,887,3091,,D_random_noise
+Shirt,Geographic,Women,Bright White,SS25,L,113.9,25.0,0.47,136,121,,D_random_noise
+Shoes,Rainforest,Men,Bright Red,FS24,46,148.08,20.0,0.624,52,86,,D_random_noise
+Shirt,Slate,Women,Burgundy,SS25,XS,121.4,30.0,0.421,657,478,,D_random_noise
+Sweatshirt,Slate,Men,Bright Red,FS24,XXL,80.2,10.0,0.836,54,275,,D_random_noise
+T-Shirt,Patch,Men,Stone Grey,FS24,XS,46.66,25.0,0.698,400,925,,D_random_noise
+Polo,Tribe,Men,Pale Mint,FS24,XXL,81.8,0.0,0.686,347,758,,D_random_noise
+Shorts,Slate,Women,Stone Grey,FS24,XS,52.79,0.0,0.279,606,234,,D_random_noise
+T-Shirt,Patch,Men,Khaki,SS25,One Size,35.24,20.0,0.702,763,1797,,D_random_noise
+Sweatshirt,Slate,Women,Navy,SS25,L,84.2,0.0,0.697,888,2043,,D_random_noise
+Shorts,Geographic,Men,Grey Melange,FS24,XXL,56.98,0.0,0.336,998,505,,D_random_noise
+Swimwear,Circular,Men,Khaki,SS25,One Size,77.11,25.0,0.478,491,450,,D_random_noise
+Pants,Geographic,Men,Navy,SS25,S,80.89,20.0,0.629,240,407,,D_random_noise
+Sweatshirt,Circular,Women,Pale Mint,SS25,XS,113.47,30.0,0.565,741,962,,D_random_noise
+Sweatshirt,Patch,Men,Bright Red,FS24,XXL,113.1,25.0,0.525,665,735,,D_random_noise
+Polo,Rainforest,Women,Burgundy,SS25,XL,63.79,30.0,0.702,490,1154,,D_random_noise
+T-Shirt,Rainforest,Men,Yellow Sunshine,SS25,XXL,49.23,25.0,0.86,247,1517,,D_random_noise
+Shorts,Slate,Men,Navy,FS24,M,89.02,20.0,0.055,528,31,,D_random_noise
+Pants,Patch,Men,Khaki,FS24,S,134.69,10.0,0.138,604,97,,D_random_noise
+Pants,Patch,Men,Bright Red,FS24,One Size,94.42,25.0,0.586,496,702,,D_random_noise
+Swimwear,Slate,Men,White Whisper,FS24,S,70.17,20.0,0.518,280,301,,D_random_noise
+Shoes,Geographic,Women,Stone Grey,FS24,37,123.89,10.0,0.711,705,1734,,D_random_noise
+Pants,Circular,Men,Pale Mint,FS24,XL,104.34,10.0,0.942,248,4028,,D_random_noise
+T-Shirt,Slate,Men,White Whisper,FS24,XXL,32.74,0.0,0.205,533,137,,D_random_noise
+Shirt,Tribe,Men,Forest Green,FS24,M,81.25,0.0,0.274,877,331,,D_random_noise
+Swimwear,Patch,Women,Caviar,FS24,XL,64.83,20.0,0.556,202,253,,D_random_noise
+Sweatshirt,Geographic,Women,Yellow Sunshine,SS25,XXL,84.11,10.0,0.365,20,11,,D_random_noise
+Shorts,Tribe,Men,Pale Mint,FS24,One Size,78.76,20.0,0.966,322,9149,,D_random_noise
+Shorts,Tribe,Women,Snow White,SS25,XS,60.08,0.0,0.643,748,1347,,D_random_noise
+Shorts,Box Logo,Men,Navy,SS25,XL,87.86,20.0,0.885,397,3055,,D_random_noise
+Accessories,Patch,Women,Pale Mint,FS24,L,25.39,20.0,0.977,77,3271,,D_random_noise
+Shorts,Slate,Women,Navy,SS25,L,58.26,30.0,0.579,631,868,,D_random_noise
+Shoes,Trail,Men,Khaki,FS24,37,105.85,10.0,0.591,723,1045,,D_random_noise
+Shoes,Trail,Women,Caviar,FS24,39,174.63,20.0,0.885,176,1354,,D_random_noise
+Accessories,Box Logo,Women,Bright Red,SS25,One Size,51.37,30.0,0.032,916,30,,D_random_noise
+T-Shirt,Geographic,Men,Pale Mint,FS24,M,31.65,0.0,0.816,509,2257,,D_random_noise
+Shoes,Circular,Men,Forest Green,FS24,41,139.49,30.0,0.917,962,10628,,D_random_noise
+Pants,Rainforest,Men,Stone Grey,SS25,S,86.19,30.0,0.986,707,49793,,D_random_noise
+T-Shirt,Geographic,Women,Caviar,SS25,L,35.49,30.0,0.674,598,1236,,D_random_noise
+Swimwear,Morgex,Men,Bright White,FS24,XL,44.59,0.0,0.629,919,1558,,D_random_noise
+Polo,Patch,Men,Caviar,SS25,XL,79.18,20.0,0.522,364,398,,D_random_noise
+Shoes,Trail,Women,Khaki,SS25,40,150.02,30.0,0.653,58,109,,D_random_noise
+Pants,Rainforest,Men,Yellow Sunshine,SS25,M,124.25,0.0,0.12,76,10,,D_random_noise
+Polo,Morgex,Women,Bright White,SS25,L,76.64,0.0,0.145,53,9,,D_random_noise
+Pants,Circular,Men,Snow White,SS25,One Size,84.44,20.0,0.225,713,207,,D_random_noise
+T-Shirt,Patch,Men,Caviar,FS24,XXL,40.55,30.0,0.773,326,1110,,D_random_noise
+T-Shirt,Morgex,Women,Burgundy,FS24,S,42.74,10.0,0.493,913,888,,D_random_noise
+Polo,Patch,Women,Grey Melange,FS24,S,76.22,25.0,0.529,727,817,,D_random_noise
+Accessories,Tribe,Men,Burgundy,SS25,XL,67.18,0.0,0.507,183,188,,D_random_noise
+Shorts,Box Logo,Men,Grey Melange,FS24,M,77.79,20.0,0.633,943,1626,,D_random_noise
+Sweatshirt,Morgex,Women,Yellow Sunshine,SS25,XS,83.54,30.0,0.595,11,16,,D_random_noise
+Shirt,Trail,Men,Burgundy,SS25,One Size,117.15,0.0,0.785,949,3465,,D_random_noise
+Pants,Trail,Women,Burgundy,SS25,XL,126.27,25.0,0.789,949,3549,,D_random_noise
+Pants,Slate,Women,Forest Green,SS25,XL,81.7,25.0,0.571,645,858,,D_random_noise
+Accessories,Circular,Women,Stone Grey,FS24,One Size,27.29,30.0,0.895,724,6171,,D_random_noise
+Shoes,Circular,Women,Khaki,FS24,36,140.04,0.0,0.2,429,107,,D_random_noise
+Pants,Rainforest,Men,Bright White,SS25,XS,127.13,20.0,0.857,163,977,,D_random_noise
+Polo,Trail,Men,Khaki,SS25,XL,71.87,10.0,0.361,931,526,,D_random_noise
+Shoes,Tribe,Women,Snow White,SS25,40,159.25,30.0,0.966,76,2159,,D_random_noise
+Shoes,Rainforest,Women,Caviar,SS25,36,177.32,20.0,0.928,279,3596,,D_random_noise
+Sweatshirt,Slate,Men,Bright White,FS24,L,115.02,0.0,0.404,591,401,,D_random_noise
+Swimwear,Circular,Women,Snow White,FS24,L,51.59,30.0,0.141,957,157,,D_random_noise
+Shoes,Patch,Women,Bright White,FS24,40,112.17,0.0,0.448,96,78,,D_random_noise
+Swimwear,Morgex,Men,Navy,FS24,XS,55.3,10.0,0.465,550,478,,D_random_noise
+Shirt,Trail,Men,Caviar,FS24,L,85.75,0.0,0.978,65,2890,,D_random_noise
+Shirt,Circular,Women,Grey Melange,SS25,XL,126.2,20.0,0.79,755,2840,,D_random_noise
+T-Shirt,Trail,Women,Caviar,FS24,S,45.96,25.0,0.002,859,2,,D_random_noise
+Shorts,Geographic,Men,Burgundy,SS25,XS,50.31,30.0,0.73,846,2287,,D_random_noise
+Pants,Slate,Women,White Whisper,FS24,M,136.32,10.0,0.24,606,191,,D_random_noise
+Polo,Box Logo,Women,Bright Red,FS24,XS,71.29,10.0,0.993,299,42415,,D_random_noise
+Shorts,Geographic,Men,Burgundy,SS25,M,57.21,10.0,0.622,25,41,,D_random_noise
+Sweatshirt,Slate,Women,Snow White,SS25,S,112.16,0.0,0.803,576,2348,,D_random_noise
+Shirt,Trail,Women,Bright White,SS25,M,86.65,30.0,0.957,838,18650,,D_random_noise
+Swimwear,Box Logo,Women,Forest Green,SS25,One Size,57.53,0.0,0.75,604,1812,,D_random_noise
+Shoes,Geographic,Men,Stone Grey,FS24,46,103.01,30.0,0.737,882,2472,,D_random_noise
+Swimwear,Rainforest,Women,Yellow Sunshine,FS24,One Size,66.07,20.0,0.693,250,564,,D_random_noise
+T-Shirt,Morgex,Men,Pale Mint,FS24,M,40.88,0.0,0.778,721,2527,,D_random_noise
+Accessories,Slate,Women,Navy,SS25,M,60.72,25.0,0.181,693,153,,D_random_noise
+Sweatshirt,Morgex,Women,Snow White,FS24,M,111.91,20.0,0.214,517,141,,D_random_noise
+Shorts,Morgex,Men,Bright Red,FS24,L,54.82,30.0,0.035,237,9,,D_random_noise
+Accessories,Box Logo,Women,Bright Red,FS24,M,34.33,0.0,0.058,18,1,,D_random_noise
+Sweatshirt,Patch,Men,Bright White,SS25,L,116.56,0.0,0.224,688,199,,D_random_noise
+T-Shirt,Slate,Women,Bright White,FS24,XL,45.35,20.0,0.311,441,199,,D_random_noise
+Shirt,Rainforest,Men,Snow White,FS24,XL,88.71,25.0,0.027,966,27,,D_random_noise
+Polo,Rainforest,Men,Bright White,FS24,S,87.35,25.0,0.534,819,939,,D_random_noise
+Accessories,Circular,Men,Navy,SS25,S,44.8,25.0,0.455,909,759,,D_random_noise
+Polo,Morgex,Men,Stone Grey,FS24,XL,81.31,20.0,0.85,710,4023,,D_random_noise
+T-Shirt,Morgex,Women,Pale Mint,FS24,One Size,49.29,30.0,0.595,850,1249,,D_random_noise
+Shoes,Rainforest,Men,Bright White,FS24,40,144.24,20.0,0.835,210,1063,,D_random_noise
+Polo,Box Logo,Women,Caviar,FS24,L,80.94,25.0,0.36,254,143,,D_random_noise
+Swimwear,Morgex,Women,Stone Grey,SS25,XS,64.49,0.0,0.519,659,711,,D_random_noise
+Pants,Box Logo,Men,Khaki,FS24,XL,144.8,30.0,0.058,60,4,,D_random_noise
+Pants,Slate,Men,Forest Green,SS25,M,144.73,30.0,0.044,167,8,,D_random_noise
+Polo,Morgex,Men,Burgundy,SS25,L,70.72,25.0,0.828,203,977,,D_random_noise
+Swimwear,Trail,Women,Snow White,FS24,M,44.9,20.0,0.646,238,434,,D_random_noise
+Pants,Slate,Women,Stone Grey,SS25,S,134.15,0.0,0.039,748,30,,D_random_noise
+T-Shirt,Slate,Women,Khaki,SS25,L,47.94,30.0,0.544,11,13,,D_random_noise
+Shirt,Patch,Women,Stone Grey,FS24,XL,126.04,10.0,0.225,693,201,,D_random_noise
+Shorts,Trail,Women,Snow White,SS25,L,78.33,30.0,0.547,599,723,,D_random_noise
+Shirt,Trail,Men,Forest Green,FS24,One Size,111.69,10.0,0.89,108,874,,D_random_noise
+Shirt,Morgex,Women,Stone Grey,SS25,L,100.63,25.0,0.108,564,68,,D_random_noise
+Shoes,Slate,Women,Bright White,SS25,44,103.25,0.0,0.096,595,63,,D_random_noise
+Sweatshirt,Geographic,Men,Navy,SS25,M,105.42,25.0,0.075,794,64,,D_random_noise
+Pants,Patch,Men,Yellow Sunshine,FS24,XXL,100.39,0.0,0.285,877,350,,D_random_noise
+Shorts,Trail,Men,Bright White,SS25,M,59.16,10.0,0.786,903,3317,,D_random_noise
+Polo,Box Logo,Women,White Whisper,SS25,One Size,67.22,0.0,0.632,819,1407,,D_random_noise
+Shirt,Patch,Men,Caviar,FS24,S,104.31,25.0,0.68,814,1730,,D_random_noise
+T-Shirt,Morgex,Men,White Whisper,FS24,L,36.7,25.0,0.46,446,380,,D_random_noise
+Shorts,Morgex,Men,Stone Grey,SS25,XXL,50.39,25.0,0.373,16,10,,D_random_noise
+Accessories,Slate,Women,Caviar,FS24,XL,24.69,20.0,0.984,723,44464,,D_random_noise
+Shoes,Trail,Women,Bright White,FS24,40,167.23,25.0,0.105,709,83,,D_random_noise
+Shirt,Circular,Women,Khaki,SS25,XL,109.91,25.0,0.608,986,1529,,D_random_noise
+Shorts,Rainforest,Men,Caviar,FS24,XL,63.38,20.0,0.292,340,140,,D_random_noise
+Shirt,Rainforest,Men,Stone Grey,FS24,S,102.33,25.0,0.309,356,159,,D_random_noise
+T-Shirt,Trail,Men,Navy,FS24,XL,44.21,20.0,0.203,721,184,,D_random_noise
+Shirt,Patch,Men,Stone Grey,FS24,L,128.96,20.0,0.181,396,88,,D_random_noise
+T-Shirt,Slate,Women,Khaki,FS24,One Size,33.22,30.0,0.935,44,633,,D_random_noise
+Shoes,Trail,Men,White Whisper,FS24,45,158.0,30.0,0.17,266,54,,D_random_noise
+Shorts,Circular,Men,Pale Mint,FS24,XXL,55.16,0.0,0.926,215,2690,,D_random_noise
+Shoes,Tribe,Women,White Whisper,FS24,43,160.1,30.0,0.726,577,1529,,D_random_noise
+Shirt,Box Logo,Men,Stone Grey,SS25,One Size,111.1,10.0,0.523,896,982,,D_random_noise
+Shirt,Slate,Men,Grey Melange,FS24,XL,112.93,25.0,0.332,624,310,,D_random_noise
+Swimwear,Patch,Women,Grey Melange,FS24,M,68.21,25.0,0.001,962,1,,D_random_noise
+Accessories,Patch,Men,White Whisper,FS24,XXL,28.64,30.0,0.014,839,12,,D_random_noise
+Accessories,Slate,Women,White Whisper,FS24,S,44.19,20.0,0.813,883,3839,,D_random_noise
+T-Shirt,Geographic,Women,Snow White,FS24,XL,49.19,10.0,0.221,396,112,,D_random_noise
+Shirt,Slate,Women,Navy,SS25,S,120.0,25.0,0.169,311,63,,D_random_noise
+T-Shirt,Morgex,Men,White Whisper,FS24,XL,44.27,30.0,0.515,718,762,,D_random_noise
+Sweatshirt,Morgex,Men,Stone Grey,SS25,XXL,120.45,30.0,0.697,656,1509,,D_random_noise
+Shorts,Circular,Men,Pale Mint,SS25,XS,54.13,20.0,0.15,667,118,,D_random_noise
+Polo,Tribe,Women,Khaki,FS24,L,89.1,10.0,0.14,37,6,,D_random_noise
+Shirt,Trail,Men,White Whisper,FS24,XXL,120.32,0.0,0.652,936,1754,,D_random_noise
+Shoes,Trail,Men,Snow White,FS24,44,128.75,20.0,0.373,860,512,,D_random_noise
+Shirt,Geographic,Men,Burgundy,SS25,M,101.79,0.0,0.943,11,182,,D_random_noise
+T-Shirt,Morgex,Men,Forest Green,FS24,M,34.48,0.0,0.09,74,7,,D_random_noise
+Pants,Circular,Women,Caviar,FS24,One Size,146.5,10.0,0.124,12,2,,D_random_noise
+Shoes,Patch,Men,Pale Mint,FS24,39,167.57,10.0,0.557,484,609,,D_random_noise
+Polo,Trail,Women,Caviar,SS25,XL,61.38,10.0,0.008,362,3,,D_random_noise
+Polo,Rainforest,Women,Pale Mint,FS24,M,87.61,0.0,0.008,519,4,,D_random_noise
+T-Shirt,Rainforest,Men,Burgundy,FS24,L,47.94,0.0,0.044,476,22,,D_random_noise
+Pants,Morgex,Men,Bright Red,SS25,XS,135.33,30.0,0.318,488,228,,D_random_noise
+Shirt,Tribe,Men,Khaki,SS25,XXL,106.95,25.0,0.108,375,45,,D_random_noise
+Accessories,Circular,Women,Navy,FS24,XXL,27.32,30.0,0.504,892,906,,D_random_noise
+Pants,Trail,Women,Pale Mint,SS25,L,128.06,20.0,0.089,220,21,,D_random_noise
+Shorts,Box Logo,Women,Caviar,FS24,M,74.37,10.0,0.213,873,236,,D_random_noise
+Polo,Tribe,Women,Caviar,FS24,XS,70.44,20.0,0.243,580,186,,D_random_noise
+Shorts,Box Logo,Men,Pale Mint,SS25,M,68.85,10.0,0.0,305,0,,D_random_noise
+Swimwear,Rainforest,Women,Stone Grey,SS25,S,72.35,30.0,0.651,629,1173,,D_random_noise
+Shorts,Trail,Men,Burgundy,FS24,One Size,72.73,20.0,0.512,701,735,,D_random_noise
+Polo,Patch,Men,Bright Red,SS25,S,72.51,0.0,0.003,10,0,,D_random_noise
+T-Shirt,Circular,Men,Yellow Sunshine,SS25,M,29.99,0.0,0.059,693,43,,D_random_noise
+Shorts,Patch,Women,Bright White,SS25,XXL,78.29,20.0,0.74,663,1887,,D_random_noise
+Shirt,Rainforest,Women,Forest Green,SS25,M,98.05,30.0,0.528,64,72,,D_random_noise
+Accessories,Rainforest,Women,Grey Melange,FS24,L,32.46,0.0,0.821,781,3582,,D_random_noise
+Swimwear,Trail,Women,Khaki,FS24,S,40.12,25.0,0.236,300,93,,D_random_noise
+Swimwear,Circular,Men,White Whisper,SS25,XS,55.55,25.0,0.038,48,2,,D_random_noise
+Polo,Circular,Men,Grey Melange,FS24,XS,69.46,0.0,0.692,910,2045,,D_random_noise
+Shoes,Box Logo,Men,Forest Green,SS25,37,173.12,0.0,0.837,376,1931,,D_random_noise
+Accessories,Circular,Women,Navy,FS24,L,41.21,10.0,0.473,301,270,,D_random_noise
+Polo,Morgex,Men,Caviar,FS24,L,85.54,10.0,0.604,696,1062,,D_random_noise
+Sweatshirt,Patch,Men,Khaki,SS25,XL,103.45,30.0,0.046,744,36,,D_random_noise
+Accessories,Tribe,Men,Snow White,FS24,M,67.76,10.0,0.2,438,110,,D_random_noise
+Pants,Circular,Women,Burgundy,SS25,L,88.8,0.0,0.305,499,219,,D_random_noise
+Accessories,Slate,Women,White Whisper,FS24,S,53.28,30.0,0.739,62,176,,D_random_noise
+Accessories,Circular,Men,Bright Red,SS25,M,48.64,30.0,0.611,245,385,,D_random_noise
+Sweatshirt,Box Logo,Men,Stone Grey,FS24,XS,86.14,0.0,0.703,508,1202,,D_random_noise
+Shorts,Rainforest,Men,Stone Grey,SS25,M,89.95,0.0,0.712,572,1414,,D_random_noise
+Shirt,Trail,Women,Bright Red,SS25,One Size,100.86,25.0,0.807,974,4073,,D_random_noise
+Shirt,Rainforest,Men,Snow White,FS24,L,80.14,10.0,0.236,218,67,,D_random_noise
+Polo,Morgex,Women,White Whisper,FS24,L,85.35,25.0,0.556,388,486,,D_random_noise
+Shoes,Patch,Men,White Whisper,SS25,40,174.35,10.0,0.31,604,271,,D_random_noise
+Polo,Geographic,Men,Bright Red,SS25,L,88.56,30.0,0.392,19,12,,D_random_noise
+Shorts,Slate,Women,Yellow Sunshine,FS24,S,83.13,10.0,0.264,360,129,,D_random_noise
+Pants,Patch,Women,Yellow Sunshine,SS25,XS,127.61,10.0,0.485,472,445,,D_random_noise
+Shirt,Box Logo,Women,Navy,SS25,L,107.03,25.0,0.193,823,197,,D_random_noise
+Swimwear,Trail,Women,Bright White,SS25,XL,57.39,0.0,0.498,792,786,,D_random_noise
+Shoes,Slate,Men,Forest Green,SS25,44,119.55,30.0,0.726,112,297,,D_random_noise
+Swimwear,Box Logo,Women,Khaki,SS25,XXL,40.59,20.0,0.682,522,1120,,D_random_noise
+Shirt,Morgex,Women,Navy,SS25,XL,95.4,30.0,0.635,763,1327,,D_random_noise
+Shoes,Slate,Women,Grey Melange,SS25,43,174.67,20.0,0.576,683,928,,D_random_noise
+Sweatshirt,Tribe,Women,Caviar,SS25,XL,99.82,25.0,0.9,55,495,,D_random_noise
+Shorts,Circular,Men,Pale Mint,FS24,XS,73.38,0.0,0.21,506,135,,D_random_noise
+Swimwear,Morgex,Women,Stone Grey,FS24,S,50.67,25.0,0.507,647,665,,D_random_noise
+Pants,Box Logo,Men,Yellow Sunshine,FS24,One Size,147.59,25.0,0.471,310,276,,D_random_noise
+Swimwear,Slate,Men,Stone Grey,FS24,One Size,47.5,20.0,0.424,172,127,,D_random_noise
+Shoes,Box Logo,Women,Pale Mint,SS25,39,162.77,30.0,0.426,112,83,,D_random_noise
+Shorts,Trail,Men,Snow White,SS25,S,69.76,20.0,0.298,283,120,,D_random_noise
+Shoes,Tribe,Men,Pale Mint,FS24,36,133.67,20.0,0.304,918,401,,D_random_noise
+Swimwear,Box Logo,Women,Forest Green,FS24,S,41.43,30.0,0.848,545,3041,,D_random_noise
+Shoes,Rainforest,Women,Khaki,FS24,37,171.61,10.0,0.79,476,1791,,D_random_noise
+Accessories,Tribe,Women,Pale Mint,SS25,One Size,28.71,25.0,0.396,527,346,,D_random_noise
+Sweatshirt,Rainforest,Women,Navy,SS25,XS,115.24,20.0,0.251,17,6,,D_random_noise
+Pants,Patch,Women,Khaki,SS25,XS,97.85,10.0,0.236,468,145,,D_random_noise
+Pants,Morgex,Women,Snow White,FS24,XXL,84.67,20.0,0.484,398,373,,D_random_noise
+Sweatshirt,Trail,Women,Pale Mint,SS25,XXL,82.58,30.0,0.796,974,3801,,D_random_noise
+Sweatshirt,Trail,Women,Grey Melange,SS25,One Size,83.46,10.0,0.993,129,18300,,D_random_noise
+Pants,Rainforest,Men,Yellow Sunshine,SS25,M,110.7,25.0,0.9,950,8550,,D_random_noise
+Accessories,Morgex,Women,Pale Mint,FS24,One Size,58.55,25.0,0.366,660,381,,D_random_noise
+Accessories,Box Logo,Women,Khaki,FS24,M,57.79,30.0,0.584,775,1088,,D_random_noise
+T-Shirt,Tribe,Men,Navy,FS24,L,45.64,0.0,0.163,549,107,,D_random_noise
+Polo,Tribe,Women,Yellow Sunshine,SS25,M,79.59,20.0,0.595,62,91,,D_random_noise
+Sweatshirt,Tribe,Women,Pale Mint,FS24,XXL,104.01,10.0,0.896,20,172,,D_random_noise
+T-Shirt,Rainforest,Men,Yellow Sunshine,FS24,XXL,40.18,30.0,0.696,110,252,,D_random_noise
+Pants,Geographic,Men,White Whisper,SS25,XS,104.37,10.0,0.69,157,349,,D_random_noise
+Shoes,Trail,Women,Khaki,SS25,43,137.86,30.0,0.16,925,176,,D_random_noise
+Pants,Tribe,Men,Navy,SS25,XL,107.58,20.0,0.556,587,735,,D_random_noise
+Sweatshirt,Rainforest,Women,Bright White,SS25,S,81.56,20.0,0.769,928,3089,,D_random_noise
+Swimwear,Circular,Women,Navy,SS25,S,73.7,30.0,0.336,804,407,,D_random_noise
+Polo,Trail,Men,White Whisper,SS25,One Size,72.91,25.0,0.174,629,133,,D_random_noise
+Shoes,Circular,Women,Pale Mint,FS24,43,141.15,10.0,0.423,569,417,,D_random_noise
+Shirt,Patch,Women,Grey Melange,FS24,S,101.04,25.0,0.261,773,273,,D_random_noise
+Shirt,Slate,Men,White Whisper,SS25,XS,103.46,10.0,0.431,509,386,,D_random_noise
+Shorts,Slate,Women,Grey Melange,SS25,L,72.93,0.0,0.063,139,9,,D_random_noise
+Shirt,Box Logo,Men,Snow White,FS24,XS,102.74,10.0,0.228,802,237,,D_random_noise
+Sweatshirt,Rainforest,Women,Caviar,SS25,XXL,118.01,10.0,0.874,731,5071,,D_random_noise
+Shoes,Morgex,Women,Navy,SS25,42,174.72,30.0,0.949,373,6941,,D_random_noise
+Sweatshirt,Trail,Men,Pale Mint,FS24,S,87.09,0.0,0.584,879,1234,,D_random_noise
+Shoes,Tribe,Women,Bright Red,FS24,42,162.2,25.0,0.486,959,907,,D_random_noise
+Swimwear,Circular,Women,Bright Red,FS24,M,67.3,25.0,0.237,497,154,,D_random_noise
+Shorts,Slate,Men,Bright White,SS25,XS,61.91,10.0,0.99,165,16335,,D_random_noise
+Polo,Patch,Women,Khaki,FS24,XXL,86.77,30.0,0.548,969,1175,,D_random_noise
+Accessories,Geographic,Women,Khaki,FS24,One Size,68.84,0.0,0.637,786,1379,,D_random_noise
+Pants,Circular,Women,Caviar,FS24,S,96.19,10.0,0.725,266,701,,D_random_noise
+Shorts,Geographic,Men,Stone Grey,SS25,XXL,60.71,0.0,0.698,336,777,,D_random_noise
+Shorts,Trail,Women,Pale Mint,SS25,M,78.06,10.0,0.992,132,16368,,D_random_noise
+Shoes,Morgex,Women,Khaki,FS24,44,102.4,25.0,0.18,295,65,,D_random_noise
+Accessories,Geographic,Men,Yellow Sunshine,SS25,XS,57.84,0.0,0.949,293,5452,,D_random_noise
+Shorts,Circular,Women,Snow White,SS25,L,67.12,20.0,0.499,97,97,,D_random_noise
+Swimwear,Geographic,Men,White Whisper,SS25,XL,61.21,25.0,0.828,698,3360,,D_random_noise
+Polo,Patch,Women,Caviar,FS24,XS,75.3,25.0,0.069,874,65,,D_random_noise
+Shoes,Patch,Women,Grey Melange,SS25,36,148.38,0.0,0.878,470,3382,,D_random_noise
+Pants,Tribe,Women,Bright Red,SS25,XL,126.87,0.0,0.181,143,32,,D_random_noise
+Shorts,Geographic,Women,Navy,FS24,L,77.09,30.0,0.83,645,3149,,D_random_noise
+Shirt,Box Logo,Men,Bright Red,SS25,XS,94.78,25.0,0.508,615,635,,D_random_noise
+T-Shirt,Tribe,Women,White Whisper,FS24,L,35.58,30.0,0.035,174,6,,D_random_noise
+T-Shirt,Geographic,Women,Bright White,SS25,L,42.23,0.0,0.777,720,2509,,D_random_noise
+Pants,Rainforest,Women,Grey Melange,FS24,M,148.91,20.0,0.258,709,247,,D_random_noise
+T-Shirt,Box Logo,Women,Khaki,SS25,XL,37.56,30.0,0.941,721,11499,,D_random_noise
+Accessories,Rainforest,Men,Navy,SS25,XXL,45.81,10.0,0.497,773,764,,D_random_noise
+T-Shirt,Slate,Women,Stone Grey,FS24,XXL,35.29,20.0,0.681,313,668,,D_random_noise
+Shoes,Morgex,Women,Pale Mint,SS25,42,138.79,10.0,0.93,839,11147,,D_random_noise
+Shirt,Trail,Women,Grey Melange,FS24,L,121.16,0.0,0.636,215,376,,D_random_noise
+Shorts,Rainforest,Women,Bright Red,FS24,S,81.84,20.0,0.033,800,27,,D_random_noise
+Polo,Patch,Men,Stone Grey,FS24,M,70.05,0.0,0.886,150,1166,,D_random_noise
+Accessories,Tribe,Women,Snow White,FS24,One Size,51.09,30.0,0.259,465,163,,D_random_noise
+Polo,Tribe,Men,Khaki,FS24,XS,64.1,30.0,0.03,738,23,,D_random_noise
+Swimwear,Morgex,Men,Forest Green,SS25,XXL,78.74,10.0,0.147,523,90,,D_random_noise
+Pants,Slate,Men,Bright White,FS24,XS,140.77,30.0,0.102,940,107,,D_random_noise
+Shirt,Trail,Women,White Whisper,FS24,L,109.21,10.0,0.291,550,226,,D_random_noise
+Shorts,Box Logo,Women,Bright White,SS25,XL,73.4,0.0,0.302,389,168,,D_random_noise
+Shorts,Tribe,Women,Caviar,FS24,One Size,79.06,25.0,0.265,744,268,,D_random_noise
+Sweatshirt,Patch,Men,Stone Grey,SS25,XL,101.49,0.0,0.282,183,72,,D_random_noise
+Swimwear,Trail,Men,Pale Mint,FS24,XS,57.33,20.0,0.76,611,1935,,D_random_noise
+Shorts,Morgex,Women,Yellow Sunshine,SS25,One Size,53.13,0.0,0.345,330,174,,D_random_noise
+Pants,Morgex,Women,Snow White,SS25,XS,124.46,25.0,0.244,775,250,,D_random_noise
+Polo,Geographic,Men,Grey Melange,SS25,S,61.63,20.0,0.799,706,2806,,D_random_noise
+Sweatshirt,Slate,Men,Pale Mint,FS24,S,116.22,10.0,0.896,607,5230,,D_random_noise
+Accessories,Trail,Men,Navy,SS25,XXL,44.64,20.0,0.391,675,433,,D_random_noise
+Shirt,Patch,Women,White Whisper,FS24,S,93.37,0.0,0.033,546,19,,D_random_noise
+Shoes,Tribe,Men,Bright Red,FS24,42,111.75,20.0,0.818,455,2045,,D_random_noise
+T-Shirt,Box Logo,Men,Snow White,SS25,One Size,39.91,0.0,0.335,233,117,,D_random_noise
+Accessories,Geographic,Women,Snow White,FS24,XS,63.06,30.0,0.895,767,6538,,D_random_noise
+Sweatshirt,Circular,Men,Stone Grey,FS24,XXL,83.01,0.0,0.292,378,156,,D_random_noise
+Sweatshirt,Box Logo,Women,Caviar,SS25,L,128.1,10.0,0.299,683,291,,D_random_noise
+Swimwear,Trail,Men,Bright White,FS24,One Size,52.49,10.0,0.403,162,109,,D_random_noise
+Polo,Patch,Men,Bright Red,SS25,S,60.7,30.0,0.809,677,2868,,D_random_noise
+Pants,Rainforest,Women,Pale Mint,SS25,XXL,125.65,0.0,0.932,657,9005,,D_random_noise
+Accessories,Patch,Men,Burgundy,SS25,XS,20.04,30.0,0.527,803,895,,D_random_noise
+Polo,Tribe,Women,Burgundy,SS25,M,65.45,25.0,0.558,296,374,,D_random_noise
+Sweatshirt,Rainforest,Women,Caviar,SS25,One Size,119.43,0.0,0.725,258,680,,D_random_noise
+Swimwear,Slate,Men,White Whisper,SS25,XS,64.69,0.0,0.377,785,475,,D_random_noise
+Swimwear,Tribe,Women,Khaki,SS25,XL,58.17,10.0,0.937,474,7050,,D_random_noise
+Shoes,Rainforest,Women,Yellow Sunshine,SS25,43,116.81,30.0,0.383,462,287,,D_random_noise
+T-Shirt,Geographic,Men,White Whisper,SS25,S,49.4,25.0,0.948,923,16827,,D_random_noise
+Shirt,Geographic,Women,Caviar,SS25,XXL,89.37,10.0,0.963,218,5674,,D_random_noise
+Shoes,Geographic,Men,Snow White,FS24,36,175.53,20.0,0.603,513,779,,D_random_noise
+Polo,Geographic,Women,Navy,FS24,XL,71.99,20.0,0.608,912,1415,,D_random_noise
+Shirt,Morgex,Women,Caviar,FS24,M,108.9,30.0,0.338,531,271,,D_random_noise
+Shirt,Trail,Men,Snow White,SS25,M,91.07,20.0,0.118,711,95,,D_random_noise
+Shoes,Circular,Men,Khaki,FS24,40,157.2,20.0,0.561,609,778,,D_random_noise
+Shorts,Circular,Women,Bright White,SS25,S,80.54,0.0,0.543,350,416,,D_random_noise
+Polo,Circular,Women,Pale Mint,FS24,L,89.05,10.0,0.742,879,2528,,D_random_noise
+Accessories,Patch,Women,Forest Green,SS25,XXL,64.19,20.0,0.566,339,442,,D_random_noise
+Polo,Morgex,Women,Pale Mint,FS24,S,77.12,30.0,0.517,975,1044,,D_random_noise
+Shorts,Trail,Women,Yellow Sunshine,SS25,L,87.37,30.0,0.965,431,11883,,D_random_noise
+Shoes,Rainforest,Men,Forest Green,SS25,38,166.1,0.0,0.494,21,21,,D_random_noise
+Shorts,Geographic,Men,Grey Melange,SS25,M,71.22,10.0,0.863,995,6268,,D_random_noise
+Sweatshirt,Patch,Men,Forest Green,FS24,XS,122.38,10.0,0.965,553,15247,,D_random_noise
+Swimwear,Rainforest,Women,Forest Green,FS24,XS,72.18,25.0,0.886,611,4749,,D_random_noise
+Polo,Trail,Women,Yellow Sunshine,FS24,M,70.94,10.0,0.872,134,913,,D_random_noise
+Sweatshirt,Rainforest,Men,Bright Red,FS24,XS,92.8,20.0,0.936,216,3159,,D_random_noise
+Sweatshirt,Tribe,Women,Grey Melange,FS24,M,94.04,0.0,0.222,231,66,,D_random_noise
+Pants,Circular,Men,Burgundy,FS24,XS,107.05,20.0,0.964,418,11193,,D_random_noise
+Shorts,Trail,Women,Yellow Sunshine,SS25,XS,62.6,30.0,0.083,956,87,,D_random_noise
+Sweatshirt,Trail,Women,White Whisper,SS25,XS,114.31,25.0,0.193,657,157,,D_random_noise
+Sweatshirt,Geographic,Women,Forest Green,SS25,XL,109.51,20.0,0.867,732,4772,,D_random_noise
+Swimwear,Box Logo,Women,Pale Mint,SS25,M,54.98,30.0,0.043,678,30,,D_random_noise
+Shoes,Patch,Women,Bright Red,FS24,45,134.6,20.0,0.859,157,956,,D_random_noise
+Swimwear,Rainforest,Men,Burgundy,FS24,XXL,46.9,10.0,0.8,867,3468,,D_random_noise
+T-Shirt,Slate,Men,Stone Grey,FS24,M,40.39,25.0,0.107,386,46,,D_random_noise
+Shirt,Tribe,Men,Bright Red,SS25,XL,98.14,30.0,0.443,166,132,,D_random_noise
+Pants,Rainforest,Men,Navy,FS24,S,85.39,20.0,0.954,676,14020,,D_random_noise
+Sweatshirt,Morgex,Men,White Whisper,FS24,L,119.49,10.0,0.24,85,27,,D_random_noise
+Shirt,Geographic,Men,Navy,SS25,M,126.48,20.0,0.862,781,4878,,D_random_noise
+Polo,Morgex,Men,Pale Mint,FS24,XXL,68.76,0.0,0.717,327,828,,D_random_noise
+Shoes,Morgex,Men,Caviar,SS25,43,103.85,20.0,0.109,124,15,,D_random_noise
+Shirt,Tribe,Men,Snow White,FS24,XXL,117.54,0.0,0.2,231,58,,D_random_noise
+Shoes,Trail,Women,White Whisper,SS25,39,121.22,0.0,0.189,185,43,,D_random_noise
+Shoes,Patch,Men,Khaki,SS25,37,147.06,0.0,0.009,827,8,,D_random_noise
+Shorts,Slate,Men,Stone Grey,SS25,One Size,78.33,30.0,0.805,72,297,,D_random_noise
+Accessories,Trail,Women,Bright White,SS25,S,55.05,30.0,0.921,425,4955,,D_random_noise
+Shoes,Tribe,Men,Stone Grey,FS24,38,169.16,10.0,0.066,619,44,,D_random_noise
+Shoes,Slate,Men,Bright Red,FS24,44,128.28,20.0,0.408,221,152,,D_random_noise
+Pants,Morgex,Men,Caviar,FS24,L,122.75,10.0,0.017,648,11,,D_random_noise
+Accessories,Morgex,Men,Navy,FS24,M,26.0,30.0,0.668,735,1479,,D_random_noise
+T-Shirt,Slate,Women,Khaki,FS24,S,42.9,30.0,0.812,508,2194,,D_random_noise
+Polo,Circular,Women,Burgundy,FS24,M,62.38,30.0,0.156,313,58,,D_random_noise
+Shoes,Box Logo,Women,Stone Grey,SS25,45,161.49,10.0,0.371,523,308,,D_random_noise
+Sweatshirt,Patch,Men,Yellow Sunshine,SS25,S,92.4,30.0,0.293,97,40,,D_random_noise
+Pants,Patch,Men,Bright Red,SS25,L,149.56,30.0,0.054,62,4,,D_random_noise
+Swimwear,Circular,Women,Caviar,FS24,XS,70.28,25.0,0.74,439,1249,,D_random_noise
+Shorts,Trail,Women,Stone Grey,FS24,One Size,75.79,0.0,0.822,501,2314,,D_random_noise
+Shoes,Trail,Women,Navy,SS25,39,142.29,0.0,0.463,250,216,,D_random_noise
+Polo,Geographic,Men,Forest Green,FS24,XS,61.51,30.0,0.229,474,141,,D_random_noise
+Polo,Box Logo,Men,Caviar,FS24,XXL,86.34,0.0,0.544,561,669,,D_random_noise
+Accessories,Trail,Women,Burgundy,FS24,M,54.18,10.0,0.05,561,30,,D_random_noise
+Sweatshirt,Morgex,Women,Caviar,FS24,XXL,90.18,30.0,0.063,958,64,,D_random_noise
+Pants,Geographic,Women,Caviar,SS25,L,101.44,10.0,0.092,408,41,,D_random_noise
+Polo,Rainforest,Men,Navy,SS25,One Size,68.53,25.0,0.961,862,21241,,D_random_noise
+Pants,Geographic,Women,Snow White,SS25,One Size,105.28,25.0,0.164,835,164,,D_random_noise
+Swimwear,Geographic,Men,White Whisper,SS25,S,75.04,10.0,0.735,729,2022,,D_random_noise
+Shoes,Trail,Women,Snow White,SS25,41,167.9,10.0,0.775,959,3303,,D_random_noise
+Shorts,Slate,Men,Navy,SS25,One Size,59.09,0.0,0.404,11,7,,D_random_noise
+Accessories,Patch,Women,Forest Green,FS24,S,31.11,0.0,0.349,105,56,,D_random_noise
+Shorts,Morgex,Men,Burgundy,SS25,XL,63.39,20.0,0.512,352,369,,D_random_noise
+T-Shirt,Slate,Women,White Whisper,SS25,One Size,30.87,30.0,0.83,692,3379,,D_random_noise
+Shorts,Trail,Women,Stone Grey,FS24,XS,66.59,20.0,0.106,413,49,,D_random_noise
+Shoes,Trail,Men,Navy,FS24,36,117.4,10.0,0.613,508,805,,D_random_noise
+Pants,Rainforest,Men,White Whisper,FS24,L,116.15,0.0,0.736,696,1940,,D_random_noise
+T-Shirt,Geographic,Women,Navy,FS24,XS,38.36,20.0,0.04,54,2,,D_random_noise
+Accessories,Circular,Women,Grey Melange,FS24,One Size,66.13,25.0,0.2,519,130,,D_random_noise
+Shorts,Morgex,Men,Khaki,SS25,L,62.23,25.0,0.628,882,1489,,D_random_noise
+Shoes,Morgex,Men,White Whisper,FS24,44,165.03,25.0,0.171,631,130,,D_random_noise
+Accessories,Slate,Men,Forest Green,FS24,XS,23.26,0.0,0.898,63,555,,D_random_noise
+Pants,Rainforest,Women,Forest Green,SS25,M,93.46,10.0,0.459,649,551,,D_random_noise
+Pants,Rainforest,Men,Grey Melange,FS24,XXL,129.42,20.0,0.168,141,28,,D_random_noise
+Polo,Circular,Men,Yellow Sunshine,SS25,One Size,72.83,20.0,0.871,702,4740,,D_random_noise
+Shoes,Morgex,Men,Navy,SS25,44,178.22,30.0,0.787,149,551,,D_random_noise
+Swimwear,Geographic,Men,Navy,FS24,M,56.64,20.0,0.676,614,1281,,D_random_noise
+T-Shirt,Tribe,Men,Yellow Sunshine,SS25,XS,31.5,0.0,0.82,156,711,,D_random_noise
+Shorts,Patch,Women,Caviar,SS25,One Size,70.35,10.0,0.815,768,3383,,D_random_noise
+Shoes,Circular,Women,Navy,SS25,39,109.62,10.0,0.077,651,54,,D_random_noise
+Pants,Patch,Men,Snow White,FS24,L,142.05,0.0,0.132,75,11,,D_random_noise
+Pants,Patch,Women,Snow White,FS24,M,117.78,20.0,0.337,514,261,,D_random_noise
+Pants,Trail,Men,Bright White,FS24,M,99.16,25.0,0.268,321,118,,D_random_noise
+Shirt,Circular,Women,White Whisper,SS25,M,92.79,20.0,0.69,788,1754,,D_random_noise
+Accessories,Trail,Women,Bright White,FS24,XXL,24.41,10.0,0.75,367,1101,,D_random_noise
+T-Shirt,Slate,Women,Forest Green,FS24,One Size,30.1,25.0,0.493,898,873,,D_random_noise
+Polo,Circular,Men,Yellow Sunshine,FS24,S,82.02,25.0,0.432,873,664,,D_random_noise
+Pants,Box Logo,Men,Bright White,FS24,S,103.89,0.0,0.039,399,16,,D_random_noise
+Polo,Slate,Men,Pale Mint,SS25,L,85.7,25.0,0.798,153,604,,D_random_noise
+Shirt,Tribe,Women,Snow White,SS25,XS,114.94,25.0,0.28,124,48,,D_random_noise
+Shoes,Box Logo,Women,Navy,FS24,44,158.92,25.0,0.104,233,27,,D_random_noise
+Shirt,Geographic,Men,Grey Melange,SS25,S,98.16,20.0,0.016,695,11,,D_random_noise

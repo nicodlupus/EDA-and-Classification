@@ -1,0 +1,1937 @@
+Id,name,season,price,product_category,size,quantity,quantities_sold,collection_family,sex,color,discount,size_type,sell_through
+WP-00001,Morgex Quilted Pants,SS25,102.99,Pants,S,542,56,Morgex,Women,Forest Green,0,alpha,0.094
+WM-00001,Tribe Quilted Shirt,SS25,109.99,Shirt,XL,443,155,Tribe,Women,Forest Green,0,alpha,0.259
+WL-00001,Box Logo Stretch Sweatshirt,FS24,121.99,Sweatshirt,S,59,85,Box Logo,Women,Grey Melange,20,alpha,0.59
+S-00001,Morgex Print T-Shirt,FS24,39.99,T-Shirt,L,35,305,Morgex,Men,White Whisper,25,alpha,0.897
+P-00001,Tribe Graphic Pants,SS25,118.99,Pants,XXL,63,58,Tribe,Men,Green Lichen,0,alpha,0.479
+W\00001,Box Logo Quilted Shoes,FS24,115.99,Shoes,38,49,264,Box Logo,Women,Burgundy,15,numeric,0.843
+WP-00002,Geographic Stripe Pants,SS25,148.99,Pants,S,144,172,Geographic,Women,Petit Four,0,alpha,0.544
+P-00002,Patch Stripe Pants,SS25,129.99,Pants,XS,288,26,Patch,Men,White Whisper,0,alpha,0.083
+\00001,Slate Shoes,FS24,147.99,Shoes,45,122,189,Slate,Men,Beige Sand,20,numeric,0.608
+N-00001,Circular Heritage Shorts,FS24,81.99,Shorts,S,18,115,Circular,Men,Bright Red,20,alpha,0.865
+W\00002,Trail Half-Zip Shoes,FS24,137.99,Shoes,39,118,401,Trail,Women,Pale Mint,25,numeric,0.773
+GlovesBoxLogo-0001,Box Logo Gloves,SS25,106.99,Accessories,One Size,347,41,Box Logo,Men,Pale Mint,0,alpha,0.106
+M-00001,Morgex Quilted Shirt,SS25,97.99,Shirt,XL,183,162,Morgex,Men,Stone Grey,0,alpha,0.47
+WL-00002,Patch Heritage Sweatshirt,SS25,135.99,Sweatshirt,XL,53,6,Patch,Women,Grey Melange,0,alpha,0.102
+M-00002,Morgex Shirt,SS25,94.99,Shirt,S,291,246,Morgex,Men,Forest Green,0,alpha,0.458
+ToteBagGeographic-0001,Geographic Tote Bag,FS24,40.99,Accessories,One Size,48,532,Geographic,Men,Bright White,40,alpha,0.917
+WM-00002,Tribe Heritage Shirt,FS24,131.99,Shirt,XXL,148,421,Tribe,Women,Navy,50,alpha,0.74
+WPS-00001,Box Logo Polo,SS25,78.99,Polo,XL,67,45,Box Logo,Women,Bright Red,0,alpha,0.402
+WS-00001,Box Logo Graphic T-Shirt,SS25,49.99,T-Shirt,XL,453,84,Box Logo,Women,Old Rose,0,alpha,0.156
+S-00002,Rainforest T-Shirt,FS24,40.99,T-Shirt,S,145,336,Rainforest,Men,Forest Green,30,alpha,0.699
+M-00003,Box Logo Stretch Shirt,SS25,135.99,Shirt,XS,125,26,Box Logo,Men,Pale Mint,0,alpha,0.172
+WS-00002,Circular Print T-Shirt,FS24,62.99,T-Shirt,XS,60,80,Circular,Women,Grey Melange,20,alpha,0.571
+SocksIconic-0001,Iconic Socks,SS25,71.99,Accessories,M,87,13,Iconic,Men,Forest Green,0,alpha,0.13
+WS-00003,Rainforest Print T-Shirt,FS24,84.99,T-Shirt,XXL,207,331,Rainforest,Women,Navy,25,alpha,0.615
+PS-00001,Box Logo Heritage Polo,SS25,101.99,Polo,XS,272,282,Box Logo,Men,Old Rose,0,alpha,0.509
+WL-00003,Iconic Quilted Sweatshirt,SS25,102.99,Sweatshirt,XL,209,71,Iconic,Women,Grey Melange,0,alpha,0.254
+BeltBoxLogo-0001,Box Logo Belt,SS25,72.99,Accessories,One Size,455,120,Box Logo,Men,Olive,0,alpha,0.209
+PS-00002,Patch Graphic Polo,FS24,105.99,Polo,XXL,161,347,Patch,Men,Forest Green,20,alpha,0.683
+WN-00001,Rainforest Logo Shorts,SS25,83.99,Shorts,XS,456,102,Rainforest,Women,Olive,0,alpha,0.183
+ToteBagTribe-0001,Tribe Tote Bag,FS24,88.99,Accessories,One Size,260,321,Tribe,Men,Free Blue,15,alpha,0.552
+WV-00001,Box Logo Swimwear,SS25,51.99,Swimwear,M,162,37,Box Logo,Women,Blue Marine,0,alpha,0.186
+P-00003,Tribe Pants,FS24,95.99,Pants,M,48,425,Tribe,Men,Pale Mint,20,alpha,0.899
+WS-00004,Geographic Stripe T-Shirt,FS24,69.99,T-Shirt,L,20,29,Geographic,Women,Burgundy,15,alpha,0.592
+BeltGeographic-0001,Geographic Belt,SS25,66.99,Accessories,One Size,140,51,Geographic,Men,Petit Four,0,alpha,0.267
+WS-00005,Box Logo Quilted T-Shirt,SS25,49.99,T-Shirt,XXL,112,33,Box Logo,Women,Free Blue,0,alpha,0.228
+L-00001,Geographic Sweatshirt,SS25,146.99,Sweatshirt,S,130,93,Geographic,Men,Forest Green,0,alpha,0.417
+M-00004,Tribe Stripe Shirt,SS25,97.99,Shirt,XXL,41,38,Tribe,Men,Khaki,0,alpha,0.481
+PS-00003,Rainforest Polo,FS24,78.99,Polo,S,67,170,Rainforest,Men,Free Blue,30,alpha,0.717
+WPS-00002,Morgex Polo,FS24,85.99,Polo,XL,13,145,Morgex,Women,Free Blue,25,alpha,0.918
+PS-00004,Morgex Stretch Polo,SS25,91.99,Polo,XL,264,97,Morgex,Men,White Whisper,0,alpha,0.269
+WScarfTribe-0001,Tribe Scarf,SS25,109.99,Accessories,One Size,28,13,Tribe,Women,Khaki,0,alpha,0.317
+WP-00003,Morgex Graphic Pants,FS24,140.99,Pants,M,63,107,Morgex,Women,Stone Grey,25,alpha,0.629
+WP-00004,Geographic Graphic Pants,FS24,127.99,Pants,XS,69,186,Geographic,Women,Olive,20,alpha,0.729
+L-00002,Rainforest Sweatshirt,FS24,154.99,Sweatshirt,XL,42,84,Rainforest,Men,Yellow Sunshine,25,alpha,0.667
+P-00004,Iconic Pants,FS24,107.99,Pants,S,30,57,Iconic,Men,Forest Green,15,alpha,0.655
+L-00003,Iconic Stripe Sweatshirt,FS24,118.99,Sweatshirt,XL,154,392,Iconic,Men,Yellow Sunshine,40,alpha,0.718
+S-00003,Iconic Print T-Shirt,SS25,85.99,T-Shirt,S,476,39,Iconic,Men,Snow White,0,alpha,0.076
+PS-00005,Rainforest Stretch Polo,FS24,102.99,Polo,XL,95,398,Rainforest,Men,Bright White,25,alpha,0.807
+P-00005,Rainforest Print Pants,FS24,124.99,Pants,S,100,436,Rainforest,Men,Grey Melange,20,alpha,0.813
+P-00006,Iconic Pants,FS24,142.99,Pants,L,25,226,Iconic,Men,Snow White,20,alpha,0.9
+M-00005,Box Logo Stripe Shirt,FS24,122.99,Shirt,M,105,364,Box Logo,Men,Bright Red,20,alpha,0.776
+N-00002,Tribe Heritage Shorts,SS25,76.99,Shorts,M,52,17,Tribe,Men,Orange Tangerine,0,alpha,0.246
+P-00007,Geographic Pants,SS25,157.99,Pants,XL,290,153,Geographic,Men,Yellow Sunshine,0,alpha,0.345
+WP-00005,Circular Stretch Pants,FS24,137.99,Pants,M,66,190,Circular,Women,Bright White,15,alpha,0.742
+M-00006,Morgex Print Shirt,FS24,86.99,Shirt,L,3,90,Morgex,Men,Snow White,30,alpha,0.968
+M-00007,Box Logo Half-Zip Shirt,SS25,86.99,Shirt,S,163,33,Box Logo,Men,Black Beauty,0,alpha,0.168
+WL-00004,Tribe Sweatshirt,FS24,108.99,Sweatshirt,S,145,213,Tribe,Women,Yellow Sunshine,30,alpha,0.595
+WS-00006,Circular Quilted T-Shirt,SS25,71.99,T-Shirt,XS,259,29,Circular,Women,Caviar,0,alpha,0.101
+N-00003,Iconic Stripe Shorts,SS25,83.99,Shorts,M,384,35,Iconic,Men,Bright Red,0,alpha,0.084
+WP-00006,Circular Quilted Pants,SS25,135.99,Pants,L,304,206,Circular,Women,Orange Tangerine,0,alpha,0.404
+M-00008,Morgex Stretch Shirt,FS24,118.99,Shirt,XXL,29,262,Morgex,Men,Olive,20,alpha,0.9
+S-00004,Tribe Stretch T-Shirt,FS24,88.99,T-Shirt,L,55,171,Tribe,Men,Yellow Sunshine,20,alpha,0.757
+WM-00003,Morgex Shirt,FS24,108.99,Shirt,XL,42,245,Morgex,Women,Olive,25,alpha,0.854
+L-00004,Rainforest Graphic Sweatshirt,FS24,105.99,Sweatshirt,XS,75,191,Rainforest,Men,Burgundy,20,alpha,0.718
+PS-00006,Patch Stretch Polo,FS24,99.99,Polo,XXL,62,338,Patch,Men,Orange Tangerine,20,alpha,0.845
+WPS-00004,Iconic Polo,FS24,108.99,Polo,XL,85,151,Iconic,Women,Beige Sand,10,alpha,0.64
+L-00005,Morgex Stretch Sweatshirt,SS25,123.99,Sweatshirt,M,178,45,Morgex,Men,Blue Marine,0,alpha,0.202
+WP-00007,Box Logo Pants,FS24,151.99,Pants,S,11,41,Box Logo,Women,White Whisper,25,alpha,0.788
+WL-00005,Geographic Sweatshirt,FS24,108.99,Sweatshirt,L,110,340,Geographic,Women,White Whisper,40,alpha,0.756
+L-00006,Geographic Print Sweatshirt,FS24,109.99,Sweatshirt,S,91,375,Geographic,Men,Bright White,10,alpha,0.805
+WN-00002,Circular Graphic Shorts,FS24,76.99,Shorts,XL,20,81,Circular,Women,Yellow Sunshine,20,alpha,0.802
+N-00004,Tribe Shorts,SS25,91.99,Shorts,M,166,34,Tribe,Men,Burgundy,0,alpha,0.17
+WL-00006,Circular Graphic Sweatshirt,FS24,130.99,Sweatshirt,S,212,292,Circular,Women,Yellow Sunshine,20,alpha,0.579
+WPS-00005,Tribe Quilted Polo,SS25,78.99,Polo,XL,95,97,Tribe,Women,Snow White,0,alpha,0.505
+WV-00002,Sun-Lover Stripe Swimwear,FS24,63.99,Swimwear,L,76,242,Sun-Lover,Women,Navy,20,alpha,0.761
+WL-00007,Box Logo Logo Sweatshirt,FS24,105.99,Sweatshirt,XS,2,59,Box Logo,Women,Snow White,25,alpha,0.967
+WP-00008,Box Logo Pants,FS24,124.99,Pants,L,89,397,Box Logo,Women,Grey Melange,20,alpha,0.817
+WL-00008,Patch Stretch Sweatshirt,FS24,114.99,Sweatshirt,XS,73,388,Patch,Women,Snow White,20,alpha,0.842
+PS-00007,Box Logo Stretch Polo,SS25,80.99,Polo,M,73,85,Box Logo,Men,Yellow Sunshine,0,alpha,0.538
+WN-00003,Geographic Shorts,FS24,56.99,Shorts,L,43,242,Geographic,Women,Navy,40,alpha,0.849
+WPS-00006,Circular Polo,SS25,93.99,Polo,XS,138,59,Circular,Women,Green Lichen,0,alpha,0.299
+P-00008,Morgex Print Pants,FS24,147.99,Pants,S,54,134,Morgex,Men,Snow White,50,alpha,0.713
+WaistBagGeographic-0001,Geographic Waist Bag,FS24,72.99,Accessories,One Size,189,370,Geographic,Men,Green Lichen,30,alpha,0.662
+S-00005,Rainforest Print T-Shirt,FS24,55.99,T-Shirt,M,174,422,Rainforest,Men,Bright White,25,alpha,0.708
+L-00007,Circular Sweatshirt,SS25,98.99,Sweatshirt,L,259,295,Circular,Men,Caviar,0,alpha,0.532
+WM-00004,Rainforest Quilted Shirt,FS24,136.99,Shirt,S,83,115,Rainforest,Women,Blue Marine,10,alpha,0.581
+WN-00004,Circular Print Shorts,SS25,92.99,Shorts,M,203,226,Circular,Women,Burgundy,0,alpha,0.527
+P-00009,Rainforest Logo Pants,SS25,97.99,Pants,XL,151,183,Rainforest,Men,Petit Four,0,alpha,0.548
+WN-00005,Iconic Graphic Shorts,SS25,59.99,Shorts,L,64,5,Iconic,Women,Burgundy,0,alpha,0.072
+WN-00006,Patch Stripe Shorts,SS25,82.99,Shorts,S,194,30,Patch,Women,Snow White,0,alpha,0.134
+S-00006,Tribe Quilted T-Shirt,SS25,63.99,T-Shirt,S,216,84,Tribe,Men,Orange Tangerine,0,alpha,0.28
+P-00010,Rainforest Stretch Pants,SS25,145.99,Pants,XS,218,128,Rainforest,Men,Navy,0,alpha,0.37
+WM-00005,Morgex Stripe Shirt,FS24,114.99,Shirt,XS,85,322,Morgex,Women,Beige Sand,30,alpha,0.791
+WBeanieCircular-0001,Circular Beanie,SS25,91.99,Accessories,One Size,292,256,Circular,Women,Khaki,0,alpha,0.467
+\00002,Trail Graphic Shoes,FS24,168.99,Shoes,41,34,146,Trail,Men,Olive,15,numeric,0.811
+\00003,Slate Shoes,SS25,135.99,Shoes,44,65,67,Slate,Men,Yellow Sunshine,0,numeric,0.508
+WM-00006,Tribe Graphic Shirt,FS24,105.99,Shirt,M,23,510,Tribe,Women,Bright White,25,alpha,0.957
+PS-00008,Iconic Quilted Polo,SS25,78.99,Polo,S,208,238,Iconic,Men,Yellow Sunshine,0,alpha,0.534
+WV-00003,Wave Quilted Swimwear,FS24,67.99,Swimwear,L,63,245,Wave,Women,Black Beauty,25,alpha,0.795
+V-00002,Sun-Lover Half-Zip Swimwear,SS25,45.99,Swimwear,L,185,190,Sun-Lover,Men,Pale Mint,0,alpha,0.507
+WPS-00007,Rainforest Graphic Polo,FS24,66.99,Polo,XS,218,326,Rainforest,Women,Navy,10,alpha,0.599
+PS-00009,Circular Print Polo,FS24,108.99,Polo,XXL,95,374,Circular,Men,Yellow Sunshine,25,alpha,0.797
+N-00005,Iconic Stretch Shorts,FS24,51.99,Shorts,M,69,193,Iconic,Men,Orange Tangerine,40,alpha,0.737
+WaistBagIconic-0001,Iconic Waist Bag,FS24,101.99,Accessories,One Size,29,73,Iconic,Men,Pale Mint,25,alpha,0.716
+WS-00007,Rainforest Half-Zip T-Shirt,SS25,74.99,T-Shirt,XXL,56,5,Rainforest,Women,Green Lichen,0,alpha,0.082
+M-00010,Tribe Logo Shirt,SS25,111.99,Shirt,XL,212,164,Tribe,Men,Green Lichen,0,alpha,0.436
+N-00006,Morgex Shorts,SS25,65.99,Shorts,XL,94,58,Morgex,Men,Bright White,0,alpha,0.382
+WS-00008,Tribe T-Shirt,FS24,37.99,T-Shirt,M,108,363,Tribe,Women,Bright Red,10,alpha,0.771
+N-00007,Patch Logo Shorts,SS25,81.99,Shorts,L,49,35,Patch,Men,Stone Grey,0,alpha,0.417
+\00004,Slate Stripe Shoes,SS25,150.99,Shoes,40,289,187,Slate,Men,Yellow Sunshine,0,numeric,0.393
+L-00008,Iconic Graphic Sweatshirt,FS24,110.99,Sweatshirt,XS,108,264,Iconic,Men,Green Lichen,25,alpha,0.71
+WL-00009,Circular Logo Sweatshirt,SS25,164.99,Sweatshirt,XXL,348,132,Circular,Women,Blue Marine,0,alpha,0.275
+WPS-00008,Rainforest Stretch Polo,FS24,91.99,Polo,M,88,213,Rainforest,Women,Caviar,30,alpha,0.708
+S-00007,Iconic T-Shirt,SS25,61.99,T-Shirt,XS,229,192,Iconic,Men,Green Lichen,0,alpha,0.456
+L-00009,Patch Quilted Sweatshirt,SS25,139.99,Sweatshirt,L,244,229,Patch,Men,Pale Mint,0,alpha,0.484
+N-00008,Morgex Logo Shorts,SS25,81.99,Shorts,XL,123,75,Morgex,Men,Free Blue,0,alpha,0.379
+WPS-00009,Patch Half-Zip Polo,FS24,99.99,Polo,L,13,53,Patch,Women,Blue Marine,25,alpha,0.803
+P-00011,Box Logo Stretch Pants,FS24,132.99,Pants,M,17,29,Box Logo,Men,Grey Melange,25,alpha,0.63
+S-00008,Iconic Print T-Shirt,SS25,81.99,T-Shirt,XS,198,62,Iconic,Men,Bright White,0,alpha,0.238
+WL-00010,Morgex Sweatshirt,SS25,113.99,Sweatshirt,XS,55,35,Morgex,Women,Old Rose,0,alpha,0.389
+PS-00011,Rainforest Polo,FS24,102.99,Polo,L,17,30,Rainforest,Men,Stone Grey,10,alpha,0.638
+ScarfMorgex-0001,Morgex Scarf,FS24,82.99,Accessories,One Size,87,132,Morgex,Men,Navy,10,alpha,0.603
+WL-00011,Patch Sweatshirt,FS24,149.99,Sweatshirt,XS,32,478,Patch,Women,Green Lichen,30,alpha,0.937
+\00005,Box Logo Stretch Shoes,FS24,91.99,Shoes,43,24,191,Box Logo,Men,Burgundy,20,numeric,0.888
+P-00012,Patch Half-Zip Pants,FS24,144.99,Pants,S,103,347,Patch,Men,Green Lichen,30,alpha,0.771
+WM-00007,Patch Quilted Shirt,FS24,149.99,Shirt,XS,35,121,Patch,Women,Forest Green,30,alpha,0.776
+S-00009,Patch T-Shirt,SS25,40.99,T-Shirt,S,257,45,Patch,Men,Burgundy,0,alpha,0.149
+P-00013,Iconic Quilted Pants,FS24,146.99,Pants,XL,32,338,Iconic,Men,Grey Melange,20,alpha,0.914
+WP-00009,Iconic Stretch Pants,FS24,96.99,Pants,M,234,325,Iconic,Women,Orange Tangerine,25,alpha,0.581
+WL-00012,Patch Half-Zip Sweatshirt,SS25,105.99,Sweatshirt,XXL,424,135,Patch,Women,Navy,0,alpha,0.242
+L-00010,Box Logo Print Sweatshirt,SS25,154.99,Sweatshirt,M,91,103,Box Logo,Men,Yellow Sunshine,0,alpha,0.531
+L-00011,Patch Heritage Sweatshirt,SS25,125.99,Sweatshirt,XS,336,153,Patch,Men,Green Lichen,0,alpha,0.313
+WP-00010,Morgex Quilted Pants,FS24,95.99,Pants,XXL,161,221,Morgex,Women,Caviar,30,alpha,0.579
+S-00010,Morgex Half-Zip T-Shirt,SS25,39.99,T-Shirt,M,90,94,Morgex,Men,Khaki,0,alpha,0.511
+PS-00012,Circular Stripe Polo,SS25,99.99,Polo,M,204,172,Circular,Men,Bright White,0,alpha,0.457
+P-00014,Iconic Graphic Pants,FS24,135.99,Pants,XS,11,213,Iconic,Men,Burgundy,20,alpha,0.951
+M-00011,Tribe Graphic Shirt,SS25,93.99,Shirt,S,100,43,Tribe,Men,Forest Green,0,alpha,0.301
+L-00012,Box Logo Half-Zip Sweatshirt,FS24,110.99,Sweatshirt,XL,164,261,Box Logo,Men,Pale Mint,30,alpha,0.614
+S-00011,Geographic Quilted T-Shirt,SS25,57.99,T-Shirt,L,132,151,Geographic,Men,Yellow Sunshine,0,alpha,0.534
+P-00015,Rainforest Logo Pants,SS25,149.99,Pants,M,254,162,Rainforest,Men,Forest Green,0,alpha,0.389
+WL-00013,Morgex Graphic Sweatshirt,FS24,111.99,Sweatshirt,S,17,76,Morgex,Women,Caviar,50,alpha,0.817
+\00006,Cresta Shoes,SS25,99.99,Shoes,42,231,88,Cresta,Men,Stone Grey,0,numeric,0.276
+L-00013,Iconic Sweatshirt,FS24,147.99,Sweatshirt,XS,106,339,Iconic,Men,Forest Green,40,alpha,0.762
+PS-00013,Patch Quilted Polo,SS25,70.99,Polo,M,212,171,Patch,Men,Forest Green,0,alpha,0.446
+WS-00009,Rainforest T-Shirt,FS24,91.99,T-Shirt,XS,20,39,Rainforest,Women,Bright White,20,alpha,0.661
+V-00003,Box Logo Graphic Swimwear,FS24,59.99,Swimwear,M,71,93,Box Logo,Men,Olive,10,alpha,0.567
+M-00012,Rainforest Quilted Shirt,SS25,86.99,Shirt,L,376,191,Rainforest,Men,Green Lichen,0,alpha,0.337
+WP-00011,Box Logo Quilted Pants,FS24,112.99,Pants,L,29,98,Box Logo,Women,Olive,15,alpha,0.772
+M-00013,Box Logo Graphic Shirt,FS24,131.99,Shirt,L,17,39,Box Logo,Men,Caviar,10,alpha,0.696
+WS-00010,Iconic Stretch T-Shirt,FS24,68.99,T-Shirt,M,22,197,Iconic,Women,Bright Red,15,alpha,0.9
+P-00016,Rainforest Heritage Pants,SS25,97.99,Pants,S,62,15,Rainforest,Men,Burgundy,0,alpha,0.195
+WS-00012,Box Logo Stripe T-Shirt,FS24,61.99,T-Shirt,M,36,454,Box Logo,Women,Burgundy,15,alpha,0.927
+M-00014,Rainforest Shirt,FS24,118.99,Shirt,XL,198,276,Rainforest,Men,Orange Tangerine,40,alpha,0.582
+P-00017,Morgex Quilted Pants,SS25,130.99,Pants,XS,272,70,Morgex,Men,Old Rose,0,alpha,0.205
+WP-00012,Rainforest Graphic Pants,FS24,144.99,Pants,M,41,57,Rainforest,Women,Free Blue,10,alpha,0.582
+WN-00007,Circular Quilted Shorts,SS25,58.99,Shorts,XL,238,262,Circular,Women,Bright Red,0,alpha,0.524
+M-00015,Geographic Logo Shirt,FS24,119.99,Shirt,XXL,69,87,Geographic,Men,Stone Grey,20,alpha,0.558
+S-00012,Iconic Graphic T-Shirt,FS24,73.99,T-Shirt,S,198,344,Iconic,Men,Khaki,25,alpha,0.635
+WS-00013,Geographic Stretch T-Shirt,SS25,88.99,T-Shirt,XXL,235,160,Geographic,Women,Yellow Sunshine,0,alpha,0.405
+WL-00014,Morgex Logo Sweatshirt,SS25,159.99,Sweatshirt,M,75,89,Morgex,Women,Grey Melange,0,alpha,0.543
+WN-00008,Rainforest Print Shorts,FS24,78.99,Shorts,M,33,139,Rainforest,Women,Black Beauty,25,alpha,0.808
+WS-00014,Rainforest T-Shirt,FS24,38.99,T-Shirt,XL,66,298,Rainforest,Women,Stone Grey,30,alpha,0.819
+L-00014,Patch Print Sweatshirt,SS25,149.99,Sweatshirt,S,51,45,Patch,Men,Bright White,0,alpha,0.469
+WL-00015,Geographic Graphic Sweatshirt,SS25,160.99,Sweatshirt,M,99,21,Geographic,Women,Old Rose,0,alpha,0.175
+P-00018,Geographic Quilted Pants,FS24,153.99,Pants,XS,43,169,Geographic,Men,Burgundy,25,alpha,0.797
+WN-00009,Box Logo Logo Shorts,FS24,79.99,Shorts,M,148,307,Box Logo,Women,Orange Tangerine,25,alpha,0.675
+WS-00015,Rainforest T-Shirt,FS24,72.99,T-Shirt,M,32,328,Rainforest,Women,Snow White,20,alpha,0.911
+PS-00014,Patch Print Polo,SS25,96.99,Polo,M,117,31,Patch,Men,Caviar,0,alpha,0.209
+WL-00017,Tribe Stripe Sweatshirt,SS25,131.99,Sweatshirt,XS,387,81,Tribe,Women,Bright White,0,alpha,0.173
+W\00003,Slate Print Shoes,FS24,152.99,Shoes,37,125,393,Slate,Women,Bright Red,15,numeric,0.759
+WPS-00010,Circular Stretch Polo,FS24,101.99,Polo,S,38,51,Circular,Women,Stone Grey,50,alpha,0.573
+L-00015,Rainforest Sweatshirt,SS25,149.99,Sweatshirt,XS,182,128,Rainforest,Men,Navy,0,alpha,0.413
+WN-00010,Circular Graphic Shorts,SS25,84.99,Shorts,M,87,28,Circular,Women,White Whisper,0,alpha,0.243
+L-00016,Iconic Stretch Sweatshirt,SS25,141.99,Sweatshirt,L,237,177,Iconic,Men,Bright White,0,alpha,0.428
+S-00013,Box Logo Stretch T-Shirt,SS25,79.99,T-Shirt,S,362,163,Box Logo,Men,White Whisper,0,alpha,0.31
+S-00014,Geographic Graphic T-Shirt,FS24,81.99,T-Shirt,XL,91,293,Geographic,Men,Old Rose,15,alpha,0.763
+L-00017,Morgex Quilted Sweatshirt,SS25,136.99,Sweatshirt,M,70,82,Morgex,Men,Orange Tangerine,0,alpha,0.539
+L-00018,Box Logo Half-Zip Sweatshirt,FS24,168.99,Sweatshirt,XXL,40,233,Box Logo,Men,Olive,15,alpha,0.853
+WL-00018,Circular Sweatshirt,SS25,167.99,Sweatshirt,XS,221,14,Circular,Women,Bright White,0,alpha,0.06
+WPS-00011,Tribe Polo,FS24,67.99,Polo,XXL,207,364,Tribe,Women,Snow White,30,alpha,0.637
+M-00016,Circular Print Shirt,SS25,127.99,Shirt,L,246,156,Circular,Men,Old Rose,0,alpha,0.388
+\00007,Slate Print Shoes,FS24,124.99,Shoes,41,123,222,Slate,Men,Olive,15,numeric,0.643
+WGlovesMorgex-0001,Morgex Gloves,FS24,63.99,Accessories,One Size,105,215,Morgex,Women,Beige Sand,20,alpha,0.672
+L-00019,Circular Graphic Sweatshirt,SS25,99.99,Sweatshirt,M,93,27,Circular,Men,Free Blue,0,alpha,0.225
+WL-00019,Rainforest Print Sweatshirt,SS25,128.99,Sweatshirt,XL,280,38,Rainforest,Women,Beige Sand,0,alpha,0.119
+P-00019,Tribe Pants,SS25,118.99,Pants,XXL,106,36,Tribe,Men,White Whisper,0,alpha,0.254
+WP-00014,Geographic Heritage Pants,SS25,149.99,Pants,L,140,104,Geographic,Women,Black Beauty,0,alpha,0.426
+S-00015,Circular Graphic T-Shirt,SS25,89.99,T-Shirt,XXL,74,4,Circular,Men,Orange Tangerine,0,alpha,0.051
+WL-00021,Iconic Quilted Sweatshirt,SS25,152.99,Sweatshirt,XXL,179,124,Iconic,Women,Old Rose,0,alpha,0.409
+WS-00016,Morgex Quilted T-Shirt,SS25,73.99,T-Shirt,S,244,211,Morgex,Women,Bright Red,0,alpha,0.464
+WL-00022,Iconic Logo Sweatshirt,SS25,135.99,Sweatshirt,L,38,8,Iconic,Women,Grey Melange,0,alpha,0.174
+PS-00015,Patch Stretch Polo,SS25,105.99,Polo,M,258,23,Patch,Men,Navy,0,alpha,0.082
+WS-00018,Geographic Heritage T-Shirt,FS24,92.99,T-Shirt,XL,67,523,Geographic,Women,Yellow Sunshine,20,alpha,0.886
+V-00004,Box Logo Print Swimwear,SS25,72.99,Swimwear,XL,373,37,Box Logo,Men,Olive,0,alpha,0.09
+WL-00023,Tribe Print Sweatshirt,SS25,135.99,Sweatshirt,S,439,53,Tribe,Women,Bright Red,0,alpha,0.108
+S-00016,Iconic Print T-Shirt,FS24,42.99,T-Shirt,L,120,345,Iconic,Men,Stone Grey,30,alpha,0.742
+S-00017,Morgex Logo T-Shirt,FS24,81.99,T-Shirt,XS,49,65,Morgex,Men,Black Beauty,15,alpha,0.57
+WM-00008,Box Logo Shirt,FS24,107.99,Shirt,L,138,332,Box Logo,Women,Green Lichen,10,alpha,0.706
+W\00004,Box Logo Print Shoes,SS25,173.99,Shoes,41,110,66,Box Logo,Women,Caviar,0,numeric,0.375
+WM-00009,Circular Shirt,SS25,112.99,Shirt,XXL,29,34,Circular,Women,Stone Grey,0,alpha,0.54
+L-00020,Circular Stretch Sweatshirt,FS24,152.99,Sweatshirt,S,66,132,Circular,Men,Petit Four,30,alpha,0.667
+BackpackIconic-0001,Iconic Backpack,FS24,21.99,Accessories,One Size,106,145,Iconic,Men,White Whisper,25,alpha,0.578
+WL-00024,Box Logo Logo Sweatshirt,SS25,150.99,Sweatshirt,L,498,94,Box Logo,Women,Forest Green,0,alpha,0.159
+W\00005,Slate Stretch Shoes,FS24,175.99,Shoes,42,91,191,Slate,Women,Forest Green,25,numeric,0.677
+S-00018,Tribe Half-Zip T-Shirt,FS24,94.99,T-Shirt,XL,41,178,Tribe,Men,Snow White,15,alpha,0.813
+M-00017,Patch Stripe Shirt,FS24,137.99,Shirt,M,62,130,Patch,Men,Burgundy,30,alpha,0.677
+S-00019,Tribe Heritage T-Shirt,FS24,85.99,T-Shirt,S,21,78,Tribe,Men,Forest Green,30,alpha,0.788
+BackpackGeographic-0001,Geographic Backpack,SS25,51.99,Accessories,One Size,237,141,Geographic,Men,Caviar,0,alpha,0.373
+ToteBagIconic-0001,Iconic Tote Bag,SS25,25.99,Accessories,One Size,261,165,Iconic,Men,Petit Four,0,alpha,0.387
+P-00020,Tribe Stretch Pants,SS25,115.99,Pants,L,165,185,Tribe,Men,Bright Red,0,alpha,0.529
+S-00020,Iconic Logo T-Shirt,SS25,72.99,T-Shirt,XXL,220,226,Iconic,Men,Orange Tangerine,0,alpha,0.507
+L-00021,Circular Heritage Sweatshirt,FS24,159.99,Sweatshirt,M,211,306,Circular,Men,Yellow Sunshine,20,alpha,0.592
+BeltPatch-0001,Patch Belt,FS24,24.99,Accessories,One Size,37,229,Patch,Men,Beige Sand,20,alpha,0.861
+S-00021,Circular Logo T-Shirt,SS25,55.99,T-Shirt,S,285,143,Circular,Men,Navy,0,alpha,0.334
+PS-00016,Patch Heritage Polo,FS24,95.99,Polo,XXL,30,182,Patch,Men,Khaki,50,alpha,0.858
+M-00018,Tribe Print Shirt,SS25,111.99,Shirt,XS,386,120,Tribe,Men,Green Lichen,0,alpha,0.237
+P-00021,Rainforest Stripe Pants,FS24,159.99,Pants,XL,23,29,Rainforest,Men,Pale Mint,10,alpha,0.558
+N-00009,Morgex Shorts,FS24,55.99,Shorts,S,223,353,Morgex,Men,Black Beauty,30,alpha,0.613
+S-00022,Patch Half-Zip T-Shirt,FS24,63.99,T-Shirt,L,10,279,Patch,Men,Khaki,10,alpha,0.965
+PS-00017,Iconic Stripe Polo,SS25,89.99,Polo,XS,287,139,Iconic,Men,Burgundy,0,alpha,0.326
+W\00006,Box Logo Graphic Shoes,SS25,176.99,Shoes,36,398,198,Box Logo,Women,Khaki,0,numeric,0.332
+S-00023,Patch Stripe T-Shirt,SS25,43.99,T-Shirt,XL,94,24,Patch,Men,Black Beauty,0,alpha,0.203
+L-00022,Circular Sweatshirt,FS24,111.99,Sweatshirt,XXL,76,476,Circular,Men,Pale Mint,20,alpha,0.862
+WM-00011,Tribe Stretch Shirt,FS24,134.99,Shirt,XL,13,57,Tribe,Women,Green Lichen,25,alpha,0.814
+N-00010,Tribe Quilted Shorts,FS24,86.99,Shorts,XXL,178,251,Tribe,Men,Free Blue,20,alpha,0.585
+P-00022,Iconic Stripe Pants,FS24,108.99,Pants,XXL,109,255,Iconic,Men,Green Lichen,15,alpha,0.701
+S-00024,Rainforest Stripe T-Shirt,FS24,45.99,T-Shirt,XS,108,391,Rainforest,Men,Free Blue,10,alpha,0.784
+WM-00012,Tribe Shirt,SS25,132.99,Shirt,XXL,148,34,Tribe,Women,Bright Red,0,alpha,0.187
+WPS-00013,Geographic Stretch Polo,FS24,68.99,Polo,L,16,281,Geographic,Women,Snow White,20,alpha,0.946
+N-00011,Tribe Shorts,SS25,68.99,Shorts,S,349,96,Tribe,Men,Yellow Sunshine,0,alpha,0.216
+P-00023,Patch Graphic Pants,FS24,106.99,Pants,XXL,72,296,Patch,Men,Yellow Sunshine,20,alpha,0.804
+P-00024,Geographic Half-Zip Pants,FS24,151.99,Pants,XXL,90,198,Geographic,Men,Caviar,20,alpha,0.688
+PS-00018,Patch Polo,SS25,98.99,Polo,XL,32,35,Patch,Men,Blue Marine,0,alpha,0.522
+L-00023,Rainforest Sweatshirt,SS25,157.99,Sweatshirt,L,290,60,Rainforest,Men,Navy,0,alpha,0.171
+P-00025,Circular Print Pants,FS24,140.99,Pants,L,35,523,Circular,Men,Green Lichen,50,alpha,0.937
+W\00007,Cresta Logo Shoes,SS25,187.99,Shoes,36,349,54,Cresta,Women,Free Blue,0,numeric,0.134
+P-00026,Circular Logo Pants,FS24,122.99,Pants,XS,77,485,Circular,Men,Old Rose,10,alpha,0.863
+L-00024,Tribe Print Sweatshirt,FS24,169.99,Sweatshirt,XXL,59,135,Tribe,Men,Yellow Sunshine,20,alpha,0.696
+WS-00020,Circular Stretch T-Shirt,SS25,43.99,T-Shirt,XXL,279,80,Circular,Women,Green Lichen,0,alpha,0.223
+N-00012,Patch Heritage Shorts,SS25,93.99,Shorts,L,335,31,Patch,Men,Orange Tangerine,0,alpha,0.085
+S-00025,Box Logo T-Shirt,SS25,85.99,T-Shirt,XXL,200,89,Box Logo,Men,Old Rose,0,alpha,0.308
+N-00013,Rainforest Logo Shorts,FS24,62.99,Shorts,XXL,44,281,Rainforest,Men,Bright Red,20,alpha,0.865
+WV-00004,Sun-Lover Logo Swimwear,SS25,64.99,Swimwear,M,454,54,Sun-Lover,Women,Petit Four,0,alpha,0.106
+P-00027,Patch Stretch Pants,FS24,103.99,Pants,XL,38,362,Patch,Men,Olive,25,alpha,0.905
+P-00028,Morgex Stretch Pants,SS25,106.99,Pants,XXL,133,27,Morgex,Men,Olive,0,alpha,0.169
+WS-00021,Geographic Stripe T-Shirt,FS24,70.99,T-Shirt,S,176,297,Geographic,Women,Stone Grey,20,alpha,0.628
+P-00029,Geographic Pants,SS25,125.99,Pants,L,183,48,Geographic,Men,Petit Four,0,alpha,0.208
+WL-00027,Patch Print Sweatshirt,FS24,165.99,Sweatshirt,L,152,394,Patch,Women,Black Beauty,15,alpha,0.722
+PS-00019,Geographic Polo,FS24,100.99,Polo,XS,39,275,Geographic,Men,Yellow Sunshine,25,alpha,0.876
+WV-00005,Sun-Lover Quilted Swimwear,SS25,50.99,Swimwear,L,235,58,Sun-Lover,Women,Yellow Sunshine,0,alpha,0.198
+WBackpackPatch-0001,Patch Backpack,FS24,34.99,Accessories,One Size,28,226,Patch,Women,Green Lichen,30,alpha,0.89
+WL-00028,Circular Sweatshirt,SS25,120.99,Sweatshirt,S,273,126,Circular,Women,Grey Melange,0,alpha,0.316
+WL-00029,Morgex Sweatshirt,FS24,106.99,Sweatshirt,XL,30,431,Morgex,Women,Navy,40,alpha,0.935
+P-00030,Morgex Stripe Pants,FS24,100.99,Pants,XS,77,490,Morgex,Men,Burgundy,20,alpha,0.864
+P-00031,Rainforest Heritage Pants,FS24,100.99,Pants,XXL,38,368,Rainforest,Men,Orange Tangerine,25,alpha,0.906
+WL-00030,Box Logo Sweatshirt,SS25,152.99,Sweatshirt,XXL,81,86,Box Logo,Women,White Whisper,0,alpha,0.515
+S-00026,Circular T-Shirt,SS25,53.99,T-Shirt,XXL,289,31,Circular,Men,Beige Sand,0,alpha,0.097
+WM-00013,Geographic Stripe Shirt,FS24,113.99,Shirt,XXL,21,112,Geographic,Women,White Whisper,25,alpha,0.842
+WM-00014,Circular Shirt,FS24,95.99,Shirt,L,46,99,Circular,Women,Bright White,10,alpha,0.683
+W\00008,Trail Half-Zip Shoes,SS25,156.99,Shoes,36,31,17,Trail,Women,Burgundy,0,numeric,0.354
+WS-00022,Tribe Quilted T-Shirt,SS25,73.99,T-Shirt,L,256,237,Tribe,Women,Burgundy,0,alpha,0.481
+WS-00023,Iconic T-Shirt,FS24,54.99,T-Shirt,L,98,195,Iconic,Women,Bright Red,20,alpha,0.666
+S-00028,Morgex Logo T-Shirt,FS24,66.99,T-Shirt,XL,144,297,Morgex,Men,Black Beauty,15,alpha,0.673
+S-00029,Tribe Half-Zip T-Shirt,FS24,74.99,T-Shirt,L,26,86,Tribe,Men,Orange Tangerine,10,alpha,0.768
+ScarfPatch-0001,Patch Scarf,FS24,91.99,Accessories,One Size,91,323,Patch,Men,Bright White,30,alpha,0.78
+S-00030,Iconic Logo T-Shirt,SS25,50.99,T-Shirt,XS,39,41,Iconic,Men,Black Beauty,0,alpha,0.512
+WCapMorgex-0001,Morgex Cap,FS24,70.99,Accessories,One Size,132,457,Morgex,Women,Burgundy,20,alpha,0.776
+WS-00024,Iconic Stretch T-Shirt,SS25,68.99,T-Shirt,S,289,151,Iconic,Women,Stone Grey,0,alpha,0.343
+N-00014,Iconic Logo Shorts,FS24,52.99,Shorts,S,8,120,Iconic,Men,Navy,30,alpha,0.938
+S-00031,Box Logo T-Shirt,SS25,34.99,T-Shirt,XS,44,7,Box Logo,Men,Navy,0,alpha,0.137
+ToteBagMorgex-0001,Morgex Tote Bag,FS24,118.99,Accessories,One Size,20,140,Morgex,Men,Grey Melange,15,alpha,0.875
+WL-00031,Geographic Half-Zip Sweatshirt,SS25,107.99,Sweatshirt,M,132,26,Geographic,Women,Free Blue,0,alpha,0.165
+WL-00032,Box Logo Stripe Sweatshirt,SS25,140.99,Sweatshirt,L,166,27,Box Logo,Women,Forest Green,0,alpha,0.14
+WWaistBagCircular-0001,Circular Waist Bag,FS24,111.99,Accessories,One Size,33,284,Circular,Women,Forest Green,15,alpha,0.896
+WL-00033,Box Logo Stripe Sweatshirt,SS25,99.99,Sweatshirt,XL,56,54,Box Logo,Women,Grey Melange,0,alpha,0.491
+WL-00034,Tribe Print Sweatshirt,FS24,119.99,Sweatshirt,L,113,178,Tribe,Women,Yellow Sunshine,25,alpha,0.612
+WBeaniePatch-0001,Patch Beanie,SS25,61.99,Accessories,One Size,223,202,Patch,Women,Burgundy,0,alpha,0.475
+WN-00012,Tribe Graphic Shorts,FS24,94.99,Shorts,S,58,77,Tribe,Women,Snow White,50,alpha,0.57
+WV-00006,Box Logo Graphic Swimwear,FS24,59.99,Swimwear,S,28,279,Box Logo,Women,White Whisper,25,alpha,0.909
+WL-00035,Geographic Stretch Sweatshirt,FS24,162.99,Sweatshirt,XS,66,186,Geographic,Women,Yellow Sunshine,20,alpha,0.738
+L-00026,Iconic Logo Sweatshirt,FS24,99.99,Sweatshirt,XXL,145,230,Iconic,Men,Grey Melange,30,alpha,0.613
+P-00032,Circular Graphic Pants,SS25,127.99,Pants,XXL,204,14,Circular,Men,Stone Grey,0,alpha,0.064
+M-00019,Tribe Shirt,FS24,99.99,Shirt,S,10,93,Tribe,Men,Blue Marine,10,alpha,0.903
+WBeltCircular-0001,Circular Belt,SS25,93.99,Accessories,One Size,150,155,Circular,Women,Free Blue,0,alpha,0.508
+S-00033,Tribe Stretch T-Shirt,FS24,91.99,T-Shirt,XS,71,94,Tribe,Men,Burgundy,30,alpha,0.57
+WS-00025,Geographic Heritage T-Shirt,SS25,52.99,T-Shirt,XXL,234,227,Geographic,Women,White Whisper,0,alpha,0.492
+WL-00037,Circular Quilted Sweatshirt,FS24,125.99,Sweatshirt,XL,69,527,Circular,Women,Bright White,15,alpha,0.884
+GlovesPatch-0001,Patch Gloves,FS24,91.99,Accessories,M,98,126,Patch,Men,Orange Tangerine,20,alpha,0.562
+PS-00021,Box Logo Logo Polo,FS24,75.99,Polo,S,41,324,Box Logo,Men,Forest Green,20,alpha,0.888
+P-00033,Box Logo Heritage Pants,SS25,113.99,Pants,XL,473,122,Box Logo,Men,Free Blue,0,alpha,0.205
+WL-00039,Tribe Heritage Sweatshirt,SS25,161.99,Sweatshirt,XS,31,9,Tribe,Women,Olive,0,alpha,0.225
+P-00034,Patch Pants,FS24,107.99,Pants,S,51,527,Patch,Men,Grey Melange,10,alpha,0.912
+WToteBagCircular-0001,Circular Tote Bag,SS25,62.99,Accessories,One Size,326,44,Circular,Women,Bright Red,0,alpha,0.119
+S-00034,Rainforest Half-Zip T-Shirt,FS24,78.99,T-Shirt,XL,144,261,Rainforest,Men,Burgundy,15,alpha,0.644
+WL-00040,Morgex Half-Zip Sweatshirt,SS25,94.99,Sweatshirt,S,231,209,Morgex,Women,Navy,0,alpha,0.475
+N-00015,Geographic Quilted Shorts,FS24,63.99,Shorts,XL,8,138,Geographic,Men,Olive,40,alpha,0.945
+S-00035,Tribe Quilted T-Shirt,FS24,86.99,T-Shirt,XS,101,282,Tribe,Men,Free Blue,15,alpha,0.736
+WPS-00014,Iconic Polo,FS24,64.99,Polo,XXL,116,319,Iconic,Women,Free Blue,30,alpha,0.733
+WM-00015,Circular Heritage Shirt,FS24,96.99,Shirt,L,103,167,Circular,Women,Orange Tangerine,20,alpha,0.619
+S-00036,Morgex Stretch T-Shirt,FS24,38.99,T-Shirt,XS,16,198,Morgex,Men,Black Beauty,15,alpha,0.925
+WS-00026,Iconic Quilted T-Shirt,FS24,94.99,T-Shirt,L,41,167,Iconic,Women,Old Rose,25,alpha,0.803
+WM-00016,Patch Quilted Shirt,SS25,117.99,Shirt,L,263,65,Patch,Women,Beige Sand,0,alpha,0.198
+WS-00027,Rainforest Stripe T-Shirt,SS25,34.99,T-Shirt,M,104,25,Rainforest,Women,Bright White,0,alpha,0.194
+P-00035,Tribe Quilted Pants,SS25,110.99,Pants,S,156,182,Tribe,Men,Blue Marine,0,alpha,0.538
+WL-00041,Circular Quilted Sweatshirt,FS24,105.99,Sweatshirt,M,171,426,Circular,Women,Orange Tangerine,40,alpha,0.714
+WM-00017,Geographic Heritage Shirt,SS25,140.99,Shirt,M,259,50,Geographic,Women,Yellow Sunshine,0,alpha,0.162
+WPS-00015,Iconic Logo Polo,FS24,101.99,Polo,L,10,92,Iconic,Women,Green Lichen,30,alpha,0.902
+W\00009,Trail Logo Shoes,FS24,116.99,Shoes,37,73,96,Trail,Women,Blue Marine,15,numeric,0.568
+S-00037,Tribe Stretch T-Shirt,SS25,50.99,T-Shirt,XL,98,10,Tribe,Men,Burgundy,0,alpha,0.093
+L-00027,Morgex Print Sweatshirt,FS24,169.99,Sweatshirt,XS,189,280,Morgex,Men,Stone Grey,40,alpha,0.597
+S-00038,Iconic Print T-Shirt,SS25,89.99,T-Shirt,M,200,192,Iconic,Men,Blue Marine,0,alpha,0.49
+PS-00022,Rainforest Polo,SS25,89.99,Polo,M,420,31,Rainforest,Men,White Whisper,0,alpha,0.069
+W\00010,Trail Stretch Shoes,FS24,91.99,Shoes,38,112,238,Trail,Women,White Whisper,40,numeric,0.68
+V-00005,Box Logo Heritage Swimwear,SS25,63.99,Swimwear,S,300,68,Box Logo,Men,Blue Marine,0,alpha,0.185
+M-00020,Tribe Print Shirt,SS25,146.99,Shirt,L,228,194,Tribe,Men,Yellow Sunshine,0,alpha,0.46
+V-00006,Sun-Lover Graphic Swimwear,FS24,56.99,Swimwear,M,43,374,Sun-Lover,Men,White Whisper,10,alpha,0.897
+L-00028,Iconic Heritage Sweatshirt,SS25,141.99,Sweatshirt,S,427,69,Iconic,Men,Pale Mint,0,alpha,0.139
+\00009,Slate Graphic Shoes,SS25,203.99,Shoes,46,107,25,Slate,Men,Free Blue,0,numeric,0.189
+WM-00018,Tribe Graphic Shirt,SS25,110.99,Shirt,XXL,318,141,Tribe,Women,Forest Green,0,alpha,0.307
+\00010,Cresta Half-Zip Shoes,SS25,111.99,Shoes,45,40,8,Cresta,Men,Orange Tangerine,0,numeric,0.167
+P-00036,Morgex Logo Pants,FS24,121.99,Pants,L,167,350,Morgex,Men,Snow White,30,alpha,0.677
+L-00029,Iconic Graphic Sweatshirt,FS24,130.99,Sweatshirt,XL,37,113,Iconic,Men,Black Beauty,25,alpha,0.753
+WM-00019,Patch Logo Shirt,FS24,122.99,Shirt,XXL,45,148,Patch,Women,Khaki,25,alpha,0.767
+WPS-00016,Circular Quilted Polo,FS24,65.99,Polo,XXL,17,532,Circular,Women,Pale Mint,25,alpha,0.969
+WPS-00017,Circular Logo Polo,SS25,109.99,Polo,M,370,217,Circular,Women,White Whisper,0,alpha,0.37
+L-00030,Patch Sweatshirt,FS24,165.99,Sweatshirt,XXL,139,201,Patch,Men,Stone Grey,30,alpha,0.591
+WS-00028,Geographic Logo T-Shirt,FS24,56.99,T-Shirt,S,97,257,Geographic,Women,Pale Mint,25,alpha,0.726
+W\00011,Slate Quilted Shoes,SS25,95.99,Shoes,39,80,32,Slate,Women,Yellow Sunshine,0,numeric,0.286
+L-00031,Rainforest Heritage Sweatshirt,FS24,104.99,Sweatshirt,S,70,310,Rainforest,Men,Bright White,30,alpha,0.816
+S-00039,Box Logo T-Shirt,FS24,70.99,T-Shirt,S,65,476,Box Logo,Men,Yellow Sunshine,15,alpha,0.88
+WN-00013,Circular Shorts,FS24,73.99,Shorts,L,18,60,Circular,Women,Burgundy,20,alpha,0.769
+N-00016,Patch Shorts,SS25,92.99,Shorts,XS,246,48,Patch,Men,Stone Grey,0,alpha,0.163
+W\00012,Cresta Graphic Shoes,FS24,94.99,Shoes,42,87,250,Cresta,Women,Caviar,15,numeric,0.742
+L-00032,Circular Stretch Sweatshirt,SS25,156.99,Sweatshirt,M,201,31,Circular,Men,Pale Mint,0,alpha,0.134
+\00011,Cresta Logo Shoes,SS25,105.99,Shoes,45,41,21,Cresta,Men,Forest Green,0,numeric,0.339
+WS-00030,Box Logo Half-Zip T-Shirt,FS24,37.99,T-Shirt,XL,15,74,Box Logo,Women,Caviar,30,alpha,0.831
+WP-00015,Iconic Heritage Pants,FS24,121.99,Pants,XL,71,125,Iconic,Women,Snow White,20,alpha,0.638
+\00012,Cresta Heritage Shoes,SS25,102.99,Shoes,46,157,86,Cresta,Men,Navy,0,numeric,0.354
+N-00017,Tribe Heritage Shorts,FS24,84.99,Shorts,XS,41,211,Tribe,Men,Free Blue,20,alpha,0.837
+WL-00043,Box Logo Quilted Sweatshirt,SS25,167.99,Sweatshirt,XS,477,68,Box Logo,Women,Pale Mint,0,alpha,0.125
+S-00040,Iconic Graphic T-Shirt,SS25,52.99,T-Shirt,L,476,39,Iconic,Men,Khaki,0,alpha,0.076
+V-00007,Wave Swimwear,FS24,50.99,Swimwear,XS,5,44,Wave,Men,Free Blue,20,alpha,0.898
+WP-00017,Patch Stretch Pants,FS24,136.99,Pants,XS,91,136,Patch,Women,Yellow Sunshine,30,alpha,0.599
+M-00021,Circular Shirt,FS24,98.99,Shirt,S,4,96,Circular,Men,Orange Tangerine,25,alpha,0.96
+WV-00008,Box Logo Half-Zip Swimwear,FS24,66.99,Swimwear,L,6,63,Box Logo,Women,Orange Tangerine,15,alpha,0.913
+\00013,Trail Shoes,FS24,145.99,Shoes,43,35,69,Trail,Men,Orange Tangerine,10,numeric,0.663
+PS-00023,Tribe Half-Zip Polo,FS24,108.99,Polo,XXL,37,100,Tribe,Men,Pale Mint,20,alpha,0.73
+N-00018,Circular Shorts,SS25,90.99,Shorts,XS,293,264,Circular,Men,Bright White,0,alpha,0.474
+\00014,Cresta Print Shoes,FS24,95.99,Shoes,42,59,209,Cresta,Men,Orange Tangerine,15,numeric,0.78
+M-00022,Iconic Heritage Shirt,FS24,95.99,Shirt,L,158,339,Iconic,Men,Yellow Sunshine,30,alpha,0.682
+GlovesBoxLogo-0002,Box Logo Gloves,FS24,90.99,Accessories,S,27,324,Box Logo,Men,Blue Marine,20,alpha,0.923
+L-00033,Rainforest Stretch Sweatshirt,FS24,152.99,Sweatshirt,S,78,446,Rainforest,Men,Old Rose,30,alpha,0.851
+M-00023,Iconic Stretch Shirt,SS25,127.99,Shirt,XS,229,109,Iconic,Men,Pale Mint,0,alpha,0.322
+WM-00020,Geographic Shirt,SS25,136.99,Shirt,XXL,193,107,Geographic,Women,Orange Tangerine,0,alpha,0.357
+S-00041,Circular Stretch T-Shirt,FS24,79.99,T-Shirt,S,20,130,Circular,Men,Beige Sand,30,alpha,0.867
+S-00042,Iconic Heritage T-Shirt,FS24,42.99,T-Shirt,XL,10,34,Iconic,Men,Yellow Sunshine,25,alpha,0.773
+S-00043,Rainforest T-Shirt,SS25,71.99,T-Shirt,XXL,154,17,Rainforest,Men,Stone Grey,0,alpha,0.099
+P-00037,Patch Graphic Pants,FS24,120.99,Pants,XL,20,427,Patch,Men,Stone Grey,20,alpha,0.955
+GlovesGeographic-0001,Geographic Gloves,FS24,114.99,Accessories,L,53,547,Geographic,Men,Bright White,25,alpha,0.912
+P-00038,Tribe Quilted Pants,SS25,126.99,Pants,XL,192,201,Tribe,Men,Beige Sand,0,alpha,0.511
+S-00044,Geographic Heritage T-Shirt,FS24,69.99,T-Shirt,M,78,389,Geographic,Men,Stone Grey,25,alpha,0.833
+\00015,Box Logo Shoes,SS25,137.99,Shoes,40,58,36,Box Logo,Men,Black Beauty,0,numeric,0.383
+S-00045,Geographic Graphic T-Shirt,FS24,78.99,T-Shirt,XS,33,215,Geographic,Men,Navy,15,alpha,0.867
+S-00046,Iconic Print T-Shirt,SS25,75.99,T-Shirt,XXL,364,74,Iconic,Men,Olive,0,alpha,0.169
+N-00019,Morgex Stripe Shorts,SS25,73.99,Shorts,L,168,192,Morgex,Men,Pale Mint,0,alpha,0.533
+S-00047,Tribe Quilted T-Shirt,FS24,79.99,T-Shirt,XXL,55,361,Tribe,Men,Olive,30,alpha,0.868
+L-00034,Tribe Sweatshirt,FS24,103.99,Sweatshirt,XXL,31,186,Tribe,Men,Navy,15,alpha,0.857
+WS-00031,Morgex Graphic T-Shirt,FS24,88.99,T-Shirt,XL,14,31,Morgex,Women,Petit Four,15,alpha,0.689
+WP-00018,Geographic Heritage Pants,SS25,127.99,Pants,XXL,371,35,Geographic,Women,Old Rose,0,alpha,0.086
+P-00039,Geographic Stripe Pants,SS25,109.99,Pants,XL,406,190,Geographic,Men,Stone Grey,0,alpha,0.319
+WS-00032,Tribe Half-Zip T-Shirt,FS24,47.99,T-Shirt,M,146,437,Tribe,Women,Pale Mint,20,alpha,0.75
+WN-00014,Morgex Print Shorts,FS24,72.99,Shorts,XL,147,413,Morgex,Women,Petit Four,10,alpha,0.738
+S-00048,Tribe Print T-Shirt,SS25,44.99,T-Shirt,XS,555,31,Tribe,Men,Old Rose,0,alpha,0.053
+S-00049,Tribe Stripe T-Shirt,FS24,68.99,T-Shirt,S,15,98,Tribe,Men,Pale Mint,30,alpha,0.867
+S-00050,Patch T-Shirt,SS25,37.99,T-Shirt,XS,199,98,Patch,Men,White Whisper,0,alpha,0.33
+WL-00044,Morgex Stretch Sweatshirt,FS24,149.99,Sweatshirt,L,16,41,Morgex,Women,Snow White,20,alpha,0.719
+WS-00033,Iconic T-Shirt,SS25,88.99,T-Shirt,XXL,197,209,Iconic,Women,Bright Red,0,alpha,0.515
+S-00051,Morgex Heritage T-Shirt,SS25,82.99,T-Shirt,M,324,106,Morgex,Men,Olive,0,alpha,0.247
+\00016,Slate Shoes,SS25,94.99,Shoes,40,302,141,Slate,Men,Black Beauty,0,numeric,0.318
+WBucketHatPatch-0001,Patch Bucket Hat,FS24,84.99,Accessories,One Size,76,128,Patch,Women,Beige Sand,40,alpha,0.627
+W\00013,Box Logo Half-Zip Shoes,FS24,161.99,Shoes,37,46,367,Box Logo,Women,Old Rose,25,numeric,0.889
+P-00041,Geographic Pants,SS25,98.99,Pants,M,31,28,Geographic,Men,Petit Four,0,alpha,0.475
+P-00042,Circular Graphic Pants,SS25,159.99,Pants,XS,300,296,Circular,Men,Bright Red,0,alpha,0.497
+L-00036,Geographic Sweatshirt,FS24,131.99,Sweatshirt,XL,123,392,Geographic,Men,Free Blue,15,alpha,0.761
+WS-00035,Box Logo T-Shirt,SS25,77.99,T-Shirt,XL,498,68,Box Logo,Women,Pale Mint,0,alpha,0.12
+S-00053,Geographic T-Shirt,FS24,48.99,T-Shirt,L,91,219,Geographic,Men,Orange Tangerine,10,alpha,0.706
+WS-00036,Patch Quilted T-Shirt,FS24,36.99,T-Shirt,XS,151,220,Patch,Women,Caviar,40,alpha,0.593
+W\00014,Slate Stretch Shoes,SS25,140.99,Shoes,40,278,115,Slate,Women,Caviar,0,numeric,0.293
+WS-00037,Iconic Stretch T-Shirt,SS25,85.99,T-Shirt,L,111,45,Iconic,Women,Pale Mint,0,alpha,0.288
+WL-00045,Geographic Half-Zip Sweatshirt,FS24,110.99,Sweatshirt,XS,80,124,Geographic,Women,Burgundy,10,alpha,0.608
+L-00038,Geographic Print Sweatshirt,SS25,117.99,Sweatshirt,M,296,159,Geographic,Men,White Whisper,0,alpha,0.349
+WL-00046,Morgex Heritage Sweatshirt,SS25,154.99,Sweatshirt,L,180,34,Morgex,Women,Green Lichen,0,alpha,0.159
+WM-00021,Geographic Heritage Shirt,FS24,127.99,Shirt,XXL,39,71,Geographic,Women,Olive,15,alpha,0.645
+WM-00022,Tribe Shirt,FS24,96.99,Shirt,XL,38,489,Tribe,Women,Stone Grey,30,alpha,0.928
+L-00039,Iconic Sweatshirt,FS24,163.99,Sweatshirt,XL,111,370,Iconic,Men,Green Lichen,25,alpha,0.769
+WM-00023,Circular Half-Zip Shirt,FS24,128.99,Shirt,L,38,102,Circular,Women,Forest Green,30,alpha,0.729
+PS-00024,Iconic Polo,FS24,109.99,Polo,XS,230,345,Iconic,Men,Navy,15,alpha,0.6
+L-00040,Morgex Print Sweatshirt,FS24,164.99,Sweatshirt,L,200,334,Morgex,Men,Pale Mint,30,alpha,0.625
+L-00041,Morgex Quilted Sweatshirt,FS24,111.99,Sweatshirt,L,22,139,Morgex,Men,Bright Red,30,alpha,0.863
+L-00042,Geographic Stretch Sweatshirt,SS25,145.99,Sweatshirt,XL,81,12,Geographic,Men,Blue Marine,0,alpha,0.129
+WCapIconic-0001,Iconic Cap,FS24,74.99,Accessories,One Size,36,69,Iconic,Women,Bright White,40,alpha,0.657
+M-00024,Circular Shirt,FS24,91.99,Shirt,XL,145,401,Circular,Men,Caviar,25,alpha,0.734
+S-00055,Morgex Print T-Shirt,SS25,66.99,T-Shirt,XL,178,99,Morgex,Men,Beige Sand,0,alpha,0.357
+WS-00038,Iconic Half-Zip T-Shirt,FS24,92.99,T-Shirt,XL,120,276,Iconic,Women,Green Lichen,30,alpha,0.697
+WV-00009,Sun-Lover Stripe Swimwear,FS24,55.99,Swimwear,M,226,332,Sun-Lover,Women,Yellow Sunshine,25,alpha,0.595
+N-00020,Rainforest Shorts,FS24,79.99,Shorts,XS,128,176,Rainforest,Men,Pale Mint,40,alpha,0.579
+P-00043,Tribe Pants,FS24,157.99,Pants,XL,107,202,Tribe,Men,Old Rose,40,alpha,0.654
+S-00056,Patch Stretch T-Shirt,SS25,54.99,T-Shirt,L,132,131,Patch,Men,Green Lichen,0,alpha,0.498
+PS-00025,Tribe Graphic Polo,SS25,79.99,Polo,S,210,41,Tribe,Men,Orange Tangerine,0,alpha,0.163
+V-00008,Wave Quilted Swimwear,SS25,49.99,Swimwear,XS,350,194,Wave,Men,Bright White,0,alpha,0.357
+N-00021,Box Logo Graphic Shorts,FS24,85.99,Shorts,L,202,340,Box Logo,Men,Orange Tangerine,25,alpha,0.627
+N-00022,Circular Stripe Shorts,SS25,82.99,Shorts,XS,254,275,Circular,Men,Forest Green,0,alpha,0.52
+L-00043,Patch Stretch Sweatshirt,FS24,141.99,Sweatshirt,L,150,300,Patch,Men,Grey Melange,20,alpha,0.667
+WS-00042,Tribe Stripe T-Shirt,FS24,61.99,T-Shirt,XL,93,147,Tribe,Women,Blue Marine,30,alpha,0.612
+PS-00026,Box Logo Polo,SS25,74.99,Polo,XXL,141,119,Box Logo,Men,Caviar,0,alpha,0.458
+L-00044,Rainforest Graphic Sweatshirt,FS24,165.99,Sweatshirt,XL,173,219,Rainforest,Men,Old Rose,20,alpha,0.559
+S-00057,Tribe Stretch T-Shirt,SS25,56.99,T-Shirt,M,397,165,Tribe,Men,Bright Red,0,alpha,0.294
+N-00023,Circular Quilted Shorts,FS24,59.99,Shorts,S,105,280,Circular,Men,Olive,20,alpha,0.727
+P-00044,Circular Heritage Pants,FS24,155.99,Pants,M,176,287,Circular,Men,Khaki,30,alpha,0.62
+W\00015,Trail Shoes,FS24,184.99,Shoes,41,97,158,Trail,Women,Pale Mint,40,numeric,0.62
+WS-00044,Geographic Graphic T-Shirt,FS24,81.99,T-Shirt,S,92,401,Geographic,Women,Green Lichen,20,alpha,0.813
+S-00058,Box Logo Heritage T-Shirt,FS24,89.99,T-Shirt,M,21,497,Box Logo,Men,White Whisper,30,alpha,0.959
+WL-00047,Rainforest Quilted Sweatshirt,SS25,152.99,Sweatshirt,XL,334,151,Rainforest,Women,Bright White,0,alpha,0.311
+WP-00022,Patch Graphic Pants,SS25,145.99,Pants,XS,308,106,Patch,Women,Orange Tangerine,0,alpha,0.256
+WS-00045,Geographic Heritage T-Shirt,FS24,78.99,T-Shirt,XS,171,357,Geographic,Women,Free Blue,20,alpha,0.676
+N-00024,Tribe Stripe Shorts,FS24,76.99,Shorts,XL,113,182,Tribe,Men,Black Beauty,15,alpha,0.617
+WN-00015,Circular Print Shorts,FS24,64.99,Shorts,XXL,105,213,Circular,Women,Forest Green,10,alpha,0.67
+N-00025,Circular Graphic Shorts,SS25,57.99,Shorts,S,97,56,Circular,Men,Beige Sand,0,alpha,0.366
+WP-00023,Rainforest Pants,FS24,157.99,Pants,XS,10,220,Rainforest,Women,Beige Sand,10,alpha,0.957
+WPS-00018,Rainforest Polo,SS25,73.99,Polo,XS,459,86,Rainforest,Women,Black Beauty,0,alpha,0.158
+M-00025,Rainforest Shirt,FS24,126.99,Shirt,XS,81,108,Rainforest,Men,Free Blue,25,alpha,0.571
+WN-00016,Rainforest Shorts,SS25,73.99,Shorts,M,76,88,Rainforest,Women,Grey Melange,0,alpha,0.537
+WP-00024,Rainforest Pants,SS25,147.99,Pants,S,354,219,Rainforest,Women,Forest Green,0,alpha,0.382
+WS-00046,Morgex T-Shirt,SS25,80.99,T-Shirt,XXL,509,64,Morgex,Women,Old Rose,0,alpha,0.112
+WL-00048,Patch Quilted Sweatshirt,SS25,124.99,Sweatshirt,XS,381,103,Patch,Women,White Whisper,0,alpha,0.213
+WS-00047,Iconic Half-Zip T-Shirt,SS25,36.99,T-Shirt,XS,319,207,Iconic,Women,Caviar,0,alpha,0.394
+S-00059,Tribe Quilted T-Shirt,FS24,55.99,T-Shirt,XL,43,58,Tribe,Men,Grey Melange,10,alpha,0.574
+M-00026,Morgex Print Shirt,FS24,121.99,Shirt,XL,200,341,Morgex,Men,White Whisper,25,alpha,0.63
+WPS-00019,Box Logo Stretch Polo,FS24,103.99,Polo,XS,90,194,Box Logo,Women,Burgundy,30,alpha,0.683
+S-00060,Circular Graphic T-Shirt,FS24,73.99,T-Shirt,S,103,267,Circular,Men,Beige Sand,30,alpha,0.722
+WM-00024,Iconic Logo Shirt,SS25,88.99,Shirt,S,105,44,Iconic,Women,White Whisper,0,alpha,0.295
+WP-00025,Tribe Quilted Pants,FS24,148.99,Pants,XS,30,72,Tribe,Women,Burgundy,40,alpha,0.706
+N-00026,Patch Graphic Shorts,FS24,53.99,Shorts,XXL,6,113,Patch,Men,White Whisper,25,alpha,0.95
+WBackpackTribe-0001,Tribe Backpack,FS24,86.99,Accessories,One Size,48,175,Tribe,Women,Petit Four,15,alpha,0.785
+L-00045,Patch Sweatshirt,FS24,107.99,Sweatshirt,L,49,175,Patch,Men,Pale Mint,25,alpha,0.781
+L-00046,Rainforest Stripe Sweatshirt,FS24,141.99,Sweatshirt,M,49,431,Rainforest,Men,Free Blue,25,alpha,0.898
+WM-00025,Tribe Stripe Shirt,FS24,141.99,Shirt,L,6,34,Tribe,Women,Caviar,20,alpha,0.85
+S-00062,Morgex Heritage T-Shirt,SS25,36.99,T-Shirt,XS,352,52,Morgex,Men,Petit Four,0,alpha,0.129
+PS-00027,Tribe Stripe Polo,FS24,100.99,Polo,XS,37,225,Tribe,Men,Forest Green,30,alpha,0.859
+N-00027,Geographic Graphic Shorts,SS25,90.99,Shorts,XL,46,32,Geographic,Men,Orange Tangerine,0,alpha,0.41
+WL-00049,Box Logo Sweatshirt,FS24,147.99,Sweatshirt,L,37,235,Box Logo,Women,Old Rose,30,alpha,0.864
+V-00009,Box Logo Stretch Swimwear,FS24,46.99,Swimwear,XL,126,466,Box Logo,Men,Burgundy,10,alpha,0.787
+M-00027,Geographic Shirt,FS24,148.99,Shirt,XL,72,195,Geographic,Men,White Whisper,50,alpha,0.73
+WN-00017,Patch Stripe Shorts,FS24,84.99,Shorts,XS,128,180,Patch,Women,Green Lichen,25,alpha,0.584
+L-00047,Geographic Quilted Sweatshirt,FS24,144.99,Sweatshirt,L,51,189,Geographic,Men,Bright White,25,alpha,0.788
+BeltTribe-0001,Tribe Belt,FS24,60.99,Accessories,One Size,53,78,Tribe,Men,Green Lichen,30,alpha,0.595
+WM-00026,Tribe Shirt,FS24,123.99,Shirt,XS,76,322,Tribe,Women,Old Rose,25,alpha,0.809
+WN-00018,Box Logo Stretch Shorts,SS25,49.99,Shorts,M,122,31,Box Logo,Women,Forest Green,0,alpha,0.203
+WL-00050,Tribe Quilted Sweatshirt,FS24,112.99,Sweatshirt,XL,17,41,Tribe,Women,Beige Sand,25,alpha,0.707
+\00017,Slate Half-Zip Shoes,SS25,114.99,Shoes,42,293,24,Slate,Men,Grey Melange,0,numeric,0.076
+WP-00026,Circular Pants,FS24,135.99,Pants,XXL,19,40,Circular,Women,Pale Mint,25,alpha,0.678
+W\00016,Box Logo Half-Zip Shoes,SS25,151.99,Shoes,38,529,55,Box Logo,Women,Stone Grey,0,numeric,0.094
+S-00063,Box Logo Stretch T-Shirt,SS25,53.99,T-Shirt,XL,408,133,Box Logo,Men,White Whisper,0,alpha,0.246
+WS-00049,Patch T-Shirt,FS24,51.99,T-Shirt,XL,25,278,Patch,Women,Free Blue,15,alpha,0.917
+\00018,Cresta Stripe Shoes,FS24,203.99,Shoes,42,74,106,Cresta,Men,Petit Four,15,numeric,0.589
+M-00028,Tribe Stripe Shirt,SS25,103.99,Shirt,XL,178,181,Tribe,Men,Snow White,0,alpha,0.504
+\00019,Box Logo Print Shoes,SS25,97.99,Shoes,42,278,307,Box Logo,Men,Bright White,0,numeric,0.525
+WS-00050,Geographic Graphic T-Shirt,FS24,60.99,T-Shirt,L,67,426,Geographic,Women,Black Beauty,40,alpha,0.864
+V-00010,Box Logo Swimwear,SS25,50.99,Swimwear,S,215,14,Box Logo,Men,Khaki,0,alpha,0.061
+BeanieTribe-0001,Tribe Beanie,SS25,48.99,Accessories,One Size,370,37,Tribe,Men,Olive,0,alpha,0.091
+WN-00019,Rainforest Heritage Shorts,FS24,80.99,Shorts,L,69,111,Rainforest,Women,Burgundy,15,alpha,0.617
+WPS-00020,Box Logo Logo Polo,FS24,76.99,Polo,XXL,40,67,Box Logo,Women,Khaki,15,alpha,0.626
+WScarfRainforest-0001,Rainforest Scarf,FS24,73.99,Accessories,One Size,16,66,Rainforest,Women,Old Rose,40,alpha,0.805
+V-00011,Wave Heritage Swimwear,SS25,50.99,Swimwear,XL,272,235,Wave,Men,Olive,0,alpha,0.464
+S-00064,Circular Logo T-Shirt,FS24,37.99,T-Shirt,XXL,90,248,Circular,Men,White Whisper,20,alpha,0.734
+\00020,Slate Half-Zip Shoes,SS25,126.99,Shoes,43,57,38,Slate,Men,Yellow Sunshine,0,numeric,0.4
+\00021,Box Logo Half-Zip Shoes,SS25,188.99,Shoes,41,529,70,Box Logo,Men,Green Lichen,0,numeric,0.117
+M-00030,Geographic Graphic Shirt,SS25,95.99,Shirt,L,224,147,Geographic,Men,Yellow Sunshine,0,alpha,0.396
+\00022,Cresta Quilted Shoes,SS25,146.99,Shoes,45,373,38,Cresta,Men,Green Lichen,0,numeric,0.092
+P-00046,Geographic Half-Zip Pants,FS24,131.99,Pants,S,74,119,Geographic,Men,Caviar,10,alpha,0.617
+S-00065,Box Logo Quilted T-Shirt,FS24,52.99,T-Shirt,L,90,135,Box Logo,Men,Snow White,20,alpha,0.6
+WS-00051,Morgex T-Shirt,FS24,68.99,T-Shirt,L,191,354,Morgex,Women,Black Beauty,20,alpha,0.65
+L-00048,Circular Logo Sweatshirt,SS25,94.99,Sweatshirt,XL,487,113,Circular,Men,Yellow Sunshine,0,alpha,0.188
+PS-00028,Geographic Stretch Polo,FS24,83.99,Polo,XS,30,387,Geographic,Men,Yellow Sunshine,40,alpha,0.928
+V-00012,Box Logo Stretch Swimwear,FS24,61.99,Swimwear,XS,160,419,Box Logo,Men,Green Lichen,20,alpha,0.724
+WS-00052,Box Logo Half-Zip T-Shirt,SS25,80.99,T-Shirt,L,246,88,Box Logo,Women,Blue Marine,0,alpha,0.263
+WV-00010,Box Logo Heritage Swimwear,FS24,80.99,Swimwear,XL,82,490,Box Logo,Women,Olive,40,alpha,0.857
+L-00049,Tribe Sweatshirt,SS25,109.99,Sweatshirt,XS,329,187,Tribe,Men,Navy,0,alpha,0.362
+S-00066,Circular Print T-Shirt,SS25,56.99,T-Shirt,M,243,14,Circular,Men,Snow White,0,alpha,0.054
+WS-00053,Iconic T-Shirt,FS24,83.99,T-Shirt,M,25,131,Iconic,Women,Navy,20,alpha,0.84
+M-00031,Box Logo Quilted Shirt,SS25,127.99,Shirt,M,261,269,Box Logo,Men,Grey Melange,0,alpha,0.508
+N-00028,Rainforest Heritage Shorts,FS24,70.99,Shorts,XL,28,435,Rainforest,Men,Bright White,40,alpha,0.94
+S-00067,Patch Quilted T-Shirt,SS25,70.99,T-Shirt,S,209,170,Patch,Men,Petit Four,0,alpha,0.449
+W\00017,Trail Quilted Shoes,SS25,137.99,Shoes,38,310,277,Trail,Women,Khaki,0,numeric,0.472
+WL-00051,Iconic Sweatshirt,FS24,146.99,Sweatshirt,M,45,503,Iconic,Women,Navy,25,alpha,0.918
+M-00032,Morgex Logo Shirt,FS24,88.99,Shirt,M,35,99,Morgex,Men,Beige Sand,15,alpha,0.739
+S-00068,Geographic Print T-Shirt,FS24,89.99,T-Shirt,XXL,44,313,Geographic,Men,Beige Sand,40,alpha,0.877
+S-00069,Geographic Print T-Shirt,SS25,58.99,T-Shirt,L,150,8,Geographic,Men,Beige Sand,0,alpha,0.051
+GlovesIconic-0001,Iconic Gloves,FS24,32.99,Accessories,One Size,158,201,Iconic,Men,Old Rose,40,alpha,0.56
+WL-00052,Geographic Print Sweatshirt,FS24,165.99,Sweatshirt,XL,52,92,Geographic,Women,Grey Melange,10,alpha,0.639
+WM-00027,Geographic Graphic Shirt,SS25,93.99,Shirt,S,262,124,Geographic,Women,Navy,0,alpha,0.321
+WS-00054,Box Logo T-Shirt,FS24,59.99,T-Shirt,L,95,401,Box Logo,Women,Blue Marine,10,alpha,0.808
+PS-00029,Iconic Heritage Polo,SS25,108.99,Polo,XS,100,39,Iconic,Men,Yellow Sunshine,0,alpha,0.281
+P-00048,Rainforest Half-Zip Pants,SS25,107.99,Pants,S,150,154,Rainforest,Men,Orange Tangerine,0,alpha,0.507
+M-00033,Patch Shirt,FS24,144.99,Shirt,XS,99,300,Patch,Men,Old Rose,20,alpha,0.752
+WV-00011,Wave Stripe Swimwear,SS25,50.99,Swimwear,XL,117,32,Wave,Women,Olive,0,alpha,0.215
+M-00034,Circular Quilted Shirt,FS24,106.99,Shirt,S,17,102,Circular,Men,Snow White,25,alpha,0.857
+P-00050,Iconic Pants,FS24,145.99,Pants,XS,17,338,Iconic,Men,Bright Red,20,alpha,0.952
+WS-00055,Circular Logo T-Shirt,FS24,39.99,T-Shirt,XS,14,168,Circular,Women,Old Rose,25,alpha,0.923
+\00024,Cresta Graphic Shoes,SS25,157.99,Shoes,43,282,157,Cresta,Men,Bright White,0,numeric,0.358
+WPS-00021,Circular Stripe Polo,FS24,88.99,Polo,XXL,115,315,Circular,Women,Bright Red,25,alpha,0.733
+WS-00056,Geographic Stripe T-Shirt,FS24,87.99,T-Shirt,M,65,132,Geographic,Women,Beige Sand,30,alpha,0.67
+W\00018,Cresta Heritage Shoes,SS25,181.99,Shoes,37,225,262,Cresta,Women,Green Lichen,0,numeric,0.538
+WS-00057,Circular Stripe T-Shirt,FS24,66.99,T-Shirt,L,144,356,Circular,Women,Yellow Sunshine,25,alpha,0.712
+WPS-00022,Box Logo Print Polo,FS24,109.99,Polo,S,87,228,Box Logo,Women,Bright Red,30,alpha,0.724
+WL-00054,Box Logo Heritage Sweatshirt,FS24,168.99,Sweatshirt,XS,47,74,Box Logo,Women,Bright Red,25,alpha,0.612
+N-00031,Iconic Shorts,FS24,83.99,Shorts,M,135,385,Iconic,Men,Pale Mint,25,alpha,0.74
+BeanieMorgex-0001,Morgex Beanie,FS24,92.99,Accessories,One Size,37,301,Morgex,Men,White Whisper,25,alpha,0.891
+WP-00027,Iconic Pants,SS25,121.99,Pants,M,266,61,Iconic,Women,Bright White,0,alpha,0.187
+PS-00030,Geographic Stretch Polo,SS25,92.99,Polo,XXL,179,40,Geographic,Men,Bright Red,0,alpha,0.183
+P-00051,Box Logo Heritage Pants,SS25,108.99,Pants,S,261,201,Box Logo,Men,Old Rose,0,alpha,0.435
+WPS-00023,Geographic Polo,FS24,71.99,Polo,M,54,157,Geographic,Women,Beige Sand,10,alpha,0.744
+L-00051,Tribe Stripe Sweatshirt,FS24,161.99,Sweatshirt,S,17,35,Tribe,Men,Caviar,20,alpha,0.673
+WN-00020,Patch Quilted Shorts,SS25,83.99,Shorts,XS,190,212,Patch,Women,Stone Grey,0,alpha,0.527
+M-00035,Morgex Quilted Shirt,FS24,116.99,Shirt,XS,113,327,Morgex,Men,Old Rose,15,alpha,0.743
+WP-00028,Tribe Print Pants,FS24,129.99,Pants,S,8,42,Tribe,Women,Stone Grey,25,alpha,0.84
+WV-00012,Sun-Lover Stretch Swimwear,SS25,72.99,Swimwear,XXL,155,109,Sun-Lover,Women,Stone Grey,0,alpha,0.413
+WP-00029,Geographic Heritage Pants,SS25,126.99,Pants,M,74,43,Geographic,Women,Blue Marine,0,alpha,0.368
+WCapCircular-0001,Circular Cap,FS24,118.99,Accessories,One Size,40,283,Circular,Women,Pale Mint,15,alpha,0.876
+WM-00028,Box Logo Logo Shirt,FS24,146.99,Shirt,XS,166,276,Box Logo,Women,Khaki,15,alpha,0.624
+WL-00056,Rainforest Sweatshirt,FS24,94.99,Sweatshirt,XXL,148,291,Rainforest,Women,Black Beauty,15,alpha,0.663
+P-00052,Box Logo Print Pants,FS24,97.99,Pants,L,122,149,Box Logo,Men,Stone Grey,20,alpha,0.55
+WaistBagMorgex-0001,Morgex Waist Bag,SS25,99.99,Accessories,One Size,488,50,Morgex,Men,Caviar,0,alpha,0.093
+P-00053,Geographic Heritage Pants,SS25,119.99,Pants,XS,402,36,Geographic,Men,White Whisper,0,alpha,0.082
+WL-00057,Rainforest Stretch Sweatshirt,SS25,101.99,Sweatshirt,M,62,21,Rainforest,Women,Black Beauty,0,alpha,0.253
+S-00070,Rainforest Logo T-Shirt,SS25,71.99,T-Shirt,XXL,105,8,Rainforest,Men,Pale Mint,0,alpha,0.071
+S-00071,Rainforest Quilted T-Shirt,SS25,78.99,T-Shirt,S,163,10,Rainforest,Men,Olive,0,alpha,0.058
+P-00054,Iconic Pants,SS25,97.99,Pants,XL,109,47,Iconic,Men,Yellow Sunshine,0,alpha,0.301
+WN-00021,Tribe Stripe Shorts,FS24,92.99,Shorts,XXL,149,223,Tribe,Women,Snow White,30,alpha,0.599
+M-00036,Box Logo Half-Zip Shirt,SS25,147.99,Shirt,XXL,83,47,Box Logo,Men,Olive,0,alpha,0.362
+WN-00022,Box Logo Print Shorts,SS25,56.99,Shorts,S,88,49,Box Logo,Women,Petit Four,0,alpha,0.358
+\00026,Trail Logo Shoes,SS25,95.99,Shoes,42,86,69,Trail,Men,Yellow Sunshine,0,numeric,0.445
+WM-00029,Rainforest Print Shirt,SS25,90.99,Shirt,XXL,192,28,Rainforest,Women,White Whisper,0,alpha,0.127
+S-00073,Iconic Logo T-Shirt,FS24,60.99,T-Shirt,M,132,241,Iconic,Men,Forest Green,25,alpha,0.646
+WS-00059,Tribe Logo T-Shirt,SS25,91.99,T-Shirt,L,82,33,Tribe,Women,Snow White,0,alpha,0.287
+L-00052,Geographic Heritage Sweatshirt,FS24,111.99,Sweatshirt,M,44,194,Geographic,Men,Beige Sand,15,alpha,0.815
+WBucketHatGeographic-0001,Geographic Bucket Hat,SS25,54.99,Accessories,One Size,80,73,Geographic,Women,White Whisper,0,alpha,0.477
+\00027,Trail Stripe Shoes,FS24,90.99,Shoes,42,101,191,Trail,Men,Bright Red,30,numeric,0.654
+WM-00030,Geographic Shirt,SS25,89.99,Shirt,L,304,217,Geographic,Women,Bright Red,0,alpha,0.417
+WL-00059,Circular Logo Sweatshirt,SS25,157.99,Sweatshirt,L,84,41,Circular,Women,Orange Tangerine,0,alpha,0.328
+S-00074,Tribe T-Shirt,FS24,39.99,T-Shirt,XXL,90,441,Tribe,Men,Bright White,20,alpha,0.831
+WP-00030,Iconic Graphic Pants,FS24,143.99,Pants,M,124,471,Iconic,Women,Caviar,25,alpha,0.792
+S-00076,Patch Stretch T-Shirt,FS24,58.99,T-Shirt,XS,98,418,Patch,Men,White Whisper,40,alpha,0.81
+L-00053,Tribe Quilted Sweatshirt,FS24,158.99,Sweatshirt,M,158,315,Tribe,Men,Forest Green,20,alpha,0.666
+WS-00060,Rainforest Print T-Shirt,SS25,79.99,T-Shirt,L,293,292,Rainforest,Women,Stone Grey,0,alpha,0.499
+WL-00060,Iconic Graphic Sweatshirt,FS24,116.99,Sweatshirt,L,48,70,Iconic,Women,Beige Sand,10,alpha,0.593
+PS-00031,Rainforest Polo,SS25,104.99,Polo,XL,252,88,Rainforest,Men,Bright White,0,alpha,0.259
+P-00057,Rainforest Graphic Pants,FS24,91.99,Pants,XXL,99,134,Rainforest,Men,Free Blue,20,alpha,0.575
+W\00019,Slate Heritage Shoes,FS24,130.99,Shoes,42,56,526,Slate,Women,Snow White,25,numeric,0.904
+WN-00023,Patch Print Shorts,FS24,59.99,Shorts,XL,124,208,Patch,Women,Navy,40,alpha,0.627
+S-00077,Geographic Stretch T-Shirt,SS25,36.99,T-Shirt,XS,123,46,Geographic,Men,Grey Melange,0,alpha,0.272
+WM-00032,Box Logo Heritage Shirt,FS24,131.99,Shirt,S,24,568,Box Logo,Women,Pale Mint,50,alpha,0.959
+L-00054,Morgex Half-Zip Sweatshirt,FS24,112.99,Sweatshirt,XL,151,341,Morgex,Men,Orange Tangerine,50,alpha,0.693
+W\00020,Box Logo Stripe Shoes,FS24,182.99,Shoes,42,182,282,Box Logo,Women,Snow White,20,numeric,0.608
+WL-00063,Tribe Sweatshirt,FS24,136.99,Sweatshirt,XL,175,249,Tribe,Women,Navy,50,alpha,0.587
+L-00056,Morgex Logo Sweatshirt,FS24,153.99,Sweatshirt,XXL,8,59,Morgex,Men,Bright Red,20,alpha,0.881
+WS-00062,Rainforest Quilted T-Shirt,FS24,92.99,T-Shirt,L,127,163,Rainforest,Women,Blue Marine,20,alpha,0.562
+N-00033,Iconic Graphic Shorts,FS24,76.99,Shorts,XL,22,505,Iconic,Men,Olive,25,alpha,0.958
+WV-00013,Box Logo Half-Zip Swimwear,SS25,54.99,Swimwear,M,87,12,Box Logo,Women,Bright Red,0,alpha,0.121
+L-00057,Patch Stripe Sweatshirt,SS25,140.99,Sweatshirt,M,374,30,Patch,Men,Grey Melange,0,alpha,0.074
+P-00058,Morgex Stripe Pants,SS25,99.99,Pants,S,140,14,Morgex,Men,Bright White,0,alpha,0.091
+N-00034,Box Logo Print Shorts,SS25,91.99,Shorts,XS,72,28,Box Logo,Men,Beige Sand,0,alpha,0.28
+W\00021,Slate Shoes,SS25,101.99,Shoes,42,164,86,Slate,Women,Pale Mint,0,numeric,0.344
+S-00080,Box Logo Graphic T-Shirt,SS25,94.99,T-Shirt,XXL,306,90,Box Logo,Men,Green Lichen,0,alpha,0.227
+\00029,Trail Half-Zip Shoes,SS25,193.99,Shoes,40,37,17,Trail,Men,Stone Grey,0,numeric,0.315
+P-00059,Geographic Logo Pants,SS25,101.99,Pants,XXL,292,264,Geographic,Men,Petit Four,0,alpha,0.475
+L-00058,Geographic Stripe Sweatshirt,SS25,139.99,Sweatshirt,S,400,74,Geographic,Men,Yellow Sunshine,0,alpha,0.156
+WPS-00026,Patch Stretch Polo,FS24,95.99,Polo,S,72,263,Patch,Women,Blue Marine,10,alpha,0.785
+WS-00063,Iconic Quilted T-Shirt,FS24,53.99,T-Shirt,XXL,175,319,Iconic,Women,Caviar,20,alpha,0.646
+WL-00064,Rainforest Stripe Sweatshirt,SS25,112.99,Sweatshirt,XS,271,179,Rainforest,Women,Stone Grey,0,alpha,0.398
+V-00013,Wave Stretch Swimwear,FS24,69.99,Swimwear,XXL,90,437,Wave,Men,Bright Red,30,alpha,0.829
+SocksMorgex-0001,Morgex Socks,FS24,51.99,Accessories,L,77,100,Morgex,Men,Bright White,10,alpha,0.565
+N-00035,Rainforest Half-Zip Shorts,SS25,73.99,Shorts,S,327,47,Rainforest,Men,Pale Mint,0,alpha,0.126
+WP-00032,Iconic Quilted Pants,FS24,126.99,Pants,S,134,415,Iconic,Women,Pale Mint,30,alpha,0.756
+M-00039,Rainforest Shirt,FS24,148.99,Shirt,S,149,291,Rainforest,Men,Pale Mint,20,alpha,0.661
+WL-00066,Patch Sweatshirt,FS24,99.99,Sweatshirt,XL,126,289,Patch,Women,Navy,10,alpha,0.696
+WN-00024,Patch Stretch Shorts,SS25,71.99,Shorts,L,357,104,Patch,Women,Caviar,0,alpha,0.226
+WP-00033,Morgex Graphic Pants,SS25,97.99,Pants,XXL,123,34,Morgex,Women,Bright Red,0,alpha,0.217
+WS-00064,Rainforest T-Shirt,FS24,51.99,T-Shirt,L,106,414,Rainforest,Women,Pale Mint,25,alpha,0.796
+L-00059,Patch Heritage Sweatshirt,FS24,119.99,Sweatshirt,L,11,106,Patch,Men,Grey Melange,20,alpha,0.906
+PS-00034,Rainforest Quilted Polo,SS25,68.99,Polo,M,243,106,Rainforest,Men,Snow White,0,alpha,0.304
+PS-00035,Patch Heritage Polo,FS24,96.99,Polo,XL,224,376,Patch,Men,Beige Sand,20,alpha,0.627
+L-00060,Circular Stretch Sweatshirt,SS25,119.99,Sweatshirt,XL,449,64,Circular,Men,Bright Red,0,alpha,0.125
+WPS-00028,Tribe Logo Polo,SS25,73.99,Polo,XS,56,12,Tribe,Women,Caviar,0,alpha,0.176
+V-00014,Box Logo Swimwear,FS24,56.99,Swimwear,XS,125,194,Box Logo,Men,Snow White,25,alpha,0.608
+PS-00036,Geographic Polo,SS25,95.99,Polo,XXL,50,46,Geographic,Men,Burgundy,0,alpha,0.479
+WM-00033,Box Logo Print Shirt,FS24,124.99,Shirt,XS,119,354,Box Logo,Women,Orange Tangerine,25,alpha,0.748
+WPS-00029,Geographic Quilted Polo,FS24,65.99,Polo,M,7,68,Geographic,Women,Free Blue,25,alpha,0.907
+P-00060,Tribe Quilted Pants,FS24,135.99,Pants,XXL,37,127,Tribe,Men,Khaki,20,alpha,0.774
+P-00061,Circular Stripe Pants,FS24,149.99,Pants,L,57,323,Circular,Men,White Whisper,30,alpha,0.85
+\00030,Trail Half-Zip Shoes,SS25,142.99,Shoes,42,349,251,Trail,Men,Khaki,0,numeric,0.418
+WL-00069,Box Logo Quilted Sweatshirt,SS25,150.99,Sweatshirt,XXL,170,9,Box Logo,Women,Burgundy,0,alpha,0.05
+WS-00065,Iconic Quilted T-Shirt,SS25,67.99,T-Shirt,S,91,82,Iconic,Women,Blue Marine,0,alpha,0.474
+WS-00066,Geographic T-Shirt,FS24,48.99,T-Shirt,XL,4,59,Geographic,Women,Caviar,40,alpha,0.937
+WL-00070,Tribe Sweatshirt,FS24,142.99,Sweatshirt,L,43,438,Tribe,Women,Beige Sand,20,alpha,0.911
+P-00064,Morgex Stripe Pants,SS25,112.99,Pants,L,177,12,Morgex,Men,Pale Mint,0,alpha,0.063
+WSocksRainforest-0001,Rainforest Socks,FS24,101.99,Accessories,M,15,161,Rainforest,Women,Forest Green,25,alpha,0.915
+WCapTribe-0001,Tribe Cap,FS24,51.99,Accessories,One Size,30,107,Tribe,Women,Caviar,30,alpha,0.781
+S-00084,Rainforest Print T-Shirt,SS25,50.99,T-Shirt,XS,343,87,Rainforest,Men,Free Blue,0,alpha,0.202
+WM-00034,Box Logo Print Shirt,SS25,105.99,Shirt,M,264,280,Box Logo,Women,Bright Red,0,alpha,0.515
+W\00022,Slate Shoes,FS24,129.99,Shoes,36,41,129,Slate,Women,Stone Grey,15,numeric,0.759
+WM-00035,Rainforest Logo Shirt,FS24,90.99,Shirt,S,99,128,Rainforest,Women,Bright White,10,alpha,0.564
+PS-00037,Circular Print Polo,FS24,109.99,Polo,M,138,398,Circular,Men,Blue Marine,10,alpha,0.743
+S-00085,Geographic T-Shirt,FS24,45.99,T-Shirt,M,59,501,Geographic,Men,Blue Marine,10,alpha,0.895
+PS-00038,Iconic Quilted Polo,SS25,107.99,Polo,M,123,41,Iconic,Men,Old Rose,0,alpha,0.25
+N-00037,Geographic Stretch Shorts,SS25,67.99,Shorts,XXL,55,41,Geographic,Men,Beige Sand,0,alpha,0.427
+L-00063,Iconic Sweatshirt,FS24,105.99,Sweatshirt,L,97,156,Iconic,Men,Caviar,15,alpha,0.617
+WN-00025,Geographic Quilted Shorts,FS24,68.99,Shorts,L,52,122,Geographic,Women,Blue Marine,20,alpha,0.701
+WM-00036,Geographic Heritage Shirt,FS24,127.99,Shirt,XL,48,221,Geographic,Women,Snow White,10,alpha,0.822
+WPS-00031,Circular Polo,SS25,68.99,Polo,XL,506,59,Circular,Women,Navy,0,alpha,0.104
+PS-00039,Geographic Graphic Polo,SS25,102.99,Polo,XS,108,40,Geographic,Men,Beige Sand,0,alpha,0.27
+P-00066,Tribe Stripe Pants,FS24,149.99,Pants,S,25,37,Tribe,Men,Green Lichen,30,alpha,0.597
+\00031,Box Logo Logo Shoes,FS24,163.99,Shoes,43,80,166,Box Logo,Men,Orange Tangerine,10,numeric,0.675
+WV-00014,Wave Stripe Swimwear,SS25,71.99,Swimwear,XXL,318,229,Wave,Women,Black Beauty,0,alpha,0.419
+WS-00070,Patch Quilted T-Shirt,SS25,91.99,T-Shirt,M,236,231,Patch,Women,Petit Four,0,alpha,0.495
+S-00086,Patch Logo T-Shirt,FS24,80.99,T-Shirt,M,159,361,Patch,Men,Yellow Sunshine,10,alpha,0.694
+WPS-00032,Patch Stripe Polo,FS24,109.99,Polo,M,47,419,Patch,Women,Olive,15,alpha,0.899
+P-00067,Rainforest Quilted Pants,SS25,100.99,Pants,M,473,61,Rainforest,Men,Grey Melange,0,alpha,0.114
+S-00087,Iconic T-Shirt,FS24,69.99,T-Shirt,S,17,41,Iconic,Men,Snow White,20,alpha,0.707
+PS-00040,Geographic Stripe Polo,SS25,85.99,Polo,XS,100,56,Geographic,Men,Stone Grey,0,alpha,0.359
+WS-00071,Morgex T-Shirt,FS24,51.99,T-Shirt,XL,111,456,Morgex,Women,Old Rose,30,alpha,0.804
+WS-00072,Rainforest Half-Zip T-Shirt,SS25,84.99,T-Shirt,XS,78,66,Rainforest,Women,Yellow Sunshine,0,alpha,0.458
+WS-00073,Iconic Heritage T-Shirt,FS24,79.99,T-Shirt,M,134,424,Iconic,Women,Beige Sand,15,alpha,0.76
+W\00023,Slate Logo Shoes,SS25,197.99,Shoes,36,227,262,Slate,Women,Old Rose,0,numeric,0.536
+WN-00026,Rainforest Stretch Shorts,FS24,66.99,Shorts,XS,139,325,Rainforest,Women,Old Rose,20,alpha,0.7
+L-00065,Box Logo Sweatshirt,SS25,160.99,Sweatshirt,XS,98,28,Box Logo,Men,Yellow Sunshine,0,alpha,0.222
+M-00040,Circular Half-Zip Shirt,FS24,103.99,Shirt,XXL,4,95,Circular,Men,White Whisper,30,alpha,0.96
+WS-00074,Geographic Half-Zip T-Shirt,FS24,73.99,T-Shirt,XL,77,415,Geographic,Women,Caviar,25,alpha,0.843
+\00032,Box Logo Stripe Shoes,FS24,131.99,Shoes,44,39,130,Box Logo,Men,Beige Sand,10,numeric,0.769
+WL-00071,Morgex Sweatshirt,FS24,96.99,Sweatshirt,S,119,473,Morgex,Women,Stone Grey,30,alpha,0.799
+PS-00041,Circular Stretch Polo,SS25,67.99,Polo,XXL,194,111,Circular,Men,Stone Grey,0,alpha,0.364
+WL-00072,Patch Sweatshirt,SS25,152.99,Sweatshirt,M,113,77,Patch,Women,Stone Grey,0,alpha,0.405
+WV-00015,Sun-Lover Heritage Swimwear,SS25,57.99,Swimwear,L,91,28,Sun-Lover,Women,Snow White,0,alpha,0.235
+L-00066,Circular Stripe Sweatshirt,FS24,156.99,Sweatshirt,L,80,126,Circular,Men,Khaki,25,alpha,0.612
+S-00089,Iconic Graphic T-Shirt,FS24,70.99,T-Shirt,M,19,62,Iconic,Men,Olive,10,alpha,0.765
+WS-00075,Patch Half-Zip T-Shirt,FS24,43.99,T-Shirt,S,202,269,Patch,Women,Navy,20,alpha,0.571
+\00033,Trail Shoes,FS24,133.99,Shoes,44,23,62,Trail,Men,Grey Melange,10,numeric,0.729
+N-00038,Geographic Half-Zip Shorts,SS25,91.99,Shorts,XL,347,112,Geographic,Men,Old Rose,0,alpha,0.244
+W\00024,Cresta Shoes,FS24,100.99,Shoes,41,14,51,Cresta,Women,Pale Mint,30,numeric,0.785
+N-00039,Iconic Print Shorts,SS25,88.99,Shorts,S,44,50,Iconic,Men,Burgundy,0,alpha,0.532
+V-00017,Sun-Lover Swimwear,FS24,75.99,Swimwear,XS,103,285,Sun-Lover,Men,Petit Four,20,alpha,0.735
+M-00041,Patch Graphic Shirt,FS24,105.99,Shirt,XS,70,117,Patch,Men,Caviar,10,alpha,0.626
+WN-00027,Circular Stretch Shorts,SS25,88.99,Shorts,XS,211,14,Circular,Women,Pale Mint,0,alpha,0.062
+WS-00076,Patch T-Shirt,FS24,58.99,T-Shirt,M,34,59,Patch,Women,Bright White,40,alpha,0.634
+N-00040,Rainforest Stretch Shorts,FS24,52.99,Shorts,M,112,403,Rainforest,Men,Stone Grey,40,alpha,0.783
+WS-00077,Tribe T-Shirt,FS24,77.99,T-Shirt,XL,38,254,Tribe,Women,Black Beauty,25,alpha,0.87
+WP-00036,Circular Logo Pants,SS25,153.99,Pants,XXL,141,44,Circular,Women,Yellow Sunshine,0,alpha,0.238
+S-00090,Patch Graphic T-Shirt,FS24,62.99,T-Shirt,XXL,50,241,Patch,Men,Pale Mint,25,alpha,0.828
+WM-00039,Patch Half-Zip Shirt,SS25,84.99,Shirt,XXL,500,27,Patch,Women,Black Beauty,0,alpha,0.051
+V-00018,Box Logo Stretch Swimwear,FS24,82.99,Swimwear,L,164,272,Box Logo,Men,Blue Marine,50,alpha,0.624
+N-00041,Box Logo Shorts,FS24,77.99,Shorts,S,37,229,Box Logo,Men,Blue Marine,20,alpha,0.861
+N-00042,Patch Graphic Shorts,SS25,89.99,Shorts,XL,222,44,Patch,Men,Beige Sand,0,alpha,0.165
+WL-00074,Morgex Quilted Sweatshirt,SS25,119.99,Sweatshirt,XS,398,47,Morgex,Women,Orange Tangerine,0,alpha,0.106
+PS-00042,Geographic Quilted Polo,SS25,100.99,Polo,XXL,201,18,Geographic,Men,Petit Four,0,alpha,0.082
+S-00091,Morgex Quilted T-Shirt,FS24,75.99,T-Shirt,L,8,85,Morgex,Men,Pale Mint,10,alpha,0.914
+M-00042,Circular Heritage Shirt,SS25,143.99,Shirt,XXL,283,127,Circular,Men,Khaki,0,alpha,0.31
+WP-00037,Rainforest Graphic Pants,SS25,131.99,Pants,XL,263,30,Rainforest,Women,Snow White,0,alpha,0.102
+WPS-00033,Box Logo Half-Zip Polo,SS25,102.99,Polo,XS,278,211,Box Logo,Women,Old Rose,0,alpha,0.431
+WV-00016,Box Logo Print Swimwear,FS24,47.99,Swimwear,XXL,30,63,Box Logo,Women,Burgundy,10,alpha,0.677
+WP-00038,Box Logo Pants,FS24,102.99,Pants,XS,22,87,Box Logo,Women,Yellow Sunshine,25,alpha,0.798
+WN-00028,Morgex Graphic Shorts,FS24,71.99,Shorts,XXL,74,520,Morgex,Women,Bright Red,20,alpha,0.875
+WS-00081,Patch Quilted T-Shirt,FS24,71.99,T-Shirt,XL,80,108,Patch,Women,Navy,50,alpha,0.574
+L-00069,Box Logo Sweatshirt,FS24,119.99,Sweatshirt,S,144,245,Box Logo,Men,Snow White,15,alpha,0.63
+L-00070,Rainforest Half-Zip Sweatshirt,FS24,136.99,Sweatshirt,XL,95,251,Rainforest,Men,Olive,30,alpha,0.725
+S-00093,Box Logo Logo T-Shirt,SS25,74.99,T-Shirt,XS,197,78,Box Logo,Men,Orange Tangerine,0,alpha,0.284
+S-00094,Patch T-Shirt,SS25,45.99,T-Shirt,L,388,23,Patch,Men,Caviar,0,alpha,0.056
+WPS-00034,Morgex Logo Polo,FS24,75.99,Polo,S,23,39,Morgex,Women,Grey Melange,30,alpha,0.629
+WPS-00035,Geographic Graphic Polo,SS25,77.99,Polo,M,421,86,Geographic,Women,Caviar,0,alpha,0.17
+WPS-00036,Tribe Heritage Polo,FS24,101.99,Polo,XL,37,217,Tribe,Women,White Whisper,30,alpha,0.854
+N-00043,Iconic Stretch Shorts,FS24,81.99,Shorts,XXL,128,422,Iconic,Men,Grey Melange,30,alpha,0.767
+S-00095,Rainforest Half-Zip T-Shirt,FS24,74.99,T-Shirt,L,28,49,Rainforest,Men,Orange Tangerine,15,alpha,0.636
+M-00044,Geographic Half-Zip Shirt,FS24,113.99,Shirt,M,21,61,Geographic,Men,Green Lichen,20,alpha,0.744
+WP-00039,Rainforest Graphic Pants,FS24,129.99,Pants,L,189,242,Rainforest,Women,Snow White,20,alpha,0.561
+WL-00075,Iconic Print Sweatshirt,SS25,158.99,Sweatshirt,M,376,223,Iconic,Women,Free Blue,0,alpha,0.372
+N-00044,Iconic Print Shorts,SS25,51.99,Shorts,M,192,53,Iconic,Men,Blue Marine,0,alpha,0.216
+WPS-00037,Circular Print Polo,SS25,105.99,Polo,L,99,93,Circular,Women,Caviar,0,alpha,0.484
+PS-00043,Tribe Print Polo,SS25,101.99,Polo,XL,306,213,Tribe,Men,Orange Tangerine,0,alpha,0.41
+L-00071,Patch Logo Sweatshirt,FS24,147.99,Sweatshirt,XXL,128,361,Patch,Men,Beige Sand,30,alpha,0.738
+WL-00076,Geographic Stretch Sweatshirt,SS25,139.99,Sweatshirt,L,200,70,Geographic,Women,Navy,0,alpha,0.259
+WP-00041,Morgex Pants,SS25,93.99,Pants,XL,91,106,Morgex,Women,Old Rose,0,alpha,0.538
+S-00096,Geographic Print T-Shirt,FS24,42.99,T-Shirt,XS,117,351,Geographic,Men,Old Rose,20,alpha,0.75
+S-00097,Tribe Quilted T-Shirt,SS25,61.99,T-Shirt,M,458,68,Tribe,Men,Bright White,0,alpha,0.129
+WP-00043,Patch Pants,FS24,94.99,Pants,XL,60,274,Patch,Women,Bright Red,20,alpha,0.82
+W\00025,Slate Shoes,SS25,120.99,Shoes,39,348,134,Slate,Women,Caviar,0,numeric,0.278
+W\00026,Cresta Shoes,SS25,202.99,Shoes,37,163,157,Cresta,Women,Caviar,0,numeric,0.491
+L-00072,Iconic Stretch Sweatshirt,FS24,109.99,Sweatshirt,XL,16,102,Iconic,Men,Beige Sand,20,alpha,0.864
+L-00073,Circular Print Sweatshirt,SS25,120.99,Sweatshirt,M,61,24,Circular,Men,Yellow Sunshine,0,alpha,0.282
+WP-00044,Rainforest Heritage Pants,FS24,120.99,Pants,XL,46,137,Rainforest,Women,Orange Tangerine,10,alpha,0.749
+WPS-00038,Box Logo Polo,SS25,82.99,Polo,S,340,247,Box Logo,Women,Olive,0,alpha,0.421
+S-00099,Box Logo Logo T-Shirt,FS24,45.99,T-Shirt,M,6,69,Box Logo,Men,Pale Mint,15,alpha,0.92
+WL-00079,Box Logo Heritage Sweatshirt,SS25,133.99,Sweatshirt,L,61,32,Box Logo,Women,Burgundy,0,alpha,0.344
+WS-00083,Tribe T-Shirt,FS24,39.99,T-Shirt,S,206,265,Tribe,Women,Forest Green,40,alpha,0.563
+WS-00085,Box Logo Logo T-Shirt,FS24,63.99,T-Shirt,S,19,88,Box Logo,Women,Caviar,10,alpha,0.822
+PS-00044,Box Logo Half-Zip Polo,SS25,83.99,Polo,L,253,298,Box Logo,Men,Green Lichen,0,alpha,0.541
+S-00101,Geographic Quilted T-Shirt,SS25,54.99,T-Shirt,XL,267,170,Geographic,Men,Khaki,0,alpha,0.389
+SocksPatch-0001,Patch Socks,FS24,104.99,Accessories,S,144,355,Patch,Men,Grey Melange,50,alpha,0.711
+WP-00045,Box Logo Graphic Pants,SS25,104.99,Pants,XL,164,118,Box Logo,Women,Forest Green,0,alpha,0.418
+N-00045,Box Logo Stripe Shorts,FS24,58.99,Shorts,S,45,204,Box Logo,Men,Bright White,20,alpha,0.819
+L-00074,Tribe Print Sweatshirt,SS25,142.99,Sweatshirt,XL,317,52,Tribe,Men,Pale Mint,0,alpha,0.141
+WP-00046,Rainforest Logo Pants,SS25,107.99,Pants,XS,152,16,Rainforest,Women,Green Lichen,0,alpha,0.095
+L-00075,Tribe Graphic Sweatshirt,SS25,153.99,Sweatshirt,L,123,85,Tribe,Men,Forest Green,0,alpha,0.409
+WPS-00039,Tribe Graphic Polo,FS24,76.99,Polo,XXL,222,310,Tribe,Women,Navy,25,alpha,0.583
+WScarfGeographic-0001,Geographic Scarf,FS24,97.99,Accessories,One Size,21,178,Geographic,Women,Orange Tangerine,20,alpha,0.894
+WL-00080,Tribe Heritage Sweatshirt,SS25,141.99,Sweatshirt,XL,221,233,Tribe,Women,Black Beauty,0,alpha,0.513
+CapPatch-0001,Patch Cap,FS24,94.99,Accessories,One Size,36,422,Patch,Men,Caviar,20,alpha,0.921
+WP-00047,Box Logo Logo Pants,FS24,120.99,Pants,XXL,230,299,Box Logo,Women,Burgundy,40,alpha,0.565
+V-00021,Box Logo Heritage Swimwear,SS25,82.99,Swimwear,M,156,34,Box Logo,Men,Black Beauty,0,alpha,0.179
+P-00069,Geographic Stripe Pants,SS25,138.99,Pants,XS,84,38,Geographic,Men,Black Beauty,0,alpha,0.311
+WS-00087,Circular Stripe T-Shirt,FS24,76.99,T-Shirt,XL,50,305,Circular,Women,Khaki,20,alpha,0.859
+S-00102,Iconic Stripe T-Shirt,FS24,52.99,T-Shirt,XXL,80,134,Iconic,Men,Green Lichen,25,alpha,0.626
+WS-00088,Rainforest Logo T-Shirt,SS25,70.99,T-Shirt,L,195,35,Rainforest,Women,Grey Melange,0,alpha,0.152
+N-00047,Tribe Quilted Shorts,FS24,55.99,Shorts,XL,87,123,Tribe,Men,Khaki,20,alpha,0.586
+WS-00090,Box Logo Print T-Shirt,SS25,47.99,T-Shirt,XS,36,11,Box Logo,Women,Pale Mint,0,alpha,0.234
+L-00076,Morgex Stretch Sweatshirt,FS24,148.99,Sweatshirt,XL,69,350,Morgex,Men,Orange Tangerine,30,alpha,0.835
+WM-00041,Tribe Stretch Shirt,FS24,129.99,Shirt,XS,64,78,Tribe,Women,Free Blue,20,alpha,0.549
+W\00027,Trail Graphic Shoes,SS25,156.99,Shoes,42,225,69,Trail,Women,Black Beauty,0,numeric,0.235
+CapRainforest-0001,Rainforest Cap,FS24,97.99,Accessories,One Size,107,289,Rainforest,Men,Forest Green,20,alpha,0.73
+BucketHatIconic-0001,Iconic Bucket Hat,FS24,110.99,Accessories,One Size,47,525,Iconic,Men,Caviar,25,alpha,0.918
+N-00048,Box Logo Print Shorts,FS24,92.99,Shorts,M,197,321,Box Logo,Men,Bright White,30,alpha,0.62
+S-00103,Patch Heritage T-Shirt,FS24,76.99,T-Shirt,M,28,138,Patch,Men,Caviar,15,alpha,0.831
+BeltRainforest-0001,Rainforest Belt,FS24,92.99,Accessories,One Size,19,87,Rainforest,Men,Green Lichen,30,alpha,0.821
+WL-00082,Circular Print Sweatshirt,FS24,110.99,Sweatshirt,XXL,108,159,Circular,Women,Snow White,30,alpha,0.596
+S-00105,Patch Heritage T-Shirt,FS24,77.99,T-Shirt,L,38,152,Patch,Men,Bright White,30,alpha,0.8
+WL-00083,Circular Graphic Sweatshirt,SS25,130.99,Sweatshirt,XL,143,96,Circular,Women,Caviar,0,alpha,0.402
+WL-00084,Patch Heritage Sweatshirt,SS25,132.99,Sweatshirt,XXL,137,70,Patch,Women,Bright Red,0,alpha,0.338
+L-00077,Geographic Quilted Sweatshirt,SS25,119.99,Sweatshirt,XXL,38,11,Geographic,Men,Beige Sand,0,alpha,0.224
+W\00028,Trail Shoes,FS24,207.99,Shoes,37,41,97,Trail,Women,Caviar,25,numeric,0.703
+L-00078,Iconic Logo Sweatshirt,FS24,145.99,Sweatshirt,S,30,44,Iconic,Men,Stone Grey,25,alpha,0.595
+WP-00048,Iconic Quilted Pants,SS25,151.99,Pants,XS,470,91,Iconic,Women,Blue Marine,0,alpha,0.162
+L-00079,Rainforest Stripe Sweatshirt,SS25,117.99,Sweatshirt,XL,241,294,Rainforest,Men,Khaki,0,alpha,0.55
+S-00107,Iconic Heritage T-Shirt,SS25,69.99,T-Shirt,XS,321,40,Iconic,Men,Grey Melange,0,alpha,0.111
+WS-00092,Geographic T-Shirt,FS24,39.99,T-Shirt,XS,181,377,Geographic,Women,Green Lichen,30,alpha,0.676
+WToteBagBoxLogo-0001,Box Logo Tote Bag,FS24,85.99,Accessories,One Size,154,432,Box Logo,Women,Forest Green,10,alpha,0.737
+L-00080,Patch Quilted Sweatshirt,SS25,106.99,Sweatshirt,XXL,71,14,Patch,Men,Olive,0,alpha,0.165
+WS-00093,Tribe Graphic T-Shirt,SS25,56.99,T-Shirt,XL,100,71,Tribe,Women,Bright White,0,alpha,0.415
+M-00046,Morgex Shirt,SS25,142.99,Shirt,L,184,116,Morgex,Men,Caviar,0,alpha,0.387
+P-00071,Geographic Stripe Pants,SS25,144.99,Pants,M,31,35,Geographic,Men,Snow White,0,alpha,0.53
+WPS-00040,Iconic Stretch Polo,FS24,69.99,Polo,XXL,47,334,Iconic,Women,Pale Mint,10,alpha,0.877
+S-00108,Morgex Stripe T-Shirt,SS25,48.99,T-Shirt,L,82,65,Morgex,Men,Black Beauty,0,alpha,0.442
+P-00072,Geographic Print Pants,FS24,157.99,Pants,XXL,113,339,Geographic,Men,Old Rose,15,alpha,0.75
+WS-00094,Geographic Half-Zip T-Shirt,SS25,58.99,T-Shirt,S,289,24,Geographic,Women,Pale Mint,0,alpha,0.077
+N-00050,Tribe Stretch Shorts,FS24,77.99,Shorts,S,124,395,Tribe,Men,Pale Mint,25,alpha,0.761
+WPS-00041,Tribe Stretch Polo,SS25,90.99,Polo,M,84,48,Tribe,Women,Navy,0,alpha,0.364
+WS-00095,Iconic Graphic T-Shirt,SS25,81.99,T-Shirt,XS,297,247,Iconic,Women,Grey Melange,0,alpha,0.454
+P-00073,Box Logo Quilted Pants,FS24,156.99,Pants,XXL,16,67,Box Logo,Men,Snow White,15,alpha,0.807
+BucketHatTribe-0001,Tribe Bucket Hat,SS25,65.99,Accessories,One Size,438,128,Tribe,Men,Grey Melange,0,alpha,0.226
+S-00111,Geographic Quilted T-Shirt,SS25,92.99,T-Shirt,M,158,137,Geographic,Men,Free Blue,0,alpha,0.464
+\00036,Slate Quilted Shoes,FS24,89.99,Shoes,41,159,284,Slate,Men,Navy,20,numeric,0.641
+WS-00096,Geographic Logo T-Shirt,FS24,65.99,T-Shirt,L,29,97,Geographic,Women,Caviar,10,alpha,0.77
+W\00029,Box Logo Graphic Shoes,SS25,173.99,Shoes,42,194,77,Box Logo,Women,Black Beauty,0,numeric,0.284
+WM-00044,Tribe Shirt,SS25,89.99,Shirt,M,328,116,Tribe,Women,Blue Marine,0,alpha,0.261
+WM-00045,Tribe Quilted Shirt,FS24,147.99,Shirt,L,53,117,Tribe,Women,Orange Tangerine,10,alpha,0.688
+WPS-00042,Circular Polo,SS25,96.99,Polo,XXL,239,56,Circular,Women,Forest Green,0,alpha,0.19
+S-00113,Geographic T-Shirt,SS25,59.99,T-Shirt,S,146,174,Geographic,Men,Forest Green,0,alpha,0.544
+WP-00050,Patch Graphic Pants,FS24,95.99,Pants,L,51,101,Patch,Women,Snow White,10,alpha,0.664
+WPS-00043,Circular Polo,FS24,66.99,Polo,S,16,77,Circular,Women,Forest Green,40,alpha,0.828
+WM-00046,Morgex Graphic Shirt,SS25,107.99,Shirt,L,417,126,Morgex,Women,Olive,0,alpha,0.232
+WPS-00045,Circular Half-Zip Polo,SS25,104.99,Polo,S,152,11,Circular,Women,Green Lichen,0,alpha,0.067
+GlovesTribe-0001,Tribe Gloves,FS24,28.99,Accessories,One Size,51,297,Tribe,Men,Beige Sand,40,alpha,0.853
+M-00047,Circular Half-Zip Shirt,FS24,104.99,Shirt,XS,53,210,Circular,Men,Olive,15,alpha,0.798
+S-00115,Rainforest Graphic T-Shirt,FS24,52.99,T-Shirt,S,61,100,Rainforest,Men,Stone Grey,20,alpha,0.621
+WS-00098,Box Logo T-Shirt,SS25,93.99,T-Shirt,M,162,154,Box Logo,Women,Burgundy,0,alpha,0.487
+WS-00099,Morgex Half-Zip T-Shirt,FS24,76.99,T-Shirt,XL,22,126,Morgex,Women,Grey Melange,50,alpha,0.851
+P-00074,Morgex Stretch Pants,SS25,117.99,Pants,L,267,48,Morgex,Men,Burgundy,0,alpha,0.152
+P-00075,Circular Stretch Pants,FS24,144.99,Pants,XXL,14,177,Circular,Men,Bright White,15,alpha,0.927
+WS-00101,Circular T-Shirt,SS25,43.99,T-Shirt,XS,394,82,Circular,Women,Pale Mint,0,alpha,0.172
+\00037,Cresta Shoes,SS25,185.99,Shoes,45,108,34,Cresta,Men,Stone Grey,0,numeric,0.239
+PS-00047,Tribe Polo,FS24,65.99,Polo,XS,32,113,Tribe,Men,White Whisper,25,alpha,0.779
+L-00081,Circular Sweatshirt,FS24,138.99,Sweatshirt,M,21,296,Circular,Men,Bright White,25,alpha,0.934
+P-00076,Iconic Stretch Pants,SS25,107.99,Pants,XXL,144,47,Iconic,Men,Black Beauty,0,alpha,0.246
+N-00053,Rainforest Graphic Shorts,SS25,76.99,Shorts,XL,170,18,Rainforest,Men,Green Lichen,0,alpha,0.096
+WScarfCircular-0001,Circular Scarf,FS24,80.99,Accessories,One Size,149,232,Circular,Women,Free Blue,20,alpha,0.609
+GlovesCircular-0001,Circular Gloves,FS24,82.99,Accessories,One Size,79,196,Circular,Men,Snow White,25,alpha,0.713
+WL-00085,Tribe Logo Sweatshirt,SS25,94.99,Sweatshirt,M,44,13,Tribe,Women,Green Lichen,0,alpha,0.228
+WP-00051,Box Logo Heritage Pants,FS24,98.99,Pants,XS,88,113,Box Logo,Women,Snow White,10,alpha,0.562
+WM-00048,Iconic Shirt,FS24,144.99,Shirt,S,91,489,Iconic,Women,Black Beauty,15,alpha,0.843
+WPS-00046,Patch Polo,SS25,71.99,Polo,M,51,50,Patch,Women,Yellow Sunshine,0,alpha,0.495
+L-00083,Circular Sweatshirt,FS24,142.99,Sweatshirt,XL,72,184,Circular,Men,Grey Melange,50,alpha,0.719
+WM-00049,Morgex Half-Zip Shirt,SS25,130.99,Shirt,XS,358,25,Morgex,Women,Blue Marine,0,alpha,0.065
+PS-00048,Iconic Print Polo,SS25,76.99,Polo,M,155,91,Iconic,Men,Beige Sand,0,alpha,0.37
+WS-00103,Box Logo Graphic T-Shirt,FS24,39.99,T-Shirt,M,2,46,Box Logo,Women,Bright Red,10,alpha,0.958
+N-00054,Tribe Quilted Shorts,FS24,93.99,Shorts,S,43,96,Tribe,Men,Old Rose,30,alpha,0.691
+\00038,Trail Shoes,FS24,198.99,Shoes,46,129,208,Trail,Men,Black Beauty,20,numeric,0.617
+WP-00052,Iconic Pants,SS25,107.99,Pants,XXL,383,170,Iconic,Women,Forest Green,0,alpha,0.307
+N-00055,Patch Stretch Shorts,SS25,67.99,Shorts,M,447,34,Patch,Men,Yellow Sunshine,0,alpha,0.071
+P-00077,Tribe Pants,SS25,152.99,Pants,S,48,7,Tribe,Men,Beige Sand,0,alpha,0.127
+\00039,Cresta Shoes,SS25,129.99,Shoes,43,297,45,Cresta,Men,Orange Tangerine,0,numeric,0.132
+WPS-00047,Iconic Graphic Polo,SS25,93.99,Polo,XXL,241,283,Iconic,Women,Green Lichen,0,alpha,0.54
+WN-00030,Geographic Stripe Shorts,FS24,74.99,Shorts,M,46,126,Geographic,Women,Blue Marine,10,alpha,0.733
+L-00084,Patch Print Sweatshirt,SS25,146.99,Sweatshirt,XXL,409,91,Patch,Men,Free Blue,0,alpha,0.182
+L-00085,Tribe Heritage Sweatshirt,FS24,153.99,Sweatshirt,M,42,545,Tribe,Men,Caviar,25,alpha,0.928
+WL-00087,Iconic Stretch Sweatshirt,FS24,102.99,Sweatshirt,M,12,378,Iconic,Women,Caviar,15,alpha,0.969
+L-00086,Rainforest Heritage Sweatshirt,FS24,113.99,Sweatshirt,XL,34,155,Rainforest,Men,Blue Marine,20,alpha,0.82
+BucketHatMorgex-0001,Morgex Bucket Hat,SS25,29.99,Accessories,One Size,89,21,Morgex,Men,Khaki,0,alpha,0.191
+S-00121,Rainforest Graphic T-Shirt,SS25,91.99,T-Shirt,XXL,122,106,Rainforest,Men,Snow White,0,alpha,0.465
+S-00122,Patch Stripe T-Shirt,SS25,56.99,T-Shirt,S,380,153,Patch,Men,Navy,0,alpha,0.287
+WP-00053,Circular Pants,FS24,114.99,Pants,XL,59,129,Circular,Women,Free Blue,30,alpha,0.686
+S-00123,Circular T-Shirt,SS25,94.99,T-Shirt,L,315,185,Circular,Men,Khaki,0,alpha,0.37
+WL-00088,Tribe Logo Sweatshirt,SS25,142.99,Sweatshirt,XL,335,61,Tribe,Women,Snow White,0,alpha,0.154
+S-00125,Circular Stripe T-Shirt,FS24,77.99,T-Shirt,XXL,51,279,Circular,Men,Caviar,30,alpha,0.845
+BeanieIconic-0001,Iconic Beanie,SS25,30.99,Accessories,One Size,414,47,Iconic,Men,Green Lichen,0,alpha,0.102
+N-00056,Iconic Graphic Shorts,FS24,91.99,Shorts,XS,170,300,Iconic,Men,Burgundy,20,alpha,0.638
+S-00126,Patch Logo T-Shirt,SS25,61.99,T-Shirt,XL,376,64,Patch,Men,Old Rose,0,alpha,0.145
+P-00078,Circular Stretch Pants,FS24,140.99,Pants,S,218,351,Circular,Men,Bright White,50,alpha,0.617
+PS-00049,Geographic Stripe Polo,SS25,100.99,Polo,XXL,163,143,Geographic,Men,Stone Grey,0,alpha,0.467
+P-00079,Iconic Heritage Pants,FS24,105.99,Pants,XXL,151,255,Iconic,Men,Bright Red,10,alpha,0.628
+W\00030,Box Logo Heritage Shoes,SS25,101.99,Shoes,39,46,16,Box Logo,Women,Free Blue,0,numeric,0.258
+L-00087,Tribe Sweatshirt,FS24,151.99,Sweatshirt,M,73,151,Tribe,Men,Pale Mint,20,alpha,0.674
+\00041,Cresta Half-Zip Shoes,FS24,167.99,Shoes,43,268,331,Cresta,Men,Blue Marine,50,numeric,0.553
+WL-00090,Iconic Print Sweatshirt,SS25,96.99,Sweatshirt,XL,321,243,Iconic,Women,Beige Sand,0,alpha,0.431
+WS-00105,Tribe T-Shirt,FS24,80.99,T-Shirt,XS,105,209,Tribe,Women,Black Beauty,15,alpha,0.666
+WS-00106,Morgex Logo T-Shirt,FS24,93.99,T-Shirt,L,112,184,Morgex,Women,Yellow Sunshine,20,alpha,0.622
+L-00088,Circular Half-Zip Sweatshirt,FS24,107.99,Sweatshirt,XL,117,315,Circular,Men,Olive,30,alpha,0.729
+V-00023,Box Logo Stripe Swimwear,FS24,64.99,Swimwear,S,69,161,Box Logo,Men,Free Blue,10,alpha,0.7
+WL-00092,Tribe Half-Zip Sweatshirt,SS25,130.99,Sweatshirt,L,176,81,Tribe,Women,Petit Four,0,alpha,0.315
+WPS-00048,Box Logo Polo,SS25,82.99,Polo,L,421,31,Box Logo,Women,Burgundy,0,alpha,0.069
+PS-00050,Circular Graphic Polo,FS24,89.99,Polo,XS,123,382,Circular,Men,Green Lichen,20,alpha,0.756
+P-00081,Patch Pants,SS25,117.99,Pants,XS,44,6,Patch,Men,Olive,0,alpha,0.12
+BackpackCircular-0001,Circular Backpack,SS25,30.99,Accessories,One Size,226,191,Circular,Men,Forest Green,0,alpha,0.458
+WL-00093,Box Logo Graphic Sweatshirt,SS25,100.99,Sweatshirt,XS,95,21,Box Logo,Women,Khaki,0,alpha,0.181
+P-00082,Circular Pants,SS25,147.99,Pants,S,134,35,Circular,Men,Khaki,0,alpha,0.207
+S-00128,Circular Logo T-Shirt,FS24,67.99,T-Shirt,XL,91,438,Circular,Men,Burgundy,25,alpha,0.828
+WToteBagRainforest-0001,Rainforest Tote Bag,SS25,52.99,Accessories,One Size,96,28,Rainforest,Women,Forest Green,0,alpha,0.226
+M-00048,Tribe Stripe Shirt,SS25,119.99,Shirt,XS,126,82,Tribe,Men,Caviar,0,alpha,0.394
+WCapBoxLogo-0001,Box Logo Cap,FS24,87.99,Accessories,One Size,114,208,Box Logo,Women,White Whisper,15,alpha,0.646
+P-00083,Circular Heritage Pants,SS25,123.99,Pants,S,216,34,Circular,Men,Caviar,0,alpha,0.136
+S-00131,Morgex Half-Zip T-Shirt,SS25,66.99,T-Shirt,S,306,222,Morgex,Men,Black Beauty,0,alpha,0.42
+\00042,Trail Stretch Shoes,SS25,112.99,Shoes,41,445,61,Trail,Men,Old Rose,0,numeric,0.121
+V-00025,Wave Swimwear,SS25,50.99,Swimwear,S,192,159,Wave,Men,Forest Green,0,alpha,0.453
+M-00049,Patch Heritage Shirt,FS24,130.99,Shirt,M,5,48,Patch,Men,Petit Four,25,alpha,0.906
+WPS-00049,Rainforest Polo,FS24,104.99,Polo,XXL,7,184,Rainforest,Women,Blue Marine,25,alpha,0.963
+\00044,Trail Stripe Shoes,FS24,183.99,Shoes,44,148,260,Trail,Men,Free Blue,10,numeric,0.637
+S-00133,Circular Quilted T-Shirt,SS25,90.99,T-Shirt,M,299,298,Circular,Men,Burgundy,0,alpha,0.499
+L-00090,Geographic Stripe Sweatshirt,FS24,169.99,Sweatshirt,L,103,219,Geographic,Men,Khaki,40,alpha,0.68
+PS-00052,Box Logo Half-Zip Polo,SS25,82.99,Polo,S,153,13,Box Logo,Men,Yellow Sunshine,0,alpha,0.078
+WPS-00050,Box Logo Quilted Polo,FS24,96.99,Polo,M,10,188,Box Logo,Women,White Whisper,15,alpha,0.949
+M-00050,Geographic Stripe Shirt,SS25,101.99,Shirt,M,195,49,Geographic,Men,Pale Mint,0,alpha,0.201
+S-00135,Rainforest Stripe T-Shirt,SS25,84.99,T-Shirt,L,122,16,Rainforest,Men,Petit Four,0,alpha,0.116
+S-00136,Iconic Stretch T-Shirt,FS24,66.99,T-Shirt,XL,32,138,Iconic,Men,Bright White,30,alpha,0.812
+\00046,Cresta Quilted Shoes,SS25,195.99,Shoes,42,117,32,Cresta,Men,Green Lichen,0,numeric,0.215
+WS-00109,Geographic T-Shirt,FS24,74.99,T-Shirt,XXL,65,283,Geographic,Women,Petit Four,15,alpha,0.813
+WP-00056,Tribe Graphic Pants,SS25,150.99,Pants,L,207,129,Tribe,Women,Grey Melange,0,alpha,0.384
+SocksMorgex-0002,Morgex Socks,FS24,32.99,Accessories,M,84,107,Morgex,Men,Caviar,25,alpha,0.56
+L-00092,Morgex Print Sweatshirt,SS25,158.99,Sweatshirt,M,198,57,Morgex,Men,Black Beauty,0,alpha,0.224
+WP-00057,Iconic Heritage Pants,SS25,132.99,Pants,M,148,35,Iconic,Women,Grey Melange,0,alpha,0.191
+WN-00031,Circular Quilted Shorts,FS24,87.99,Shorts,L,47,177,Circular,Women,Green Lichen,20,alpha,0.79
+PS-00055,Tribe Stripe Polo,SS25,88.99,Polo,XXL,96,9,Tribe,Men,Blue Marine,0,alpha,0.086
+WPS-00051,Iconic Stretch Polo,FS24,75.99,Polo,XS,23,127,Iconic,Women,Yellow Sunshine,25,alpha,0.847
+M-00051,Tribe Logo Shirt,FS24,120.99,Shirt,XXL,34,212,Tribe,Men,Beige Sand,20,alpha,0.862
+V-00026,Wave Swimwear,FS24,52.99,Swimwear,XL,132,357,Wave,Men,Stone Grey,20,alpha,0.73
+WM-00053,Iconic Shirt,FS24,113.99,Shirt,L,184,409,Iconic,Women,Bright White,10,alpha,0.69
+PS-00056,Morgex Polo,FS24,82.99,Polo,S,122,465,Morgex,Men,Caviar,10,alpha,0.792
+BeanieBoxLogo-0001,Box Logo Beanie,FS24,61.99,Accessories,One Size,66,116,Box Logo,Men,Old Rose,15,alpha,0.637
+WP-00058,Circular Pants,SS25,145.99,Pants,XS,322,94,Circular,Women,Petit Four,0,alpha,0.226
+\00048,Cresta Shoes,SS25,96.99,Shoes,46,87,11,Cresta,Men,Black Beauty,0,numeric,0.112
+WS-00112,Patch Half-Zip T-Shirt,SS25,42.99,T-Shirt,M,318,129,Patch,Women,Olive,0,alpha,0.289
+WS-00113,Morgex Stretch T-Shirt,SS25,79.99,T-Shirt,L,193,72,Morgex,Women,Petit Four,0,alpha,0.272
+WN-00032,Patch Heritage Shorts,SS25,93.99,Shorts,S,239,265,Patch,Women,Bright White,0,alpha,0.526
+S-00139,Morgex Graphic T-Shirt,FS24,37.99,T-Shirt,XS,105,328,Morgex,Men,Khaki,20,alpha,0.758
+W\00032,Cresta Quilted Shoes,SS25,112.99,Shoes,39,329,152,Cresta,Women,Forest Green,0,numeric,0.316
+WP-00059,Patch Pants,FS24,116.99,Pants,M,56,333,Patch,Women,Black Beauty,40,alpha,0.856
+P-00085,Box Logo Print Pants,FS24,125.99,Pants,XXL,140,374,Box Logo,Men,Blue Marine,40,alpha,0.728
+P-00086,Morgex Pants,FS24,105.99,Pants,S,37,290,Morgex,Men,Grey Melange,20,alpha,0.887
+P-00087,Box Logo Pants,FS24,122.99,Pants,M,126,368,Box Logo,Men,Blue Marine,25,alpha,0.745
+M-00054,Patch Half-Zip Shirt,SS25,91.99,Shirt,L,98,23,Patch,Men,Orange Tangerine,0,alpha,0.19
+WP-00061,Box Logo Pants,SS25,93.99,Pants,XXL,290,268,Box Logo,Women,Forest Green,0,alpha,0.48
+WL-00096,Tribe Print Sweatshirt,FS24,139.99,Sweatshirt,XS,17,68,Tribe,Women,White Whisper,50,alpha,0.8
+WM-00054,Rainforest Stretch Shirt,SS25,110.99,Shirt,S,225,195,Rainforest,Women,Blue Marine,0,alpha,0.464
+WP-00062,Circular Half-Zip Pants,SS25,130.99,Pants,XS,319,89,Circular,Women,Navy,0,alpha,0.218
+L-00094,Patch Logo Sweatshirt,FS24,108.99,Sweatshirt,M,70,425,Patch,Men,Forest Green,15,alpha,0.859
+W\00034,Slate Heritage Shoes,SS25,172.99,Shoes,38,200,75,Slate,Women,Petit Four,0,numeric,0.273
+M-00056,Geographic Half-Zip Shirt,SS25,101.99,Shirt,L,169,137,Geographic,Men,Petit Four,0,alpha,0.448
+WM-00055,Circular Quilted Shirt,SS25,147.99,Shirt,XL,121,121,Circular,Women,Snow White,0,alpha,0.5
+W\00035,Cresta Heritage Shoes,FS24,208.99,Shoes,41,57,86,Cresta,Women,Snow White,30,numeric,0.601
+WS-00114,Geographic Print T-Shirt,SS25,89.99,T-Shirt,XL,218,219,Geographic,Women,Green Lichen,0,alpha,0.501
+WM-00056,Tribe Half-Zip Shirt,SS25,127.99,Shirt,M,68,82,Tribe,Women,Navy,0,alpha,0.547
+S-00142,Patch Stripe T-Shirt,FS24,87.99,T-Shirt,XXL,44,292,Patch,Men,Yellow Sunshine,25,alpha,0.869
+M-00057,Morgex Stretch Shirt,SS25,147.99,Shirt,M,59,30,Morgex,Men,Blue Marine,0,alpha,0.337
+\00049,Box Logo Shoes,FS24,111.99,Shoes,46,9,73,Box Logo,Men,Navy,20,numeric,0.89
+N-00058,Tribe Shorts,FS24,69.99,Shorts,XL,131,264,Tribe,Men,Snow White,25,alpha,0.668
+WS-00115,Rainforest Graphic T-Shirt,SS25,94.99,T-Shirt,M,72,76,Rainforest,Women,Forest Green,0,alpha,0.514
+WP-00063,Tribe Print Pants,SS25,94.99,Pants,XS,325,265,Tribe,Women,Petit Four,0,alpha,0.449
+S-00143,Box Logo Half-Zip T-Shirt,SS25,94.99,T-Shirt,M,278,198,Box Logo,Men,Free Blue,0,alpha,0.416
+WL-00097,Iconic Print Sweatshirt,SS25,106.99,Sweatshirt,L,312,53,Iconic,Women,Old Rose,0,alpha,0.145
+L-00096,Box Logo Half-Zip Sweatshirt,SS25,111.99,Sweatshirt,S,218,207,Box Logo,Men,Burgundy,0,alpha,0.487
+WPS-00053,Rainforest Graphic Polo,FS24,95.99,Polo,XXL,64,110,Rainforest,Women,Bright White,30,alpha,0.632
+\00050,Trail Logo Shoes,FS24,167.99,Shoes,44,96,126,Trail,Men,Black Beauty,10,numeric,0.568
+P-00090,Circular Logo Pants,FS24,101.99,Pants,M,7,148,Circular,Men,Olive,25,alpha,0.955
+\00051,Box Logo Shoes,FS24,103.99,Shoes,43,25,490,Box Logo,Men,Yellow Sunshine,15,numeric,0.951
+WPS-00055,Rainforest Heritage Polo,FS24,83.99,Polo,XS,164,295,Rainforest,Women,Forest Green,25,alpha,0.643
+\00052,Cresta Shoes,FS24,91.99,Shoes,44,176,252,Cresta,Men,Olive,15,numeric,0.589
+P-00091,Iconic Stretch Pants,SS25,115.99,Pants,XL,500,88,Iconic,Men,Burgundy,0,alpha,0.15
+S-00144,Tribe Stripe T-Shirt,SS25,55.99,T-Shirt,M,175,85,Tribe,Men,Navy,0,alpha,0.327
+WPS-00056,Box Logo Heritage Polo,SS25,89.99,Polo,XL,72,11,Box Logo,Women,Stone Grey,0,alpha,0.133
+WPS-00057,Tribe Stripe Polo,FS24,105.99,Polo,L,18,156,Tribe,Women,White Whisper,30,alpha,0.897
+\00053,Cresta Print Shoes,FS24,195.99,Shoes,45,80,115,Cresta,Men,Green Lichen,10,numeric,0.59
+WL-00098,Morgex Graphic Sweatshirt,FS24,132.99,Sweatshirt,XS,186,323,Morgex,Women,Old Rose,20,alpha,0.635
+PS-00057,Rainforest Print Polo,FS24,90.99,Polo,S,80,245,Rainforest,Men,Caviar,20,alpha,0.754
+\00054,Trail Stripe Shoes,SS25,182.99,Shoes,43,239,182,Trail,Men,Caviar,0,numeric,0.432
+P-00092,Box Logo Heritage Pants,SS25,136.99,Pants,L,95,56,Box Logo,Men,Caviar,0,alpha,0.371
+M-00058,Iconic Half-Zip Shirt,SS25,146.99,Shirt,S,268,27,Iconic,Men,Blue Marine,0,alpha,0.092
+WL-00099,Box Logo Print Sweatshirt,SS25,156.99,Sweatshirt,XL,437,114,Box Logo,Women,Khaki,0,alpha,0.207
+W\00036,Slate Graphic Shoes,FS24,107.99,Shoes,37,93,482,Slate,Women,Olive,25,numeric,0.838
+WV-00019,Wave Swimwear,SS25,48.99,Swimwear,L,215,144,Wave,Women,Grey Melange,0,alpha,0.401
+WS-00117,Rainforest Heritage T-Shirt,SS25,73.99,T-Shirt,XS,183,17,Rainforest,Women,Old Rose,0,alpha,0.085
+P-00093,Patch Graphic Pants,SS25,124.99,Pants,S,313,163,Patch,Men,Burgundy,0,alpha,0.342
+WPS-00058,Iconic Graphic Polo,FS24,102.99,Polo,XL,190,334,Iconic,Women,Bright White,20,alpha,0.637
+WM-00057,Rainforest Half-Zip Shirt,FS24,94.99,Shirt,M,13,246,Rainforest,Women,Free Blue,30,alpha,0.95
+WM-00058,Box Logo Logo Shirt,FS24,138.99,Shirt,M,68,167,Box Logo,Women,Free Blue,30,alpha,0.711
+S-00146,Box Logo Half-Zip T-Shirt,FS24,34.99,T-Shirt,S,111,246,Box Logo,Men,Beige Sand,20,alpha,0.689
+\00055,Cresta Heritage Shoes,FS24,171.99,Shoes,42,193,254,Cresta,Men,Olive,10,numeric,0.568
+WP-00066,Box Logo Half-Zip Pants,SS25,149.99,Pants,XXL,356,149,Box Logo,Women,Bright Red,0,alpha,0.295
+L-00098,Iconic Sweatshirt,FS24,113.99,Sweatshirt,XXL,72,102,Iconic,Men,White Whisper,10,alpha,0.586
+WV-00020,Wave Print Swimwear,SS25,50.99,Swimwear,M,148,176,Wave,Women,Burgundy,0,alpha,0.543
+WGlovesBoxLogo-0002,Box Logo Gloves,SS25,116.99,Accessories,M,108,17,Box Logo,Women,Green Lichen,0,alpha,0.136
+WL-00100,Tribe Graphic Sweatshirt,SS25,131.99,Sweatshirt,S,401,89,Tribe,Women,Khaki,0,alpha,0.182
+WN-00033,Rainforest Quilted Shorts,SS25,82.99,Shorts,XS,164,66,Rainforest,Women,Khaki,0,alpha,0.287
+WS-00119,Patch Stretch T-Shirt,SS25,92.99,T-Shirt,S,307,46,Patch,Women,Old Rose,0,alpha,0.13
+L-00102,Rainforest Stripe Sweatshirt,FS24,149.99,Sweatshirt,XXL,52,472,Rainforest,Men,Olive,25,alpha,0.901
+WPS-00059,Patch Polo,FS24,96.99,Polo,S,128,343,Patch,Women,Orange Tangerine,20,alpha,0.728
+PS-00059,Box Logo Print Polo,SS25,102.99,Polo,M,115,128,Box Logo,Men,Grey Melange,0,alpha,0.527
+WL-00102,Patch Stretch Sweatshirt,SS25,112.99,Sweatshirt,M,383,126,Patch,Women,White Whisper,0,alpha,0.248
+L-00103,Tribe Logo Sweatshirt,FS24,124.99,Sweatshirt,S,201,286,Tribe,Men,Grey Melange,20,alpha,0.587
+PS-00060,Patch Print Polo,FS24,94.99,Polo,XS,69,374,Patch,Men,Black Beauty,15,alpha,0.844
+WM-00059,Circular Quilted Shirt,FS24,146.99,Shirt,M,24,43,Circular,Women,Olive,25,alpha,0.642
+WS-00120,Circular T-Shirt,FS24,61.99,T-Shirt,S,106,225,Circular,Women,Green Lichen,20,alpha,0.68
+WL-00103,Iconic Stretch Sweatshirt,FS24,114.99,Sweatshirt,XS,36,135,Iconic,Women,Burgundy,30,alpha,0.789
+M-00060,Rainforest Stripe Shirt,FS24,122.99,Shirt,XS,42,262,Rainforest,Men,Burgundy,20,alpha,0.862
+WL-00104,Patch Print Sweatshirt,FS24,97.99,Sweatshirt,M,117,196,Patch,Women,Khaki,20,alpha,0.626
+WM-00060,Patch Stretch Shirt,SS25,98.99,Shirt,XL,53,24,Patch,Women,Navy,0,alpha,0.312
+WM-00061,Iconic Stripe Shirt,SS25,147.99,Shirt,XXL,250,71,Iconic,Women,Bright White,0,alpha,0.221
+L-00104,Rainforest Sweatshirt,SS25,141.99,Sweatshirt,M,123,67,Rainforest,Men,White Whisper,0,alpha,0.353
+N-00059,Iconic Graphic Shorts,SS25,89.99,Shorts,M,354,118,Iconic,Men,Caviar,0,alpha,0.25
+PS-00062,Rainforest Stripe Polo,FS24,98.99,Polo,M,31,496,Rainforest,Men,Bright Red,25,alpha,0.941
+WS-00124,Circular Print T-Shirt,SS25,65.99,T-Shirt,XXL,357,36,Circular,Women,White Whisper,0,alpha,0.092
+N-00060,Morgex Shorts,FS24,50.99,Shorts,L,39,171,Morgex,Men,Navy,20,alpha,0.814
+WV-00021,Sun-Lover Swimwear,SS25,62.99,Swimwear,XL,114,88,Sun-Lover,Women,Beige Sand,0,alpha,0.436
+WM-00062,Patch Heritage Shirt,FS24,147.99,Shirt,L,34,299,Patch,Women,Stone Grey,15,alpha,0.898
+L-00106,Geographic Quilted Sweatshirt,FS24,153.99,Sweatshirt,M,35,181,Geographic,Men,Caviar,10,alpha,0.838
+WL-00106,Circular Quilted Sweatshirt,FS24,166.99,Sweatshirt,S,85,438,Circular,Women,Black Beauty,25,alpha,0.837
+WSocksCircular-0001,Circular Socks,SS25,39.99,Accessories,S,156,63,Circular,Women,Petit Four,0,alpha,0.288
+WP-00068,Geographic Half-Zip Pants,SS25,115.99,Pants,XS,369,143,Geographic,Women,Navy,0,alpha,0.279
+WP-00069,Tribe Pants,FS24,131.99,Pants,XS,74,216,Tribe,Women,Grey Melange,20,alpha,0.745
+WScarfBoxLogo-0001,Box Logo Scarf,FS24,79.99,Accessories,One Size,14,98,Box Logo,Women,Pale Mint,30,alpha,0.875
+SocksIconic-0002,Iconic Socks,SS25,75.99,Accessories,One Size,81,20,Iconic,Men,Olive,0,alpha,0.198
+M-00061,Box Logo Stripe Shirt,FS24,140.99,Shirt,XL,68,99,Box Logo,Men,Free Blue,25,alpha,0.593
+V-00030,Box Logo Quilted Swimwear,SS25,70.99,Swimwear,M,340,47,Box Logo,Men,Blue Marine,0,alpha,0.121
+PS-00063,Morgex Heritage Polo,FS24,93.99,Polo,XS,38,252,Morgex,Men,Blue Marine,25,alpha,0.869
+M-00062,Patch Shirt,FS24,88.99,Shirt,XL,44,147,Patch,Men,Yellow Sunshine,25,alpha,0.77
+WM-00063,Geographic Shirt,FS24,113.99,Shirt,M,52,204,Geographic,Women,Bright White,30,alpha,0.797
+M-00063,Box Logo Stretch Shirt,SS25,109.99,Shirt,XXL,55,18,Box Logo,Men,Stone Grey,0,alpha,0.247
+S-00154,Iconic Half-Zip T-Shirt,FS24,49.99,T-Shirt,S,135,393,Iconic,Men,Bright White,10,alpha,0.744
+L-00108,Patch Sweatshirt,SS25,155.99,Sweatshirt,S,447,45,Patch,Men,Burgundy,0,alpha,0.091
+S-00155,Tribe Stripe T-Shirt,FS24,71.99,T-Shirt,XS,23,131,Tribe,Men,Olive,20,alpha,0.851
+WN-00034,Morgex Logo Shorts,FS24,88.99,Shorts,M,62,136,Morgex,Women,Old Rose,10,alpha,0.687
+L-00111,Box Logo Quilted Sweatshirt,SS25,139.99,Sweatshirt,L,85,98,Box Logo,Men,Caviar,0,alpha,0.536
+WN-00035,Tribe Stretch Shorts,FS24,50.99,Shorts,M,56,421,Tribe,Women,Beige Sand,20,alpha,0.883
+M-00064,Tribe Logo Shirt,FS24,93.99,Shirt,XS,64,140,Tribe,Men,Beige Sand,30,alpha,0.686
+L-00112,Rainforest Logo Sweatshirt,FS24,156.99,Sweatshirt,XXL,12,314,Rainforest,Men,White Whisper,25,alpha,0.963
+WL-00108,Box Logo Graphic Sweatshirt,FS24,150.99,Sweatshirt,M,39,114,Box Logo,Women,Burgundy,15,alpha,0.745
+W\00038,Box Logo Half-Zip Shoes,SS25,127.99,Shoes,40,163,81,Box Logo,Women,Bright White,0,numeric,0.332
+WM-00064,Morgex Stretch Shirt,FS24,92.99,Shirt,S,29,380,Morgex,Women,Petit Four,25,alpha,0.929
+L-00113,Geographic Logo Sweatshirt,FS24,136.99,Sweatshirt,M,105,200,Geographic,Men,Old Rose,15,alpha,0.656
+WN-00036,Iconic Print Shorts,FS24,52.99,Shorts,L,7,94,Iconic,Women,Burgundy,20,alpha,0.931
+WL-00109,Circular Half-Zip Sweatshirt,FS24,130.99,Sweatshirt,L,70,311,Circular,Women,White Whisper,30,alpha,0.816
+N-00061,Iconic Half-Zip Shorts,SS25,54.99,Shorts,XL,335,184,Iconic,Men,Petit Four,0,alpha,0.355
+BucketHatCircular-0001,Circular Bucket Hat,FS24,113.99,Accessories,One Size,159,219,Circular,Men,Khaki,20,alpha,0.579
+WM-00065,Tribe Half-Zip Shirt,FS24,109.99,Shirt,XXL,30,373,Tribe,Women,Bright Red,25,alpha,0.926
+WS-00129,Morgex T-Shirt,SS25,35.99,T-Shirt,M,435,55,Morgex,Women,Forest Green,0,alpha,0.112
+WSocksTribe-0001,Tribe Socks,SS25,76.99,Accessories,S,281,148,Tribe,Women,Caviar,0,alpha,0.345
+WPS-00060,Iconic Heritage Polo,FS24,71.99,Polo,XL,25,31,Iconic,Women,Stone Grey,20,alpha,0.554
+WV-00022,Sun-Lover Quilted Swimwear,FS24,71.99,Swimwear,XS,123,224,Sun-Lover,Women,Free Blue,40,alpha,0.646
+P-00097,Circular Pants,SS25,130.99,Pants,M,97,87,Circular,Men,Orange Tangerine,0,alpha,0.473
+WS-00130,Geographic Logo T-Shirt,FS24,72.99,T-Shirt,XS,100,240,Geographic,Women,Bright White,30,alpha,0.706
+WM-00066,Geographic Stretch Shirt,SS25,107.99,Shirt,XXL,85,67,Geographic,Women,Grey Melange,0,alpha,0.441
+WS-00131,Circular Stretch T-Shirt,FS24,73.99,T-Shirt,M,8,61,Circular,Women,Burgundy,40,alpha,0.884
+W\00039,Cresta Print Shoes,FS24,198.99,Shoes,39,193,297,Cresta,Women,Blue Marine,20,numeric,0.606
+P-00098,Morgex Stretch Pants,FS24,105.99,Pants,M,176,416,Morgex,Men,Orange Tangerine,40,alpha,0.703
+WP-00071,Rainforest Stripe Pants,FS24,130.99,Pants,S,73,350,Rainforest,Women,Pale Mint,30,alpha,0.827
+\00057,Box Logo Graphic Shoes,SS25,168.99,Shoes,43,437,161,Box Logo,Men,Yellow Sunshine,0,numeric,0.269
+N-00062,Patch Heritage Shorts,SS25,70.99,Shorts,M,314,193,Patch,Men,Old Rose,0,alpha,0.381
+WP-00072,Morgex Pants,FS24,158.99,Pants,XS,48,88,Morgex,Women,Green Lichen,20,alpha,0.647
+WL-00110,Morgex Sweatshirt,FS24,164.99,Sweatshirt,L,208,348,Morgex,Women,Bright White,20,alpha,0.626
+V-00031,Box Logo Swimwear,SS25,58.99,Swimwear,XXL,142,101,Box Logo,Men,Beige Sand,0,alpha,0.416
+M-00066,Geographic Print Shirt,SS25,130.99,Shirt,XL,166,109,Geographic,Men,Bright Red,0,alpha,0.396
+WN-00037,Circular Stripe Shorts,FS24,67.99,Shorts,L,24,550,Circular,Women,Beige Sand,10,alpha,0.958
+\00058,Trail Print Shoes,SS25,121.99,Shoes,40,304,55,Trail,Men,Navy,0,numeric,0.153
+N-00063,Iconic Logo Shorts,FS24,59.99,Shorts,L,53,387,Iconic,Men,White Whisper,15,alpha,0.88
+WP-00073,Tribe Stripe Pants,FS24,106.99,Pants,M,24,142,Tribe,Women,Forest Green,10,alpha,0.855
+L-00115,Tribe Stretch Sweatshirt,SS25,129.99,Sweatshirt,XXL,32,19,Tribe,Men,Yellow Sunshine,0,alpha,0.373
+L-00116,Rainforest Half-Zip Sweatshirt,FS24,163.99,Sweatshirt,XS,195,310,Rainforest,Men,Forest Green,20,alpha,0.614
+\00059,Slate Graphic Shoes,SS25,196.99,Shoes,43,99,56,Slate,Men,Khaki,0,numeric,0.361
+V-00032,Box Logo Graphic Swimwear,FS24,61.99,Swimwear,XS,54,243,Box Logo,Men,Snow White,10,alpha,0.818
+M-00067,Morgex Heritage Shirt,SS25,96.99,Shirt,XS,189,99,Morgex,Men,Free Blue,0,alpha,0.344
+WPS-00061,Morgex Half-Zip Polo,FS24,88.99,Polo,XL,48,523,Morgex,Women,Blue Marine,25,alpha,0.916
+WaistBagRainforest-0001,Rainforest Waist Bag,FS24,63.99,Accessories,One Size,98,196,Rainforest,Men,Khaki,30,alpha,0.667
+WN-00038,Morgex Quilted Shorts,SS25,84.99,Shorts,XL,214,155,Morgex,Women,Grey Melange,0,alpha,0.42
+N-00064,Geographic Half-Zip Shorts,SS25,71.99,Shorts,M,343,248,Geographic,Men,Orange Tangerine,0,alpha,0.42
+P-00101,Circular Print Pants,SS25,132.99,Pants,XXL,302,100,Circular,Men,Khaki,0,alpha,0.249
+WBackpackMorgex-0001,Morgex Backpack,SS25,60.99,Accessories,One Size,265,228,Morgex,Women,Olive,0,alpha,0.462
+WPS-00062,Morgex Logo Polo,FS24,78.99,Polo,XXL,72,199,Morgex,Women,Black Beauty,15,alpha,0.734
+WPS-00063,Tribe Stretch Polo,FS24,72.99,Polo,XXL,34,258,Tribe,Women,Old Rose,10,alpha,0.884
+WL-00111,Rainforest Stretch Sweatshirt,FS24,123.99,Sweatshirt,XL,68,201,Rainforest,Women,Petit Four,10,alpha,0.747
+WL-00112,Rainforest Print Sweatshirt,FS24,96.99,Sweatshirt,S,107,392,Rainforest,Women,Orange Tangerine,10,alpha,0.786
+WS-00133,Geographic Half-Zip T-Shirt,FS24,51.99,T-Shirt,XXL,16,282,Geographic,Women,Green Lichen,10,alpha,0.946
+N-00065,Rainforest Quilted Shorts,SS25,62.99,Shorts,L,399,103,Rainforest,Men,Snow White,0,alpha,0.205
+WM-00068,Iconic Shirt,SS25,136.99,Shirt,XL,197,42,Iconic,Women,Olive,0,alpha,0.176
+P-00102,Geographic Pants,SS25,152.99,Pants,XXL,343,36,Geographic,Men,Grey Melange,0,alpha,0.095
+M-00069,Morgex Stripe Shirt,SS25,117.99,Shirt,S,205,40,Morgex,Men,Orange Tangerine,0,alpha,0.163
+ToteBagPatch-0001,Patch Tote Bag,SS25,86.99,Accessories,One Size,31,29,Patch,Men,Yellow Sunshine,0,alpha,0.483
+PS-00066,Patch Half-Zip Polo,SS25,104.99,Polo,S,473,77,Patch,Men,Green Lichen,0,alpha,0.14
+WV-00026,Sun-Lover Swimwear,SS25,62.99,Swimwear,M,242,155,Sun-Lover,Women,Petit Four,0,alpha,0.39
+WL-00113,Iconic Half-Zip Sweatshirt,SS25,113.99,Sweatshirt,XL,185,200,Iconic,Women,Orange Tangerine,0,alpha,0.519
+GlovesCircular-0002,Circular Gloves,SS25,104.99,Accessories,S,364,50,Circular,Men,Yellow Sunshine,0,alpha,0.121
+S-00159,Circular T-Shirt,SS25,54.99,T-Shirt,M,283,215,Circular,Men,Petit Four,0,alpha,0.432
+WP-00076,Morgex Logo Pants,SS25,94.99,Pants,XL,104,27,Morgex,Women,Pale Mint,0,alpha,0.206
+S-00160,Tribe Heritage T-Shirt,SS25,47.99,T-Shirt,XXL,167,84,Tribe,Men,Old Rose,0,alpha,0.335
+PS-00068,Morgex Stripe Polo,FS24,90.99,Polo,XS,142,284,Morgex,Men,Beige Sand,20,alpha,0.667
+\00060,Box Logo Stripe Shoes,SS25,177.99,Shoes,45,49,33,Box Logo,Men,Khaki,0,numeric,0.402
+M-00071,Morgex Half-Zip Shirt,FS24,120.99,Shirt,M,124,183,Morgex,Men,Pale Mint,20,alpha,0.596
+S-00161,Tribe Heritage T-Shirt,FS24,36.99,T-Shirt,XL,214,316,Tribe,Men,Green Lichen,15,alpha,0.596
+PS-00069,Geographic Half-Zip Polo,SS25,91.99,Polo,S,306,113,Geographic,Men,Green Lichen,0,alpha,0.27
+SocksTribe-0001,Tribe Socks,SS25,61.99,Accessories,M,59,52,Tribe,Men,Grey Melange,0,alpha,0.468
+WP-00078,Geographic Stripe Pants,FS24,97.99,Pants,XXL,129,441,Geographic,Women,Bright White,10,alpha,0.774
+WP-00079,Patch Quilted Pants,SS25,102.99,Pants,S,264,15,Patch,Women,Free Blue,0,alpha,0.054
+WS-00135,Circular Quilted T-Shirt,SS25,82.99,T-Shirt,S,51,25,Circular,Women,Bright Red,0,alpha,0.329
+S-00163,Rainforest Heritage T-Shirt,FS24,58.99,T-Shirt,XL,46,237,Rainforest,Men,Bright Red,20,alpha,0.837
+WP-00080,Rainforest Stretch Pants,SS25,157.99,Pants,L,236,33,Rainforest,Women,Orange Tangerine,0,alpha,0.123
+WP-00081,Circular Stripe Pants,SS25,91.99,Pants,M,305,42,Circular,Women,Khaki,0,alpha,0.121
+L-00119,Tribe Logo Sweatshirt,SS25,139.99,Sweatshirt,XXL,336,119,Tribe,Men,Caviar,0,alpha,0.262
+M-00072,Rainforest Shirt,FS24,135.99,Shirt,M,212,370,Rainforest,Men,Caviar,20,alpha,0.636
+WS-00137,Iconic T-Shirt,FS24,60.99,T-Shirt,XL,88,156,Iconic,Women,Petit Four,20,alpha,0.639
+W\00040,Box Logo Shoes,SS25,101.99,Shoes,41,119,8,Box Logo,Women,Old Rose,0,numeric,0.063
+PS-00070,Tribe Polo,SS25,70.99,Polo,L,91,87,Tribe,Men,Blue Marine,0,alpha,0.489
+L-00121,Box Logo Sweatshirt,FS24,167.99,Sweatshirt,XL,37,461,Box Logo,Men,Bright Red,40,alpha,0.926
+WPS-00065,Geographic Graphic Polo,SS25,84.99,Polo,XXL,97,28,Geographic,Women,Blue Marine,0,alpha,0.224
+GlovesCircular-0003,Circular Gloves,FS24,43.99,Accessories,L,16,48,Circular,Men,Grey Melange,30,alpha,0.75
+W\00041,Trail Shoes,FS24,132.99,Shoes,39,43,276,Trail,Women,Navy,20,numeric,0.865
+N-00066,Iconic Shorts,SS25,88.99,Shorts,S,47,12,Iconic,Men,Old Rose,0,alpha,0.203
+WS-00139,Tribe Half-Zip T-Shirt,SS25,65.99,T-Shirt,XXL,165,65,Tribe,Women,Orange Tangerine,0,alpha,0.283
+N-00067,Box Logo Shorts,SS25,49.99,Shorts,XL,102,118,Box Logo,Men,Yellow Sunshine,0,alpha,0.536
+PS-00071,Tribe Stretch Polo,SS25,75.99,Polo,S,237,36,Tribe,Men,Blue Marine,0,alpha,0.132
+\00061,Slate Heritage Shoes,SS25,97.99,Shoes,40,195,197,Slate,Men,Grey Melange,0,numeric,0.503
+W\00043,Cresta Stretch Shoes,FS24,146.99,Shoes,38,156,375,Cresta,Women,Bright Red,30,numeric,0.706
+PS-00072,Tribe Stretch Polo,SS25,108.99,Polo,XS,329,130,Tribe,Men,Forest Green,0,alpha,0.283
+L-00122,Circular Stripe Sweatshirt,FS24,143.99,Sweatshirt,S,5,60,Circular,Men,Yellow Sunshine,20,alpha,0.923
+WN-00041,Geographic Shorts,FS24,60.99,Shorts,XXL,82,146,Geographic,Women,Caviar,10,alpha,0.64
+S-00167,Morgex Stripe T-Shirt,SS25,65.99,T-Shirt,XS,161,41,Morgex,Men,Old Rose,0,alpha,0.203
+S-00168,Box Logo Stretch T-Shirt,SS25,94.99,T-Shirt,XS,341,187,Box Logo,Men,Free Blue,0,alpha,0.354
+W\00044,Box Logo Stripe Shoes,SS25,136.99,Shoes,39,247,45,Box Logo,Women,Green Lichen,0,numeric,0.154
+WM-00069,Patch Half-Zip Shirt,FS24,127.99,Shirt,XL,59,320,Patch,Women,Burgundy,30,alpha,0.844
+\00062,Trail Logo Shoes,SS25,193.99,Shoes,46,361,179,Trail,Men,Bright Red,0,numeric,0.331
+W\00045,Cresta Shoes,SS25,130.99,Shoes,40,409,172,Cresta,Women,Caviar,0,numeric,0.296
+WL-00115,Tribe Graphic Sweatshirt,SS25,109.99,Sweatshirt,XL,59,43,Tribe,Women,Burgundy,0,alpha,0.422
+L-00123,Iconic Graphic Sweatshirt,FS24,152.99,Sweatshirt,XXL,42,164,Iconic,Men,Khaki,15,alpha,0.796
+WP-00084,Patch Stretch Pants,SS25,125.99,Pants,XXL,41,39,Patch,Women,Olive,0,alpha,0.488
+WS-00142,Geographic Stripe T-Shirt,FS24,76.99,T-Shirt,XXL,14,45,Geographic,Women,Bright White,20,alpha,0.763
+WPS-00066,Circular Half-Zip Polo,SS25,76.99,Polo,XS,64,12,Circular,Women,Petit Four,0,alpha,0.158
+\00063,Slate Logo Shoes,FS24,195.99,Shoes,41,93,209,Slate,Men,Khaki,20,numeric,0.692
+WM-00071,Iconic Stripe Shirt,FS24,149.99,Shirt,L,93,156,Iconic,Women,Burgundy,20,alpha,0.627
+S-00174,Morgex Logo T-Shirt,SS25,34.99,T-Shirt,M,117,108,Morgex,Men,Beige Sand,0,alpha,0.48
+S-00175,Circular T-Shirt,FS24,82.99,T-Shirt,XL,135,408,Circular,Men,Old Rose,50,alpha,0.751
+L-00124,Tribe Half-Zip Sweatshirt,SS25,97.99,Sweatshirt,XS,47,44,Tribe,Men,Green Lichen,0,alpha,0.484
+PS-00074,Morgex Heritage Polo,SS25,100.99,Polo,XXL,61,43,Morgex,Men,Khaki,0,alpha,0.413
+WS-00143,Circular Heritage T-Shirt,SS25,61.99,T-Shirt,L,398,64,Circular,Women,Black Beauty,0,alpha,0.139
+P-00106,Morgex Heritage Pants,SS25,136.99,Pants,XL,354,169,Morgex,Men,Free Blue,0,alpha,0.323
+M-00074,Geographic Stretch Shirt,FS24,135.99,Shirt,XL,19,499,Geographic,Men,Old Rose,20,alpha,0.963
+WN-00042,Rainforest Half-Zip Shorts,FS24,54.99,Shorts,L,23,276,Rainforest,Women,Pale Mint,20,alpha,0.923
+WM-00072,Rainforest Print Shirt,SS25,127.99,Shirt,XS,122,66,Rainforest,Women,Yellow Sunshine,0,alpha,0.351
+P-00107,Rainforest Stripe Pants,FS24,159.99,Pants,M,100,475,Rainforest,Men,Blue Marine,30,alpha,0.826
+\00064,Cresta Graphic Shoes,SS25,177.99,Shoes,40,164,123,Cresta,Men,Orange Tangerine,0,numeric,0.429
+WPS-00067,Iconic Graphic Polo,SS25,65.99,Polo,XS,138,25,Iconic,Women,Beige Sand,0,alpha,0.153
+WL-00117,Patch Quilted Sweatshirt,FS24,155.99,Sweatshirt,XL,14,68,Patch,Women,Beige Sand,20,alpha,0.829
+GlovesPatch-0002,Patch Gloves,FS24,68.99,Accessories,One Size,76,396,Patch,Men,Black Beauty,25,alpha,0.839
+WP-00085,Rainforest Heritage Pants,FS24,100.99,Pants,L,66,232,Rainforest,Women,Black Beauty,10,alpha,0.779
+S-00177,Iconic Heritage T-Shirt,FS24,72.99,T-Shirt,S,24,51,Iconic,Men,Yellow Sunshine,30,alpha,0.68
+L-00126,Rainforest Half-Zip Sweatshirt,FS24,110.99,Sweatshirt,XXL,4,64,Rainforest,Men,Beige Sand,10,alpha,0.941
+L-00128,Morgex Stripe Sweatshirt,SS25,136.99,Sweatshirt,M,92,60,Morgex,Men,Grey Melange,0,alpha,0.395
+M-00076,Circular Print Shirt,SS25,139.99,Shirt,M,433,39,Circular,Men,Orange Tangerine,0,alpha,0.083
+WN-00043,Morgex Stretch Shorts,SS25,57.99,Shorts,M,150,139,Morgex,Women,Bright Red,0,alpha,0.481
+WV-00027,Wave Print Swimwear,FS24,68.99,Swimwear,S,53,541,Wave,Women,Orange Tangerine,15,alpha,0.911
+M-00077,Tribe Stretch Shirt,FS24,89.99,Shirt,L,195,249,Tribe,Men,Khaki,10,alpha,0.561
+P-00108,Circular Heritage Pants,SS25,105.99,Pants,XXL,284,277,Circular,Men,Yellow Sunshine,0,alpha,0.494
+L-00129,Geographic Stripe Sweatshirt,SS25,129.99,Sweatshirt,M,235,92,Geographic,Men,Burgundy,0,alpha,0.281
+V-00034,Wave Heritage Swimwear,FS24,76.99,Swimwear,L,57,378,Wave,Men,Petit Four,40,alpha,0.869
+V-00035,Box Logo Swimwear,SS25,65.99,Swimwear,L,250,291,Box Logo,Men,Pale Mint,0,alpha,0.538
+L-00130,Iconic Logo Sweatshirt,FS24,159.99,Sweatshirt,M,22,338,Iconic,Men,Khaki,40,alpha,0.939
+L-00131,Iconic Sweatshirt,SS25,137.99,Sweatshirt,S,418,130,Iconic,Men,Navy,0,alpha,0.237
+M-00078,Rainforest Graphic Shirt,FS24,93.99,Shirt,XL,7,160,Rainforest,Men,Petit Four,15,alpha,0.958
+V-00036,Sun-Lover Heritage Swimwear,SS25,75.99,Swimwear,M,224,99,Sun-Lover,Men,Green Lichen,0,alpha,0.307
+WM-00074,Circular Stripe Shirt,FS24,139.99,Shirt,L,144,216,Circular,Women,Burgundy,25,alpha,0.6
+WS-00147,Box Logo Print T-Shirt,SS25,40.99,T-Shirt,M,480,108,Box Logo,Women,White Whisper,0,alpha,0.184
+N-00068,Circular Shorts,SS25,85.99,Shorts,XXL,45,5,Circular,Men,Beige Sand,0,alpha,0.1
+WM-00075,Box Logo Logo Shirt,FS24,133.99,Shirt,S,114,480,Box Logo,Women,Petit Four,30,alpha,0.808
+PS-00075,Circular Stripe Polo,FS24,103.99,Polo,L,14,49,Circular,Men,Yellow Sunshine,15,alpha,0.778
+PS-00076,Rainforest Half-Zip Polo,FS24,96.99,Polo,L,43,394,Rainforest,Men,Snow White,20,alpha,0.902
+WP-00087,Iconic Logo Pants,FS24,115.99,Pants,L,109,252,Iconic,Women,Olive,15,alpha,0.698
+PS-00077,Tribe Logo Polo,FS24,100.99,Polo,XXL,28,78,Tribe,Men,Caviar,50,alpha,0.736
+WV-00028,Wave Stripe Swimwear,FS24,72.99,Swimwear,L,35,96,Wave,Women,Free Blue,10,alpha,0.733
+WM-00076,Morgex Half-Zip Shirt,SS25,112.99,Shirt,S,370,199,Morgex,Women,Orange Tangerine,0,alpha,0.35
+N-00069,Geographic Shorts,FS24,64.99,Shorts,S,47,193,Geographic,Men,Navy,40,alpha,0.804
+WP-00088,Morgex Pants,SS25,111.99,Pants,L,255,39,Morgex,Women,Yellow Sunshine,0,alpha,0.133
+WP-00089,Circular Print Pants,SS25,147.99,Pants,M,331,210,Circular,Women,Bright White,0,alpha,0.388
+M-00079,Circular Half-Zip Shirt,FS24,129.99,Shirt,XL,61,393,Circular,Men,Stone Grey,50,alpha,0.866
+WL-00120,Rainforest Half-Zip Sweatshirt,SS25,103.99,Sweatshirt,S,220,196,Rainforest,Women,Bright White,0,alpha,0.471
+S-00182,Circular Logo T-Shirt,FS24,65.99,T-Shirt,M,20,36,Circular,Men,Caviar,20,alpha,0.643
+N-00070,Rainforest Stripe Shorts,SS25,68.99,Shorts,XXL,255,35,Rainforest,Men,Bright Red,0,alpha,0.121
+\00065,Slate Logo Shoes,FS24,136.99,Shoes,43,203,311,Slate,Men,Orange Tangerine,20,numeric,0.605
+\00066,Box Logo Heritage Shoes,FS24,159.99,Shoes,44,5,76,Box Logo,Men,Green Lichen,20,numeric,0.938
+\00067,Slate Print Shoes,SS25,207.99,Shoes,42,197,12,Slate,Men,Old Rose,0,numeric,0.057
+S-00183,Morgex Quilted T-Shirt,SS25,47.99,T-Shirt,XL,438,135,Morgex,Men,White Whisper,0,alpha,0.236
+WN-00044,Box Logo Stretch Shorts,SS25,73.99,Shorts,S,286,204,Box Logo,Women,Pale Mint,0,alpha,0.416
+WL-00122,Rainforest Print Sweatshirt,FS24,167.99,Sweatshirt,M,70,308,Rainforest,Women,Old Rose,30,alpha,0.815
+WV-00029,Sun-Lover Print Swimwear,SS25,78.99,Swimwear,XS,306,105,Sun-Lover,Women,Yellow Sunshine,0,alpha,0.255
+M-00080,Morgex Quilted Shirt,SS25,145.99,Shirt,S,60,47,Morgex,Men,Green Lichen,0,alpha,0.439
+WSocksCircular-0002,Circular Socks,SS25,72.99,Accessories,One Size,183,198,Circular,Women,Snow White,0,alpha,0.52
+WBucketHatBoxLogo-0001,Box Logo Bucket Hat,SS25,43.99,Accessories,One Size,237,203,Box Logo,Women,Olive,0,alpha,0.461
+P-00110,Rainforest Stripe Pants,FS24,140.99,Pants,XXL,33,247,Rainforest,Men,Free Blue,20,alpha,0.882
+V-00039,Sun-Lover Swimwear,FS24,46.99,Swimwear,S,20,80,Sun-Lover,Men,Forest Green,15,alpha,0.8
+L-00133,Circular Half-Zip Sweatshirt,SS25,164.99,Sweatshirt,XXL,168,181,Circular,Men,Snow White,0,alpha,0.519
+S-00185,Box Logo Stretch T-Shirt,SS25,46.99,T-Shirt,L,99,8,Box Logo,Men,Free Blue,0,alpha,0.075
+N-00071,Patch Graphic Shorts,SS25,59.99,Shorts,XS,420,45,Patch,Men,Bright Red,0,alpha,0.097
+W\00048,Cresta Heritage Shoes,SS25,166.99,Shoes,40,161,163,Cresta,Women,Bright White,0,numeric,0.503
+WN-00045,Box Logo Stretch Shorts,FS24,72.99,Shorts,XL,17,25,Box Logo,Women,Burgundy,25,alpha,0.595
+N-00072,Tribe Quilted Shorts,SS25,92.99,Shorts,M,453,104,Tribe,Men,Beige Sand,0,alpha,0.187
+WM-00078,Iconic Stretch Shirt,FS24,113.99,Shirt,XL,70,198,Iconic,Women,Orange Tangerine,40,alpha,0.739
+PS-00078,Box Logo Logo Polo,FS24,97.99,Polo,XS,29,52,Box Logo,Men,Forest Green,20,alpha,0.642
+M-00083,Tribe Print Shirt,FS24,123.99,Shirt,M,46,64,Tribe,Men,Grey Melange,10,alpha,0.582
+S-00187,Tribe Stripe T-Shirt,FS24,84.99,T-Shirt,L,16,130,Tribe,Men,Orange Tangerine,10,alpha,0.89
+BeanieRainforest-0001,Rainforest Beanie,FS24,44.99,Accessories,One Size,20,57,Rainforest,Men,Caviar,25,alpha,0.74
+WS-00153,Patch Heritage T-Shirt,FS24,54.99,T-Shirt,XS,50,77,Patch,Women,Burgundy,20,alpha,0.606
+V-00041,Box Logo Stripe Swimwear,SS25,78.99,Swimwear,M,316,24,Box Logo,Men,Old Rose,0,alpha,0.071
+M-00084,Morgex Stretch Shirt,SS25,120.99,Shirt,XS,136,93,Morgex,Men,Snow White,0,alpha,0.406
+\00068,Cresta Stretch Shoes,SS25,122.99,Shoes,40,185,180,Cresta,Men,Free Blue,0,numeric,0.493
+L-00135,Patch Half-Zip Sweatshirt,SS25,114.99,Sweatshirt,M,266,27,Patch,Men,Caviar,0,alpha,0.092
+V-00042,Sun-Lover Graphic Swimwear,SS25,77.99,Swimwear,XXL,163,69,Sun-Lover,Men,Snow White,0,alpha,0.297
+P-00113,Iconic Logo Pants,SS25,94.99,Pants,S,170,125,Iconic,Men,Pale Mint,0,alpha,0.424
+WV-00032,Sun-Lover Swimwear,SS25,53.99,Swimwear,L,86,80,Sun-Lover,Women,Old Rose,0,alpha,0.482
+WM-00080,Morgex Logo Shirt,SS25,102.99,Shirt,XXL,339,99,Morgex,Women,Yellow Sunshine,0,alpha,0.226
+\00069,Trail Graphic Shoes,FS24,95.99,Shoes,43,12,31,Trail,Men,Orange Tangerine,40,numeric,0.721
+S-00192,Box Logo Graphic T-Shirt,FS24,90.99,T-Shirt,XS,61,123,Box Logo,Men,Yellow Sunshine,15,alpha,0.668
+S-00193,Rainforest Stretch T-Shirt,SS25,63.99,T-Shirt,XL,220,130,Rainforest,Men,Stone Grey,0,alpha,0.371
+S-00194,Morgex T-Shirt,SS25,70.99,T-Shirt,XS,144,143,Morgex,Men,Caviar,0,alpha,0.498
+WPS-00071,Circular Logo Polo,FS24,103.99,Polo,L,91,199,Circular,Women,Pale Mint,10,alpha,0.686
+WPS-00072,Patch Half-Zip Polo,SS25,64.99,Polo,M,408,50,Patch,Women,Blue Marine,0,alpha,0.109
+PS-00080,Rainforest Half-Zip Polo,SS25,79.99,Polo,M,145,16,Rainforest,Men,Beige Sand,0,alpha,0.099
+L-00137,Circular Half-Zip Sweatshirt,SS25,158.99,Sweatshirt,XS,134,140,Circular,Men,Old Rose,0,alpha,0.511
+S-00195,Tribe Logo T-Shirt,SS25,86.99,T-Shirt,S,214,28,Tribe,Men,White Whisper,0,alpha,0.116
+L-00138,Tribe Logo Sweatshirt,SS25,109.99,Sweatshirt,XS,264,151,Tribe,Men,Olive,0,alpha,0.364
+W\00051,Box Logo Shoes,SS25,204.99,Shoes,42,400,125,Box Logo,Women,Bright White,0,numeric,0.238
+M-00086,Geographic Heritage Shirt,FS24,111.99,Shirt,S,179,296,Geographic,Men,Khaki,40,alpha,0.623
+WV-00033,Wave Logo Swimwear,SS25,45.99,Swimwear,XXL,365,90,Wave,Women,Khaki,0,alpha,0.198
+N-00074,Iconic Shorts,SS25,57.99,Shorts,XXL,160,115,Iconic,Men,Bright Red,0,alpha,0.418
+WL-00124,Patch Stripe Sweatshirt,SS25,99.99,Sweatshirt,S,284,258,Patch,Women,Petit Four,0,alpha,0.476
+N-00075,Patch Stretch Shorts,SS25,66.99,Shorts,XXL,65,5,Patch,Men,Yellow Sunshine,0,alpha,0.071
+WS-00156,Box Logo Quilted T-Shirt,SS25,44.99,T-Shirt,M,112,11,Box Logo,Women,Black Beauty,0,alpha,0.089
+S-00197,Iconic Half-Zip T-Shirt,FS24,81.99,T-Shirt,XXL,10,56,Iconic,Men,Yellow Sunshine,10,alpha,0.848
+W\00052,Slate Shoes,FS24,156.99,Shoes,38,132,322,Slate,Women,Green Lichen,30,numeric,0.709
+WS-00157,Morgex Quilted T-Shirt,SS25,57.99,T-Shirt,M,69,21,Morgex,Women,Stone Grey,0,alpha,0.233
+V-00043,Wave Swimwear,SS25,74.99,Swimwear,XXL,386,70,Wave,Men,White Whisper,0,alpha,0.154
+PS-00082,Geographic Logo Polo,FS24,97.99,Polo,S,63,364,Geographic,Men,Petit Four,20,alpha,0.852
+WP-00091,Geographic Logo Pants,FS24,91.99,Pants,S,62,407,Geographic,Women,Stone Grey,20,alpha,0.868
+S-00200,Circular Graphic T-Shirt,SS25,83.99,T-Shirt,M,89,35,Circular,Men,Beige Sand,0,alpha,0.282
+N-00076,Patch Shorts,SS25,61.99,Shorts,M,90,36,Patch,Men,Old Rose,0,alpha,0.286
+PS-00083,Morgex Stretch Polo,SS25,70.99,Polo,S,193,94,Morgex,Men,Stone Grey,0,alpha,0.328
+WP-00092,Morgex Stretch Pants,SS25,115.99,Pants,S,128,110,Morgex,Women,Forest Green,0,alpha,0.462
+WPS-00074,Iconic Polo,SS25,70.99,Polo,S,81,55,Iconic,Women,Caviar,0,alpha,0.404
+L-00140,Iconic Logo Sweatshirt,SS25,119.99,Sweatshirt,XL,84,49,Iconic,Men,Petit Four,0,alpha,0.368
+WS-00159,Circular Stripe T-Shirt,FS24,90.99,T-Shirt,XS,11,64,Circular,Women,Burgundy,50,alpha,0.853
+WM-00081,Geographic Logo Shirt,SS25,104.99,Shirt,S,488,69,Geographic,Women,Snow White,0,alpha,0.124
+WPS-00075,Patch Polo,SS25,80.99,Polo,XS,302,39,Patch,Women,Snow White,0,alpha,0.114
+L-00142,Box Logo Heritage Sweatshirt,SS25,124.99,Sweatshirt,M,327,117,Box Logo,Men,Free Blue,0,alpha,0.264
+W\00053,Trail Shoes,FS24,100.99,Shoes,40,168,267,Trail,Women,Free Blue,20,numeric,0.614
+WL-00126,Tribe Stretch Sweatshirt,SS25,126.99,Sweatshirt,S,373,31,Tribe,Women,Blue Marine,0,alpha,0.077
+L-00143,Tribe Print Sweatshirt,FS24,96.99,Sweatshirt,M,75,282,Tribe,Men,Bright White,25,alpha,0.79
+N-00077,Geographic Graphic Shorts,SS25,63.99,Shorts,S,103,81,Geographic,Men,Beige Sand,0,alpha,0.44
+M-00089,Box Logo Shirt,SS25,144.99,Shirt,XL,282,165,Box Logo,Men,Snow White,0,alpha,0.369
+WL-00128,Box Logo Print Sweatshirt,FS24,133.99,Sweatshirt,S,63,210,Box Logo,Women,Burgundy,15,alpha,0.769
+PS-00084,Patch Quilted Polo,SS25,72.99,Polo,XL,30,27,Patch,Men,Burgundy,0,alpha,0.474
+L-00144,Geographic Quilted Sweatshirt,FS24,149.99,Sweatshirt,S,128,184,Geographic,Men,Caviar,25,alpha,0.59
+WPS-00076,Circular Polo,FS24,68.99,Polo,L,16,143,Circular,Women,Olive,40,alpha,0.899
+N-00078,Iconic Shorts,SS25,70.99,Shorts,XL,42,47,Iconic,Men,Green Lichen,0,alpha,0.528
+WM-00082,Morgex Shirt,FS24,125.99,Shirt,XS,140,364,Morgex,Women,Green Lichen,25,alpha,0.722
+N-00079,Circular Stretch Shorts,SS25,57.99,Shorts,XL,40,19,Circular,Men,Pale Mint,0,alpha,0.322
+S-00204,Rainforest Half-Zip T-Shirt,SS25,70.99,T-Shirt,S,61,47,Rainforest,Men,Caviar,0,alpha,0.435
+WPS-00078,Morgex Heritage Polo,SS25,76.99,Polo,S,251,26,Morgex,Women,Green Lichen,0,alpha,0.094
+S-00205,Patch Stripe T-Shirt,SS25,92.99,T-Shirt,M,108,43,Patch,Men,Grey Melange,0,alpha,0.285
+WS-00163,Morgex Half-Zip T-Shirt,FS24,44.99,T-Shirt,XXL,159,211,Morgex,Women,Navy,25,alpha,0.57
+W\00054,Cresta Heritage Shoes,FS24,119.99,Shoes,36,41,208,Cresta,Women,Blue Marine,15,numeric,0.835
+WV-00034,Box Logo Quilted Swimwear,SS25,75.99,Swimwear,L,489,76,Box Logo,Women,Blue Marine,0,alpha,0.135
+WS-00164,Geographic Half-Zip T-Shirt,SS25,91.99,T-Shirt,L,316,273,Geographic,Women,Burgundy,0,alpha,0.463
+WS-00165,Circular Quilted T-Shirt,FS24,84.99,T-Shirt,L,172,316,Circular,Women,Grey Melange,30,alpha,0.648
+WBackpackBoxLogo-0001,Box Logo Backpack,SS25,96.99,Accessories,One Size,436,159,Box Logo,Women,Old Rose,0,alpha,0.267
+P-00115,Morgex Half-Zip Pants,FS24,132.99,Pants,M,123,441,Morgex,Men,Stone Grey,25,alpha,0.782
+WL-00130,Iconic Heritage Sweatshirt,SS25,153.99,Sweatshirt,XXL,411,173,Iconic,Women,Olive,0,alpha,0.296
+P-00116,Patch Half-Zip Pants,FS24,147.99,Pants,M,35,44,Patch,Men,Caviar,30,alpha,0.557
+WS-00168,Geographic Print T-Shirt,FS24,93.99,T-Shirt,S,113,329,Geographic,Women,Old Rose,15,alpha,0.744
+WM-00083,Morgex Quilted Shirt,SS25,101.99,Shirt,XXL,339,246,Morgex,Women,Grey Melange,0,alpha,0.421
+WPS-00079,Iconic Half-Zip Polo,SS25,94.99,Polo,XS,464,71,Iconic,Women,Pale Mint,0,alpha,0.133
+M-00092,Circular Heritage Shirt,SS25,138.99,Shirt,S,337,27,Circular,Men,Orange Tangerine,0,alpha,0.074
+WCapGeographic-0001,Geographic Cap,SS25,55.99,Accessories,One Size,43,33,Geographic,Women,Burgundy,0,alpha,0.434
+WM-00084,Patch Print Shirt,SS25,126.99,Shirt,S,355,123,Patch,Women,Caviar,0,alpha,0.257
+W\00055,Cresta Quilted Shoes,FS24,115.99,Shoes,40,103,372,Cresta,Women,Old Rose,20,numeric,0.783
+WS-00171,Morgex Heritage T-Shirt,FS24,79.99,T-Shirt,XL,45,142,Morgex,Women,Navy,20,alpha,0.759
+\00070,Trail Graphic Shoes,FS24,145.99,Shoes,46,179,284,Trail,Men,Snow White,40,numeric,0.613
+WV-00036,Sun-Lover Half-Zip Swimwear,SS25,56.99,Swimwear,S,95,91,Sun-Lover,Women,Beige Sand,0,alpha,0.489
+P-00117,Iconic Logo Pants,FS24,155.99,Pants,XS,158,307,Iconic,Men,White Whisper,30,alpha,0.66
+S-00212,Geographic Stretch T-Shirt,FS24,81.99,T-Shirt,M,77,235,Geographic,Men,Free Blue,20,alpha,0.753
+M-00093,Box Logo Print Shirt,SS25,95.99,Shirt,XL,382,122,Box Logo,Men,Old Rose,0,alpha,0.242
+N-00080,Iconic Logo Shorts,FS24,58.99,Shorts,XL,66,144,Iconic,Men,Burgundy,15,alpha,0.686
+M-00094,Tribe Quilted Shirt,FS24,146.99,Shirt,XS,72,442,Tribe,Men,Old Rose,15,alpha,0.86
+W\00056,Box Logo Stretch Shoes,SS25,162.99,Shoes,36,159,148,Box Logo,Women,Navy,0,numeric,0.482
+M-00095,Box Logo Shirt,SS25,88.99,Shirt,S,177,134,Box Logo,Men,Petit Four,0,alpha,0.431
+L-00151,Rainforest Quilted Sweatshirt,FS24,141.99,Sweatshirt,S,170,396,Rainforest,Men,Stone Grey,20,alpha,0.7
+PS-00085,Box Logo Graphic Polo,SS25,81.99,Polo,XS,137,144,Box Logo,Men,White Whisper,0,alpha,0.512
+S-00215,Patch Logo T-Shirt,SS25,53.99,T-Shirt,XS,429,100,Patch,Men,Pale Mint,0,alpha,0.189
+\00071,Cresta Stripe Shoes,SS25,162.99,Shoes,40,473,48,Cresta,Men,Olive,0,numeric,0.092
+P-00120,Rainforest Pants,SS25,116.99,Pants,XL,226,114,Rainforest,Men,Forest Green,0,alpha,0.335
+WM-00086,Box Logo Print Shirt,SS25,122.99,Shirt,L,128,18,Box Logo,Women,Pale Mint,0,alpha,0.123
+WN-00050,Iconic Stripe Shorts,SS25,92.99,Shorts,XL,508,69,Iconic,Women,Navy,0,alpha,0.12
+WM-00087,Patch Stripe Shirt,SS25,120.99,Shirt,XL,161,10,Patch,Women,Bright White,0,alpha,0.058
+WV-00037,Wave Logo Swimwear,FS24,44.99,Swimwear,XS,156,237,Wave,Women,Free Blue,30,alpha,0.603
+W\00057,Trail Print Shoes,SS25,125.99,Shoes,42,116,33,Trail,Women,Bright White,0,numeric,0.221
+PS-00086,Box Logo Polo,FS24,71.99,Polo,XS,28,383,Box Logo,Men,Forest Green,10,alpha,0.932
+M-00096,Rainforest Stretch Shirt,FS24,92.99,Shirt,M,100,393,Rainforest,Men,Free Blue,40,alpha,0.797
+WN-00051,Morgex Heritage Shorts,SS25,65.99,Shorts,S,130,18,Morgex,Women,Snow White,0,alpha,0.122
+WS-00173,Box Logo Quilted T-Shirt,SS25,40.99,T-Shirt,XL,301,114,Box Logo,Women,Petit Four,0,alpha,0.275
+WS-00174,Iconic Logo T-Shirt,SS25,39.99,T-Shirt,L,520,40,Iconic,Women,Old Rose,0,alpha,0.071
+WL-00132,Rainforest Stretch Sweatshirt,FS24,130.99,Sweatshirt,XS,29,554,Rainforest,Women,Forest Green,10,alpha,0.95
+S-00218,Patch Heritage T-Shirt,FS24,50.99,T-Shirt,XL,25,45,Patch,Men,Yellow Sunshine,25,alpha,0.643
+WL-00134,Tribe Stripe Sweatshirt,FS24,126.99,Sweatshirt,L,118,325,Tribe,Women,Olive,15,alpha,0.734
+L-00152,Iconic Quilted Sweatshirt,FS24,125.99,Sweatshirt,M,34,73,Iconic,Men,Bright Red,25,alpha,0.682
+WS-00176,Box Logo Heritage T-Shirt,FS24,86.99,T-Shirt,XL,54,390,Box Logo,Women,Bright Red,25,alpha,0.878
+L-00153,Tribe Half-Zip Sweatshirt,SS25,153.99,Sweatshirt,S,297,192,Tribe,Men,Burgundy,0,alpha,0.393
+WPS-00080,Rainforest Stripe Polo,FS24,84.99,Polo,S,82,145,Rainforest,Women,Bright Red,15,alpha,0.639
+W\00058,Box Logo Heritage Shoes,SS25,116.99,Shoes,36,64,28,Box Logo,Women,Pale Mint,0,numeric,0.304
+WP-00095,Iconic Half-Zip Pants,FS24,154.99,Pants,XL,44,512,Iconic,Women,Forest Green,25,alpha,0.921
+WN-00053,Geographic Print Shorts,SS25,50.99,Shorts,L,354,201,Geographic,Women,Blue Marine,0,alpha,0.362
+\00073,Trail Shoes,FS24,145.99,Shoes,42,223,369,Trail,Men,Bright Red,50,numeric,0.623
+WV-00039,Sun-Lover Swimwear,FS24,49.99,Swimwear,XXL,68,165,Sun-Lover,Women,Snow White,20,alpha,0.708
+WM-00088,Rainforest Half-Zip Shirt,FS24,89.99,Shirt,XXL,73,398,Rainforest,Women,Bright Red,15,alpha,0.845
+PS-00087,Circular Half-Zip Polo,SS25,80.99,Polo,XXL,449,30,Circular,Men,Petit Four,0,alpha,0.063
+WL-00137,Iconic Stretch Sweatshirt,SS25,165.99,Sweatshirt,S,109,35,Iconic,Women,Yellow Sunshine,0,alpha,0.243
+S-00221,Iconic Half-Zip T-Shirt,SS25,76.99,T-Shirt,M,93,114,Iconic,Men,Bright Red,0,alpha,0.551
+\00074,Cresta Stripe Shoes,SS25,181.99,Shoes,43,31,9,Cresta,Men,Forest Green,0,numeric,0.225
+P-00124,Morgex Stripe Pants,SS25,142.99,Pants,XL,74,30,Morgex,Men,Khaki,0,alpha,0.288
+N-00081,Iconic Half-Zip Shorts,SS25,65.99,Shorts,XXL,392,199,Iconic,Men,Stone Grey,0,alpha,0.337
+WL-00138,Box Logo Graphic Sweatshirt,FS24,106.99,Sweatshirt,S,32,89,Box Logo,Women,Caviar,30,alpha,0.736
+M-00098,Iconic Graphic Shirt,FS24,132.99,Shirt,L,163,436,Iconic,Men,Forest Green,25,alpha,0.728
+P-00125,Tribe Graphic Pants,FS24,145.99,Pants,XL,162,396,Tribe,Men,Bright Red,25,alpha,0.71
+PS-00088,Iconic Polo,FS24,106.99,Polo,M,61,92,Iconic,Men,Old Rose,25,alpha,0.601
+WM-00089,Circular Stretch Shirt,SS25,123.99,Shirt,XS,245,228,Circular,Women,Khaki,0,alpha,0.482
+WL-00140,Box Logo Logo Sweatshirt,FS24,134.99,Sweatshirt,M,29,207,Box Logo,Women,Bright Red,30,alpha,0.877
+WM-00090,Iconic Shirt,FS24,113.99,Shirt,M,8,41,Iconic,Women,Caviar,25,alpha,0.837
+WP-00096,Geographic Pants,SS25,126.99,Pants,S,369,133,Geographic,Women,Blue Marine,0,alpha,0.265
+WS-00179,Iconic Graphic T-Shirt,FS24,86.99,T-Shirt,XL,68,518,Iconic,Women,Green Lichen,40,alpha,0.884
+P-00126,Box Logo Half-Zip Pants,SS25,149.99,Pants,XS,261,307,Box Logo,Men,Petit Four,0,alpha,0.54
+L-00155,Geographic Half-Zip Sweatshirt,SS25,167.99,Sweatshirt,S,296,110,Geographic,Men,Beige Sand,0,alpha,0.271
+M-00099,Circular Quilted Shirt,SS25,128.99,Shirt,L,162,50,Circular,Men,Petit Four,0,alpha,0.236
+PS-00090,Morgex Graphic Polo,SS25,91.99,Polo,XXL,220,132,Morgex,Men,White Whisper,0,alpha,0.375
+PS-00091,Geographic Logo Polo,SS25,72.99,Polo,XS,95,102,Geographic,Men,Beige Sand,0,alpha,0.518
+WSocksRainforest-0002,Rainforest Socks,SS25,76.99,Accessories,One Size,254,193,Rainforest,Women,Pale Mint,0,alpha,0.432
+WPS-00081,Geographic Print Polo,SS25,76.99,Polo,XS,449,142,Geographic,Women,Orange Tangerine,0,alpha,0.24
+WM-00092,Box Logo Stripe Shirt,FS24,88.99,Shirt,S,86,189,Box Logo,Women,Khaki,25,alpha,0.687
+L-00156,Morgex Graphic Sweatshirt,SS25,123.99,Sweatshirt,M,48,4,Morgex,Men,Olive,0,alpha,0.077
+ScarfIconic-0001,Iconic Scarf,SS25,110.99,Accessories,One Size,350,141,Iconic,Men,Stone Grey,0,alpha,0.287
+PS-00092,Circular Graphic Polo,SS25,80.99,Polo,M,334,74,Circular,Men,Free Blue,0,alpha,0.181
+M-00100,Tribe Heritage Shirt,FS24,111.99,Shirt,L,66,83,Tribe,Men,Petit Four,25,alpha,0.557
+P-00127,Patch Heritage Pants,SS25,157.99,Pants,S,384,170,Patch,Men,Forest Green,0,alpha,0.307
+SocksGeographic-0001,Geographic Socks,SS25,54.99,Accessories,One Size,228,71,Geographic,Men,Orange Tangerine,0,alpha,0.237
+W\00059,Trail Print Shoes,SS25,162.99,Shoes,41,223,34,Trail,Women,Grey Melange,0,numeric,0.132
+L-00157,Circular Quilted Sweatshirt,SS25,159.99,Sweatshirt,XS,315,217,Circular,Men,Blue Marine,0,alpha,0.408
+WPS-00082,Tribe Polo,SS25,96.99,Polo,XL,434,100,Tribe,Women,Burgundy,0,alpha,0.187
+WL-00141,Iconic Stripe Sweatshirt,SS25,99.99,Sweatshirt,XXL,224,259,Iconic,Women,Old Rose,0,alpha,0.536
+V-00049,Wave Stretch Swimwear,FS24,44.99,Swimwear,XL,64,175,Wave,Men,Olive,10,alpha,0.732
+M-00101,Iconic Shirt,FS24,130.99,Shirt,XS,47,372,Iconic,Men,Orange Tangerine,30,alpha,0.888
+S-00226,Patch Graphic T-Shirt,SS25,34.99,T-Shirt,L,81,39,Patch,Men,Yellow Sunshine,0,alpha,0.325
+BucketHatRainforest-0001,Rainforest Bucket Hat,SS25,104.99,Accessories,One Size,432,107,Rainforest,Men,Navy,0,alpha,0.199
+P-00129,Iconic Half-Zip Pants,SS25,100.99,Pants,M,217,235,Iconic,Men,Petit Four,0,alpha,0.52
+\00076,Slate Print Shoes,FS24,194.99,Shoes,40,65,329,Slate,Men,Free Blue,40,numeric,0.835
+WP-00098,Morgex Heritage Pants,FS24,124.99,Pants,S,53,168,Morgex,Women,White Whisper,15,alpha,0.76
+P-00130,Tribe Stripe Pants,SS25,98.99,Pants,L,290,305,Tribe,Men,Green Lichen,0,alpha,0.513
+WN-00055,Rainforest Quilted Shorts,SS25,84.99,Shorts,M,90,10,Rainforest,Women,Green Lichen,0,alpha,0.1
+L-00158,Geographic Stretch Sweatshirt,SS25,105.99,Sweatshirt,XXL,169,61,Geographic,Men,Yellow Sunshine,0,alpha,0.265
+WN-00056,Patch Logo Shorts,FS24,57.99,Shorts,XL,37,47,Patch,Women,Forest Green,10,alpha,0.56
+WS-00183,Patch Graphic T-Shirt,SS25,64.99,T-Shirt,XS,65,63,Patch,Women,Pale Mint,0,alpha,0.492
+M-00103,Geographic Logo Shirt,SS25,94.99,Shirt,M,104,8,Geographic,Men,Orange Tangerine,0,alpha,0.071
+WM-00095,Circular Graphic Shirt,SS25,143.99,Shirt,XS,120,138,Circular,Women,Forest Green,0,alpha,0.535
+N-00083,Rainforest Stripe Shorts,SS25,58.99,Shorts,M,535,47,Rainforest,Men,Khaki,0,alpha,0.081
+\00079,Box Logo Logo Shoes,FS24,159.99,Shoes,44,23,274,Box Logo,Men,White Whisper,20,numeric,0.923
+WL-00144,Box Logo Stripe Sweatshirt,FS24,100.99,Sweatshirt,XXL,107,301,Box Logo,Women,Yellow Sunshine,40,alpha,0.738
+M-00104,Iconic Quilted Shirt,FS24,87.99,Shirt,M,11,133,Iconic,Men,White Whisper,25,alpha,0.924
+WP-00099,Circular Stripe Pants,SS25,92.99,Pants,S,205,214,Circular,Women,White Whisper,0,alpha,0.511
+PS-00094,Morgex Quilted Polo,SS25,69.99,Polo,XS,153,25,Morgex,Men,Green Lichen,0,alpha,0.14
+\00080,Slate Stripe Shoes,SS25,199.99,Shoes,41,83,8,Slate,Men,White Whisper,0,numeric,0.088
+PS-00095,Tribe Half-Zip Polo,SS25,108.99,Polo,S,153,8,Tribe,Men,Navy,0,alpha,0.05
+P-00132,Tribe Print Pants,FS24,111.99,Pants,XL,124,283,Tribe,Men,Burgundy,40,alpha,0.695
+L-00160,Geographic Graphic Sweatshirt,SS25,130.99,Sweatshirt,XL,220,203,Geographic,Men,Beige Sand,0,alpha,0.48
+PS-00096,Iconic Quilted Polo,SS25,66.99,Polo,XL,250,221,Iconic,Men,Black Beauty,0,alpha,0.469
+L-00161,Box Logo Half-Zip Sweatshirt,FS24,136.99,Sweatshirt,L,155,441,Box Logo,Men,Navy,40,alpha,0.74
+\00082,Cresta Logo Shoes,FS24,94.99,Shoes,43,78,208,Cresta,Men,Grey Melange,20,numeric,0.727
+M-00106,Iconic Print Shirt,SS25,129.99,Shirt,XS,115,52,Iconic,Men,Burgundy,0,alpha,0.311
+\00083,Slate Shoes,SS25,102.99,Shoes,43,406,149,Slate,Men,Bright Red,0,numeric,0.268
+P-00133,Geographic Quilted Pants,SS25,93.99,Pants,S,116,136,Geographic,Men,Burgundy,0,alpha,0.54
+PS-00097,Geographic Heritage Polo,SS25,109.99,Polo,S,423,126,Geographic,Men,Forest Green,0,alpha,0.23
+P-00134,Iconic Stripe Pants,SS25,127.99,Pants,L,42,39,Iconic,Men,Snow White,0,alpha,0.481
+S-00229,Tribe Print T-Shirt,SS25,49.99,T-Shirt,M,295,27,Tribe,Men,Blue Marine,0,alpha,0.084
+M-00108,Circular Logo Shirt,FS24,133.99,Shirt,XS,26,417,Circular,Men,Caviar,40,alpha,0.941
+S-00230,Circular Graphic T-Shirt,FS24,52.99,T-Shirt,XL,61,286,Circular,Men,Free Blue,10,alpha,0.824
+PS-00098,Geographic Stripe Polo,SS25,74.99,Polo,S,130,47,Geographic,Men,Yellow Sunshine,0,alpha,0.266
+WV-00042,Sun-Lover Stretch Swimwear,SS25,52.99,Swimwear,L,301,67,Sun-Lover,Women,Khaki,0,alpha,0.182
+WS-00188,Tribe Stretch T-Shirt,FS24,90.99,T-Shirt,S,29,69,Tribe,Women,Bright White,40,alpha,0.704
+S-00232,Morgex Half-Zip T-Shirt,FS24,92.99,T-Shirt,L,76,239,Morgex,Men,Free Blue,30,alpha,0.759
+WN-00057,Morgex Stripe Shorts,FS24,64.99,Shorts,M,89,330,Morgex,Women,Burgundy,40,alpha,0.788
+M-00109,Circular Logo Shirt,FS24,98.99,Shirt,S,14,39,Circular,Men,Caviar,30,alpha,0.736
+L-00164,Morgex Quilted Sweatshirt,SS25,140.99,Sweatshirt,S,189,137,Morgex,Men,Old Rose,0,alpha,0.42
+S-00233,Rainforest Quilted T-Shirt,FS24,90.99,T-Shirt,XXL,236,314,Rainforest,Men,Khaki,30,alpha,0.571
+L-00165,Geographic Stripe Sweatshirt,SS25,161.99,Sweatshirt,XXL,199,190,Geographic,Men,Burgundy,0,alpha,0.488
+WS-00190,Morgex Stretch T-Shirt,SS25,78.99,T-Shirt,XXL,106,90,Morgex,Women,White Whisper,0,alpha,0.459
+P-00136,Iconic Quilted Pants,SS25,148.99,Pants,M,213,26,Iconic,Men,Navy,0,alpha,0.109
+W\00060,Trail Stripe Shoes,FS24,155.99,Shoes,37,15,205,Trail,Women,Caviar,20,numeric,0.932
+S-00234,Rainforest Stretch T-Shirt,FS24,73.99,T-Shirt,M,18,240,Rainforest,Men,Forest Green,15,alpha,0.93
+M-00110,Tribe Stripe Shirt,SS25,113.99,Shirt,S,432,45,Tribe,Men,Free Blue,0,alpha,0.094
+WS-00193,Patch Print T-Shirt,SS25,77.99,T-Shirt,XL,136,91,Patch,Women,Burgundy,0,alpha,0.401
+WPS-00085,Tribe Print Polo,SS25,109.99,Polo,S,36,21,Tribe,Women,Bright White,0,alpha,0.368
+WN-00058,Geographic Quilted Shorts,SS25,91.99,Shorts,XXL,196,32,Geographic,Women,Free Blue,0,alpha,0.14
+M-00112,Iconic Half-Zip Shirt,FS24,86.99,Shirt,M,28,105,Iconic,Men,Green Lichen,20,alpha,0.789
+M-00113,Patch Heritage Shirt,FS24,91.99,Shirt,S,4,36,Patch,Men,Yellow Sunshine,20,alpha,0.9
+WS-00194,Geographic Quilted T-Shirt,SS25,73.99,T-Shirt,XS,494,54,Geographic,Women,Pale Mint,0,alpha,0.099
+WN-00059,Morgex Stripe Shorts,SS25,64.99,Shorts,XL,326,127,Morgex,Women,Green Lichen,0,alpha,0.28
+L-00166,Box Logo Heritage Sweatshirt,FS24,148.99,Sweatshirt,S,189,346,Box Logo,Men,Bright Red,15,alpha,0.647
+N-00085,Geographic Heritage Shorts,FS24,50.99,Shorts,XXL,61,326,Geographic,Men,Bright White,25,alpha,0.842
+BackpackRainforest-0001,Rainforest Backpack,FS24,100.99,Accessories,One Size,130,226,Rainforest,Men,Burgundy,20,alpha,0.635
+WS-00195,Iconic Stripe T-Shirt,SS25,65.99,T-Shirt,M,144,174,Iconic,Women,Free Blue,0,alpha,0.547
+L-00167,Morgex Sweatshirt,SS25,100.99,Sweatshirt,XXL,135,48,Morgex,Men,Orange Tangerine,0,alpha,0.262
+WL-00150,Morgex Heritage Sweatshirt,FS24,167.99,Sweatshirt,M,31,469,Morgex,Women,Petit Four,20,alpha,0.938
+W\00061,Trail Stretch Shoes,FS24,121.99,Shoes,36,32,41,Trail,Women,Caviar,20,numeric,0.562
+P-00140,Rainforest Pants,SS25,134.99,Pants,XXL,360,69,Rainforest,Men,Green Lichen,0,alpha,0.161
+P-00141,Patch Quilted Pants,FS24,141.99,Pants,M,168,317,Patch,Men,Olive,20,alpha,0.654
+\00085,Slate Shoes,SS25,102.99,Shoes,41,439,57,Slate,Men,Blue Marine,0,numeric,0.115
+WN-00060,Rainforest Logo Shorts,SS25,51.99,Shorts,S,46,4,Rainforest,Women,Bright Red,0,alpha,0.08
+\00086,Box Logo Heritage Shoes,FS24,175.99,Shoes,45,9,33,Box Logo,Men,Beige Sand,25,numeric,0.786
+S-00237,Geographic Heritage T-Shirt,SS25,53.99,T-Shirt,S,291,48,Geographic,Men,White Whisper,0,alpha,0.142
+P-00142,Circular Quilted Pants,SS25,159.99,Pants,XS,215,146,Circular,Men,Petit Four,0,alpha,0.404
+WS-00196,Patch Print T-Shirt,SS25,86.99,T-Shirt,S,242,85,Patch,Women,White Whisper,0,alpha,0.26
+M-00117,Rainforest Stretch Shirt,SS25,128.99,Shirt,L,148,147,Rainforest,Men,Snow White,0,alpha,0.498
+S-00238,Circular Heritage T-Shirt,FS24,87.99,T-Shirt,XS,172,375,Circular,Men,Khaki,30,alpha,0.686
+WPS-00090,Geographic Quilted Polo,SS25,87.99,Polo,L,497,97,Geographic,Women,Khaki,0,alpha,0.163
+W\00062,Box Logo Shoes,SS25,153.99,Shoes,38,195,29,Box Logo,Women,Burgundy,0,numeric,0.129
+L-00172,Rainforest Sweatshirt,SS25,106.99,Sweatshirt,S,114,12,Rainforest,Men,Bright Red,0,alpha,0.095
+\00088,Box Logo Quilted Shoes,FS24,191.99,Shoes,40,54,216,Box Logo,Men,White Whisper,20,numeric,0.8
+S-00240,Circular Heritage T-Shirt,SS25,69.99,T-Shirt,S,196,30,Circular,Men,Khaki,0,alpha,0.133
+WM-00103,Geographic Quilted Shirt,FS24,125.99,Shirt,XXL,62,244,Geographic,Women,Blue Marine,15,alpha,0.797
+P-00143,Tribe Logo Pants,SS25,158.99,Pants,XXL,114,133,Tribe,Men,Beige Sand,0,alpha,0.538
+PS-00099,Rainforest Half-Zip Polo,FS24,86.99,Polo,S,87,110,Rainforest,Men,Orange Tangerine,30,alpha,0.558
+WS-00199,Iconic Stretch T-Shirt,SS25,75.99,T-Shirt,XS,176,25,Iconic,Women,Bright White,0,alpha,0.124
+WS-00201,Box Logo Quilted T-Shirt,FS24,87.99,T-Shirt,S,17,23,Box Logo,Women,Caviar,50,alpha,0.575
+M-00119,Rainforest Stripe Shirt,FS24,125.99,Shirt,M,150,301,Rainforest,Men,Yellow Sunshine,15,alpha,0.667
+\00090,Cresta Quilted Shoes,FS24,126.99,Shoes,41,90,134,Cresta,Men,Olive,30,numeric,0.598
+L-00173,Iconic Stripe Sweatshirt,FS24,113.99,Sweatshirt,L,68,256,Iconic,Men,Green Lichen,30,alpha,0.79
+N-00086,Box Logo Shorts,SS25,61.99,Shorts,M,463,129,Box Logo,Men,White Whisper,0,alpha,0.218
+WL-00153,Iconic Graphic Sweatshirt,FS24,116.99,Sweatshirt,M,23,267,Iconic,Women,Black Beauty,25,alpha,0.921
+W\00063,Trail Heritage Shoes,FS24,116.99,Shoes,37,33,424,Trail,Women,Stone Grey,25,numeric,0.928
+WP-00103,Tribe Print Pants,SS25,97.99,Pants,L,416,112,Tribe,Women,Free Blue,0,alpha,0.212
+N-00087,Geographic Logo Shorts,SS25,66.99,Shorts,XXL,74,42,Geographic,Men,Black Beauty,0,alpha,0.362
+WL-00154,Circular Stretch Sweatshirt,FS24,108.99,Sweatshirt,XXL,97,372,Circular,Women,Blue Marine,40,alpha,0.793
+P-00145,Circular Stretch Pants,FS24,106.99,Pants,XS,181,317,Circular,Men,Grey Melange,25,alpha,0.637
+P-00146,Geographic Quilted Pants,FS24,144.99,Pants,M,6,43,Geographic,Men,Old Rose,15,alpha,0.878
+WP-00104,Patch Logo Pants,FS24,154.99,Pants,XS,52,504,Patch,Women,Pale Mint,20,alpha,0.906
+S-00243,Morgex Print T-Shirt,FS24,71.99,T-Shirt,XXL,237,349,Morgex,Men,Yellow Sunshine,15,alpha,0.596
+M-00120,Box Logo Quilted Shirt,FS24,105.99,Shirt,XL,63,504,Box Logo,Men,Khaki,20,alpha,0.889
+M-00121,Box Logo Stretch Shirt,SS25,116.99,Shirt,M,514,58,Box Logo,Men,Black Beauty,0,alpha,0.101
+PS-00100,Tribe Graphic Polo,SS25,94.99,Polo,M,400,193,Tribe,Men,Pale Mint,0,alpha,0.325
+\00092,Trail Graphic Shoes,FS24,160.99,Shoes,40,24,212,Trail,Men,Black Beauty,20,numeric,0.898
+SocksMorgex-0003,Morgex Socks,FS24,83.99,Accessories,One Size,10,49,Morgex,Men,Snow White,25,alpha,0.831
+W\00066,Cresta Quilted Shoes,SS25,208.99,Shoes,37,249,92,Cresta,Women,Old Rose,0,numeric,0.27
+S-00244,Rainforest Stretch T-Shirt,FS24,84.99,T-Shirt,XXL,84,337,Rainforest,Men,Caviar,25,alpha,0.8
+M-00122,Iconic Quilted Shirt,FS24,102.99,Shirt,XXL,125,389,Iconic,Men,Green Lichen,15,alpha,0.757
+WM-00104,Tribe Print Shirt,FS24,125.99,Shirt,XXL,141,231,Tribe,Women,Olive,25,alpha,0.621
+WL-00158,Tribe Graphic Sweatshirt,SS25,112.99,Sweatshirt,M,250,238,Tribe,Women,Free Blue,0,alpha,0.488
+N-00089,Morgex Half-Zip Shorts,FS24,68.99,Shorts,XL,187,323,Morgex,Men,Blue Marine,10,alpha,0.633
+WL-00159,Iconic Half-Zip Sweatshirt,SS25,160.99,Sweatshirt,XXL,166,60,Iconic,Women,Beige Sand,0,alpha,0.265
+M-00123,Tribe Shirt,SS25,149.99,Shirt,L,99,44,Tribe,Men,Old Rose,0,alpha,0.308
+W\00067,Box Logo Shoes,FS24,152.99,Shoes,39,140,390,Box Logo,Women,Beige Sand,15,numeric,0.736
+WM-00105,Circular Logo Shirt,SS25,112.99,Shirt,M,392,53,Circular,Women,Bright Red,0,alpha,0.119
+WP-00106,Circular Half-Zip Pants,FS24,95.99,Pants,M,11,58,Circular,Women,Burgundy,15,alpha,0.841
+N-00090,Morgex Print Shorts,FS24,59.99,Shorts,L,44,375,Morgex,Men,Olive,25,alpha,0.895
+S-00247,Rainforest Print T-Shirt,SS25,53.99,T-Shirt,S,508,85,Rainforest,Men,Petit Four,0,alpha,0.143
+V-00050,Sun-Lover Stripe Swimwear,FS24,77.99,Swimwear,S,233,342,Sun-Lover,Men,Snow White,30,alpha,0.595
+BeltIconic-0001,Iconic Belt,FS24,21.99,Accessories,One Size,21,189,Iconic,Men,Khaki,25,alpha,0.9
+L-00176,Patch Stripe Sweatshirt,SS25,148.99,Sweatshirt,XL,212,40,Patch,Men,Old Rose,0,alpha,0.159
+WN-00061,Patch Shorts,SS25,78.99,Shorts,XXL,312,54,Patch,Women,Stone Grey,0,alpha,0.148
+L-00177,Rainforest Stretch Sweatshirt,SS25,134.99,Sweatshirt,XXL,136,28,Rainforest,Men,Navy,0,alpha,0.171
+W\00069,Box Logo Print Shoes,FS24,208.99,Shoes,38,199,349,Box Logo,Women,Beige Sand,10,numeric,0.637
+WN-00062,Rainforest Print Shorts,SS25,71.99,Shorts,XXL,300,150,Rainforest,Women,Green Lichen,0,alpha,0.333
+PS-00103,Circular Half-Zip Polo,SS25,95.99,Polo,XL,177,53,Circular,Men,Caviar,0,alpha,0.23
+WN-00063,Circular Half-Zip Shorts,SS25,92.99,Shorts,L,51,32,Circular,Women,Navy,0,alpha,0.386
+WV-00046,Box Logo Heritage Swimwear,FS24,83.99,Swimwear,XS,68,303,Box Logo,Women,Pale Mint,10,alpha,0.817
+WL-00161,Morgex Logo Sweatshirt,FS24,168.99,Sweatshirt,XL,42,322,Morgex,Women,Pale Mint,20,alpha,0.885
+S-00249,Morgex Stretch T-Shirt,FS24,82.99,T-Shirt,M,14,140,Morgex,Men,Olive,30,alpha,0.909
+PS-00104,Patch Heritage Polo,FS24,71.99,Polo,L,24,288,Patch,Men,Petit Four,15,alpha,0.923
+L-00178,Rainforest Logo Sweatshirt,FS24,146.99,Sweatshirt,XL,85,142,Rainforest,Men,Bright White,50,alpha,0.626
+S-00252,Morgex Graphic T-Shirt,SS25,34.99,T-Shirt,M,224,35,Morgex,Men,Bright White,0,alpha,0.135
+WM-00106,Box Logo Shirt,FS24,105.99,Shirt,XXL,24,171,Box Logo,Women,Bright White,20,alpha,0.877
+M-00125,Box Logo Logo Shirt,FS24,95.99,Shirt,L,13,62,Box Logo,Men,Black Beauty,15,alpha,0.827
+PS-00106,Box Logo Print Polo,SS25,106.99,Polo,L,60,70,Box Logo,Men,Stone Grey,0,alpha,0.538
+WL-00164,Box Logo Half-Zip Sweatshirt,SS25,122.99,Sweatshirt,XS,432,148,Box Logo,Women,Stone Grey,0,alpha,0.255
+WPS-00095,Box Logo Heritage Polo,SS25,76.99,Polo,S,99,92,Box Logo,Women,Grey Melange,0,alpha,0.482
+N-00091,Circular Half-Zip Shorts,SS25,56.99,Shorts,XL,42,2,Circular,Men,Yellow Sunshine,0,alpha,0.045
+L-00180,Iconic Half-Zip Sweatshirt,FS24,96.99,Sweatshirt,XS,39,95,Iconic,Men,Blue Marine,10,alpha,0.709
+N-00092,Tribe Quilted Shorts,FS24,86.99,Shorts,L,31,553,Tribe,Men,Bright White,15,alpha,0.947
+L-00181,Box Logo Graphic Sweatshirt,SS25,137.99,Sweatshirt,XL,271,325,Box Logo,Men,Caviar,0,alpha,0.545
+W\00070,Box Logo Shoes,FS24,101.99,Shoes,36,61,120,Box Logo,Women,Snow White,15,numeric,0.663
+\00094,Slate Logo Shoes,FS24,170.99,Shoes,42,147,314,Slate,Men,Bright White,15,numeric,0.681
+N-00093,Patch Stripe Shorts,SS25,91.99,Shorts,M,80,77,Patch,Men,Bright Red,0,alpha,0.49
+WS-00214,Morgex Stripe T-Shirt,FS24,61.99,T-Shirt,XXL,132,240,Morgex,Women,Petit Four,10,alpha,0.645
+V-00053,Wave Swimwear,FS24,55.99,Swimwear,M,134,356,Wave,Men,Navy,30,alpha,0.727
+S-00257,Circular Stretch T-Shirt,SS25,39.99,T-Shirt,XL,267,15,Circular,Men,Black Beauty,0,alpha,0.053
+L-00184,Tribe Stretch Sweatshirt,FS24,124.99,Sweatshirt,M,196,275,Tribe,Men,Navy,30,alpha,0.584
+S-00258,Box Logo Stripe T-Shirt,FS24,85.99,T-Shirt,XXL,23,376,Box Logo,Men,Stone Grey,30,alpha,0.942
+N-00094,Geographic Stripe Shorts,SS25,77.99,Shorts,XL,436,162,Geographic,Men,Khaki,0,alpha,0.271
+W\00071,Slate Half-Zip Shoes,FS24,109.99,Shoes,41,18,83,Slate,Women,Orange Tangerine,30,numeric,0.822
+\00095,Slate Stripe Shoes,FS24,185.99,Shoes,45,232,368,Slate,Men,White Whisper,30,numeric,0.613
+WL-00165,Geographic Logo Sweatshirt,SS25,148.99,Sweatshirt,XS,296,58,Geographic,Women,Yellow Sunshine,0,alpha,0.164
+WP-00114,Geographic Pants,SS25,140.99,Pants,XS,231,127,Geographic,Women,Forest Green,0,alpha,0.355
+WGlovesTribe-0001,Tribe Gloves,SS25,31.99,Accessories,S,215,32,Tribe,Women,Orange Tangerine,0,alpha,0.13
+WM-00110,Box Logo Heritage Shirt,SS25,110.99,Shirt,XS,325,63,Box Logo,Women,Burgundy,0,alpha,0.162
+L-00186,Box Logo Quilted Sweatshirt,SS25,161.99,Sweatshirt,XL,340,154,Box Logo,Men,Orange Tangerine,0,alpha,0.312
+WS-00217,Rainforest Heritage T-Shirt,SS25,48.99,T-Shirt,XXL,73,81,Rainforest,Women,Olive,0,alpha,0.526
+WS-00218,Iconic Logo T-Shirt,FS24,42.99,T-Shirt,S,149,284,Iconic,Women,Olive,50,alpha,0.656
+S-00259,Box Logo Print T-Shirt,FS24,89.99,T-Shirt,L,32,40,Box Logo,Men,Pale Mint,30,alpha,0.556
+V-00054,Wave Half-Zip Swimwear,FS24,59.99,Swimwear,XS,65,348,Wave,Men,Green Lichen,25,alpha,0.843
+WV-00047,Sun-Lover Stretch Swimwear,SS25,56.99,Swimwear,S,40,47,Sun-Lover,Women,Orange Tangerine,0,alpha,0.54
+N-00095,Iconic Shorts,FS24,58.99,Shorts,XS,28,389,Iconic,Men,Black Beauty,30,alpha,0.933
+PS-00107,Tribe Heritage Polo,SS25,70.99,Polo,S,291,74,Tribe,Men,Orange Tangerine,0,alpha,0.203
+WPS-00097,Geographic Stretch Polo,FS24,96.99,Polo,M,86,424,Geographic,Women,Yellow Sunshine,30,alpha,0.831
+S-00262,Tribe Stripe T-Shirt,SS25,69.99,T-Shirt,XXL,391,136,Tribe,Men,Old Rose,0,alpha,0.258
+S-00263,Tribe T-Shirt,FS24,72.99,T-Shirt,L,34,422,Tribe,Men,Stone Grey,30,alpha,0.925
+WN-00066,Geographic Heritage Shorts,SS25,57.99,Shorts,L,216,35,Geographic,Women,Orange Tangerine,0,alpha,0.139
+L-00187,Rainforest Half-Zip Sweatshirt,FS24,114.99,Sweatshirt,M,175,421,Rainforest,Men,Blue Marine,15,alpha,0.706
+S-00265,Box Logo Logo T-Shirt,SS25,93.99,T-Shirt,L,251,245,Box Logo,Men,Beige Sand,0,alpha,0.494
+WS-00220,Box Logo Stripe T-Shirt,FS24,45.99,T-Shirt,S,190,319,Box Logo,Women,White Whisper,25,alpha,0.627
+W\00073,Trail Heritage Shoes,FS24,189.99,Shoes,38,19,464,Trail,Women,Blue Marine,15,numeric,0.961
+\00096,Slate Logo Shoes,SS25,166.99,Shoes,45,122,48,Slate,Men,Blue Marine,0,numeric,0.282
+PS-00109,Morgex Stripe Polo,FS24,109.99,Polo,L,143,360,Morgex,Men,Bright Red,10,alpha,0.716
+N-00097,Circular Stretch Shorts,SS25,80.99,Shorts,L,243,219,Circular,Men,Navy,0,alpha,0.474
+N-00098,Morgex Print Shorts,SS25,65.99,Shorts,M,49,26,Morgex,Men,Forest Green,0,alpha,0.347
+N-00099,Box Logo Graphic Shorts,FS24,84.99,Shorts,XL,48,205,Box Logo,Men,Forest Green,25,alpha,0.81
+WN-00067,Geographic Half-Zip Shorts,SS25,59.99,Shorts,L,421,55,Geographic,Women,Navy,0,alpha,0.116
+WPS-00099,Box Logo Quilted Polo,SS25,81.99,Polo,XL,90,45,Box Logo,Women,Caviar,0,alpha,0.333
+S-00268,Iconic Quilted T-Shirt,SS25,49.99,T-Shirt,M,62,28,Iconic,Men,Bright Red,0,alpha,0.311
+WP-00116,Patch Print Pants,FS24,96.99,Pants,M,70,311,Patch,Women,Yellow Sunshine,50,alpha,0.816
+WN-00068,Tribe Stripe Shorts,SS25,93.99,Shorts,M,467,62,Tribe,Women,Petit Four,0,alpha,0.117
+WN-00069,Morgex Stretch Shorts,FS24,59.99,Shorts,XL,22,330,Morgex,Women,Caviar,15,alpha,0.938
+\00097,Slate Stripe Shoes,SS25,163.99,Shoes,46,143,69,Slate,Men,Free Blue,0,numeric,0.325
+S-00270,Patch Heritage T-Shirt,FS24,38.99,T-Shirt,S,59,272,Patch,Men,White Whisper,20,alpha,0.822
+WS-00225,Iconic Logo T-Shirt,SS25,48.99,T-Shirt,XL,238,181,Iconic,Women,White Whisper,0,alpha,0.432
+WL-00172,Geographic Stripe Sweatshirt,FS24,122.99,Sweatshirt,XL,7,38,Geographic,Women,Navy,10,alpha,0.844
+WM-00113,Geographic Graphic Shirt,FS24,135.99,Shirt,M,181,268,Geographic,Women,Yellow Sunshine,25,alpha,0.597
+WP-00117,Box Logo Logo Pants,FS24,125.99,Pants,L,87,491,Box Logo,Women,Orange Tangerine,30,alpha,0.849
+WM-00114,Patch Shirt,FS24,138.99,Shirt,M,51,444,Patch,Women,Forest Green,15,alpha,0.897
+N-00102,Rainforest Shorts,FS24,75.99,Shorts,L,42,430,Rainforest,Men,Orange Tangerine,25,alpha,0.911
+WS-00227,Morgex Stripe T-Shirt,SS25,90.99,T-Shirt,M,79,32,Morgex,Women,Grey Melange,0,alpha,0.288
+W\00078,Box Logo Heritage Shoes,SS25,197.99,Shoes,42,201,32,Box Logo,Women,Black Beauty,0,numeric,0.137
+WP-00118,Geographic Graphic Pants,SS25,128.99,Pants,L,285,28,Geographic,Women,Navy,0,alpha,0.089
+WL-00173,Patch Half-Zip Sweatshirt,FS24,143.99,Sweatshirt,XL,79,222,Patch,Women,Snow White,30,alpha,0.738
+WN-00070,Patch Stripe Shorts,FS24,57.99,Shorts,L,27,55,Patch,Women,Navy,30,alpha,0.671
+S-00271,Circular Print T-Shirt,FS24,92.99,T-Shirt,XL,103,205,Circular,Men,Blue Marine,15,alpha,0.666
+S-00272,Tribe Graphic T-Shirt,SS25,76.99,T-Shirt,M,89,40,Tribe,Men,Caviar,0,alpha,0.31
+S-00273,Morgex Quilted T-Shirt,SS25,63.99,T-Shirt,XXL,408,26,Morgex,Men,Old Rose,0,alpha,0.06
+P-00157,Rainforest Quilted Pants,FS24,131.99,Pants,XL,25,62,Rainforest,Men,Stone Grey,20,alpha,0.713
+N-00104,Tribe Half-Zip Shorts,SS25,81.99,Shorts,XXL,317,238,Tribe,Men,Navy,0,alpha,0.429
+WM-00115,Box Logo Heritage Shirt,FS24,85.99,Shirt,XL,13,223,Box Logo,Women,Green Lichen,30,alpha,0.945
+WM-00116,Morgex Print Shirt,SS25,113.99,Shirt,M,326,238,Morgex,Women,Olive,0,alpha,0.422
+W\00079,Box Logo Stretch Shoes,FS24,103.99,Shoes,41,120,460,Box Logo,Women,Burgundy,25,numeric,0.793
+N-00105,Box Logo Quilted Shorts,FS24,86.99,Shorts,M,13,172,Box Logo,Men,Blue Marine,25,alpha,0.93
+WPS-00102,Box Logo Print Polo,SS25,104.99,Polo,XL,50,22,Box Logo,Women,Beige Sand,0,alpha,0.306
+\00099,Cresta Print Shoes,SS25,108.99,Shoes,43,136,73,Cresta,Men,Yellow Sunshine,0,numeric,0.349
+M-00133,Rainforest Graphic Shirt,SS25,85.99,Shirt,S,149,37,Rainforest,Men,Black Beauty,0,alpha,0.199
+WP-00121,Iconic Logo Pants,FS24,91.99,Pants,M,46,403,Iconic,Women,Petit Four,30,alpha,0.898
+PS-00111,Geographic Heritage Polo,FS24,92.99,Polo,XL,68,226,Geographic,Men,Blue Marine,30,alpha,0.769
+PS-00112,Circular Stripe Polo,SS25,78.99,Polo,S,60,19,Circular,Men,Bright White,0,alpha,0.241
+WS-00228,Geographic Half-Zip T-Shirt,FS24,63.99,T-Shirt,XS,172,285,Geographic,Women,Black Beauty,20,alpha,0.624
+W\00080,Trail Print Shoes,SS25,130.99,Shoes,37,273,255,Trail,Women,Bright Red,0,numeric,0.483
+WPS-00104,Morgex Logo Polo,SS25,84.99,Polo,XS,335,245,Morgex,Women,Olive,0,alpha,0.422
+\00100,Cresta Half-Zip Shoes,FS24,155.99,Shoes,41,172,375,Cresta,Men,Beige Sand,10,numeric,0.686
+\00101,Box Logo Print Shoes,SS25,167.99,Shoes,44,304,181,Box Logo,Men,Bright White,0,numeric,0.373
+WV-00050,Sun-Lover Stretch Swimwear,SS25,44.99,Swimwear,M,179,15,Sun-Lover,Women,Pale Mint,0,alpha,0.077
+PS-00113,Rainforest Half-Zip Polo,FS24,91.99,Polo,XL,15,366,Rainforest,Men,Olive,20,alpha,0.961
+S-00277,Iconic Stretch T-Shirt,SS25,69.99,T-Shirt,XXL,93,38,Iconic,Men,Orange Tangerine,0,alpha,0.29
+WM-00118,Patch Stretch Shirt,SS25,96.99,Shirt,XXL,411,91,Patch,Women,Petit Four,0,alpha,0.181
+P-00161,Patch Quilted Pants,SS25,95.99,Pants,L,293,250,Patch,Men,Forest Green,0,alpha,0.46
+WBeanieGeographic-0001,Geographic Beanie,SS25,88.99,Accessories,One Size,167,87,Geographic,Women,Grey Melange,0,alpha,0.343
+WP-00123,Rainforest Stretch Pants,SS25,139.99,Pants,S,130,71,Rainforest,Women,Petit Four,0,alpha,0.353
+WM-00120,Morgex Stripe Shirt,FS24,104.99,Shirt,M,106,180,Morgex,Women,Petit Four,25,alpha,0.629
+PS-00116,Box Logo Graphic Polo,FS24,109.99,Polo,M,85,258,Box Logo,Men,Orange Tangerine,40,alpha,0.752
+S-00279,Patch Stripe T-Shirt,FS24,85.99,T-Shirt,L,180,277,Patch,Men,Forest Green,20,alpha,0.606
+WM-00121,Circular Stripe Shirt,FS24,101.99,Shirt,XS,16,99,Circular,Women,Black Beauty,15,alpha,0.861
+WPS-00105,Rainforest Stripe Polo,FS24,97.99,Polo,L,28,61,Rainforest,Women,Petit Four,10,alpha,0.685
+M-00136,Geographic Shirt,SS25,139.99,Shirt,XS,91,85,Geographic,Men,Caviar,0,alpha,0.483
+N-00106,Morgex Print Shorts,FS24,56.99,Shorts,XS,10,46,Morgex,Men,Navy,15,alpha,0.821
+M-00137,Patch Shirt,SS25,147.99,Shirt,L,217,145,Patch,Men,Bright White,0,alpha,0.401
+WM-00122,Circular Shirt,FS24,138.99,Shirt,M,222,276,Circular,Women,Blue Marine,30,alpha,0.554
+WPS-00106,Iconic Half-Zip Polo,SS25,65.99,Polo,S,299,109,Iconic,Women,Bright Red,0,alpha,0.267
+WPS-00107,Geographic Logo Polo,FS24,72.99,Polo,XXL,149,305,Geographic,Women,Olive,15,alpha,0.672
+WM-00125,Morgex Heritage Shirt,SS25,91.99,Shirt,L,271,100,Morgex,Women,Old Rose,0,alpha,0.27
+WL-00181,Rainforest Logo Sweatshirt,SS25,160.99,Sweatshirt,XS,309,227,Rainforest,Women,Burgundy,0,alpha,0.424
+V-00059,Box Logo Stripe Swimwear,FS24,76.99,Swimwear,XXL,15,60,Box Logo,Men,Green Lichen,25,alpha,0.8
+WP-00124,Patch Pants,FS24,115.99,Pants,XXL,58,408,Patch,Women,Black Beauty,25,alpha,0.876
+V-00060,Box Logo Stretch Swimwear,FS24,54.99,Swimwear,XXL,67,380,Box Logo,Men,Navy,20,alpha,0.85
+N-00107,Iconic Heritage Shorts,SS25,62.99,Shorts,S,363,215,Iconic,Men,Stone Grey,0,alpha,0.372
+WM-00127,Morgex Print Shirt,SS25,125.99,Shirt,XXL,290,188,Morgex,Women,Caviar,0,alpha,0.393
+S-00289,Box Logo Stripe T-Shirt,SS25,39.99,T-Shirt,L,398,52,Box Logo,Men,Bright Red,0,alpha,0.116
+WM-00128,Patch Graphic Shirt,SS25,116.99,Shirt,S,280,26,Patch,Women,Blue Marine,0,alpha,0.085
+L-00195,Morgex Print Sweatshirt,SS25,119.99,Sweatshirt,S,225,231,Morgex,Men,Black Beauty,0,alpha,0.507
+WPS-00108,Morgex Quilted Polo,SS25,96.99,Polo,S,424,37,Morgex,Women,Khaki,0,alpha,0.08
+WP-00126,Circular Half-Zip Pants,SS25,149.99,Pants,XL,277,259,Circular,Women,Burgundy,0,alpha,0.483
+\00104,Box Logo Graphic Shoes,FS24,160.99,Shoes,41,55,97,Box Logo,Men,Bright White,20,numeric,0.638
+WM-00129,Box Logo Stretch Shirt,FS24,110.99,Shirt,L,57,369,Box Logo,Women,Navy,40,alpha,0.866
+\00105,Cresta Graphic Shoes,FS24,167.99,Shoes,45,123,193,Cresta,Men,Bright White,10,numeric,0.611
+N-00108,Geographic Shorts,SS25,82.99,Shorts,XL,204,163,Geographic,Men,Beige Sand,0,alpha,0.444
+P-00167,Circular Graphic Pants,FS24,150.99,Pants,L,206,362,Circular,Men,Olive,15,alpha,0.637
+WV-00054,Box Logo Quilted Swimwear,FS24,57.99,Swimwear,XL,38,90,Box Logo,Women,Black Beauty,20,alpha,0.703
+V-00061,Wave Logo Swimwear,SS25,53.99,Swimwear,L,127,49,Wave,Men,Olive,0,alpha,0.278
+WV-00055,Box Logo Quilted Swimwear,FS24,78.99,Swimwear,XXL,212,286,Box Logo,Women,Snow White,30,alpha,0.574
+PS-00117,Iconic Heritage Polo,SS25,77.99,Polo,L,519,47,Iconic,Men,Petit Four,0,alpha,0.083
+L-00198,Circular Heritage Sweatshirt,SS25,100.99,Sweatshirt,XS,147,28,Circular,Men,Olive,0,alpha,0.16
+N-00109,Geographic Print Shorts,SS25,66.99,Shorts,S,302,185,Geographic,Men,Caviar,0,alpha,0.38
+\00107,Trail Heritage Shoes,FS24,90.99,Shoes,43,173,319,Trail,Men,Beige Sand,20,numeric,0.648
+W\00083,Cresta Logo Shoes,FS24,201.99,Shoes,41,190,378,Cresta,Women,Stone Grey,25,numeric,0.665
+WV-00056,Wave Graphic Swimwear,SS25,48.99,Swimwear,XS,84,21,Wave,Women,Free Blue,0,alpha,0.2
+WL-00186,Rainforest Stripe Sweatshirt,FS24,148.99,Sweatshirt,S,37,308,Rainforest,Women,Bright Red,10,alpha,0.893
+M-00139,Patch Quilted Shirt,SS25,102.99,Shirt,XL,407,82,Patch,Men,Yellow Sunshine,0,alpha,0.168
+L-00199,Tribe Stretch Sweatshirt,SS25,105.99,Sweatshirt,XL,204,213,Tribe,Men,White Whisper,0,alpha,0.511
+SocksIconic-0003,Iconic Socks,FS24,104.99,Accessories,S,32,269,Iconic,Men,Forest Green,30,alpha,0.894
+PS-00118,Tribe Quilted Polo,SS25,91.99,Polo,S,184,212,Tribe,Men,Beige Sand,0,alpha,0.535
+N-00110,Circular Stripe Shorts,SS25,61.99,Shorts,XL,308,118,Circular,Men,Grey Melange,0,alpha,0.277
+S-00293,Circular Stretch T-Shirt,FS24,42.99,T-Shirt,XS,29,414,Circular,Men,Snow White,40,alpha,0.935
+WL-00187,Tribe Stretch Sweatshirt,FS24,156.99,Sweatshirt,L,23,33,Tribe,Women,Yellow Sunshine,25,alpha,0.589
+WN-00071,Circular Shorts,FS24,89.99,Shorts,S,87,450,Circular,Women,Olive,20,alpha,0.838
+S-00295,Patch Graphic T-Shirt,SS25,83.99,T-Shirt,M,154,147,Patch,Men,Green Lichen,0,alpha,0.488
+WM-00132,Tribe Logo Shirt,SS25,144.99,Shirt,M,256,23,Tribe,Women,Bright Red,0,alpha,0.082
+WS-00241,Patch Quilted T-Shirt,SS25,65.99,T-Shirt,L,358,127,Patch,Women,Navy,0,alpha,0.262
+WL-00188,Patch Print Sweatshirt,SS25,106.99,Sweatshirt,XS,248,283,Patch,Women,Stone Grey,0,alpha,0.533
+WS-00244,Box Logo Print T-Shirt,SS25,50.99,T-Shirt,S,299,55,Box Logo,Women,Green Lichen,0,alpha,0.155
+P-00171,Patch Stripe Pants,SS25,114.99,Pants,M,266,279,Patch,Men,Forest Green,0,alpha,0.512
+WL-00191,Rainforest Print Sweatshirt,SS25,129.99,Sweatshirt,XS,257,216,Rainforest,Women,Grey Melange,0,alpha,0.457
+WPS-00109,Geographic Logo Polo,FS24,77.99,Polo,L,39,112,Geographic,Women,Caviar,20,alpha,0.742
+N-00113,Morgex Graphic Shorts,SS25,85.99,Shorts,L,293,264,Morgex,Men,Black Beauty,0,alpha,0.474
+PS-00122,Iconic Graphic Polo,SS25,81.99,Polo,S,185,75,Iconic,Men,Beige Sand,0,alpha,0.288
+WP-00128,Rainforest Print Pants,SS25,149.99,Pants,L,294,123,Rainforest,Women,Green Lichen,0,alpha,0.295
+W\00085,Slate Heritage Shoes,FS24,208.99,Shoes,36,119,476,Slate,Women,Navy,30,numeric,0.8
+WS-00249,Geographic Print T-Shirt,SS25,34.99,T-Shirt,M,231,93,Geographic,Women,Petit Four,0,alpha,0.287
+WN-00076,Geographic Graphic Shorts,SS25,76.99,Shorts,XS,101,59,Geographic,Women,Grey Melange,0,alpha,0.369
+L-00203,Box Logo Stretch Sweatshirt,SS25,130.99,Sweatshirt,XL,230,58,Box Logo,Men,Navy,0,alpha,0.201
+P-00174,Geographic Graphic Pants,SS25,122.99,Pants,XXL,350,170,Geographic,Men,Stone Grey,0,alpha,0.327
+WN-00077,Geographic Quilted Shorts,SS25,54.99,Shorts,S,344,218,Geographic,Women,Petit Four,0,alpha,0.388
+WL-00193,Geographic Graphic Sweatshirt,SS25,150.99,Sweatshirt,XXL,154,131,Geographic,Women,Blue Marine,0,alpha,0.46
+PS-00124,Patch Stretch Polo,SS25,89.99,Polo,XS,136,51,Patch,Men,Yellow Sunshine,0,alpha,0.273
+W\00086,Slate Shoes,SS25,184.99,Shoes,37,255,41,Slate,Women,Pale Mint,0,numeric,0.139
+WM-00135,Circular Stretch Shirt,SS25,127.99,Shirt,M,412,97,Circular,Women,Olive,0,alpha,0.191
+S-00304,Circular Half-Zip T-Shirt,SS25,73.99,T-Shirt,XXL,96,36,Circular,Men,Caviar,0,alpha,0.273
+WPS-00112,Box Logo Stripe Polo,FS24,66.99,Polo,S,23,114,Box Logo,Women,Navy,10,alpha,0.832
+S-00305,Tribe Heritage T-Shirt,FS24,72.99,T-Shirt,L,25,101,Tribe,Men,Beige Sand,25,alpha,0.802
+P-00176,Circular Quilted Pants,FS24,111.99,Pants,M,93,429,Circular,Men,Snow White,20,alpha,0.822
+WN-00078,Box Logo Quilted Shorts,SS25,54.99,Shorts,XL,262,106,Box Logo,Women,Bright Red,0,alpha,0.288
+P-00177,Rainforest Logo Pants,FS24,143.99,Pants,L,133,250,Rainforest,Men,Black Beauty,25,alpha,0.653
+WM-00137,Rainforest Quilted Shirt,FS24,109.99,Shirt,XXL,152,396,Rainforest,Women,Petit Four,10,alpha,0.723
+M-00152,Rainforest Logo Shirt,FS24,112.99,Shirt,M,27,513,Rainforest,Men,Grey Melange,20,alpha,0.95
+P-00179,Tribe Half-Zip Pants,FS24,105.99,Pants,XS,49,103,Tribe,Men,Khaki,30,alpha,0.678
+\00111,Cresta Graphic Shoes,SS25,114.99,Shoes,46,392,153,Cresta,Men,Grey Melange,0,numeric,0.281
+WN-00079,Tribe Print Shorts,SS25,57.99,Shorts,XXL,404,72,Tribe,Women,Snow White,0,alpha,0.151
+WPS-00114,Morgex Stripe Polo,SS25,77.99,Polo,S,307,195,Morgex,Women,Petit Four,0,alpha,0.388
+WV-00059,Sun-Lover Logo Swimwear,FS24,80.99,Swimwear,XS,181,242,Sun-Lover,Women,Bright White,25,alpha,0.572
+P-00180,Box Logo Stripe Pants,SS25,126.99,Pants,M,108,44,Box Logo,Men,Green Lichen,0,alpha,0.289
+WP-00132,Box Logo Stripe Pants,SS25,133.99,Pants,XS,218,216,Box Logo,Women,Khaki,0,alpha,0.498
+M-00155,Patch Quilted Shirt,SS25,149.99,Shirt,M,186,76,Patch,Men,Beige Sand,0,alpha,0.29
+WL-00197,Circular Heritage Sweatshirt,SS25,167.99,Sweatshirt,XL,317,117,Circular,Women,Blue Marine,0,alpha,0.27
+P-00181,Patch Graphic Pants,SS25,113.99,Pants,M,254,151,Patch,Men,Petit Four,0,alpha,0.373
+WL-00198,Rainforest Print Sweatshirt,FS24,169.99,Sweatshirt,L,92,175,Rainforest,Women,Grey Melange,30,alpha,0.655
+PS-00125,Rainforest Heritage Polo,SS25,100.99,Polo,XL,85,83,Rainforest,Men,Beige Sand,0,alpha,0.494
+WPS-00116,Tribe Heritage Polo,SS25,106.99,Polo,M,227,270,Tribe,Women,Pale Mint,0,alpha,0.543
+S-00310,Circular Half-Zip T-Shirt,FS24,79.99,T-Shirt,M,147,337,Circular,Men,Blue Marine,10,alpha,0.696
+M-00156,Circular Print Shirt,SS25,132.99,Shirt,XL,239,41,Circular,Men,Navy,0,alpha,0.146
+WN-00081,Patch Quilted Shorts,SS25,57.99,Shorts,M,261,167,Patch,Women,Bright White,0,alpha,0.39
+M-00157,Tribe Graphic Shirt,SS25,93.99,Shirt,XS,132,157,Tribe,Men,Grey Melange,0,alpha,0.543
+P-00182,Patch Pants,FS24,95.99,Pants,L,93,289,Patch,Men,Navy,25,alpha,0.757
+WS-00258,Circular Heritage T-Shirt,SS25,50.99,T-Shirt,XXL,250,134,Circular,Women,Free Blue,0,alpha,0.349
+\00114,Box Logo Logo Shoes,FS24,195.99,Shoes,45,88,111,Box Logo,Men,Burgundy,30,numeric,0.558
+WL-00199,Geographic Sweatshirt,SS25,94.99,Sweatshirt,M,45,30,Geographic,Women,Orange Tangerine,0,alpha,0.4
+N-00115,Box Logo Quilted Shorts,FS24,68.99,Shorts,XS,50,376,Box Logo,Men,Petit Four,25,alpha,0.883
+WS-00260,Tribe Logo T-Shirt,FS24,92.99,T-Shirt,XXL,85,345,Tribe,Women,Forest Green,40,alpha,0.802
+N-00116,Box Logo Half-Zip Shorts,SS25,51.99,Shorts,XS,64,29,Box Logo,Men,Green Lichen,0,alpha,0.312
+WL-00200,Rainforest Graphic Sweatshirt,SS25,94.99,Sweatshirt,XXL,272,312,Rainforest,Women,Stone Grey,0,alpha,0.534
+WN-00082,Box Logo Quilted Shorts,SS25,57.99,Shorts,S,331,148,Box Logo,Women,Stone Grey,0,alpha,0.309
+M-00158,Morgex Logo Shirt,FS24,128.99,Shirt,XS,4,111,Morgex,Men,Yellow Sunshine,30,alpha,0.965
+M-00159,Rainforest Graphic Shirt,FS24,99.99,Shirt,XS,31,152,Rainforest,Men,Olive,50,alpha,0.831
+P-00183,Circular Stripe Pants,SS25,102.99,Pants,XXL,395,142,Circular,Men,Free Blue,0,alpha,0.264
+PS-00127,Patch Stripe Polo,SS25,105.99,Polo,XXL,148,57,Patch,Men,Black Beauty,0,alpha,0.278
+M-00161,Patch Heritage Shirt,SS25,84.99,Shirt,XL,223,115,Patch,Men,Grey Melange,0,alpha,0.34
+P-00184,Morgex Pants,FS24,135.99,Pants,XXL,7,37,Morgex,Men,Stone Grey,10,alpha,0.841
+N-00118,Box Logo Quilted Shorts,FS24,54.99,Shorts,XXL,104,219,Box Logo,Men,Old Rose,40,alpha,0.678
+WN-00083,Morgex Graphic Shorts,FS24,53.99,Shorts,M,75,354,Morgex,Women,Khaki,15,alpha,0.825
+\00115,Box Logo Graphic Shoes,SS25,184.99,Shoes,45,475,83,Box Logo,Men,Free Blue,0,numeric,0.149
+S-00315,Morgex Quilted T-Shirt,FS24,89.99,T-Shirt,XS,128,383,Morgex,Men,Stone Grey,15,alpha,0.75
+WL-00202,Morgex Half-Zip Sweatshirt,SS25,146.99,Sweatshirt,XXL,163,100,Morgex,Women,Forest Green,0,alpha,0.38
+S-00316,Box Logo Stripe T-Shirt,SS25,51.99,T-Shirt,XL,446,68,Box Logo,Men,Olive,0,alpha,0.132
+WV-00060,Sun-Lover Half-Zip Swimwear,SS25,56.99,Swimwear,XL,52,34,Sun-Lover,Women,Khaki,0,alpha,0.395
+L-00210,Rainforest Logo Sweatshirt,FS24,94.99,Sweatshirt,M,29,40,Rainforest,Men,Bright White,15,alpha,0.58
+WSocksPatch-0001,Patch Socks,SS25,107.99,Accessories,One Size,412,55,Patch,Women,Old Rose,0,alpha,0.118
+V-00063,Box Logo Stripe Swimwear,FS24,54.99,Swimwear,L,24,279,Box Logo,Men,Old Rose,20,alpha,0.921
+S-00320,Box Logo Stripe T-Shirt,SS25,72.99,T-Shirt,XS,269,17,Box Logo,Men,Snow White,0,alpha,0.059
+M-00163,Circular Print Shirt,FS24,102.99,Shirt,XXL,26,193,Circular,Men,Navy,10,alpha,0.881
+WPS-00119,Geographic Heritage Polo,FS24,88.99,Polo,L,45,184,Geographic,Women,Orange Tangerine,30,alpha,0.803
+S-00322,Tribe Logo T-Shirt,FS24,57.99,T-Shirt,XL,10,116,Tribe,Men,Burgundy,15,alpha,0.921
+P-00187,Rainforest Stretch Pants,SS25,102.99,Pants,XXL,42,14,Rainforest,Men,Orange Tangerine,0,alpha,0.25
+WP-00138,Rainforest Pants,SS25,132.99,Pants,L,423,79,Rainforest,Women,Olive,0,alpha,0.157
+WP-00139,Tribe Logo Pants,SS25,145.99,Pants,M,374,137,Tribe,Women,Caviar,0,alpha,0.268
+WL-00203,Tribe Half-Zip Sweatshirt,SS25,95.99,Sweatshirt,M,203,47,Tribe,Women,Burgundy,0,alpha,0.188
+P-00188,Patch Logo Pants,SS25,107.99,Pants,XL,322,152,Patch,Men,Navy,0,alpha,0.321
+WPS-00120,Morgex Graphic Polo,SS25,98.99,Polo,XS,178,25,Morgex,Women,Caviar,0,alpha,0.123
+S-00324,Circular Quilted T-Shirt,SS25,83.99,T-Shirt,XXL,386,74,Circular,Men,Stone Grey,0,alpha,0.161
+WV-00061,Box Logo Logo Swimwear,SS25,74.99,Swimwear,XXL,279,150,Box Logo,Women,Pale Mint,0,alpha,0.35
+S-00325,Iconic Stripe T-Shirt,FS24,41.99,T-Shirt,L,97,190,Iconic,Men,White Whisper,40,alpha,0.662
+M-00164,Patch Shirt,SS25,142.99,Shirt,S,444,137,Patch,Men,Blue Marine,0,alpha,0.236
+WPS-00121,Iconic Half-Zip Polo,FS24,79.99,Polo,L,113,289,Iconic,Women,Pale Mint,30,alpha,0.719
+WS-00268,Tribe Heritage T-Shirt,FS24,38.99,T-Shirt,XS,57,409,Tribe,Women,Black Beauty,40,alpha,0.878
+WGlovesRainforest-0001,Rainforest Gloves,SS25,67.99,Accessories,One Size,262,14,Rainforest,Women,Black Beauty,0,alpha,0.051
+WPS-00123,Morgex Half-Zip Polo,FS24,73.99,Polo,XXL,57,79,Morgex,Women,White Whisper,30,alpha,0.581
+N-00121,Morgex Heritage Shorts,FS24,88.99,Shorts,XL,31,67,Morgex,Men,Bright Red,40,alpha,0.684
+M-00165,Iconic Stripe Shirt,FS24,124.99,Shirt,S,119,170,Iconic,Men,Black Beauty,10,alpha,0.588
+L-00216,Box Logo Quilted Sweatshirt,SS25,154.99,Sweatshirt,S,134,73,Box Logo,Men,Navy,0,alpha,0.353
+M-00167,Patch Stretch Shirt,FS24,107.99,Shirt,XS,20,88,Patch,Men,Blue Marine,30,alpha,0.815
+S-00328,Tribe Logo T-Shirt,FS24,86.99,T-Shirt,XS,94,203,Tribe,Men,Bright Red,20,alpha,0.684
+WS-00270,Box Logo Heritage T-Shirt,SS25,91.99,T-Shirt,XS,310,139,Box Logo,Women,Olive,0,alpha,0.31
+N-00122,Box Logo Half-Zip Shorts,FS24,72.99,Shorts,M,151,440,Box Logo,Men,Burgundy,25,alpha,0.745
+P-00190,Box Logo Heritage Pants,SS25,102.99,Pants,XXL,338,197,Box Logo,Men,Petit Four,0,alpha,0.368
+L-00217,Rainforest Quilted Sweatshirt,FS24,155.99,Sweatshirt,XS,42,229,Rainforest,Men,Black Beauty,25,alpha,0.845
+WPS-00124,Iconic Print Polo,FS24,82.99,Polo,S,122,195,Iconic,Women,Burgundy,20,alpha,0.615
+WL-00206,Geographic Print Sweatshirt,FS24,101.99,Sweatshirt,XXL,64,159,Geographic,Women,Navy,50,alpha,0.713
+L-00218,Box Logo Stripe Sweatshirt,SS25,155.99,Sweatshirt,S,315,115,Box Logo,Men,Burgundy,0,alpha,0.267
+P-00193,Morgex Logo Pants,FS24,154.99,Pants,S,88,228,Morgex,Men,Black Beauty,20,alpha,0.722
+P-00195,Morgex Heritage Pants,SS25,101.99,Pants,M,357,97,Morgex,Men,Old Rose,0,alpha,0.214
+WPS-00125,Tribe Stretch Polo,SS25,101.99,Polo,XL,282,38,Tribe,Women,Black Beauty,0,alpha,0.119
+L-00219,Morgex Stripe Sweatshirt,FS24,149.99,Sweatshirt,XL,101,399,Morgex,Men,Navy,25,alpha,0.798
+WP-00141,Box Logo Stripe Pants,SS25,91.99,Pants,L,83,9,Box Logo,Women,Snow White,0,alpha,0.098
+V-00067,Sun-Lover Stretch Swimwear,FS24,52.99,Swimwear,XS,4,93,Sun-Lover,Men,Old Rose,15,alpha,0.959
+WP-00142,Patch Print Pants,FS24,127.99,Pants,L,21,92,Patch,Women,Orange Tangerine,30,alpha,0.814
+WN-00086,Morgex Print Shorts,SS25,75.99,Shorts,XXL,57,36,Morgex,Women,Bright Red,0,alpha,0.387
+L-00220,Iconic Quilted Sweatshirt,SS25,131.99,Sweatshirt,XS,289,266,Iconic,Men,Olive,0,alpha,0.479
+\00118,Box Logo Stripe Shoes,FS24,120.99,Shoes,43,111,384,Box Logo,Men,Grey Melange,40,numeric,0.776
+N-00124,Tribe Shorts,SS25,90.99,Shorts,XS,188,136,Tribe,Men,White Whisper,0,alpha,0.42
+WN-00088,Patch Graphic Shorts,SS25,67.99,Shorts,S,324,67,Patch,Women,Stone Grey,0,alpha,0.171
+WN-00089,Morgex Heritage Shorts,FS24,68.99,Shorts,XXL,135,364,Morgex,Women,Caviar,10,alpha,0.729
+S-00335,Circular Heritage T-Shirt,FS24,80.99,T-Shirt,M,130,331,Circular,Men,Stone Grey,25,alpha,0.718
+M-00171,Patch Logo Shirt,SS25,105.99,Shirt,M,263,14,Patch,Men,Black Beauty,0,alpha,0.051
+S-00336,Rainforest Heritage T-Shirt,FS24,51.99,T-Shirt,M,54,233,Rainforest,Men,Snow White,30,alpha,0.812
+M-00172,Iconic Logo Shirt,SS25,92.99,Shirt,M,89,41,Iconic,Men,Khaki,0,alpha,0.315
+WM-00141,Morgex Graphic Shirt,SS25,95.99,Shirt,S,294,210,Morgex,Women,Yellow Sunshine,0,alpha,0.417
+WS-00274,Patch Heritage T-Shirt,SS25,41.99,T-Shirt,XXL,292,83,Patch,Women,Burgundy,0,alpha,0.221
+W\00089,Slate Stripe Shoes,FS24,183.99,Shoes,39,38,245,Slate,Women,Pale Mint,20,numeric,0.866
+P-00200,Morgex Graphic Pants,SS25,142.99,Pants,XS,60,64,Morgex,Men,Old Rose,0,alpha,0.516
+\00120,Cresta Stripe Shoes,SS25,184.99,Shoes,45,260,169,Cresta,Men,Snow White,0,numeric,0.394
+N-00127,Rainforest Shorts,SS25,58.99,Shorts,S,41,46,Rainforest,Men,White Whisper,0,alpha,0.529
+L-00222,Box Logo Graphic Sweatshirt,FS24,99.99,Sweatshirt,L,26,43,Box Logo,Men,Bright White,10,alpha,0.623
+WL-00210,Circular Stripe Sweatshirt,SS25,106.99,Sweatshirt,XS,240,137,Circular,Women,Khaki,0,alpha,0.363
+W\00090,Cresta Logo Shoes,SS25,182.99,Shoes,42,407,24,Cresta,Women,Green Lichen,0,numeric,0.056
+PS-00131,Morgex Half-Zip Polo,FS24,100.99,Polo,XS,20,35,Morgex,Men,Pale Mint,40,alpha,0.636
+WM-00142,Tribe Half-Zip Shirt,FS24,125.99,Shirt,XL,163,363,Tribe,Women,Orange Tangerine,30,alpha,0.69
+P-00202,Rainforest Quilted Pants,SS25,97.99,Pants,XXL,157,181,Rainforest,Men,Khaki,0,alpha,0.536
+M-00175,Geographic Half-Zip Shirt,FS24,99.99,Shirt,XS,148,396,Geographic,Men,Snow White,20,alpha,0.728
+WM-00143,Circular Graphic Shirt,FS24,139.99,Shirt,M,30,124,Circular,Women,Free Blue,10,alpha,0.805
+S-00343,Geographic Graphic T-Shirt,FS24,47.99,T-Shirt,XXL,52,159,Geographic,Men,Bright White,30,alpha,0.754
+P-00203,Circular Print Pants,SS25,108.99,Pants,XS,296,101,Circular,Men,Navy,0,alpha,0.254
+N-00129,Geographic Stretch Shorts,FS24,54.99,Shorts,S,54,314,Geographic,Men,Stone Grey,30,alpha,0.853
+WL-00213,Geographic Logo Sweatshirt,SS25,127.99,Sweatshirt,L,315,104,Geographic,Women,Caviar,0,alpha,0.248
+\00121,Cresta Stretch Shoes,SS25,150.99,Shoes,43,384,35,Cresta,Men,Olive,0,numeric,0.084
+L-00225,Morgex Logo Sweatshirt,FS24,137.99,Sweatshirt,S,38,104,Morgex,Men,Blue Marine,25,alpha,0.732
+PS-00132,Tribe Heritage Polo,FS24,81.99,Polo,L,132,363,Tribe,Men,Stone Grey,25,alpha,0.733
+WM-00145,Box Logo Graphic Shirt,SS25,125.99,Shirt,M,193,116,Box Logo,Women,Orange Tangerine,0,alpha,0.375
+WV-00062,Sun-Lover Stripe Swimwear,FS24,75.99,Swimwear,XS,93,193,Sun-Lover,Women,Black Beauty,30,alpha,0.675
+WM-00146,Rainforest Quilted Shirt,FS24,114.99,Shirt,M,12,101,Rainforest,Women,Forest Green,25,alpha,0.894
+P-00205,Rainforest Heritage Pants,SS25,135.99,Pants,M,431,121,Rainforest,Men,Bright White,0,alpha,0.219
+WPS-00128,Morgex Stretch Polo,FS24,98.99,Polo,L,107,316,Morgex,Women,Burgundy,20,alpha,0.747
+L-00226,Patch Stripe Sweatshirt,SS25,146.99,Sweatshirt,XXL,74,11,Patch,Men,Stone Grey,0,alpha,0.129
+N-00130,Morgex Heritage Shorts,SS25,50.99,Shorts,M,119,25,Morgex,Men,Yellow Sunshine,0,alpha,0.174
+V-00070,Wave Quilted Swimwear,SS25,75.99,Swimwear,M,319,221,Wave,Men,Burgundy,0,alpha,0.409
+M-00176,Iconic Heritage Shirt,SS25,138.99,Shirt,XXL,276,175,Iconic,Men,Free Blue,0,alpha,0.388
+WP-00145,Tribe Heritage Pants,FS24,110.99,Pants,M,14,343,Tribe,Women,White Whisper,40,alpha,0.961
+WN-00092,Circular Quilted Shorts,SS25,57.99,Shorts,XS,81,90,Circular,Women,Snow White,0,alpha,0.526
+WM-00148,Patch Print Shirt,FS24,98.99,Shirt,XS,16,123,Patch,Women,Pale Mint,20,alpha,0.885
+P-00206,Patch Logo Pants,SS25,146.99,Pants,L,263,300,Patch,Men,Green Lichen,0,alpha,0.533
+WP-00146,Tribe Heritage Pants,SS25,116.99,Pants,XXL,332,147,Tribe,Women,Petit Four,0,alpha,0.307
+N-00131,Morgex Quilted Shorts,SS25,73.99,Shorts,M,153,24,Morgex,Men,Orange Tangerine,0,alpha,0.136
+WS-00283,Tribe Print T-Shirt,SS25,34.99,T-Shirt,S,272,261,Tribe,Women,Caviar,0,alpha,0.49
+WM-00149,Rainforest Stripe Shirt,SS25,145.99,Shirt,L,70,81,Rainforest,Women,White Whisper,0,alpha,0.536
+\00125,Cresta Half-Zip Shoes,FS24,93.99,Shoes,44,96,442,Cresta,Men,Caviar,30,numeric,0.822
+WM-00150,Tribe Stripe Shirt,FS24,105.99,Shirt,M,17,26,Tribe,Women,Burgundy,30,alpha,0.605
+PS-00134,Patch Graphic Polo,SS25,69.99,Polo,S,44,44,Patch,Men,Blue Marine,0,alpha,0.5
+WN-00095,Tribe Stretch Shorts,SS25,70.99,Shorts,XL,268,297,Tribe,Women,Beige Sand,0,alpha,0.526
+W\00091,Trail Graphic Shoes,FS24,139.99,Shoes,36,65,528,Trail,Women,Khaki,10,numeric,0.89
+N-00132,Patch Print Shorts,SS25,73.99,Shorts,L,272,33,Patch,Men,Beige Sand,0,alpha,0.108
+WPS-00131,Circular Stretch Polo,FS24,80.99,Polo,L,19,140,Circular,Women,Yellow Sunshine,40,alpha,0.881
+L-00231,Geographic Stretch Sweatshirt,SS25,158.99,Sweatshirt,M,150,164,Geographic,Men,Caviar,0,alpha,0.522
+P-00207,Box Logo Stretch Pants,FS24,156.99,Pants,L,207,259,Box Logo,Men,Olive,40,alpha,0.556
+M-00177,Geographic Stripe Shirt,FS24,100.99,Shirt,XL,230,297,Geographic,Men,Burgundy,10,alpha,0.564
+W\00092,Box Logo Heritage Shoes,FS24,201.99,Shoes,37,19,92,Box Logo,Women,Forest Green,20,numeric,0.829
+S-00347,Tribe Half-Zip T-Shirt,SS25,69.99,T-Shirt,S,405,64,Tribe,Men,Free Blue,0,alpha,0.136
+WaistBagBoxLogo-0001,Box Logo Waist Bag,FS24,43.99,Accessories,One Size,109,379,Box Logo,Men,Caviar,25,alpha,0.777
+M-00178,Morgex Logo Shirt,SS25,127.99,Shirt,XL,316,217,Morgex,Men,Green Lichen,0,alpha,0.407
+SocksGeographic-0002,Geographic Socks,FS24,118.99,Accessories,L,200,348,Geographic,Men,Petit Four,25,alpha,0.635
+S-00350,Geographic Quilted T-Shirt,SS25,79.99,T-Shirt,XXL,39,4,Geographic,Men,Pale Mint,0,alpha,0.093
+W\00093,Slate Print Shoes,SS25,124.99,Shoes,39,352,198,Slate,Women,Khaki,0,numeric,0.36
+V-00072,Sun-Lover Stretch Swimwear,FS24,50.99,Swimwear,XL,26,562,Sun-Lover,Men,Orange Tangerine,20,alpha,0.956
+WP-00150,Patch Half-Zip Pants,SS25,116.99,Pants,L,449,45,Patch,Women,Blue Marine,0,alpha,0.091
+WL-00220,Circular Print Sweatshirt,FS24,104.99,Sweatshirt,XL,209,389,Circular,Women,Grey Melange,15,alpha,0.651
+P-00210,Geographic Quilted Pants,FS24,95.99,Pants,L,10,61,Geographic,Men,Navy,25,alpha,0.859
+P-00211,Rainforest Half-Zip Pants,SS25,120.99,Pants,M,33,27,Rainforest,Men,Orange Tangerine,0,alpha,0.45
+S-00352,Geographic Stretch T-Shirt,FS24,59.99,T-Shirt,S,22,28,Geographic,Men,Navy,30,alpha,0.56
+PS-00138,Box Logo Half-Zip Polo,FS24,106.99,Polo,XXL,27,200,Box Logo,Men,Khaki,30,alpha,0.881
+WV-00063,Sun-Lover Graphic Swimwear,SS25,58.99,Swimwear,L,320,68,Sun-Lover,Women,Forest Green,0,alpha,0.175
+N-00133,Box Logo Shorts,FS24,59.99,Shorts,L,101,186,Box Logo,Men,Burgundy,15,alpha,0.648
+WS-00289,Patch Graphic T-Shirt,FS24,80.99,T-Shirt,S,18,282,Patch,Women,Black Beauty,25,alpha,0.94
+S-00357,Circular Quilted T-Shirt,SS25,74.99,T-Shirt,XL,80,94,Circular,Men,Forest Green,0,alpha,0.54
+WP-00155,Circular Pants,SS25,150.99,Pants,L,537,39,Circular,Women,Petit Four,0,alpha,0.068
+N-00134,Patch Print Shorts,FS24,87.99,Shorts,M,69,180,Patch,Men,Blue Marine,20,alpha,0.723
+W\00096,Box Logo Print Shoes,SS25,137.99,Shoes,39,334,233,Box Logo,Women,Khaki,0,numeric,0.411
+WL-00225,Patch Graphic Sweatshirt,SS25,148.99,Sweatshirt,XS,295,107,Patch,Women,Orange Tangerine,0,alpha,0.266
+WP-00156,Geographic Print Pants,SS25,133.99,Pants,S,290,104,Geographic,Women,Black Beauty,0,alpha,0.264
+P-00214,Geographic Print Pants,SS25,125.99,Pants,M,326,206,Geographic,Men,Snow White,0,alpha,0.387
+WS-00290,Morgex Graphic T-Shirt,SS25,57.99,T-Shirt,S,304,81,Morgex,Women,Pale Mint,0,alpha,0.21
+P-00215,Morgex Quilted Pants,SS25,93.99,Pants,XL,168,85,Morgex,Men,Bright Red,0,alpha,0.336
+N-00135,Tribe Shorts,SS25,52.99,Shorts,XXL,46,24,Tribe,Men,Stone Grey,0,alpha,0.343
+L-00235,Circular Print Sweatshirt,FS24,113.99,Sweatshirt,L,87,461,Circular,Men,Old Rose,20,alpha,0.841
+M-00182,Circular Heritage Shirt,SS25,103.99,Shirt,M,238,137,Circular,Men,Grey Melange,0,alpha,0.365
+WS-00291,Tribe Graphic T-Shirt,SS25,91.99,T-Shirt,S,60,19,Tribe,Women,White Whisper,0,alpha,0.241
+N-00136,Iconic Half-Zip Shorts,FS24,82.99,Shorts,M,9,75,Iconic,Men,Grey Melange,10,alpha,0.893
+P-00216,Geographic Print Pants,SS25,156.99,Pants,L,192,148,Geographic,Men,Beige Sand,0,alpha,0.435
+V-00073,Wave Graphic Swimwear,FS24,54.99,Swimwear,S,66,126,Wave,Men,Navy,15,alpha,0.656
+V-00074,Sun-Lover Stripe Swimwear,SS25,80.99,Swimwear,XXL,35,11,Sun-Lover,Men,Olive,0,alpha,0.239
+WP-00157,Box Logo Stripe Pants,FS24,135.99,Pants,XL,9,32,Box Logo,Women,Navy,20,alpha,0.78
+SocksBoxLogo-0001,Box Logo Socks,FS24,46.99,Accessories,L,151,426,Box Logo,Men,Yellow Sunshine,10,alpha,0.738
+M-00183,Morgex Quilted Shirt,FS24,85.99,Shirt,L,82,210,Morgex,Men,Stone Grey,20,alpha,0.719
+WPS-00135,Patch Logo Polo,FS24,78.99,Polo,S,184,387,Patch,Women,Old Rose,20,alpha,0.678
+P-00217,Tribe Stripe Pants,FS24,104.99,Pants,XS,55,124,Tribe,Men,Old Rose,25,alpha,0.693
+M-00184,Tribe Half-Zip Shirt,FS24,110.99,Shirt,L,93,494,Tribe,Men,Free Blue,20,alpha,0.842
+WL-00229,Morgex Half-Zip Sweatshirt,FS24,123.99,Sweatshirt,XS,98,185,Morgex,Women,Pale Mint,20,alpha,0.654
+P-00219,Iconic Stripe Pants,SS25,130.99,Pants,XS,85,30,Iconic,Men,Pale Mint,0,alpha,0.261
+WPS-00136,Rainforest Stretch Polo,SS25,90.99,Polo,XXL,214,150,Rainforest,Women,Burgundy,0,alpha,0.412
+WS-00297,Iconic Stripe T-Shirt,SS25,35.99,T-Shirt,S,148,110,Iconic,Women,Stone Grey,0,alpha,0.426
+WP-00160,Rainforest Logo Pants,FS24,107.99,Pants,S,16,93,Rainforest,Women,Snow White,10,alpha,0.853
+N-00139,Patch Heritage Shorts,SS25,74.99,Shorts,XXL,124,20,Patch,Men,Bright White,0,alpha,0.139
+\00128,Cresta Stripe Shoes,SS25,94.99,Shoes,41,284,19,Cresta,Men,Navy,0,numeric,0.063
+WP-00161,Rainforest Stretch Pants,SS25,129.99,Pants,M,55,42,Rainforest,Women,Orange Tangerine,0,alpha,0.433
+\00129,Trail Stretch Shoes,FS24,110.99,Shoes,40,23,117,Trail,Men,Orange Tangerine,40,numeric,0.836
+WS-00298,Morgex Stretch T-Shirt,SS25,73.99,T-Shirt,S,243,149,Morgex,Women,Green Lichen,0,alpha,0.38
+M-00185,Circular Print Shirt,SS25,130.99,Shirt,S,198,140,Circular,Men,Blue Marine,0,alpha,0.414
+\00130,Cresta Logo Shoes,FS24,156.99,Shoes,44,47,78,Cresta,Men,White Whisper,25,numeric,0.624
+WL-00231,Morgex Stripe Sweatshirt,FS24,102.99,Sweatshirt,XXL,50,154,Morgex,Women,Bright White,15,alpha,0.755
+P-00221,Tribe Stretch Pants,FS24,130.99,Pants,S,156,223,Tribe,Men,Burgundy,20,alpha,0.588
+WP-00162,Patch Half-Zip Pants,SS25,103.99,Pants,XL,212,138,Patch,Women,Green Lichen,0,alpha,0.394
+\00131,Trail Logo Shoes,FS24,131.99,Shoes,43,6,151,Trail,Men,Burgundy,15,numeric,0.962
+WN-00100,Box Logo Stripe Shorts,SS25,94.99,Shorts,L,236,30,Box Logo,Women,Olive,0,alpha,0.113
+V-00076,Box Logo Logo Swimwear,FS24,44.99,Swimwear,M,22,229,Box Logo,Men,Caviar,30,alpha,0.912
+PS-00140,Circular Graphic Polo,SS25,72.99,Polo,XL,123,15,Circular,Men,Grey Melange,0,alpha,0.109
+WS-00301,Patch T-Shirt,FS24,61.99,T-Shirt,XXL,135,379,Patch,Women,Grey Melange,20,alpha,0.737
+L-00240,Circular Graphic Sweatshirt,SS25,150.99,Sweatshirt,XS,383,201,Circular,Men,White Whisper,0,alpha,0.344
+N-00141,Patch Stretch Shorts,SS25,69.99,Shorts,XS,332,124,Patch,Men,Olive,0,alpha,0.272
+WPS-00139,Circular Polo,FS24,107.99,Polo,M,4,125,Circular,Women,Bright White,30,alpha,0.969
+\00132,Box Logo Logo Shoes,FS24,205.99,Shoes,40,59,197,Box Logo,Men,Blue Marine,25,numeric,0.77
+WN-00102,Rainforest Quilted Shorts,FS24,68.99,Shorts,S,19,60,Rainforest,Women,Stone Grey,50,alpha,0.759
+P-00223,Patch Heritage Pants,SS25,89.99,Pants,XXL,382,178,Patch,Men,Pale Mint,0,alpha,0.318
+WP-00163,Morgex Quilted Pants,FS24,120.99,Pants,M,2,42,Morgex,Women,Navy,25,alpha,0.955
+WM-00159,Patch Stretch Shirt,FS24,111.99,Shirt,L,214,264,Patch,Women,Bright Red,10,alpha,0.552
+L-00247,Morgex Heritage Sweatshirt,SS25,111.99,Sweatshirt,XXL,239,220,Morgex,Men,Beige Sand,0,alpha,0.479
+S-00370,Box Logo Logo T-Shirt,FS24,45.99,T-Shirt,XL,95,354,Box Logo,Men,Khaki,10,alpha,0.788
+N-00143,Iconic Half-Zip Shorts,SS25,62.99,Shorts,XS,208,45,Iconic,Men,Grey Melange,0,alpha,0.178
+N-00144,Iconic Quilted Shorts,SS25,73.99,Shorts,XL,170,20,Iconic,Men,Olive,0,alpha,0.105
+W\00100,Box Logo Stripe Shoes,SS25,206.99,Shoes,37,43,40,Box Logo,Women,Green Lichen,0,numeric,0.482
+W\00101,Trail Heritage Shoes,SS25,148.99,Shoes,41,280,46,Trail,Women,Stone Grey,0,numeric,0.141
+WN-00103,Patch Shorts,FS24,58.99,Shorts,XL,166,283,Patch,Women,Orange Tangerine,30,alpha,0.63
+M-00186,Box Logo Shirt,FS24,140.99,Shirt,M,20,283,Box Logo,Men,Burgundy,40,alpha,0.934
+L-00249,Box Logo Sweatshirt,SS25,100.99,Sweatshirt,M,245,151,Box Logo,Men,Grey Melange,0,alpha,0.381
+M-00188,Rainforest Shirt,SS25,130.99,Shirt,XXL,193,39,Rainforest,Men,Navy,0,alpha,0.168
+S-00376,Patch Quilted T-Shirt,FS24,36.99,T-Shirt,XXL,106,298,Patch,Men,Stone Grey,15,alpha,0.738
+L-00250,Iconic Print Sweatshirt,SS25,101.99,Sweatshirt,XXL,231,189,Iconic,Men,Blue Marine,0,alpha,0.45
+\00133,Slate Quilted Shoes,FS24,159.99,Shoes,44,74,295,Slate,Men,Snow White,40,numeric,0.799
+PS-00143,Morgex Half-Zip Polo,FS24,75.99,Polo,M,17,276,Morgex,Men,Yellow Sunshine,20,alpha,0.942
+WWaistBagTribe-0001,Tribe Waist Bag,SS25,107.99,Accessories,One Size,417,68,Tribe,Women,Snow White,0,alpha,0.14
+WP-00164,Morgex Heritage Pants,SS25,116.99,Pants,XS,120,100,Morgex,Women,Forest Green,0,alpha,0.455
+WM-00160,Iconic Logo Shirt,SS25,93.99,Shirt,XXL,358,238,Iconic,Women,Blue Marine,0,alpha,0.399
+M-00189,Patch Shirt,FS24,123.99,Shirt,XXL,141,448,Patch,Men,Olive,20,alpha,0.761
+WM-00161,Geographic Graphic Shirt,FS24,91.99,Shirt,XS,136,242,Geographic,Women,Yellow Sunshine,25,alpha,0.64
+L-00256,Rainforest Logo Sweatshirt,SS25,153.99,Sweatshirt,S,146,23,Rainforest,Men,Beige Sand,0,alpha,0.136
+M-00192,Patch Print Shirt,SS25,119.99,Shirt,M,179,131,Patch,Men,Caviar,0,alpha,0.423
+WPS-00144,Morgex Polo,FS24,90.99,Polo,L,134,236,Morgex,Women,Grey Melange,15,alpha,0.638
+WV-00069,Wave Quilted Swimwear,SS25,84.99,Swimwear,S,352,148,Wave,Women,Yellow Sunshine,0,alpha,0.296
+L-00258,Patch Quilted Sweatshirt,SS25,135.99,Sweatshirt,M,173,112,Patch,Men,Free Blue,0,alpha,0.393
+M-00195,Iconic Stretch Shirt,SS25,149.99,Shirt,M,167,166,Iconic,Men,Yellow Sunshine,0,alpha,0.498
+L-00259,Geographic Sweatshirt,SS25,140.99,Sweatshirt,XXL,49,54,Geographic,Men,Old Rose,0,alpha,0.524
+M-00196,Morgex Print Shirt,SS25,149.99,Shirt,XS,147,37,Morgex,Men,Yellow Sunshine,0,alpha,0.201
+PS-00147,Box Logo Graphic Polo,SS25,78.99,Polo,L,41,21,Box Logo,Men,Grey Melange,0,alpha,0.339
+N-00145,Tribe Half-Zip Shorts,FS24,62.99,Shorts,S,77,405,Tribe,Men,Khaki,20,alpha,0.84
+W\00106,Box Logo Graphic Shoes,SS25,119.99,Shoes,39,153,18,Box Logo,Women,Green Lichen,0,numeric,0.105
+WS-00306,Geographic Logo T-Shirt,SS25,79.99,T-Shirt,XXL,503,51,Geographic,Women,Olive,0,alpha,0.092
+WPS-00145,Morgex Print Polo,SS25,103.99,Polo,S,61,30,Morgex,Women,Petit Four,0,alpha,0.33
+L-00261,Patch Stretch Sweatshirt,FS24,113.99,Sweatshirt,XXL,197,313,Patch,Men,White Whisper,20,alpha,0.614
+S-00384,Box Logo Half-Zip T-Shirt,FS24,46.99,T-Shirt,XS,38,390,Box Logo,Men,Old Rose,50,alpha,0.911
+WS-00309,Rainforest Half-Zip T-Shirt,SS25,72.99,T-Shirt,M,245,82,Rainforest,Women,Black Beauty,0,alpha,0.251
+N-00146,Rainforest Print Shorts,SS25,69.99,Shorts,XL,112,72,Rainforest,Men,Grey Melange,0,alpha,0.391
+S-00386,Circular Stripe T-Shirt,FS24,60.99,T-Shirt,M,74,246,Circular,Men,Khaki,20,alpha,0.769
+N-00147,Morgex Shorts,FS24,57.99,Shorts,XS,159,290,Morgex,Men,Blue Marine,15,alpha,0.646
+WL-00241,Geographic Graphic Sweatshirt,FS24,109.99,Sweatshirt,XS,95,311,Geographic,Women,Bright Red,20,alpha,0.766
+M-00197,Morgex Print Shirt,FS24,134.99,Shirt,S,85,207,Morgex,Men,Caviar,40,alpha,0.709
+N-00148,Tribe Logo Shorts,FS24,50.99,Shorts,M,27,310,Tribe,Men,Orange Tangerine,10,alpha,0.92
+W\00107,Cresta Graphic Shoes,SS25,191.99,Shoes,39,49,10,Cresta,Women,Green Lichen,0,numeric,0.169
+V-00078,Box Logo Heritage Swimwear,SS25,74.99,Swimwear,XXL,70,4,Box Logo,Men,Khaki,0,alpha,0.054
+M-00200,Box Logo Quilted Shirt,FS24,92.99,Shirt,XXL,181,316,Box Logo,Men,Blue Marine,50,alpha,0.636
+L-00264,Iconic Stripe Sweatshirt,FS24,151.99,Sweatshirt,M,16,100,Iconic,Men,Bright White,25,alpha,0.862
+PS-00149,Morgex Quilted Polo,FS24,75.99,Polo,M,93,198,Morgex,Men,Petit Four,10,alpha,0.68
+WN-00104,Rainforest Heritage Shorts,FS24,49.99,Shorts,XXL,65,98,Rainforest,Women,White Whisper,10,alpha,0.601
+N-00150,Morgex Quilted Shorts,FS24,62.99,Shorts,L,37,531,Morgex,Men,Grey Melange,30,alpha,0.935
+\00137,Trail Graphic Shoes,FS24,150.99,Shoes,45,141,406,Trail,Men,Forest Green,50,numeric,0.742
+S-00388,Box Logo Heritage T-Shirt,SS25,59.99,T-Shirt,S,65,36,Box Logo,Men,Petit Four,0,alpha,0.356
+WM-00166,Circular Half-Zip Shirt,FS24,95.99,Shirt,M,215,347,Circular,Women,Orange Tangerine,20,alpha,0.617
+N-00151,Box Logo Logo Shorts,FS24,88.99,Shorts,L,36,63,Box Logo,Men,Grey Melange,50,alpha,0.636
+WV-00071,Wave Logo Swimwear,SS25,72.99,Swimwear,M,271,16,Wave,Women,Free Blue,0,alpha,0.056
+WN-00105,Geographic Half-Zip Shorts,FS24,70.99,Shorts,S,103,149,Geographic,Women,Forest Green,25,alpha,0.591
+\00140,Cresta Print Shoes,FS24,164.99,Shoes,40,56,364,Cresta,Men,Khaki,15,numeric,0.867
+W\00108,Trail Stripe Shoes,FS24,125.99,Shoes,41,110,300,Trail,Women,Petit Four,20,numeric,0.732
+WP-00170,Iconic Logo Pants,SS25,151.99,Pants,XL,66,6,Iconic,Women,Orange Tangerine,0,alpha,0.083
+WN-00106,Geographic Stripe Shorts,SS25,91.99,Shorts,L,162,104,Geographic,Women,Yellow Sunshine,0,alpha,0.391
+S-00395,Rainforest Stripe T-Shirt,SS25,38.99,T-Shirt,XL,417,23,Rainforest,Men,Khaki,0,alpha,0.052
+WS-00315,Box Logo Heritage T-Shirt,FS24,35.99,T-Shirt,XXL,10,242,Box Logo,Women,Navy,20,alpha,0.96
+WP-00171,Rainforest Half-Zip Pants,SS25,91.99,Pants,XL,170,72,Rainforest,Women,Snow White,0,alpha,0.298
+W\00109,Slate Stretch Shoes,SS25,125.99,Shoes,36,294,248,Slate,Women,Burgundy,0,numeric,0.458
+WP-00172,Morgex Print Pants,FS24,118.99,Pants,XXL,63,428,Morgex,Women,Khaki,30,alpha,0.872
+P-00233,Circular Print Pants,FS24,94.99,Pants,S,146,293,Circular,Men,Grey Melange,10,alpha,0.667
+PS-00150,Tribe Stripe Polo,FS24,93.99,Polo,M,29,136,Tribe,Men,Orange Tangerine,15,alpha,0.824
+WV-00072,Wave Quilted Swimwear,FS24,48.99,Swimwear,XXL,37,48,Wave,Women,Free Blue,25,alpha,0.565
+WV-00073,Box Logo Stretch Swimwear,SS25,57.99,Swimwear,S,92,82,Box Logo,Women,Olive,0,alpha,0.471
+M-00202,Circular Stretch Shirt,SS25,149.99,Shirt,S,209,154,Circular,Men,Black Beauty,0,alpha,0.424
+WM-00168,Iconic Print Shirt,SS25,136.99,Shirt,XL,444,44,Iconic,Women,Pale Mint,0,alpha,0.09
+M-00203,Iconic Quilted Shirt,SS25,85.99,Shirt,XL,231,127,Iconic,Men,Orange Tangerine,0,alpha,0.355
+WL-00247,Patch Graphic Sweatshirt,SS25,151.99,Sweatshirt,XXL,561,32,Patch,Women,Caviar,0,alpha,0.054
+WM-00170,Iconic Stripe Shirt,SS25,111.99,Shirt,XS,32,14,Iconic,Women,Green Lichen,0,alpha,0.304
+WM-00171,Iconic Stripe Shirt,SS25,116.99,Shirt,M,42,41,Iconic,Women,Petit Four,0,alpha,0.494
+PS-00151,Patch Print Polo,FS24,85.99,Polo,XXL,21,54,Patch,Men,Black Beauty,10,alpha,0.72
+WP-00174,Patch Logo Pants,FS24,129.99,Pants,S,193,393,Patch,Women,Yellow Sunshine,40,alpha,0.671
+WM-00172,Iconic Graphic Shirt,FS24,134.99,Shirt,XS,214,333,Iconic,Women,Olive,15,alpha,0.609
+N-00152,Geographic Stripe Shorts,FS24,56.99,Shorts,XS,171,265,Geographic,Men,Olive,40,alpha,0.608
+WP-00175,Box Logo Stripe Pants,FS24,123.99,Pants,S,114,348,Box Logo,Women,Beige Sand,25,alpha,0.753
+WGlovesPatch-0002,Patch Gloves,SS25,19.99,Accessories,L,231,125,Patch,Women,Caviar,0,alpha,0.351
+WS-00317,Morgex Graphic T-Shirt,SS25,40.99,T-Shirt,XXL,94,22,Morgex,Women,Khaki,0,alpha,0.19
+S-00399,Rainforest Logo T-Shirt,SS25,78.99,T-Shirt,M,264,252,Rainforest,Men,Stone Grey,0,alpha,0.488
+WS-00318,Rainforest Quilted T-Shirt,SS25,40.99,T-Shirt,XL,26,29,Rainforest,Women,Olive,0,alpha,0.527
+WN-00109,Tribe Graphic Shorts,FS24,77.99,Shorts,L,34,361,Tribe,Women,Pale Mint,20,alpha,0.914
+WPS-00148,Patch Quilted Polo,FS24,97.99,Polo,L,50,181,Patch,Women,Beige Sand,10,alpha,0.784
+WP-00176,Morgex Pants,FS24,117.99,Pants,M,73,91,Morgex,Women,Green Lichen,30,alpha,0.555
+WM-00173,Morgex Graphic Shirt,SS25,132.99,Shirt,XL,238,162,Morgex,Women,Free Blue,0,alpha,0.405
+L-00273,Geographic Graphic Sweatshirt,FS24,148.99,Sweatshirt,S,52,208,Geographic,Men,Orange Tangerine,30,alpha,0.8
+WL-00249,Circular Quilted Sweatshirt,FS24,164.99,Sweatshirt,XXL,88,333,Circular,Women,Old Rose,40,alpha,0.791
+P-00236,Rainforest Pants,SS25,92.99,Pants,M,124,12,Rainforest,Men,Caviar,0,alpha,0.088
+WPS-00151,Morgex Polo,SS25,82.99,Polo,M,181,62,Morgex,Women,Stone Grey,0,alpha,0.255
+PS-00153,Iconic Print Polo,SS25,64.99,Polo,XS,399,44,Iconic,Men,Khaki,0,alpha,0.099
+BeltMorgex-0001,Morgex Belt,SS25,58.99,Accessories,One Size,102,29,Morgex,Men,Yellow Sunshine,0,alpha,0.221
+L-00274,Patch Heritage Sweatshirt,FS24,156.99,Sweatshirt,S,19,28,Patch,Men,Free Blue,25,alpha,0.596
+WM-00175,Rainforest Stripe Shirt,FS24,108.99,Shirt,XXL,108,212,Rainforest,Women,Bright Red,30,alpha,0.662
+WN-00111,Rainforest Quilted Shorts,SS25,66.99,Shorts,XL,371,205,Rainforest,Women,Grey Melange,0,alpha,0.356
+M-00210,Box Logo Heritage Shirt,SS25,112.99,Shirt,L,234,20,Box Logo,Men,Khaki,0,alpha,0.079
+V-00082,Wave Quilted Swimwear,SS25,72.99,Swimwear,XL,408,74,Wave,Men,Free Blue,0,alpha,0.154
+\00145,Box Logo Stripe Shoes,FS24,204.99,Shoes,46,66,416,Box Logo,Men,Khaki,15,numeric,0.863
+\00146,Trail Quilted Shoes,FS24,165.99,Shoes,42,26,547,Trail,Men,Beige Sand,20,numeric,0.955
+WSocksTribe-0002,Tribe Socks,FS24,83.99,Accessories,L,69,488,Tribe,Women,Forest Green,20,alpha,0.876
+L-00278,Morgex Quilted Sweatshirt,FS24,165.99,Sweatshirt,XL,11,352,Morgex,Men,Khaki,40,alpha,0.97
+P-00237,Circular Half-Zip Pants,SS25,91.99,Pants,S,103,106,Circular,Men,Caviar,0,alpha,0.507
+L-00279,Circular Print Sweatshirt,SS25,132.99,Sweatshirt,XS,93,74,Circular,Men,Stone Grey,0,alpha,0.443
+WS-00326,Box Logo Logo T-Shirt,FS24,62.99,T-Shirt,XXL,170,398,Box Logo,Women,Free Blue,25,alpha,0.701
+W\00115,Trail Half-Zip Shoes,FS24,183.99,Shoes,38,73,221,Trail,Women,Stone Grey,15,numeric,0.752
+N-00157,Morgex Half-Zip Shorts,FS24,92.99,Shorts,S,46,343,Morgex,Men,Blue Marine,20,alpha,0.882
+WM-00176,Iconic Graphic Shirt,FS24,109.99,Shirt,XXL,35,110,Iconic,Women,Navy,40,alpha,0.759
+N-00158,Rainforest Stretch Shorts,FS24,88.99,Shorts,XL,15,32,Rainforest,Men,Snow White,20,alpha,0.681
+WM-00177,Rainforest Half-Zip Shirt,FS24,142.99,Shirt,XS,99,178,Rainforest,Women,Petit Four,30,alpha,0.643
+P-00239,Box Logo Half-Zip Pants,FS24,114.99,Pants,XL,49,71,Box Logo,Men,Free Blue,30,alpha,0.592
+WM-00178,Box Logo Quilted Shirt,FS24,108.99,Shirt,XS,43,240,Box Logo,Women,Grey Melange,20,alpha,0.848
+P-00240,Iconic Graphic Pants,SS25,127.99,Pants,XL,345,155,Iconic,Men,Petit Four,0,alpha,0.31
+PS-00160,Morgex Print Polo,FS24,77.99,Polo,XS,113,350,Morgex,Men,White Whisper,25,alpha,0.756
+WP-00182,Patch Stripe Pants,SS25,105.99,Pants,XXL,331,199,Patch,Women,Old Rose,0,alpha,0.375
+WL-00255,Iconic Half-Zip Sweatshirt,FS24,117.99,Sweatshirt,S,47,505,Iconic,Women,Burgundy,50,alpha,0.915
+WL-00256,Tribe Graphic Sweatshirt,FS24,100.99,Sweatshirt,XXL,62,109,Tribe,Women,Grey Melange,25,alpha,0.637
+W\00116,Box Logo Stretch Shoes,FS24,89.99,Shoes,40,25,488,Box Logo,Women,Petit Four,10,numeric,0.951
+N-00160,Iconic Half-Zip Shorts,SS25,78.99,Shorts,L,135,112,Iconic,Men,Stone Grey,0,alpha,0.453
+M-00216,Patch Half-Zip Shirt,FS24,140.99,Shirt,XS,127,216,Patch,Men,Green Lichen,20,alpha,0.63
+WL-00259,Patch Graphic Sweatshirt,SS25,98.99,Sweatshirt,S,57,53,Patch,Women,Blue Marine,0,alpha,0.482
+WM-00181,Tribe Stretch Shirt,FS24,84.99,Shirt,S,81,452,Tribe,Women,Forest Green,15,alpha,0.848
+WS-00330,Geographic Quilted T-Shirt,SS25,92.99,T-Shirt,S,471,50,Geographic,Women,Petit Four,0,alpha,0.096
+\00150,Box Logo Quilted Shoes,SS25,180.99,Shoes,41,81,34,Box Logo,Men,Olive,0,numeric,0.296
+M-00217,Morgex Half-Zip Shirt,SS25,126.99,Shirt,XXL,120,127,Morgex,Men,Free Blue,0,alpha,0.514
+N-00161,Circular Print Shorts,SS25,76.99,Shorts,XL,35,25,Circular,Men,Green Lichen,0,alpha,0.417
+S-00407,Rainforest Heritage T-Shirt,SS25,42.99,T-Shirt,S,281,174,Rainforest,Men,White Whisper,0,alpha,0.382
+WP-00185,Patch Stripe Pants,FS24,136.99,Pants,S,70,450,Patch,Women,Burgundy,15,alpha,0.865
+WPS-00155,Iconic Quilted Polo,FS24,84.99,Polo,XS,100,342,Iconic,Women,Forest Green,25,alpha,0.774
+WP-00186,Tribe Heritage Pants,SS25,131.99,Pants,XS,374,26,Tribe,Women,Stone Grey,0,alpha,0.065
+N-00163,Tribe Print Shorts,FS24,62.99,Shorts,M,41,313,Tribe,Men,Free Blue,50,alpha,0.884
+PS-00163,Box Logo Graphic Polo,SS25,85.99,Polo,S,280,158,Box Logo,Men,Grey Melange,0,alpha,0.361
+WP-00187,Tribe Logo Pants,FS24,145.99,Pants,XS,121,221,Tribe,Women,Bright Red,10,alpha,0.646
+M-00220,Patch Stripe Shirt,FS24,90.99,Shirt,XXL,11,80,Patch,Men,Khaki,25,alpha,0.879
+PS-00164,Iconic Stripe Polo,FS24,70.99,Polo,M,72,162,Iconic,Men,White Whisper,25,alpha,0.692
+WM-00186,Box Logo Print Shirt,FS24,94.99,Shirt,XXL,129,254,Box Logo,Women,Olive,20,alpha,0.663
+L-00288,Patch Half-Zip Sweatshirt,FS24,104.99,Sweatshirt,S,28,130,Patch,Men,Grey Melange,25,alpha,0.823
+S-00413,Patch Graphic T-Shirt,SS25,41.99,T-Shirt,XL,158,54,Patch,Men,Caviar,0,alpha,0.255
+\00151,Slate Print Shoes,FS24,127.99,Shoes,44,18,97,Slate,Men,Snow White,20,numeric,0.843
+WS-00335,Patch Stripe T-Shirt,SS25,56.99,T-Shirt,XS,332,254,Patch,Women,Bright White,0,alpha,0.433
+W\00119,Trail Shoes,FS24,182.99,Shoes,36,15,176,Trail,Women,Petit Four,40,numeric,0.921
+W\00120,Box Logo Heritage Shoes,FS24,178.99,Shoes,40,47,491,Box Logo,Women,Orange Tangerine,10,numeric,0.913
+WL-00266,Circular Heritage Sweatshirt,SS25,115.99,Sweatshirt,XXL,329,147,Circular,Women,Burgundy,0,alpha,0.309
+L-00289,Box Logo Stretch Sweatshirt,SS25,123.99,Sweatshirt,XXL,286,221,Box Logo,Men,Khaki,0,alpha,0.436
+PS-00165,Patch Stripe Polo,SS25,69.99,Polo,XS,142,89,Patch,Men,Bright Red,0,alpha,0.385
+M-00222,Morgex Shirt,FS24,105.99,Shirt,M,86,333,Morgex,Men,Petit Four,30,alpha,0.795
+WV-00079,Wave Graphic Swimwear,SS25,45.99,Swimwear,M,75,31,Wave,Women,Free Blue,0,alpha,0.292
+WS-00339,Tribe Stretch T-Shirt,FS24,77.99,T-Shirt,XXL,9,173,Tribe,Women,Free Blue,25,alpha,0.951
+P-00245,Tribe Stripe Pants,SS25,153.99,Pants,XL,95,110,Tribe,Men,Blue Marine,0,alpha,0.537
+P-00246,Box Logo Logo Pants,SS25,124.99,Pants,XS,221,137,Box Logo,Men,Beige Sand,0,alpha,0.383
+WS-00342,Circular Graphic T-Shirt,SS25,74.99,T-Shirt,XS,130,23,Circular,Women,Black Beauty,0,alpha,0.15
+L-00292,Rainforest Stretch Sweatshirt,FS24,150.99,Sweatshirt,L,38,67,Rainforest,Men,Petit Four,20,alpha,0.638
+L-00293,Geographic Logo Sweatshirt,SS25,167.99,Sweatshirt,XL,319,188,Geographic,Men,Beige Sand,0,alpha,0.371

@@ -1,0 +1,26 @@
+{
+    "model_type": "Logistic Regression \u2014 threshold tuned",
+    "threshold": 0.36,
+    "classes": [
+        "average",
+        "dead_stock",
+        "fast_mover"
+    ],
+    "features": [
+        "price",
+        "discount",
+        "product_category",
+        "collection_family",
+        "sex",
+        "color",
+        "season",
+        "size",
+        "size_type"
+    ],
+    "macro_f1": 0.59,
+    "dead_stock_recall": 0.89,
+    "trained_on": "2026-06-13",
+    "n_train_samples": 1548,
+    "smote": true,
+    "cv_folds": 5
+}

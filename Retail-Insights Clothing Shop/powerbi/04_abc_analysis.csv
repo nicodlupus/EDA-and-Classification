@@ -1,0 +1,948 @@
+name,product_category,collection_family,sex,revenue_eur,cumulative_pct,abc_class
+Circular Quilted Sweatshirt,Sweatshirt,Circular,Women,239631.76,0.7,A
+Slate Heritage Shoes,Shoes,Slate,Women,181354.23,1.24,A
+Rainforest Stripe Sweatshirt,Sweatshirt,Rainforest,Men,166682.03,1.73,A
+Trail Graphic Shoes,Shoes,Trail,Men,164541.21,2.21,A
+Iconic Sweatshirt,Sweatshirt,Iconic,Men,156945.03,2.67,A
+Cresta Half-Zip Shoes,Shoes,Cresta,Men,156540.44,3.13,A
+Box Logo Stripe Shoes,Shoes,Box Logo,Men,154768.37,3.59,A
+Morgex Sweatshirt,Sweatshirt,Morgex,Women,153395.13,4.04,A
+Patch Shirt,Shirt,Patch,Men,153174.23,4.49,A
+Rainforest Print Sweatshirt,Sweatshirt,Rainforest,Women,152488.71,4.94,A
+Box Logo Half-Zip Sweatshirt,Sweatshirt,Box Logo,Men,151937.58,5.38,A
+Circular Sweatshirt,Sweatshirt,Circular,Men,149960.49,5.82,A
+Rainforest Shirt,Shirt,Rainforest,Men,145337.16,6.25,A
+Trail Shoes,Shoes,Trail,Women,145279.26,6.68,A
+Slate Logo Shoes,Shoes,Slate,Men,145272.18,7.11,A
+Trail Heritage Shoes,Shoes,Trail,Women,144612.66,7.53,A
+Rainforest Half-Zip Sweatshirt,Sweatshirt,Rainforest,Men,140735.54,7.95,A
+Morgex Print Sweatshirt,Sweatshirt,Morgex,Men,139483.98,8.36,A
+Box Logo Logo Shoes,Shoes,Box Logo,Men,133394.52,8.75,A
+Patch Logo Pants,Pants,Patch,Women,129201.03,9.13,A
+Box Logo Logo Shirt,Shirt,Box Logo,Women,128095.77,9.5,A
+Iconic Shirt,Shirt,Iconic,Women,127949.19,9.88,A
+Box Logo Sweatshirt,Sweatshirt,Box Logo,Men,126598.15,10.25,A
+Circular Print Pants,Pants,Circular,Men,125876.83,10.62,A
+Patch Graphic Pants,Pants,Patch,Men,120917.63,10.98,A
+Tribe Sweatshirt,Sweatshirt,Tribe,Women,119955.0,11.33,A
+Cresta Heritage Shoes,Shoes,Cresta,Women,117831.81,11.68,A
+Box Logo Heritage Shoes,Shoes,Box Logo,Women,117710.41,12.02,A
+Box Logo Quilted Shirt,Shirt,Box Logo,Men,117233.11,12.37,A
+Box Logo Print Shoes,Shoes,Box Logo,Women,116572.52,12.71,A
+Box Logo Stretch Shoes,Shoes,Box Logo,Women,115873.04,13.05,A
+Rainforest Stripe Pants,Pants,Rainforest,Men,115459.49,13.39,A
+Patch Print Sweatshirt,Sweatshirt,Patch,Women,114884.27,13.73,A
+Trail Shoes,Shoes,Trail,Men,113640.92,14.06,A
+Patch Sweatshirt,Sweatshirt,Patch,Women,112372.56,14.39,A
+Patch Pants,Pants,Patch,Women,112308.85,14.72,A
+Cresta Print Shoes,Shoes,Cresta,Men,110613.39,15.05,A
+Slate Stripe Shoes,Shoes,Slate,Men,109594.68,15.37,A
+Circular Stretch Pants,Pants,Circular,Men,109066.55,15.69,A
+Slate Print Shoes,Shoes,Slate,Men,106810.4,16.0,A
+Morgex Quilted Sweatshirt,Sweatshirt,Morgex,Men,104543.9,16.31,A
+Circular Graphic Pants,Pants,Circular,Men,103807.28,16.62,A
+Box Logo Shoes,Shoes,Box Logo,Women,102810.28,16.92,A
+Geographic Print Pants,Pants,Geographic,Men,102747.07,17.22,A
+Tribe Shirt,Shirt,Tribe,Women,102313.39,17.52,A
+Box Logo Heritage Shirt,Shirt,Box Logo,Women,101138.46,17.82,A
+Box Logo Print Shirt,Shirt,Box Logo,Women,100264.94,18.11,A
+Slate Shoes,Shoes,Slate,Women,99887.88,18.41,A
+Patch Logo Sweatshirt,Sweatshirt,Patch,Men,99745.14,18.7,A
+Rainforest Stretch Sweatshirt,Sweatshirt,Rainforest,Women,99632.24,18.99,A
+Trail Half-Zip Shoes,Shoes,Trail,Women,98664.61,19.28,A
+Trail Stripe Shoes,Shoes,Trail,Men,98520.67,19.57,A
+Box Logo Logo Pants,Pants,Box Logo,Women,98037.1,19.86,A
+Tribe Half-Zip Shirt,Shirt,Tribe,Women,97255.82,20.15,A
+Cresta Graphic Shoes,Shoes,Cresta,Men,96712.74,20.43,A
+Tribe Quilted Shorts,Shorts,Tribe,Men,95520.73,20.71,A
+Iconic Pants,Pants,Iconic,Men,92421.32,20.98,A
+Iconic Half-Zip Sweatshirt,Sweatshirt,Iconic,Women,92042.35,21.25,A
+Rainforest Quilted Sweatshirt,Sweatshirt,Rainforest,Men,91949.75,21.53,A
+Box Logo Stretch Swimwear,Swimwear,Box Logo,Men,91340.63,21.79,A
+Iconic Stripe Sweatshirt,Sweatshirt,Iconic,Men,91024.52,22.06,A
+Cresta Logo Shoes,Shoes,Cresta,Women,90895.44,22.33,A
+Trail Quilted Shoes,Shoes,Trail,Men,90796.53,22.6,A
+Geographic Stripe Sweatshirt,Sweatshirt,Geographic,Men,90324.25,22.86,A
+Geographic Half-Zip T-Shirt,T-Shirt,Geographic,Women,90133.21,23.13,A
+Box Logo Pants,Pants,Box Logo,Women,90002.07,23.39,A
+Iconic Logo Sweatshirt,Sweatshirt,Iconic,Men,89377.39,23.65,A
+Geographic Heritage T-Shirt,T-Shirt,Geographic,Women,88861.93,23.91,A
+Circular Half-Zip Sweatshirt,Sweatshirt,Circular,Men,86138.64,24.17,A
+Patch Pants,Pants,Patch,Men,85359.78,24.42,A
+Slate Print Shoes,Shoes,Slate,Women,84873.09,24.67,A
+Trail Graphic Shoes,Shoes,Trail,Women,84747.03,24.92,A
+Rainforest Half-Zip Shirt,Shirt,Rainforest,Women,84635.78,25.17,A
+Circular Print Polo,Polo,Circular,Men,84538.28,25.41,A
+Geographic Quilted Sweatshirt,Sweatshirt,Geographic,Men,84193.35,25.66,A
+Morgex Heritage Sweatshirt,Sweatshirt,Morgex,Women,84056.97,25.91,A
+Tribe Heritage Sweatshirt,Sweatshirt,Tribe,Men,83924.55,26.16,A
+Circular Half-Zip Shirt,Shirt,Circular,Men,83013.02,26.4,A
+Morgex Print Shirt,Shirt,Morgex,Men,82920.25,26.64,A
+Patch Stripe Pants,Pants,Patch,Women,82737.51,26.89,A
+Rainforest Half-Zip Polo,Polo,Rainforest,Men,82731.14,27.13,A
+Trail Logo Shoes,Shoes,Trail,Men,82444.75,27.37,A
+Rainforest Stretch Sweatshirt,Sweatshirt,Rainforest,Men,82129.59,27.61,A
+Slate Stretch Shoes,Shoes,Slate,Women,81073.46,27.85,A
+Cresta Quilted Shoes,Shoes,Cresta,Women,79549.84,28.09,A
+Iconic Half-Zip Pants,Pants,Iconic,Women,79354.88,28.32,A
+Morgex Quilted Shirt,Shirt,Morgex,Men,79049.54,28.55,A
+Circular Heritage Pants,Pants,Circular,Men,78344.02,28.78,A
+Patch Stretch Sweatshirt,Sweatshirt,Patch,Men,78275.87,29.01,A
+Rainforest Logo Pants,Pants,Rainforest,Men,78228.05,29.24,A
+Box Logo Half-Zip Shoes,Shoes,Box Logo,Women,78176.97,29.47,A
+Tribe Pants,Pants,Tribe,Men,78064.3,29.7,A
+Morgex Logo Pants,Pants,Morgex,Men,78034.22,29.93,A
+Rainforest Pants,Pants,Rainforest,Women,77673.82,30.16,A
+Rainforest Logo Sweatshirt,Sweatshirt,Rainforest,Men,77508.81,30.39,A
+Box Logo Stripe Pants,Pants,Box Logo,Women,77269.95,30.61,A
+Iconic Graphic Shorts,Shorts,Iconic,Men,77095.77,30.84,A
+Box Logo Shirt,Shirt,Box Logo,Men,75748.18,31.06,A
+Morgex Shirt,Shirt,Morgex,Men,75249.05,31.28,A
+Circular Logo Pants,Pants,Circular,Men,74744.67,31.5,A
+Patch Heritage Polo,Polo,Patch,Men,74671.54,31.72,A
+Iconic Sweatshirt,Sweatshirt,Iconic,Women,73935.97,31.94,A
+Geographic Sweatshirt,Sweatshirt,Geographic,Men,73023.61,32.16,A
+Slate Quilted Shoes,Shoes,Slate,Men,72754.21,32.37,A
+Morgex Shirt,Shirt,Morgex,Women,72562.91,32.58,A
+Slate Shoes,Shoes,Slate,Men,71690.97,32.79,A
+Circular Quilted Pants,Pants,Circular,Men,71402.25,33.0,A
+Rainforest Quilted Shirt,Shirt,Rainforest,Women,70923.88,33.21,A
+Geographic Graphic Shirt,Shirt,Geographic,Women,70361.66,33.42,A
+Rainforest Stripe Shirt,Shirt,Rainforest,Men,70146.37,33.63,A
+Trail Stripe Shoes,Shoes,Trail,Women,69774.95,33.83,A
+Tribe Graphic Shirt,Shirt,Tribe,Women,69704.49,34.04,A
+Iconic Graphic Sweatshirt,Sweatshirt,Iconic,Men,69193.59,34.24,A
+Circular Print Shirt,Shirt,Circular,Men,69094.31,34.44,A
+Tribe Logo Sweatshirt,Sweatshirt,Tribe,Men,69014.44,34.64,A
+Patch Quilted Pants,Pants,Patch,Men,69008.33,34.85,A
+Geographic Stripe Pants,Pants,Geographic,Women,68839.87,35.05,A
+Morgex Logo Sweatshirt,Sweatshirt,Morgex,Women,68653.89,35.25,A
+Morgex Stripe Sweatshirt,Sweatshirt,Morgex,Men,68065.41,35.45,A
+Geographic Stretch Shirt,Shirt,Geographic,Men,67859.01,35.65,A
+Iconic Graphic Pants,Pants,Iconic,Women,67819.29,35.85,A
+Iconic Logo Pants,Pants,Iconic,Women,67213.39,36.05,A
+Iconic Quilted Pants,Pants,Iconic,Women,66531.94,36.24,A
+Iconic Shorts,Shorts,Iconic,Men,66356.52,36.44,A
+Tribe Quilted T-Shirt,T-Shirt,Tribe,Men,66245.47,36.63,A
+Box Logo Heritage Sweatshirt,Sweatshirt,Box Logo,Men,66174.37,36.83,A
+Rainforest Stripe Sweatshirt,Sweatshirt,Rainforest,Women,66114.13,37.02,A
+Box Logo Stripe Shoes,Shoes,Box Logo,Women,66047.33,37.22,A
+Tribe Stripe Pants,Pants,Tribe,Men,65699.24,37.41,A
+Morgex Stripe Polo,Polo,Morgex,Men,65437.56,37.6,A
+Iconic Graphic T-Shirt,T-Shirt,Iconic,Women,65312.35,37.79,A
+Circular Print Sweatshirt,Sweatshirt,Circular,Men,65294.41,37.99,A
+Box Logo Heritage Swimwear,Swimwear,Box Logo,Women,65134.07,38.18,A
+Tribe Quilted Shirt,Shirt,Tribe,Men,64969.58,38.37,A
+Circular T-Shirt,T-Shirt,Circular,Men,64929.61,38.56,A
+Tribe Graphic Pants,Pants,Tribe,Men,64713.46,38.75,A
+Iconic Print Sweatshirt,Sweatshirt,Iconic,Women,64693.81,38.94,A
+Cresta Stripe Shoes,Shoes,Cresta,Men,64152.49,39.13,A
+Box Logo Shoes,Shoes,Box Logo,Men,64098.01,39.32,A
+Box Logo Heritage Pants,Pants,Box Logo,Men,63774.24,39.5,A
+Patch Stripe T-Shirt,T-Shirt,Patch,Men,63286.11,39.69,A
+Circular Stripe Pants,Pants,Circular,Men,63071.35,39.88,A
+Tribe Quilted Pants,Pants,Tribe,Men,62995.9,40.06,A
+Geographic Gloves,Accessories,Geographic,Men,62899.53,40.25,A
+Tribe Sweatshirt,Sweatshirt,Tribe,Men,62860.76,40.43,A
+Iconic Quilted Shirt,Shirt,Iconic,Men,62686.51,40.62,A
+Iconic Graphic Polo,Polo,Iconic,Women,62647.58,40.8,A
+Circular Heritage T-Shirt,T-Shirt,Circular,Men,61903.64,40.98,A
+Box Logo Print Pants,Pants,Box Logo,Men,61720.77,41.16,A
+Patch Shirt,Shirt,Patch,Women,61711.56,41.34,A
+Tribe T-Shirt,T-Shirt,Tribe,Women,61124.09,41.52,A
+Rainforest T-Shirt,T-Shirt,Rainforest,Women,60671.21,41.7,A
+Geographic Half-Zip Shirt,Shirt,Geographic,Men,60522.06,41.88,A
+Patch Logo Pants,Pants,Patch,Men,60511.48,42.06,A
+Geographic Stretch Polo,Polo,Geographic,Women,60509.95,42.24,A
+Box Logo Print Shoes,Shoes,Box Logo,Men,60489.12,42.41,A
+Iconic Stretch Sweatshirt,Sweatshirt,Iconic,Women,60263.52,42.59,A
+Geographic Print Sweatshirt,Sweatshirt,Geographic,Men,60006.66,42.77,A
+Iconic Logo Pants,Pants,Iconic,Men,59762.68,42.94,A
+Circular Logo Shirt,Shirt,Circular,Men,59734.44,43.12,A
+Cresta Shoes,Shoes,Cresta,Women,59550.2,43.29,A
+Tribe Stretch Sweatshirt,Sweatshirt,Tribe,Men,59417.93,43.47,A
+Patch Sweatshirt,Sweatshirt,Patch,Men,59281.79,43.64,A
+Cresta Print Shoes,Shoes,Cresta,Women,59100.03,43.82,A
+Geographic Logo Sweatshirt,Sweatshirt,Geographic,Men,58980.12,43.99,A
+Geographic Graphic T-Shirt,T-Shirt,Geographic,Women,58859.73,44.16,A
+Patch Stretch Sweatshirt,Sweatshirt,Patch,Women,58852.86,44.34,A
+Box Logo Stripe Shirt,Shirt,Box Logo,Men,58726.37,44.51,A
+Tribe Heritage Pants,Pants,Tribe,Women,58698.84,44.68,A
+Morgex Half-Zip Pants,Pants,Morgex,Men,58648.59,44.85,A
+Circular Print Sweatshirt,Sweatshirt,Circular,Women,58488.52,45.03,A
+Iconic Bucket Hat,Accessories,Iconic,Men,58269.75,45.2,A
+Box Logo Graphic Shoes,Shoes,Box Logo,Men,58177.59,45.37,A
+Iconic Graphic Shirt,Shirt,Iconic,Men,57983.64,45.54,A
+Rainforest Logo Shirt,Shirt,Rainforest,Men,57963.87,45.71,A
+Tribe Print Sweatshirt,Sweatshirt,Tribe,Men,57735.31,45.88,A
+Morgex Stretch Sweatshirt,Sweatshirt,Morgex,Men,57726.05,46.05,A
+Geographic Graphic Sweatshirt,Sweatshirt,Geographic,Men,57580.89,46.22,A
+Morgex Half-Zip Sweatshirt,Sweatshirt,Morgex,Women,57490.06,46.39,A
+Geographic Shirt,Shirt,Geographic,Women,57439.72,46.55,A
+Geographic Graphic Sweatshirt,Sweatshirt,Geographic,Women,57367.37,46.72,A
+Tribe Logo Shirt,Shirt,Tribe,Men,57174.84,46.89,A
+Iconic Graphic Shirt,Shirt,Iconic,Women,57050.57,47.06,A
+Iconic Heritage Shirt,Shirt,Iconic,Men,56863.86,47.23,A
+Patch Half-Zip Pants,Pants,Patch,Men,56823.09,47.39,A
+Rainforest Graphic Sweatshirt,Sweatshirt,Rainforest,Men,56595.9,47.56,A
+Morgex Graphic Shorts,Shorts,Morgex,Women,56547.26,47.73,A
+Morgex Stripe Pants,Pants,Morgex,Men,56530.54,47.89,A
+Tribe Stretch Shirt,Shirt,Tribe,Women,56249.13,48.06,A
+Circular Half-Zip Pants,Pants,Circular,Women,56072.94,48.22,A
+Morgex Stripe Shirt,Shirt,Morgex,Women,55924.98,48.39,A
+Tribe Heritage Shirt,Shirt,Tribe,Women,55567.79,48.55,A
+Rainforest Stretch Shirt,Shirt,Rainforest,Men,55506.6,48.71,A
+Box Logo Graphic Polo,Polo,Box Logo,Men,55429.19,48.88,A
+Box Logo Heritage T-Shirt,T-Shirt,Box Logo,Women,55422.29,49.04,A
+Morgex Graphic Shirt,Shirt,Morgex,Women,55309.02,49.2,A
+Morgex T-Shirt,T-Shirt,Morgex,Women,55292.71,49.36,A
+Cresta Stretch Shoes,Shoes,Cresta,Women,55121.25,49.53,A
+Rainforest Heritage Pants,Pants,Rainforest,Men,55088.96,49.69,A
+Tribe Half-Zip Shirt,Shirt,Tribe,Men,54829.06,49.85,A
+Rainforest Stretch T-Shirt,T-Shirt,Rainforest,Men,54717.93,50.01,A
+Rainforest Print Pants,Pants,Rainforest,Men,54495.64,50.17,A
+Wave Swimwear,Swimwear,Wave,Men,54450.14,50.33,A
+Tribe Graphic Sweatshirt,Sweatshirt,Tribe,Women,54376.21,50.49,A
+Box Logo Half-Zip Pants,Pants,Box Logo,Men,54211.22,50.65,A
+Morgex Half-Zip Shorts,Shorts,Morgex,Men,54179.34,50.81,A
+Box Logo Shirt,Shirt,Box Logo,Women,53976.97,50.97,A
+Geographic Print T-Shirt,T-Shirt,Geographic,Women,53884.59,51.13,A
+Iconic Quilted Pants,Pants,Iconic,Men,53556.36,51.28,A
+Circular Stripe T-Shirt,T-Shirt,Circular,Women,53153.75,51.44,A
+Box Logo Quilted Shorts,Shorts,Box Logo,Men,52945.33,51.6,A
+Morgex Stretch Pants,Pants,Morgex,Men,52644.09,51.75,A
+Cresta Heritage Shoes,Shoes,Cresta,Men,52542.6,51.9,A
+Rainforest Sweatshirt,Sweatshirt,Rainforest,Men,52494.49,52.06,A
+Morgex Half-Zip Polo,Polo,Morgex,Women,52386.98,52.21,A
+Tribe Socks,Accessories,Tribe,Women,52381.64,52.37,A
+Tribe Logo Pants,Pants,Tribe,Women,52264.42,52.52,A
+Slate Graphic Shoes,Shoes,Slate,Women,52051.18,52.67,A
+Tribe Stripe Sweatshirt,Sweatshirt,Tribe,Women,51962.94,52.83,A
+Slate Logo Shoes,Shoes,Slate,Women,51873.38,52.98,A
+Circular Heritage Sweatshirt,Sweatshirt,Circular,Men,51784.66,53.13,A
+Circular Shirt,Shirt,Circular,Women,51705.91,53.28,A
+Rainforest Print T-Shirt,T-Shirt,Rainforest,Women,51488.77,53.43,A
+Morgex Graphic Sweatshirt,Sweatshirt,Morgex,Women,51467.01,53.59,A
+Tribe Heritage Polo,Polo,Tribe,Women,51019.13,53.74,A
+Morgex Print Pants,Pants,Morgex,Women,50927.72,53.89,A
+Morgex Logo Shirt,Shirt,Morgex,Men,50901.73,54.04,A
+Geographic Quilted Pants,Pants,Geographic,Men,50896.91,54.19,A
+Circular Graphic Sweatshirt,Sweatshirt,Circular,Women,50824.12,54.33,A
+Morgex Print Shirt,Shirt,Morgex,Women,50815.74,54.48,A
+Tribe Stretch Pants,Pants,Tribe,Men,50668.92,54.63,A
+Box Logo Graphic Shoes,Shoes,Box Logo,Women,50601.07,54.78,A
+Rainforest Heritage Sweatshirt,Sweatshirt,Rainforest,Men,50215.35,54.93,A
+Tribe Quilted Sweatshirt,Sweatshirt,Tribe,Men,50081.85,55.08,A
+Box Logo Quilted Sweatshirt,Sweatshirt,Box Logo,Men,49979.75,55.22,A
+Tribe Print Shirt,Shirt,Tribe,Men,49890.22,55.37,A
+Iconic T-Shirt,T-Shirt,Iconic,Women,49839.09,55.52,A
+Circular Logo T-Shirt,T-Shirt,Circular,Men,49583.35,55.66,A
+Rainforest Shorts,Shorts,Rainforest,Men,49467.48,55.81,A
+Box Logo Graphic Sweatshirt,Sweatshirt,Box Logo,Men,49146.32,55.95,A
+Morgex Shorts,Shorts,Morgex,Men,49128.28,56.1,A
+Rainforest Stripe Polo,Polo,Rainforest,Men,49099.04,56.24,A
+Morgex Quilted T-Shirt,T-Shirt,Morgex,Men,49067.71,56.39,A
+Iconic Graphic Pants,Pants,Iconic,Men,48804.32,56.53,A
+Patch Quilted Sweatshirt,Sweatshirt,Patch,Men,48786.45,56.67,A
+Sun-Lover Stripe Swimwear,Swimwear,Sun-Lover,Women,48740.33,56.82,A
+Iconic Shirt,Shirt,Iconic,Men,48728.28,56.96,A
+Geographic Graphic T-Shirt,T-Shirt,Geographic,Men,48636.33,57.1,A
+Tribe T-Shirt,T-Shirt,Tribe,Men,48437.37,57.24,A
+Box Logo Logo Sweatshirt,Sweatshirt,Box Logo,Women,48389.4,57.39,A
+Box Logo Logo T-Shirt,T-Shirt,Box Logo,Men,48330.54,57.53,A
+Box Logo Sweatshirt,Sweatshirt,Box Logo,Women,47934.79,57.67,A
+Iconic Polo,Polo,Iconic,Men,47789.63,57.81,A
+Box Logo Quilted Shoes,Shoes,Box Logo,Men,47623.5,57.95,A
+Box Logo Half-Zip Polo,Polo,Box Logo,Men,47505.89,58.09,A
+Box Logo Heritage T-Shirt,T-Shirt,Box Logo,Men,46884.67,58.23,A
+Morgex Stretch Shirt,Shirt,Morgex,Men,46867.15,58.36,A
+Box Logo Graphic Shorts,Shorts,Box Logo,Men,46659.55,58.5,A
+Circular Half-Zip Shirt,Shirt,Circular,Women,46465.51,58.64,A
+Circular Shirt,Shirt,Circular,Men,46391.03,58.78,A
+Wave Print Swimwear,Swimwear,Wave,Women,46297.83,58.91,A
+Patch Half-Zip Sweatshirt,Sweatshirt,Patch,Women,46274.43,59.05,A
+Iconic Print T-Shirt,T-Shirt,Iconic,Men,46169.88,59.18,A
+Patch Stripe Polo,Polo,Patch,Women,46085.81,59.32,A
+Box Logo Print Sweatshirt,Sweatshirt,Box Logo,Women,46034.76,59.45,A
+Rainforest Stripe Pants,Pants,Rainforest,Women,45846.5,59.59,A
+Geographic Half-Zip Pants,Pants,Geographic,Men,45800.83,59.72,A
+Box Logo Half-Zip T-Shirt,T-Shirt,Box Logo,Men,45741.66,59.86,A
+Patch Quilted T-Shirt,T-Shirt,Patch,Women,45543.14,59.99,A
+Geographic Socks,Accessories,Geographic,Men,45312.81,60.12,A
+Box Logo Pants,Pants,Box Logo,Men,45260.32,60.26,A
+Cresta Shoes,Shoes,Cresta,Men,45220.7,60.39,A
+Slate Stripe Shoes,Shoes,Slate,Women,45077.55,60.52,A
+Tribe Half-Zip Shorts,Shorts,Tribe,Men,45024.57,60.66,A
+Circular Shorts,Shorts,Circular,Women,44934.9,60.79,A
+Iconic Stretch Shorts,Shorts,Iconic,Men,44633.85,60.92,A
+Circular Logo Polo,Polo,Circular,Women,44561.84,61.05,A
+Box Logo Stretch Pants,Pants,Box Logo,Men,44517.12,61.18,A
+Geographic Heritage Shirt,Shirt,Geographic,Women,44422.58,61.31,A
+Iconic Quilted Sweatshirt,Sweatshirt,Iconic,Men,44306.61,61.44,A
+Patch Heritage Shirt,Shirt,Patch,Women,44249.01,61.57,A
+Geographic T-Shirt,T-Shirt,Geographic,Men,44208.06,61.7,A
+Morgex Print T-Shirt,T-Shirt,Morgex,Men,43953.47,61.83,A
+Box Logo T-Shirt,T-Shirt,Box Logo,Women,43833.77,61.96,A
+Geographic Print T-Shirt,T-Shirt,Geographic,Men,43728.28,62.09,A
+Rainforest Graphic Pants,Pants,Rainforest,Women,43681.71,62.22,A
+Circular Polo,Polo,Circular,Women,43569.81,62.34,A
+Patch Half-Zip Shirt,Shirt,Patch,Women,43251.53,62.47,A
+Patch Print Polo,Polo,Patch,Men,43176.41,62.6,A
+Geographic Logo Polo,Polo,Geographic,Men,43113.34,62.73,A
+Trail Print Shoes,Shoes,Trail,Women,43101.78,62.85,A
+Box Logo Shorts,Shorts,Box Logo,Men,42913.38,62.98,A
+Patch Heritage Pants,Pants,Patch,Men,42876.52,63.1,A
+Box Logo Stripe T-Shirt,T-Shirt,Box Logo,Women,42814.27,63.23,A
+Geographic Logo T-Shirt,T-Shirt,Geographic,Women,42644.55,63.36,A
+Tribe Stretch Shorts,Shorts,Tribe,Women,42550.82,63.48,A
+Patch Print Pants,Pants,Patch,Women,41938.97,63.6,A
+Tribe Shorts,Shorts,Tribe,Men,41874.46,63.73,A
+Box Logo T-Shirt,T-Shirt,Box Logo,Men,41689.28,63.85,A
+Tribe Print Pants,Pants,Tribe,Women,41606.81,63.97,A
+Tribe Stripe T-Shirt,T-Shirt,Tribe,Men,41518.2,64.09,A
+Circular Graphic Polo,Polo,Circular,Men,41464.29,64.22,A
+Patch T-Shirt,T-Shirt,Patch,Women,41427.84,64.34,A
+Iconic Half-Zip Shorts,Shorts,Iconic,Men,41155.85,64.46,A
+Iconic Polo,Polo,Iconic,Women,41093.75,64.58,A
+Wave Heritage Swimwear,Swimwear,Wave,Men,41084.87,64.7,A
+Rainforest Stretch Polo,Polo,Rainforest,Men,40990.02,64.82,A
+Box Logo Stretch Shirt,Shirt,Box Logo,Women,40955.31,64.94,A
+Geographic Shirt,Shirt,Geographic,Men,40952.2,65.06,A
+Morgex Half-Zip T-Shirt,T-Shirt,Morgex,Men,40855.45,65.18,A
+Patch Stretch Polo,Polo,Patch,Men,40823.88,65.3,A
+Patch Stretch Shirt,Shirt,Patch,Women,40767.21,65.42,A
+Circular Half-Zip Sweatshirt,Sweatshirt,Circular,Women,40737.89,65.54,A
+Circular Stretch Shirt,Shirt,Circular,Women,40684.75,65.66,A
+Circular Stretch Sweatshirt,Sweatshirt,Circular,Women,40544.28,65.78,A
+Circular Quilted T-Shirt,T-Shirt,Circular,Men,40379.34,65.9,A
+Circular Stripe Shirt,Shirt,Circular,Women,40334.85,66.02,A
+Iconic Stripe Shirt,Shirt,Iconic,Women,40270.18,66.14,A
+Geographic Stretch Sweatshirt,Sweatshirt,Geographic,Women,40115.44,66.25,A
+Patch Cap,Accessories,Patch,Men,40085.78,66.37,A
+Patch Polo,Polo,Patch,Women,40025.68,66.49,A
+Rainforest Heritage Pants,Pants,Rainforest,Women,40005.31,66.61,A
+Geographic Sweatshirt,Sweatshirt,Geographic,Women,39906.3,66.72,A
+Circular Pants,Pants,Circular,Women,39884.98,66.84,A
+Patch Graphic Polo,Polo,Patch,Men,39858.09,66.96,A
+Box Logo Stripe Sweatshirt,Sweatshirt,Box Logo,Women,39604.18,67.08,A
+Morgex Logo Polo,Polo,Morgex,Women,39505.17,67.19,A
+Iconic Graphic Sweatshirt,Sweatshirt,Iconic,Women,39425.63,67.31,A
+Geographic T-Shirt,T-Shirt,Geographic,Women,39188.81,67.42,A
+Trail Half-Zip Shoes,Shoes,Trail,Men,39188.32,67.54,A
+Box Logo Stripe T-Shirt,T-Shirt,Box Logo,Men,39187.87,67.65,A
+Morgex Polo,Polo,Morgex,Women,39087.57,67.77,A
+Morgex Pants,Pants,Morgex,Women,39058.76,67.88,A
+Patch Gloves,Accessories,Patch,Men,38910.78,68.0,A
+Iconic Stretch Shirt,Shirt,Iconic,Men,38849.25,68.11,A
+Iconic Quilted T-Shirt,T-Shirt,Iconic,Women,38661.32,68.22,A
+Patch Logo T-Shirt,T-Shirt,Patch,Men,38603.75,68.34,A
+Morgex Polo,Polo,Morgex,Men,38590.35,68.45,A
+Morgex Half-Zip Sweatshirt,Sweatshirt,Morgex,Men,38529.59,68.56,A
+Geographic Pants,Pants,Geographic,Men,38499.35,68.68,A
+Wave Stretch Swimwear,Swimwear,Wave,Men,38458.88,68.79,A
+Box Logo Stretch T-Shirt,T-Shirt,Box Logo,Men,38358.09,68.9,A
+Morgex Half-Zip Shirt,Shirt,Morgex,Men,38268.9,69.02,A
+Trail Quilted Shoes,Shoes,Trail,Women,38223.23,69.13,A
+Circular Graphic T-Shirt,T-Shirt,Circular,Men,38210.08,69.24,A
+Geographic Stripe T-Shirt,T-Shirt,Geographic,Women,38192.97,69.35,A
+Tribe Print Sweatshirt,Sweatshirt,Tribe,Women,38085.01,69.47,A
+Iconic Logo Shorts,Shorts,Iconic,Men,38069.49,69.58,A
+Iconic Quilted Polo,Polo,Iconic,Men,38032.0,69.69,A
+Patch Stretch Pants,Pants,Patch,Men,37644.38,69.8,A
+Tribe Stripe Shirt,Shirt,Tribe,Men,37514.54,69.91,A
+Geographic Logo Pants,Pants,Geographic,Women,37439.93,70.02,A
+Circular Stripe Shorts,Shorts,Circular,Women,37394.5,70.13,A
+Patch Socks,Accessories,Patch,Men,37271.45,70.24,A
+Circular Graphic Shirt,Shirt,Circular,Women,37229.38,70.35,A
+Box Logo Tote Bag,Accessories,Box Logo,Women,37147.68,70.46,A
+Iconic Half-Zip Polo,Polo,Iconic,Women,37054.31,70.57,A
+Box Logo Swimwear,Swimwear,Box Logo,Men,36931.0,70.68,A
+Circular Stripe T-Shirt,T-Shirt,Circular,Men,36762.75,70.78,A
+Iconic Stripe Pants,Pants,Iconic,Men,36713.76,70.89,A
+Circular Heritage Sweatshirt,Sweatshirt,Circular,Women,36705.36,71.0,A
+Rainforest Logo Sweatshirt,Sweatshirt,Rainforest,Women,36544.73,71.11,A
+Box Logo Polo,Polo,Box Logo,Men,36495.98,71.21,A
+Patch Heritage Sweatshirt,Sweatshirt,Patch,Men,36391.13,71.32,A
+Iconic Stretch Sweatshirt,Sweatshirt,Iconic,Men,36351.21,71.43,A
+Tribe Stripe Polo,Polo,Tribe,Men,36306.3,71.53,A
+Circular Heritage Shirt,Shirt,Circular,Men,36286.09,71.64,A
+Circular Quilted Shorts,Shorts,Circular,Women,36248.71,71.75,A
+Geographic Stretch Polo,Polo,Geographic,Men,36223.73,71.85,A
+Morgex Pants,Pants,Morgex,Men,35768.73,71.96,A
+Tribe Graphic Shorts,Shorts,Tribe,Women,35468.62,72.06,A
+Patch Stripe Pants,Pants,Patch,Men,35461.95,72.17,A
+Patch Heritage T-Shirt,T-Shirt,Patch,Men,35378.93,72.27,A
+Morgex Stretch Shirt,Shirt,Morgex,Women,35336.2,72.38,A
+Morgex Quilted Shorts,Shorts,Morgex,Men,35223.45,72.48,A
+Tribe Logo T-Shirt,T-Shirt,Tribe,Women,35117.22,72.58,A
+Circular Quilted Polo,Polo,Circular,Women,35106.68,72.69,A
+Tribe Heritage Polo,Polo,Tribe,Men,35015.63,72.79,A
+Box Logo Stretch Sweatshirt,Sweatshirt,Box Logo,Men,34999.21,72.89,A
+Geographic Stripe Shirt,Shirt,Geographic,Men,34991.54,72.99,A
+Rainforest Stripe Shirt,Shirt,Rainforest,Women,34931.07,73.1,A
+Geographic Heritage Polo,Polo,Geographic,Men,34874.48,73.2,A
+Circular Print Shorts,Shorts,Circular,Women,34858.61,73.3,A
+Geographic Pants,Pants,Geographic,Women,34795.4,73.4,A
+Circular Quilted Sweatshirt,Sweatshirt,Circular,Men,34717.83,73.51,A
+Tribe Heritage Sweatshirt,Sweatshirt,Tribe,Women,34541.58,73.61,A
+Tribe Polo,Polo,Tribe,Women,34447.36,73.71,A
+Tribe Quilted Shirt,Shirt,Tribe,Women,34363.28,73.81,A
+Geographic Stretch Sweatshirt,Sweatshirt,Geographic,Men,34291.63,73.91,A
+Cresta Logo Shoes,Shoes,Cresta,Men,34228.93,74.01,A
+Iconic Heritage T-Shirt,T-Shirt,Iconic,Women,33915.76,74.11,A
+Tribe Half-Zip Sweatshirt,Sweatshirt,Tribe,Men,33877.64,74.21,A
+Box Logo Gloves,Accessories,Box Logo,Men,33867.35,74.31,A
+Tribe Stretch T-Shirt,T-Shirt,Tribe,Men,33777.6,74.41,A
+Circular Cap,Accessories,Circular,Women,33674.17,74.51,A
+Box Logo Half-Zip Shorts,Shorts,Box Logo,Men,33623.31,74.61,A
+Box Logo Quilted Swimwear,Swimwear,Box Logo,Women,33585.48,74.71,A
+Sun-Lover Stretch Swimwear,Swimwear,Sun-Lover,Men,33584.45,74.81,A
+Rainforest Heritage T-Shirt,T-Shirt,Rainforest,Men,33574.56,74.9,A
+Rainforest Graphic Shirt,Shirt,Rainforest,Men,33418.51,75.0,A
+Iconic Half-Zip T-Shirt,T-Shirt,Iconic,Women,33322.17,75.1,A
+Iconic Logo T-Shirt,T-Shirt,Iconic,Men,33284.92,75.2,A
+Rainforest Stretch Polo,Polo,Rainforest,Women,33242.37,75.3,A
+Geographic Heritage Shirt,Shirt,Geographic,Men,33149.04,75.39,A
+Circular Graphic Sweatshirt,Sweatshirt,Circular,Men,33048.72,75.49,A
+Morgex Heritage Pants,Pants,Morgex,Men,33044.34,75.59,A
+Iconic Stretch Polo,Polo,Iconic,Women,33027.39,75.68,A
+Iconic Half-Zip T-Shirt,T-Shirt,Iconic,Men,33014.37,75.78,A
+Morgex Print Shorts,Shorts,Morgex,Women,32880.51,75.88,A
+Circular Stretch Sweatshirt,Sweatshirt,Circular,Men,32740.73,75.97,A
+Morgex Heritage Pants,Pants,Morgex,Women,32697.32,76.07,A
+Rainforest Print T-Shirt,T-Shirt,Rainforest,Men,32653.06,76.17,A
+Patch Half-Zip Shirt,Shirt,Patch,Men,32569.61,76.26,A
+Morgex Cap,Accessories,Morgex,Women,32442.43,76.36,A
+Box Logo Print Shorts,Shorts,Box Logo,Men,32425.51,76.45,A
+Rainforest Graphic Polo,Polo,Rainforest,Women,32397.64,76.55,A
+Box Logo Stripe Swimwear,Swimwear,Box Logo,Men,32320.76,76.64,A
+Geographic Polo,Polo,Geographic,Men,32187.79,76.74,A
+Rainforest Quilted Pants,Pants,Rainforest,Men,32079.96,76.83,A
+Morgex Quilted Pants,Pants,Morgex,Women,32062.81,76.93,A
+Iconic Graphic T-Shirt,T-Shirt,Iconic,Men,31920.55,77.02,A
+Wave Quilted Swimwear,Swimwear,Wave,Men,31893.11,77.11,A
+Patch Stretch T-Shirt,T-Shirt,Patch,Men,31861.51,77.21,A
+Circular Waist Bag,Accessories,Circular,Women,31805.16,77.3,A
+Tribe Print Pants,Pants,Tribe,Men,31693.17,77.39,A
+Wave Quilted Swimwear,Swimwear,Wave,Women,31587.59,77.49,A
+Iconic Stretch Pants,Pants,Iconic,Women,31521.75,77.58,A
+Geographic Print Sweatshirt,Sweatshirt,Geographic,Women,31487.49,77.67,A
+Morgex Stretch Polo,Polo,Morgex,Women,31280.84,77.76,A
+Rainforest Socks,Accessories,Rainforest,Women,31279.46,77.86,A
+Geographic Stripe Pants,Pants,Geographic,Men,31254.37,77.95,A
+Geographic Quilted T-Shirt,T-Shirt,Geographic,Men,31164.38,78.04,A
+Patch Graphic T-Shirt,T-Shirt,Patch,Men,31159.19,78.13,A
+Circular Print Pants,Pants,Circular,Women,31077.9,78.22,A
+Circular Quilted T-Shirt,T-Shirt,Circular,Women,31019.3,78.31,A
+Geographic Logo Polo,Polo,Geographic,Women,30996.83,78.41,A
+Rainforest Heritage Shorts,Shorts,Rainforest,Men,30880.65,78.5,A
+Tribe Stretch Shorts,Shorts,Tribe,Men,30806.05,78.59,A
+Geographic Quilted Shirt,Shirt,Geographic,Women,30741.56,78.68,A
+Box Logo Logo T-Shirt,T-Shirt,Box Logo,Women,30701.14,78.77,A
+Iconic Socks,Accessories,Iconic,Men,30697.98,78.86,A
+Box Logo Quilted Shoes,Shoes,Box Logo,Women,30621.36,78.95,A
+Patch Logo Polo,Polo,Patch,Women,30569.13,79.04,A
+Circular Stripe Shorts,Shorts,Circular,Men,30137.07,79.13,A
+Geographic Heritage T-Shirt,T-Shirt,Geographic,Men,29817.63,79.21,A
+Tribe Heritage T-Shirt,T-Shirt,Tribe,Men,29799.21,79.3,A
+Iconic Stretch T-Shirt,T-Shirt,Iconic,Women,29777.82,79.39,A
+Box Logo Logo Polo,Polo,Box Logo,Men,29716.24,79.48,A
+Patch Scarf,Accessories,Patch,Men,29712.77,79.56,A
+Morgex Stripe Shorts,Shorts,Morgex,Women,29700.43,79.65,A
+Rainforest Graphic Sweatshirt,Sweatshirt,Rainforest,Women,29636.88,79.74,A
+Circular Half-Zip T-Shirt,T-Shirt,Circular,Men,29620.27,79.83,A
+Rainforest Quilted T-Shirt,T-Shirt,Rainforest,Men,29360.76,79.91,A
+Tribe Print Shirt,Shirt,Tribe,Women,29103.69,80.0,A
+Iconic Quilted Polo,Polo,Iconic,Women,29066.58,80.08,B
+Trail Heritage Shoes,Shoes,Trail,Men,29025.81,80.17,B
+Morgex Logo T-Shirt,T-Shirt,Morgex,Men,29004.3,80.25,B
+Cresta Quilted Shoes,Shoes,Cresta,Men,28873.96,80.34,B
+Box Logo Graphic Sweatshirt,Sweatshirt,Box Logo,Women,28855.76,80.42,B
+Circular Stretch T-Shirt,T-Shirt,Circular,Men,28796.41,80.51,B
+Box Logo Heritage Polo,Polo,Box Logo,Men,28761.18,80.59,B
+Tribe Tote Bag,Accessories,Tribe,Men,28565.79,80.68,B
+Rainforest Polo,Polo,Rainforest,Men,28546.81,80.76,B
+Tribe Pants,Pants,Tribe,Women,28509.84,80.84,B
+Circular Stripe Sweatshirt,Sweatshirt,Circular,Men,28420.14,80.93,B
+Rainforest Cap,Accessories,Rainforest,Men,28319.11,81.01,B
+Circular Logo Sweatshirt,Sweatshirt,Circular,Women,28256.27,81.09,B
+Geographic Half-Zip Shorts,Shorts,Geographic,Men,28156.4,81.18,B
+Circular Stripe Polo,Polo,Circular,Women,28031.85,81.26,B
+Morgex Heritage Polo,Polo,Morgex,Men,28028.05,81.34,B
+Circular Quilted Pants,Pants,Circular,Women,28013.94,81.42,B
+Morgex Beanie,Accessories,Morgex,Men,27989.99,81.51,B
+Sun-Lover Swimwear,Swimwear,Sun-Lover,Women,27874.12,81.59,B
+Morgex Stretch Shorts,Shorts,Morgex,Women,27857.31,81.67,B
+Tribe Half-Zip T-Shirt,T-Shirt,Tribe,Men,27836.72,81.75,B
+Patch Print Shirt,Shirt,Patch,Women,27795.54,81.83,B
+Geographic Stripe Shorts,Shorts,Geographic,Men,27736.73,81.91,B
+Rainforest Sweatshirt,Sweatshirt,Rainforest,Women,27642.09,82.0,B
+Rainforest Half-Zip T-Shirt,T-Shirt,Rainforest,Men,27627.43,82.08,B
+Sun-Lover Stripe Swimwear,Swimwear,Sun-Lover,Men,27563.47,82.16,B
+Patch Quilted Shorts,Shorts,Patch,Women,27490.21,82.24,B
+Cresta Stretch Shoes,Shoes,Cresta,Men,27422.85,82.32,B
+Geographic Graphic Pants,Pants,Geographic,Women,27417.86,82.4,B
+Box Logo Print Polo,Polo,Box Logo,Women,27387.5,82.48,B
+Morgex Print Polo,Polo,Morgex,Men,27296.5,82.56,B
+Tribe Stretch Polo,Polo,Tribe,Women,27074.56,82.64,B
+Iconic Heritage Pants,Pants,Iconic,Men,27027.45,82.72,B
+Geographic Waist Bag,Accessories,Geographic,Men,27006.3,82.8,B
+Patch Graphic T-Shirt,T-Shirt,Patch,Women,26933.55,82.88,B
+Geographic Logo Pants,Pants,Geographic,Men,26925.36,82.96,B
+Trail Stretch Shoes,Shoes,Trail,Women,26895.21,83.04,B
+Morgex Print Shorts,Shorts,Morgex,Men,26833.53,83.12,B
+Tribe Logo T-Shirt,T-Shirt,Tribe,Men,26821.53,83.19,B
+Sun-Lover Graphic Swimwear,Swimwear,Sun-Lover,Men,26695.57,83.27,B
+Iconic Heritage Sweatshirt,Sweatshirt,Iconic,Women,26640.27,83.35,B
+Box Logo Polo,Polo,Box Logo,Women,26625.77,83.43,B
+Tribe Stripe Shorts,Shorts,Tribe,Women,26564.15,83.51,B
+Morgex Heritage Shorts,Shorts,Morgex,Women,26300.18,83.58,B
+Iconic Logo Shirt,Shirt,Iconic,Women,26285.18,83.66,B
+Iconic Quilted Sweatshirt,Sweatshirt,Iconic,Women,26283.05,83.74,B
+Circular Stretch Pants,Pants,Circular,Women,26218.1,83.82,B
+Box Logo Quilted Shirt,Shirt,Box Logo,Women,26157.6,83.89,B
+Geographic Shorts,Shorts,Geographic,Men,26070.44,83.97,B
+Patch Graphic Sweatshirt,Sweatshirt,Patch,Women,26052.08,84.05,B
+Iconic Stripe Sweatshirt,Sweatshirt,Iconic,Women,25897.41,84.12,B
+Patch Quilted Shirt,Shirt,Patch,Women,25818.14,84.2,B
+Iconic Pants,Pants,Iconic,Women,25799.69,84.27,B
+Patch Stripe Sweatshirt,Sweatshirt,Patch,Women,25797.42,84.35,B
+Morgex Half-Zip Shirt,Shirt,Morgex,Women,25759.76,84.43,B
+Rainforest Polo,Polo,Rainforest,Women,25681.3,84.5,B
+Cresta Graphic Shoes,Shoes,Cresta,Women,25667.4,84.58,B
+Geographic Heritage Pants,Pants,Geographic,Women,25539.18,84.65,B
+Sun-Lover Swimwear,Swimwear,Sun-Lover,Men,25416.35,84.73,B
+Tribe Half-Zip T-Shirt,T-Shirt,Tribe,Women,25260.98,84.8,B
+Patch Stretch Polo,Polo,Patch,Women,25245.37,84.88,B
+Patch Stripe Shirt,Shirt,Patch,Men,25217.9,84.95,B
+Patch Graphic Pants,Pants,Patch,Women,25169.93,85.02,B
+Wave Stripe Swimwear,Swimwear,Wave,Women,25124.43,85.1,B
+Morgex Quilted Shirt,Shirt,Morgex,Women,25089.54,85.17,B
+Circular Bucket Hat,Accessories,Circular,Men,24963.81,85.24,B
+Patch Heritage Shorts,Shorts,Patch,Women,24907.35,85.32,B
+Rainforest Heritage Polo,Polo,Rainforest,Women,24777.05,85.39,B
+Morgex Heritage Sweatshirt,Sweatshirt,Morgex,Men,24637.8,85.46,B
+Box Logo Logo Shorts,Shorts,Box Logo,Women,24556.93,85.54,B
+Morgex Half-Zip Polo,Polo,Morgex,Men,24507.89,85.61,B
+Circular Shorts,Shorts,Circular,Men,24451.31,85.68,B
+Circular Quilted Shirt,Shirt,Circular,Women,24227.36,85.75,B
+Rainforest Stretch Shorts,Shorts,Rainforest,Men,24202.65,85.82,B
+Rainforest Quilted Shorts,Shorts,Rainforest,Women,24199.59,85.89,B
+Iconic Stripe Polo,Polo,Iconic,Men,24008.99,85.96,B
+Morgex Stretch T-Shirt,T-Shirt,Morgex,Women,23892.89,86.03,B
+Tribe Graphic Polo,Polo,Tribe,Women,23866.9,86.1,B
+Circular Stripe Polo,Polo,Circular,Men,23794.6,86.17,B
+Rainforest Pants,Pants,Rainforest,Men,23767.05,86.24,B
+Circular Stripe Pants,Pants,Circular,Women,23763.44,86.31,B
+Iconic Half-Zip Pants,Pants,Iconic,Men,23732.65,86.38,B
+Circular Gloves,Accessories,Circular,Men,23627.06,86.45,B
+Circular Beanie,Accessories,Circular,Women,23549.44,86.52,B
+Patch Stretch Pants,Pants,Patch,Women,23544.25,86.59,B
+Patch Quilted Sweatshirt,Sweatshirt,Patch,Women,23481.29,86.66,B
+Morgex Logo Sweatshirt,Sweatshirt,Morgex,Men,23436.37,86.73,B
+Geographic Quilted Shorts,Shorts,Geographic,Women,23348.28,86.8,B
+Sun-Lover Logo Swimwear,Swimwear,Sun-Lover,Women,23109.04,86.87,B
+Rainforest Quilted Sweatshirt,Sweatshirt,Rainforest,Women,23101.49,86.93,B
+Circular Stretch Shirt,Shirt,Circular,Men,23098.46,87.0,B
+Patch Quilted T-Shirt,T-Shirt,Patch,Men,23091.32,87.07,B
+Rainforest Backpack,Accessories,Rainforest,Men,22823.74,87.14,B
+Geographic Stripe Polo,Polo,Geographic,Men,22781.54,87.2,B
+Morgex Graphic Shorts,Shorts,Morgex,Men,22701.36,87.27,B
+Geographic Shorts,Shorts,Geographic,Women,22696.12,87.34,B
+Iconic Logo T-Shirt,T-Shirt,Iconic,Women,22675.95,87.4,B
+Geographic Stretch T-Shirt,T-Shirt,Geographic,Men,22648.91,87.47,B
+Iconic Stretch Shirt,Shirt,Iconic,Women,22570.02,87.54,B
+Tribe Stretch Shirt,Shirt,Tribe,Men,22407.51,87.6,B
+Box Logo Half-Zip Pants,Pants,Box Logo,Women,22348.51,87.67,B
+Rainforest Print Polo,Polo,Rainforest,Men,22292.55,87.73,B
+Geographic Logo Sweatshirt,Sweatshirt,Geographic,Women,21952.38,87.8,B
+Box Logo Quilted Polo,Polo,Box Logo,Women,21923.67,87.86,B
+Geographic Tote Bag,Accessories,Geographic,Men,21806.68,87.93,B
+Rainforest Print Shorts,Shorts,Rainforest,Women,21778.11,87.99,B
+Rainforest Stretch Shorts,Shorts,Rainforest,Women,21771.75,88.05,B
+Box Logo Half-Zip Polo,Polo,Box Logo,Women,21730.89,88.12,B
+Geographic Heritage Sweatshirt,Sweatshirt,Geographic,Men,21726.06,88.18,B
+Tribe Print Polo,Polo,Tribe,Men,21723.87,88.25,B
+Rainforest Stretch Shirt,Shirt,Rainforest,Women,21643.05,88.31,B
+Tribe Graphic Polo,Polo,Tribe,Men,21612.66,88.37,B
+Iconic Stripe Shirt,Shirt,Iconic,Men,21248.3,88.44,B
+Tribe Logo Pants,Pants,Tribe,Men,21145.67,88.5,B
+Patch Stripe Shorts,Shorts,Patch,Women,20977.35,88.56,B
+Patch Shorts,Shorts,Patch,Women,20959.63,88.62,B
+Geographic Graphic Pants,Pants,Geographic,Men,20908.3,88.68,B
+Wave Half-Zip Swimwear,Swimwear,Wave,Men,20876.52,88.74,B
+Box Logo Print Polo,Polo,Box Logo,Men,20672.02,88.8,B
+Box Logo Graphic Swimwear,Swimwear,Box Logo,Men,20642.64,88.87,B
+Rainforest Stretch Pants,Pants,Rainforest,Women,20612.54,88.93,B
+Rainforest Logo T-Shirt,T-Shirt,Rainforest,Men,20481.4,88.99,B
+Rainforest Half-Zip Sweatshirt,Sweatshirt,Rainforest,Women,20382.04,89.05,B
+Rainforest Stripe T-Shirt,T-Shirt,Rainforest,Men,20238.7,89.11,B
+Box Logo Stretch Polo,Polo,Box Logo,Women,20174.06,89.16,B
+Rainforest Stretch Pants,Pants,Rainforest,Men,20128.58,89.22,B
+Patch Print Sweatshirt,Sweatshirt,Patch,Men,20125.64,89.28,B
+Geographic Stretch Shorts,Shorts,Geographic,Men,20054.45,89.34,B
+Box Logo Socks,Accessories,Box Logo,Men,20017.74,89.4,B
+Iconic Heritage Pants,Pants,Iconic,Women,19903.4,89.46,B
+Rainforest Half-Zip Pants,Pants,Rainforest,Men,19897.19,89.52,B
+Trail Stretch Shoes,Shoes,Trail,Men,19878.22,89.58,B
+Circular Print T-Shirt,T-Shirt,Circular,Men,19860.81,89.63,B
+Patch Quilted Shirt,Shirt,Patch,Men,19844.42,89.69,B
+Morgex Print Pants,Pants,Morgex,Men,19830.66,89.75,B
+Tribe Stretch T-Shirt,T-Shirt,Tribe,Women,19770.58,89.81,B
+Box Logo Graphic T-Shirt,T-Shirt,Box Logo,Men,19740.87,89.87,B
+Tribe Print Shorts,Shorts,Tribe,Men,19715.87,89.93,B
+Patch Half-Zip Pants,Pants,Patch,Women,19615.17,89.98,B
+Tribe Quilted Polo,Polo,Tribe,Men,19501.88,90.04,B
+Tribe Graphic Pants,Pants,Tribe,Women,19477.71,90.1,B
+Patch Heritage Shirt,Shirt,Patch,Men,19373.01,90.15,B
+Morgex Stretch T-Shirt,T-Shirt,Morgex,Men,19338.62,90.21,B
+Slate Heritage Shoes,Shoes,Slate,Men,19304.03,90.27,B
+Iconic Print Sweatshirt,Sweatshirt,Iconic,Men,19276.11,90.33,B
+Tribe Heritage Shorts,Shorts,Tribe,Men,19241.72,90.38,B
+Morgex Half-Zip T-Shirt,T-Shirt,Morgex,Women,19193.63,90.44,B
+Sun-Lover Quilted Swimwear,Swimwear,Sun-Lover,Women,19083.18,90.49,B
+Geographic Stripe Shorts,Shorts,Geographic,Women,19015.7,90.55,B
+Circular Stretch Shorts,Shorts,Circular,Men,18838.62,90.61,B
+Tribe Graphic Shirt,Shirt,Tribe,Men,18798.0,90.66,B
+Circular Scarf,Accessories,Circular,Women,18789.68,90.72,B
+Geographic Half-Zip Sweatshirt,Sweatshirt,Geographic,Men,18478.9,90.77,B
+Box Logo Stretch Shorts,Shorts,Box Logo,Women,18468.4,90.82,B
+Rainforest Print Pants,Pants,Rainforest,Women,18448.77,90.88,B
+Morgex Graphic Pants,Pants,Morgex,Women,18417.59,90.93,B
+Box Logo Cap,Accessories,Box Logo,Women,18301.92,90.99,B
+Rainforest Stripe Polo,Polo,Rainforest,Women,18300.94,91.04,B
+Patch Print Shorts,Shorts,Patch,Men,18279.87,91.09,B
+Box Logo Half-Zip Sweatshirt,Sweatshirt,Box Logo,Women,18202.52,91.15,B
+Patch Logo Shirt,Shirt,Patch,Women,18202.52,91.2,B
+Patch Heritage Shorts,Shorts,Patch,Men,18114.56,91.25,B
+Box Logo Heritage Shoes,Shoes,Box Logo,Men,17966.91,91.31,B
+Box Logo Stripe Sweatshirt,Sweatshirt,Box Logo,Men,17938.85,91.36,B
+Patch Half-Zip T-Shirt,T-Shirt,Patch,Men,17853.21,91.41,B
+Morgex Stripe T-Shirt,T-Shirt,Morgex,Women,17789.28,91.46,B
+Patch Quilted Polo,Polo,Patch,Women,17736.19,91.52,B
+Rainforest Logo Shorts,Shorts,Rainforest,Men,17700.19,91.57,B
+Circular Sweatshirt,Sweatshirt,Circular,Women,17596.6,91.62,B
+Box Logo Stretch Shoes,Shoes,Box Logo,Men,17570.09,91.67,B
+Circular T-Shirt,T-Shirt,Circular,Women,17554.93,91.72,B
+Tribe Quilted T-Shirt,T-Shirt,Tribe,Women,17535.63,91.78,B
+Geographic Scarf,Accessories,Geographic,Women,17442.22,91.83,B
+Patch Half-Zip T-Shirt,T-Shirt,Patch,Women,17379.02,91.88,B
+Circular Quilted Shirt,Shirt,Circular,Men,17362.48,91.93,B
+Morgex Logo T-Shirt,T-Shirt,Morgex,Women,17294.16,91.98,B
+Morgex Quilted Pants,Pants,Morgex,Men,17158.45,92.03,B
+Box Logo Logo Pants,Pants,Box Logo,Men,17123.63,92.08,B
+Circular Socks,Accessories,Circular,Women,16971.39,92.13,B
+Tribe Stretch Polo,Polo,Tribe,Men,16904.34,92.18,B
+Morgex Quilted T-Shirt,T-Shirt,Morgex,Women,16829.68,92.23,B
+Box Logo Stripe Shirt,Shirt,Box Logo,Women,16819.11,92.28,B
+Circular Quilted Shorts,Shorts,Circular,Men,16797.2,92.33,B
+Morgex Quilted Polo,Polo,Morgex,Men,16795.77,92.38,B
+Box Logo Heritage Sweatshirt,Sweatshirt,Box Logo,Women,16792.94,92.43,B
+Patch Half-Zip Sweatshirt,Sweatshirt,Patch,Men,16753.43,92.48,B
+Box Logo Graphic Swimwear,Swimwear,Box Logo,Women,16737.21,92.53,B
+Box Logo Waist Bag,Accessories,Box Logo,Men,16672.21,92.57,B
+Morgex Tote Bag,Accessories,Morgex,Men,16658.6,92.62,B
+Geographic Heritage Shorts,Shorts,Geographic,Men,16622.74,92.67,B
+Rainforest Quilted Shirt,Shirt,Rainforest,Men,16615.09,92.72,B
+Geographic Half-Zip Pants,Pants,Geographic,Women,16586.57,92.77,B
+Circular Pants,Pants,Circular,Men,16575.78,92.82,B
+Geographic Half-Zip Sweatshirt,Sweatshirt,Geographic,Women,16570.5,92.87,B
+Circular Stretch Polo,Polo,Circular,Women,16540.09,92.92,B
+Tribe Stripe Polo,Polo,Tribe,Women,16534.44,92.96,B
+Geographic Heritage Polo,Polo,Geographic,Women,16374.16,93.01,B
+Rainforest Quilted T-Shirt,T-Shirt,Rainforest,Women,16346.08,93.06,B
+Circular Heritage Shirt,Shirt,Circular,Women,16197.33,93.11,B
+Iconic Print Polo,Polo,Iconic,Women,16183.05,93.16,B
+Slate Graphic Shoes,Shoes,Slate,Men,16131.19,93.2,B
+Wave Logo Swimwear,Swimwear,Wave,Women,15969.57,93.25,B
+Box Logo Print Sweatshirt,Sweatshirt,Box Logo,Men,15963.97,93.3,B
+Tribe Heritage T-Shirt,T-Shirt,Tribe,Women,15946.91,93.34,B
+Tribe Shirt,Shirt,Tribe,Men,15898.63,93.39,B
+Morgex Stripe Sweatshirt,Sweatshirt,Morgex,Women,15860.46,93.44,B
+Tribe Logo Shorts,Shorts,Tribe,Men,15806.9,93.48,B
+Patch Print Shirt,Shirt,Patch,Men,15718.69,93.53,B
+Iconic Scarf,Accessories,Iconic,Men,15649.59,93.58,B
+Morgex Stretch Polo,Polo,Morgex,Men,15596.09,93.62,B
+Iconic Stripe T-Shirt,T-Shirt,Iconic,Women,15441.16,93.67,B
+Box Logo Backpack,Accessories,Box Logo,Women,15421.41,93.71,B
+Iconic Stretch Pants,Pants,Iconic,Men,15282.65,93.76,B
+Tribe Backpack,Accessories,Tribe,Women,15223.25,93.8,B
+Morgex Stripe Polo,Polo,Morgex,Women,15208.05,93.85,B
+Tribe Stripe Pants,Pants,Tribe,Women,15192.58,93.89,B
+Rainforest Half-Zip Shorts,Shorts,Rainforest,Women,15177.24,93.94,B
+Tribe Half-Zip Sweatshirt,Sweatshirt,Tribe,Women,15121.72,93.98,B
+Iconic Stripe T-Shirt,T-Shirt,Iconic,Men,15078.76,94.03,B
+Rainforest Graphic T-Shirt,T-Shirt,Rainforest,Men,15049.94,94.07,B
+Rainforest T-Shirt,T-Shirt,Rainforest,Men,14996.47,94.11,B
+Sun-Lover Stretch Swimwear,Swimwear,Sun-Lover,Women,14859.62,94.16,B
+Iconic T-Shirt,T-Shirt,Iconic,Men,14771.67,94.2,B
+Circular Stripe Sweatshirt,Sweatshirt,Circular,Women,14657.63,94.24,B
+Box Logo Graphic Shirt,Shirt,Box Logo,Women,14614.84,94.29,B
+Circular Belt,Accessories,Circular,Women,14568.45,94.33,B
+Patch Print T-Shirt,T-Shirt,Patch,Women,14491.24,94.37,B
+Patch Stripe T-Shirt,T-Shirt,Patch,Women,14475.46,94.41,B
+Box Logo Quilted Shorts,Shorts,Box Logo,Women,14411.46,94.46,B
+Geographic Print Shirt,Shirt,Geographic,Men,14277.91,94.5,B
+Geographic Stretch T-Shirt,T-Shirt,Geographic,Women,14238.4,94.54,B
+Morgex Stripe Shorts,Shorts,Morgex,Men,14206.08,94.58,B
+Geographic Graphic Shirt,Shirt,Geographic,Men,14110.53,94.62,B
+Patch Quilted Polo,Polo,Patch,Men,14110.02,94.67,B
+Tribe Stripe Shorts,Shorts,Tribe,Men,14012.18,94.71,B
+Geographic Print Pants,Pants,Geographic,Women,13934.96,94.75,B
+Morgex Backpack,Accessories,Morgex,Women,13905.72,94.79,B
+Rainforest Heritage Shorts,Shorts,Rainforest,Women,13888.91,94.83,B
+Geographic Half-Zip Shorts,Shorts,Geographic,Women,13876.96,94.87,B
+Morgex Gloves,Accessories,Morgex,Women,13757.85,94.91,B
+Morgex Graphic T-Shirt,T-Shirt,Morgex,Men,13685.37,94.95,B
+Tribe Polo,Polo,Tribe,Men,13633.0,94.99,B
+Iconic Heritage Shorts,Shorts,Iconic,Men,13542.85,95.03,C
+Box Logo Half-Zip Shoes,Shoes,Box Logo,Men,13229.3,95.07,C
+Morgex Quilted Shorts,Shorts,Morgex,Women,13173.45,95.11,C
+Iconic Half-Zip Shirt,Shirt,Iconic,Men,13102.68,95.15,C
+Tribe Graphic Sweatshirt,Sweatshirt,Tribe,Men,13089.15,95.19,C
+Geographic Quilted Polo,Polo,Geographic,Women,13022.35,95.22,C
+Morgex Socks,Accessories,Morgex,Men,12844.44,95.26,C
+Box Logo Quilted Sweatshirt,Sweatshirt,Box Logo,Women,12782.23,95.3,C
+Geographic Stripe Shirt,Shirt,Geographic,Women,12766.88,95.34,C
+Patch Graphic Shorts,Shorts,Patch,Men,12759.98,95.37,C
+Morgex Stretch Pants,Pants,Morgex,Women,12758.9,95.41,C
+Rainforest Waist Bag,Accessories,Rainforest,Men,12542.04,95.45,C
+Patch Beanie,Accessories,Patch,Women,12521.98,95.49,C
+Patch Print Shorts,Shorts,Patch,Women,12477.92,95.52,C
+Patch Graphic Shirt,Shirt,Patch,Men,12400.83,95.56,C
+Geographic Print Shorts,Shorts,Geographic,Men,12393.15,95.6,C
+Box Logo Graphic Pants,Pants,Box Logo,Women,12388.82,95.63,C
+Rainforest Graphic Pants,Pants,Rainforest,Men,12326.66,95.67,C
+Box Logo Stretch Shirt,Shirt,Box Logo,Men,12300.98,95.7,C
+Patch Stripe Polo,Polo,Patch,Men,12270.54,95.74,C
+Morgex Graphic Polo,Polo,Morgex,Men,12142.68,95.78,C
+Morgex Logo Shorts,Shorts,Morgex,Women,12102.64,95.81,C
+Box Logo Stripe Shorts,Shorts,Box Logo,Men,12033.96,95.85,C
+Rainforest Half-Zip T-Shirt,T-Shirt,Rainforest,Women,11969.47,95.88,C
+Iconic Stretch T-Shirt,T-Shirt,Iconic,Men,11904.24,95.92,C
+Patch Stripe Sweatshirt,Sweatshirt,Patch,Men,11806.19,95.95,C
+Tribe Half-Zip Polo,Polo,Tribe,Men,11770.92,95.99,C
+Rainforest Logo Pants,Pants,Rainforest,Women,11770.91,96.02,C
+Box Logo Print Shirt,Shirt,Box Logo,Men,11710.78,96.06,C
+Rainforest Logo Shirt,Shirt,Rainforest,Women,11646.72,96.09,C
+Morgex Heritage T-Shirt,T-Shirt,Morgex,Women,11358.58,96.12,C
+Patch Stretch Shorts,Shorts,Patch,Men,11325.37,96.16,C
+Geographic Polo,Polo,Geographic,Women,11302.43,96.19,C
+Box Logo Logo Swimwear,Swimwear,Box Logo,Women,11248.5,96.22,C
+Rainforest Bucket Hat,Accessories,Rainforest,Men,11233.93,96.26,C
+Trail Logo Shoes,Shoes,Trail,Women,11231.04,96.29,C
+Geographic Logo Shirt,Shirt,Geographic,Men,11199.05,96.32,C
+Box Logo Heritage Pants,Pants,Box Logo,Women,11185.87,96.35,C
+Box Logo Quilted Pants,Pants,Box Logo,Women,11073.02,96.39,C
+Rainforest Print Shirt,Shirt,Rainforest,Women,10995.06,96.42,C
+Morgex Scarf,Accessories,Morgex,Men,10954.68,96.45,C
+Geographic Print Polo,Polo,Geographic,Women,10932.58,96.48,C
+Tribe Half-Zip Pants,Pants,Tribe,Men,10916.97,96.52,C
+Patch Bucket Hat,Accessories,Patch,Women,10878.72,96.55,C
+Circular Heritage T-Shirt,T-Shirt,Circular,Women,10800.02,96.58,C
+Circular Logo Sweatshirt,Sweatshirt,Circular,Men,10733.87,96.61,C
+Tribe Quilted Pants,Pants,Tribe,Women,10727.28,96.64,C
+Morgex Heritage T-Shirt,T-Shirt,Morgex,Men,10720.42,96.67,C
+Box Logo Quilted Pants,Pants,Box Logo,Men,10518.33,96.7,C
+Geographic Half-Zip Polo,Polo,Geographic,Men,10394.87,96.74,C
+Box Logo Stretch Sweatshirt,Sweatshirt,Box Logo,Women,10369.15,96.77,C
+Box Logo Logo Swimwear,Swimwear,Box Logo,Men,10302.71,96.8,C
+Geographic Print Shorts,Shorts,Geographic,Women,10248.99,96.83,C
+Morgex Logo Shirt,Shirt,Morgex,Women,10196.01,96.86,C
+Morgex T-Shirt,T-Shirt,Morgex,Men,10151.57,96.89,C
+Patch Heritage Sweatshirt,Sweatshirt,Patch,Women,10125.24,96.92,C
+Tribe Logo Sweatshirt,Sweatshirt,Tribe,Women,9957.26,96.95,C
+Box Logo Half-Zip T-Shirt,T-Shirt,Box Logo,Women,9938.38,96.97,C
+Iconic Print Polo,Polo,Iconic,Men,9865.65,97.0,C
+Circular Print Polo,Polo,Circular,Women,9857.07,97.03,C
+Box Logo Half-Zip Shirt,Shirt,Box Logo,Men,9826.2,97.06,C
+Iconic Heritage Sweatshirt,Sweatshirt,Iconic,Men,9797.31,97.09,C
+Circular Half-Zip Pants,Pants,Circular,Men,9750.94,97.12,C
+Morgex Heritage Shirt,Shirt,Morgex,Men,9602.01,97.15,C
+Patch Stretch Shirt,Shirt,Patch,Men,9503.12,97.17,C
+Circular Heritage Shorts,Shorts,Circular,Men,9428.85,97.2,C
+Iconic Logo Polo,Polo,Iconic,Women,9383.08,97.23,C
+Tribe Heritage Shirt,Shirt,Tribe,Men,9295.17,97.26,C
+Iconic Half-Zip Sweatshirt,Sweatshirt,Iconic,Men,9214.05,97.28,C
+Morgex Heritage Shirt,Shirt,Morgex,Women,9199.0,97.31,C
+Morgex Graphic Pants,Pants,Morgex,Men,9151.36,97.34,C
+Tribe Print T-Shirt,T-Shirt,Tribe,Women,9132.39,97.37,C
+Slate Half-Zip Shoes,Shoes,Slate,Women,9129.17,97.39,C
+Tribe Stretch Sweatshirt,Sweatshirt,Tribe,Women,9117.36,97.42,C
+Tribe Stripe T-Shirt,T-Shirt,Tribe,Women,9112.53,97.45,C
+Geographic Graphic Polo,Polo,Geographic,Women,9086.86,97.47,C
+Box Logo Bucket Hat,Accessories,Box Logo,Women,8929.97,97.5,C
+Box Logo Quilted T-Shirt,T-Shirt,Box Logo,Women,8841.19,97.52,C
+Geographic Quilted Shorts,Shorts,Geographic,Men,8830.62,97.55,C
+Rainforest Logo Shorts,Shorts,Rainforest,Women,8774.94,97.58,C
+Box Logo Belt,Accessories,Box Logo,Men,8758.8,97.6,C
+Sun-Lover Half-Zip Swimwear,Swimwear,Sun-Lover,Men,8738.1,97.63,C
+Geographic Quilted T-Shirt,T-Shirt,Geographic,Women,8644.96,97.65,C
+Circular Graphic Shorts,Shorts,Circular,Women,8615.91,97.68,C
+Tribe Gloves,Accessories,Tribe,Men,8610.03,97.7,C
+Patch Half-Zip Polo,Polo,Patch,Women,8548.97,97.73,C
+Tribe Bucket Hat,Accessories,Tribe,Men,8446.72,97.75,C
+Rainforest Heritage Polo,Polo,Rainforest,Men,8382.17,97.78,C
+Morgex Graphic T-Shirt,T-Shirt,Morgex,Women,8357.66,97.8,C
+Sun-Lover Print Swimwear,Swimwear,Sun-Lover,Women,8293.95,97.83,C
+Geographic Graphic Shorts,Shorts,Geographic,Men,8094.87,97.85,C
+Rainforest Belt,Accessories,Rainforest,Men,8090.13,97.88,C
+Patch Half-Zip Polo,Polo,Patch,Men,8084.23,97.9,C
+Box Logo Heritage Polo,Polo,Box Logo,Women,8072.97,97.92,C
+Circular Stretch T-Shirt,T-Shirt,Circular,Women,8032.59,97.95,C
+Iconic Heritage T-Shirt,T-Shirt,Iconic,Men,7983.75,97.97,C
+Iconic Heritage Polo,Polo,Iconic,Men,7916.14,97.99,C
+Patch Backpack,Accessories,Patch,Women,7907.74,98.02,C
+Tribe Logo Polo,Polo,Tribe,Men,7877.22,98.04,C
+Box Logo Scarf,Accessories,Box Logo,Women,7839.02,98.06,C
+Box Logo Print T-Shirt,T-Shirt,Box Logo,Women,7759.26,98.09,C
+Geographic Beanie,Accessories,Geographic,Women,7742.13,98.11,C
+Patch Heritage T-Shirt,T-Shirt,Patch,Women,7719.4,98.13,C
+Tribe Quilted Polo,Polo,Tribe,Women,7662.03,98.15,C
+Box Logo Stripe Polo,Polo,Box Logo,Women,7636.86,98.18,C
+Slate Half-Zip Shoes,Shoes,Slate,Men,7585.38,98.2,C
+Tribe Stripe Shirt,Shirt,Tribe,Women,7583.4,98.22,C
+Circular Stretch Polo,Polo,Circular,Men,7546.89,98.24,C
+Sun-Lover Heritage Swimwear,Swimwear,Sun-Lover,Men,7523.01,98.26,C
+Circular Half-Zip Polo,Polo,Circular,Men,7517.17,98.29,C
+Patch Stretch Shorts,Shorts,Patch,Women,7486.96,98.31,C
+Box Logo Heritage Swimwear,Swimwear,Box Logo,Men,7472.94,98.33,C
+Iconic Waist Bag,Accessories,Iconic,Men,7445.27,98.35,C
+Circular Print T-Shirt,T-Shirt,Circular,Women,7414.84,98.37,C
+Tribe Waist Bag,Accessories,Tribe,Women,7343.32,98.4,C
+Geographic Backpack,Accessories,Geographic,Men,7330.59,98.42,C
+Rainforest Quilted Polo,Polo,Rainforest,Men,7312.94,98.44,C
+Geographic Logo Shirt,Shirt,Geographic,Women,7244.31,98.46,C
+Morgex Heritage Shorts,Shorts,Morgex,Men,7237.08,98.48,C
+Geographic Stretch Shirt,Shirt,Geographic,Women,7235.33,98.5,C
+Rainforest Graphic T-Shirt,T-Shirt,Rainforest,Women,7219.24,98.52,C
+Iconic Print Shorts,Shorts,Iconic,Men,7204.97,98.55,C
+Box Logo Beanie,Accessories,Box Logo,Men,7190.84,98.57,C
+Box Logo Quilted T-Shirt,T-Shirt,Box Logo,Men,7153.65,98.59,C
+Sun-Lover Half-Zip Swimwear,Swimwear,Sun-Lover,Women,7123.75,98.61,C
+Patch Stripe Shorts,Shorts,Patch,Men,7083.23,98.63,C
+Wave Swimwear,Swimwear,Wave,Women,7054.56,98.65,C
+Wave Graphic Swimwear,Swimwear,Wave,Men,6928.74,98.67,C
+Box Logo Stretch Polo,Polo,Box Logo,Men,6884.15,98.69,C
+Circular Logo Pants,Pants,Circular,Women,6775.56,98.71,C
+Iconic Print Shirt,Shirt,Iconic,Men,6759.48,98.73,C
+Circular Logo T-Shirt,T-Shirt,Circular,Women,6718.32,98.75,C
+Trail Print Shoes,Shoes,Trail,Men,6709.45,98.77,C
+Patch Shorts,Shorts,Patch,Men,6695.16,98.79,C
+Iconic Gloves,Accessories,Iconic,Men,6630.99,98.81,C
+Patch T-Shirt,T-Shirt,Patch,Men,6625.34,98.83,C
+Rainforest Half-Zip Pants,Pants,Rainforest,Women,6623.28,98.85,C
+Rainforest Shorts,Shorts,Rainforest,Women,6511.12,98.87,C
+Rainforest Quilted Shorts,Shorts,Rainforest,Men,6487.97,98.89,C
+Iconic Stripe Shorts,Shorts,Iconic,Women,6416.31,98.9,C
+Morgex Stretch Sweatshirt,Sweatshirt,Morgex,Women,6149.59,98.92,C
+Morgex Logo Shorts,Shorts,Morgex,Men,6149.25,98.94,C
+Iconic Graphic Polo,Polo,Iconic,Men,6149.25,98.96,C
+Box Logo Graphic T-Shirt,T-Shirt,Box Logo,Women,6038.7,98.98,C
+Iconic Print Shirt,Shirt,Iconic,Women,6027.56,98.99,C
+Circular Logo Shirt,Shirt,Circular,Women,5988.47,99.01,C
+Box Logo Logo Shirt,Shirt,Box Logo,Men,5951.38,99.03,C
+Patch Socks,Accessories,Patch,Women,5939.45,99.05,C
+Circular Backpack,Accessories,Circular,Men,5919.09,99.06,C
+Morgex Stripe T-Shirt,T-Shirt,Morgex,Men,5889.94,99.08,C
+Tribe Graphic T-Shirt,T-Shirt,Tribe,Women,5794.1,99.1,C
+Patch Belt,Accessories,Patch,Men,5722.71,99.12,C
+Tribe Stripe Sweatshirt,Sweatshirt,Tribe,Men,5669.65,99.13,C
+Morgex Quilted Sweatshirt,Sweatshirt,Morgex,Women,5639.53,99.15,C
+Box Logo Logo Shorts,Shorts,Box Logo,Men,5606.37,99.17,C
+Box Logo Stripe Pants,Pants,Box Logo,Men,5587.56,99.18,C
+Tribe Cap,Accessories,Tribe,Women,5562.93,99.2,C
+Rainforest Heritage T-Shirt,T-Shirt,Rainforest,Women,5226.02,99.21,C
+Rainforest Stripe Shorts,Shorts,Rainforest,Men,5187.18,99.23,C
+Iconic Cap,Accessories,Iconic,Women,5174.31,99.24,C
+Box Logo Logo Polo,Polo,Box Logo,Women,5158.33,99.26,C
+Box Logo Graphic Shirt,Shirt,Box Logo,Men,5147.61,99.27,C
+Rainforest Print Shorts,Shorts,Rainforest,Men,5039.28,99.29,C
+Morgex Waist Bag,Accessories,Morgex,Men,4999.5,99.3,C
+Iconic Print Shorts,Shorts,Iconic,Women,4981.06,99.32,C
+Rainforest Scarf,Accessories,Rainforest,Women,4883.34,99.33,C
+Box Logo Half-Zip Swimwear,Swimwear,Box Logo,Women,4880.25,99.35,C
+Morgex Sweatshirt,Sweatshirt,Morgex,Men,4847.52,99.36,C
+Tribe Belt,Accessories,Tribe,Men,4757.22,99.38,C
+Box Logo Stretch Swimwear,Swimwear,Box Logo,Women,4755.18,99.39,C
+Morgex Stripe Shirt,Shirt,Morgex,Men,4719.6,99.4,C
+Geographic Stripe Sweatshirt,Sweatshirt,Geographic,Women,4673.62,99.42,C
+Tribe Quilted Sweatshirt,Sweatshirt,Tribe,Women,4632.59,99.43,C
+Patch Graphic Shorts,Shorts,Patch,Women,4555.33,99.44,C
+Geographic Graphic Shorts,Shorts,Geographic,Women,4542.41,99.46,C
+Geographic Heritage Pants,Pants,Geographic,Men,4319.64,99.47,C
+Iconic Tote Bag,Accessories,Iconic,Men,4288.35,99.48,C
+Patch Stretch T-Shirt,T-Shirt,Patch,Women,4277.54,99.5,C
+Tribe Print Shorts,Shorts,Tribe,Women,4175.28,99.51,C
+Iconic Belt,Accessories,Iconic,Men,4156.11,99.52,C
+Geographic Graphic Polo,Polo,Geographic,Men,4119.6,99.53,C
+Geographic Bucket Hat,Accessories,Geographic,Women,4014.27,99.54,C
+Sun-Lover Graphic Swimwear,Swimwear,Sun-Lover,Women,4011.32,99.56,C
+Iconic Logo Shirt,Shirt,Iconic,Men,3812.59,99.57,C
+Box Logo Print T-Shirt,T-Shirt,Box Logo,Men,3599.6,99.58,C
+Morgex Quilted Polo,Polo,Morgex,Women,3588.63,99.59,C
+Rainforest Half-Zip Shorts,Shorts,Rainforest,Men,3477.53,99.6,C
+Patch Polo,Polo,Patch,Men,3464.65,99.61,C
+Geographic Belt,Accessories,Geographic,Men,3416.49,99.62,C
+Box Logo Quilted Swimwear,Swimwear,Box Logo,Men,3336.53,99.63,C
+Tribe Logo Shirt,Shirt,Tribe,Women,3334.77,99.64,C
+Circular Graphic Shorts,Shorts,Circular,Men,3247.44,99.65,C
+Tribe Socks,Accessories,Tribe,Men,3223.48,99.66,C
+Iconic Backpack,Accessories,Iconic,Men,3188.55,99.67,C
+Morgex Print Polo,Polo,Morgex,Women,3119.7,99.68,C
+Tribe Graphic T-Shirt,T-Shirt,Tribe,Men,3079.6,99.68,C
+Slate Quilted Shoes,Shoes,Slate,Women,3071.68,99.69,C
+Patch Graphic Shirt,Shirt,Patch,Women,3041.74,99.7,C
+Box Logo Print Swimwear,Swimwear,Box Logo,Women,3023.37,99.71,C
+Circular Half-Zip Shorts,Shorts,Circular,Women,2975.68,99.72,C
+Iconic Stripe Shorts,Shorts,Iconic,Men,2939.65,99.73,C
+Patch Logo Shorts,Shorts,Patch,Men,2869.65,99.74,C
+Box Logo Stripe Shorts,Shorts,Box Logo,Women,2849.7,99.75,C
+Geographic Logo Shorts,Shorts,Geographic,Men,2813.58,99.75,C
+Box Logo Print Shorts,Shorts,Box Logo,Women,2792.51,99.76,C
+Circular Tote Bag,Accessories,Circular,Women,2771.56,99.77,C
+Tribe Print T-Shirt,T-Shirt,Tribe,Men,2744.42,99.78,C
+Patch Logo Shorts,Shorts,Patch,Women,2725.53,99.79,C
+Box Logo Print Swimwear,Swimwear,Box Logo,Men,2700.63,99.79,C
+Wave Logo Swimwear,Swimwear,Wave,Men,2645.51,99.8,C
+Morgex Logo Pants,Pants,Morgex,Women,2564.73,99.81,C
+Rainforest Beanie,Accessories,Rainforest,Men,2564.43,99.82,C
+Patch Tote Bag,Accessories,Patch,Men,2522.71,99.82,C
+Patch Gloves,Accessories,Patch,Women,2498.75,99.83,C
+Rainforest Logo T-Shirt,T-Shirt,Rainforest,Women,2484.65,99.84,C
+Morgex Graphic Polo,Polo,Morgex,Women,2474.75,99.85,C
+Wave Graphic Swimwear,Swimwear,Wave,Women,2454.48,99.85,C
+Tribe Print Polo,Polo,Tribe,Women,2309.79,99.86,C
+Box Logo Heritage Shirt,Shirt,Box Logo,Men,2259.8,99.87,C
+Iconic Heritage Polo,Polo,Iconic,Women,2231.69,99.87,C
+Circular Half-Zip Polo,Polo,Circular,Women,2078.77,99.88,C
+Geographic Heritage Shorts,Shorts,Geographic,Women,2029.65,99.89,C
+Morgex Heritage Polo,Polo,Morgex,Women,2001.74,99.89,C
+Box Logo Gloves,Accessories,Box Logo,Women,1988.83,99.9,C
+Circular Print Shorts,Shorts,Circular,Men,1924.75,99.9,C
+Box Logo Swimwear,Swimwear,Box Logo,Women,1923.63,99.91,C
+Geographic Cap,Accessories,Geographic,Women,1847.67,99.91,C
+Geographic Quilted Polo,Polo,Geographic,Men,1817.82,99.92,C
+Tribe Beanie,Accessories,Tribe,Men,1812.63,99.92,C
+Circular Graphic T-Shirt,T-Shirt,Circular,Women,1724.77,99.93,C
+Morgex Belt,Accessories,Morgex,Men,1710.71,99.94,C
+Sun-Lover Heritage Swimwear,Swimwear,Sun-Lover,Women,1623.72,99.94,C
+Patch Quilted Pants,Pants,Patch,Women,1544.85,99.94,C
+Patch Logo Shirt,Shirt,Patch,Men,1483.86,99.95,C
+Rainforest Tote Bag,Accessories,Rainforest,Women,1483.72,99.95,C
+Iconic Quilted Shorts,Shorts,Iconic,Men,1479.8,99.96,C
+Iconic Beanie,Accessories,Iconic,Men,1456.53,99.96,C
+Tribe Scarf,Accessories,Tribe,Women,1429.87,99.97,C
+Iconic Quilted T-Shirt,T-Shirt,Iconic,Men,1399.72,99.97,C
+Rainforest Graphic Shorts,Shorts,Rainforest,Men,1385.82,99.97,C
+Circular Stretch Shorts,Shorts,Circular,Women,1245.86,99.98,C
+Patch Stripe Shirt,Shirt,Patch,Women,1209.9,99.98,C
+Iconic Logo Sweatshirt,Sweatshirt,Iconic,Women,1087.92,99.98,C
+Tribe Gloves,Accessories,Tribe,Women,1023.68,99.99,C
+Rainforest Gloves,Accessories,Rainforest,Women,951.86,99.99,C
+Tribe Logo Polo,Polo,Tribe,Women,887.88,99.99,C
+Rainforest Stripe T-Shirt,T-Shirt,Rainforest,Women,874.75,100.0,C
+Morgex Bucket Hat,Accessories,Morgex,Men,629.79,100.0,C
+Morgex Graphic Sweatshirt,Sweatshirt,Morgex,Men,495.96,100.0,C
+Iconic Graphic Shorts,Shorts,Iconic,Women,299.95,100.0,C
+Circular Half-Zip Shorts,Shorts,Circular,Men,113.98,100.0,C
